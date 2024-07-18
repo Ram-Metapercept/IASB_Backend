@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" chunk="to-content" id="IAS32_BC_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Financial Instruments:
+            Presentation</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Basis For Conclusions</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IAS 32</booknumber>
+        </bookid>
+        <document_type value="IAS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2005-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2003-12-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ias-32-financial-instruments-presentation" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="basis-for-conclusion" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ias32/IAS32_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias32/IAS32_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias32/IAS32_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ias32/IAS32_PartC.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ias32/IAS32_BC_TOC.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+    </frontmatter>
+    <chapter href="ias32/IAS32_TI0131.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Basis for Conclusions on IAS 32 Financial Instruments: Presentation">
+        <topicref href="ias32/IAS32_BC1.dita" class="- map/topicref " navtitle="BC1"/>
+        <topicref href="ias32/IAS32_BC2.dita" class="- map/topicref " navtitle="BC2"/>
+        <topicref href="ias32/IAS32_BC3.dita" class="- map/topicref " navtitle="BC3"/>
+        <topicref href="ias32/IAS32_BC3A.dita" class="- map/topicref " navtitle="BC3A"/>
+        <topicref href="ias32/IAS32_gBC3B-BC3C.dita" class="- map/topicref " navtitle="Scope">
+            <topicref href="ias32/IAS32_BC3B.dita" class="- map/topicref " navtitle="BC3B"/>
+            <topicref href="ias32/IAS32_BC3C.dita" class="- map/topicref " navtitle="BC3C"/>
+        </topicref>
+        <topicref href="ias32/IAS32_gBC4-BC4K.dita" class="- map/topicref " navtitle="Definitions (paragraphs 11–14 and AG3–AG24)">
+            <topicref href="ias32/IAS32_gBC4-BC4.dita" class="- map/topicref " navtitle="Financial asset, financial liability and equity instrument (paragraphs 11 and AG3–AG14)">
+                <topicref href="ias32/IAS32_BC4.dita" class="- map/topicref " navtitle="BC4"/>
+            </topicref>
+            <topicref href="ias32/IAS32_gBC4A-BC4K.dita" class="- map/topicref " navtitle="Foreign currency denominated pro rata rights issues">
+                <topicref href="ias32/IAS32_BC4A.dita" class="- map/topicref " navtitle="BC4A"/>
+                <topicref href="ias32/IAS32_BC4B.dita" class="- map/topicref " navtitle="BC4B"/>
+                <topicref href="ias32/IAS32_BC4C.dita" class="- map/topicref " navtitle="BC4C"/>
+                <topicref href="ias32/IAS32_BC4D.dita" class="- map/topicref " navtitle="BC4D"/>
+                <topicref href="ias32/IAS32_BC4E.dita" class="- map/topicref " navtitle="BC4E"/>
+                <topicref href="ias32/IAS32_BC4F.dita" class="- map/topicref " navtitle="BC4F"/>
+                <topicref href="ias32/IAS32_BC4G.dita" class="- map/topicref " navtitle="BC4G"/>
+                <topicref href="ias32/IAS32_BC4H.dita" class="- map/topicref " navtitle="BC4H"/>
+                <topicref href="ias32/IAS32_BC4I.dita" class="- map/topicref " navtitle="BC4I"/>
+                <topicref href="ias32/IAS32_BC4J.dita" class="- map/topicref " navtitle="BC4J"/>
+                <topicref href="ias32/IAS32_BC4K.dita" class="- map/topicref " navtitle="BC4K"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias32/IAS32_gBC5-BC48.dita" class="- map/topicref " navtitle="Presentation (paragraphs 15–50 and AG25–AG39)">
+            <topicref href="ias32/IAS32_gBC5-BC6.dita" class="- map/topicref " navtitle="Liabilities and equity (paragraphs 15–27 and AG25–AG29)">
+                <topicref href="ias32/IAS32_BC5.dita" class="- map/topicref " navtitle="BC5"/>
+                <topicref href="ias32/IAS32_BC6.dita" class="- map/topicref " navtitle="BC6"/>
+            </topicref>
+            <topicref href="ias32/IAS32_gBC7-BC21.dita" class="- map/topicref " navtitle="No contractual obligation to deliver cash or another financial asset (paragraphs 17–20, AG25 and AG26)">
+                <topicref href="ias32/IAS32_gBC7-BC8.dita" class="- map/topicref " navtitle="Puttable instruments (paragraph 18(b))">
+                    <topicref href="ias32/IAS32_BC7.dita" class="- map/topicref " navtitle="BC7"/>
+                    <topicref href="ias32/IAS32_BC7A.dita" class="- map/topicref " navtitle="BC7A"/>
+                    <topicref href="ias32/IAS32_BC8.dita" class="- map/topicref " navtitle="BC8"/>
+                </topicref>
+                <topicref href="ias32/IAS32_gBC9-BC9.dita" class="- map/topicref " navtitle="Implicit obligations (paragraph 20)">
+                    <topicref href="ias32/IAS32_BC9.dita" class="- map/topicref " navtitle="BC9"/>
+                </topicref>
+                <topicref href="ias32/IAS32_gBC10-BC15.dita" class="- map/topicref " navtitle="Settlement in the entity’s own equity instruments (paragraphs 21–24 and AG27)">
+                    <topicref href="ias32/IAS32_BC10.dita" class="- map/topicref " navtitle="BC10"/>
+                    <topicref href="ias32/IAS32_gBC11-BC12.dita" class="- map/topicref " navtitle="When an entity has an obligation to purchase its own shares for cash, there is a financial liability for the amount of cash that the entity has an obligation to pay.">
+                        <topicref href="ias32/IAS32_BC11.dita" class="- map/topicref " navtitle="BC11"/>
+                        <topicref href="ias32/IAS32_BC12.dita" class="- map/topicref " navtitle="BC12"/>
+                    </topicref>
+                    <topicref href="ias32/IAS32_gBC13-BC15.dita" class="- map/topicref " navtitle="When an entity uses its own equity instruments as currency in a contract to receive or deliver a variable number of shares, the contract is not an equity instrument, but is a financial asset or a financial liability.">
+                        <topicref href="ias32/IAS32_BC13.dita" class="- map/topicref " navtitle="BC13"/>
+                        <topicref href="ias32/IAS32_BC14.dita" class="- map/topicref " navtitle="BC14"/>
+                        <topicref href="ias32/IAS32_BC15.dita" class="- map/topicref " navtitle="BC15"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ias32/IAS32_gBC16-BC19.dita" class="- map/topicref " navtitle="Contingent settlement provisions (paragraphs 25 and AG28)">
+                    <topicref href="ias32/IAS32_BC16.dita" class="- map/topicref " navtitle="BC16"/>
+                    <topicref href="ias32/IAS32_BC17.dita" class="- map/topicref " navtitle="BC17"/>
+                    <topicref href="ias32/IAS32_BC18.dita" class="- map/topicref " navtitle="BC18"/>
+                    <topicref href="ias32/IAS32_BC19.dita" class="- map/topicref " navtitle="BC19"/>
+                </topicref>
+                <topicref href="ias32/IAS32_gBC20-BC20.dita" class="- map/topicref " navtitle="Settlement options (paragraphs 26 and 27)">
+                    <topicref href="ias32/IAS32_BC20.dita" class="- map/topicref " navtitle="BC20"/>
+                </topicref>
+                <topicref href="ias32/IAS32_gBC21-BC21.dita" class="- map/topicref " navtitle="Alternative approaches considered">
+                    <topicref href="ias32/IAS32_BC21.dita" class="- map/topicref " navtitle="BC21"/>
+                </topicref>
+            </topicref>
+            <topicref href="ias32/IAS32_gBC22-BC31.dita" class="- map/topicref " navtitle="Compound financial instruments (paragraphs 28–32 and AG30–AG35)">
+                <topicref href="ias32/IAS32_BC22.dita" class="- map/topicref " navtitle="BC22"/>
+                <topicref href="ias32/IAS32_gBC23-BC31.dita" class="- map/topicref " navtitle="Allocation of the initial carrying amount to the liability and equity components (paragraphs 31, 32 and AG36–AG38 and Illustrative Examples 9–12)">
+                    <topicref href="ias32/IAS32_BC23.dita" class="- map/topicref " navtitle="BC23"/>
+                    <topicref href="ias32/IAS32_BC24.dita" class="- map/topicref " navtitle="BC24"/>
+                    <topicref href="ias32/IAS32_BC25.dita" class="- map/topicref " navtitle="BC25"/>
+                    <topicref href="ias32/IAS32_BC26.dita" class="- map/topicref " navtitle="BC26"/>
+                    <topicref href="ias32/IAS32_BC27.dita" class="- map/topicref " navtitle="BC27"/>
+                    <topicref href="ias32/IAS32_BC28.dita" class="- map/topicref " navtitle="BC28"/>
+                    <topicref href="ias32/IAS32_BC29.dita" class="- map/topicref " navtitle="BC29"/>
+                    <topicref href="ias32/IAS32_BC30.dita" class="- map/topicref " navtitle="BC30"/>
+                    <topicref href="ias32/IAS32_BC31.dita" class="- map/topicref " navtitle="BC31"/>
+                </topicref>
+            </topicref>
+            <topicref href="ias32/IAS32_gBC32-BC32A.dita" class="- map/topicref " navtitle="Treasury shares (paragraphs 33–34 and AG36)">
+                <topicref href="ias32/IAS32_BC32.dita" class="- map/topicref " navtitle="BC32"/>
+                <topicref href="ias32/IAS32_BC32A.dita" class="- map/topicref " navtitle="BC32A"/>
+                <topicref href="ias32/IAS32_gBC33-BC33.dita" class="- map/topicref " navtitle="Interest, dividends, losses and gains (paragraphs 35–41 and AG37)">
+                    <topicref href="ias32/IAS32_sgBC33-BC33.dita" class="- map/topicref " navtitle="Costs of an equity transaction (paragraphs 35 and 37–39)">
+                        <topicref href="ias32/IAS32_BC33.dita" class="- map/topicref " navtitle="BC33"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ias32/IAS32_gBC33A-BC48.dita" class="- map/topicref " navtitle="Income tax consequences of distributions to holders of an equity instrument and of transaction costs of an equity transaction">
+                    <topicref href="ias32/IAS32_BC33A.dita" class="- map/topicref " navtitle="BC33A"/>
+                    <topicref href="ias32/IAS32_BC33B.dita" class="- map/topicref " navtitle="BC33B"/>
+                    <topicref href="ias32/IAS32_BC33C.dita" class="- map/topicref " navtitle="BC33C"/>
+                </topicref>
+                <topicref href="ias32/IAS32_BC34-BC48_DELETED.dita" class="- map/topicref " navtitle="BC34–BC48"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias32/IAS32_gBC49-BC49.dita" class="- map/topicref " navtitle="Summary of changes from the Exposure Draft">
+            <topicref href="ias32/IAS32_BC49.dita" class="- map/topicref " navtitle="BC49"/>
+        </topicref>
+        <topicref href="ias32/IAS32_gBC50-BC120.dita" class="- map/topicref " navtitle="Amendments for some puttable instruments and some instruments that impose on the entity an obligation to deliver to another party a pro rata share of the net assets of the entity only on liquidation">
+            <topicref href="ias32/IAS32_gBC50-BC63.dita" class="- map/topicref " navtitle="Amendment for puttable instruments">
+                <topicref href="ias32/IAS32_BC50.dita" class="- map/topicref " navtitle="BC50"/>
+                <topicref href="ias32/IAS32_BC51.dita" class="- map/topicref " navtitle="BC51"/>
+                <topicref href="ias32/IAS32_BC52.dita" class="- map/topicref " navtitle="BC52"/>
+                <topicref href="ias32/IAS32_gBC53-BC53.dita" class="- map/topicref " navtitle="Amend the measurement of some puttable financial instruments so that changes in their fair value would not be recognised">
+                    <topicref href="ias32/IAS32_BC53.dita" class="- map/topicref " navtitle="BC53"/>
+                </topicref>
+                <topicref href="ias32/IAS32_gBC54-BC54.dita" class="- map/topicref " navtitle="Separate all puttable instruments into a put option and a host instrument">
+                    <topicref href="ias32/IAS32_BC54.dita" class="- map/topicref " navtitle="BC54"/>
+                </topicref>
+                <topicref href="ias32/IAS32_gBC55-BC63.dita" class="- map/topicref " navtitle="Classify as equity instruments puttable instruments that represent a residual interest in the entity">
+                    <topicref href="ias32/IAS32_BC55.dita" class="- map/topicref " navtitle="BC55"/>
+                    <topicref href="ias32/IAS32_BC56.dita" class="- map/topicref " navtitle="BC56"/>
+                    <topicref href="ias32/IAS32_BC57.dita" class="- map/topicref " navtitle="BC57"/>
+                    <topicref href="ias32/IAS32_BC58.dita" class="- map/topicref " navtitle="BC58"/>
+                    <topicref href="ias32/IAS32_BC59.dita" class="- map/topicref " navtitle="BC59"/>
+                    <topicref href="ias32/IAS32_BC60.dita" class="- map/topicref " navtitle="BC60"/>
+                    <topicref href="ias32/IAS32_BC61.dita" class="- map/topicref " navtitle="BC61"/>
+                    <topicref href="ias32/IAS32_BC62.dita" class="- map/topicref " navtitle="BC62"/>
+                    <topicref href="ias32/IAS32_BC63.dita" class="- map/topicref " navtitle="BC63"/>
+                </topicref>
+            </topicref>
+            <topicref href="ias32/IAS32_gBC64-BC67.dita" class="- map/topicref " navtitle="Amendment for obligations to deliver to another party a pro rata share of the net assets of the entity only on liquidation">
+                <topicref href="ias32/IAS32_BC64.dita" class="- map/topicref " navtitle="BC64"/>
+                <topicref href="ias32/IAS32_BC65.dita" class="- map/topicref " navtitle="BC65"/>
+                <topicref href="ias32/IAS32_BC66.dita" class="- map/topicref " navtitle="BC66"/>
+                <topicref href="ias32/IAS32_BC67.dita" class="- map/topicref " navtitle="BC67"/>
+            </topicref>
+            <topicref href="ias32/IAS32_gBC68-BC68.dita" class="- map/topicref " navtitle="Non‑controlling interests">
+                <topicref href="ias32/IAS32_BC68.dita" class="- map/topicref " navtitle="BC68"/>
+            </topicref>
+            <topicref href="ias32/IAS32_gBC69-BC120.dita" class="- map/topicref " navtitle="Analysis of costs and benefits">
+                <topicref href="ias32/IAS32_BC69.dita" class="- map/topicref " navtitle="BC69"/>
+                <topicref href="ias32/IAS32_BC70.dita" class="- map/topicref " navtitle="BC70"/>
+                <topicref href="ias32/IAS32_BC71.dita" class="- map/topicref " navtitle="BC71"/>
+                <topicref href="ias32/IAS32_BC72.dita" class="- map/topicref " navtitle="BC72"/>
+                <topicref href="ias32/IAS32_BC73.dita" class="- map/topicref " navtitle="BC73"/>
+                <topicref href="ias32/IAS32_BC74.dita" class="- map/topicref " navtitle="BC74"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias32/IAS32_gBC75-BC118.dita" class="- map/topicref " navtitle="Amendments to the application guidance for offsetting financial assets and financial liabilities">
+            <topicref href="ias32/IAS32_gBC75-BC78.dita" class="- map/topicref " navtitle="Background">
+                <topicref href="ias32/IAS32_BC75.dita" class="- map/topicref " navtitle="BC75"/>
+                <topicref href="ias32/IAS32_BC76.dita" class="- map/topicref " navtitle="BC76"/>
+                <topicref href="ias32/IAS32_BC77.dita" class="- map/topicref " navtitle="BC77"/>
+                <topicref href="ias32/IAS32_BC78.dita" class="- map/topicref " navtitle="BC78"/>
+            </topicref>
+            <topicref href="ias32/IAS32_gBC79-BC101.dita" class="- map/topicref " navtitle="Requirements for offsetting financial assets and financial liabilities">
+                <topicref href="ias32/IAS32_gBC79-BC93.dita" class="- map/topicref " navtitle="Criterion that an entity ‘currently has a legally enforceable right to set off the recognised amounts’ (paragraph 42(a))">
+                    <topicref href="ias32/IAS32_BC79.dita" class="- map/topicref " navtitle="BC79"/>
+                    <topicref href="ias32/IAS32_BC80.dita" class="- map/topicref " navtitle="BC80"/>
+                    <topicref href="ias32/IAS32_BC81.dita" class="- map/topicref " navtitle="BC81"/>
+                    <topicref href="ias32/IAS32_BC82.dita" class="- map/topicref " navtitle="BC82"/>
+                    <topicref href="ias32/IAS32_BC83.dita" class="- map/topicref " navtitle="BC83"/>
+                    <topicref href="ias32/IAS32_BC84.dita" class="- map/topicref " navtitle="BC84"/>
+                    <topicref href="ias32/IAS32_BC85.dita" class="- map/topicref " navtitle="BC85"/>
+                    <topicref href="ias32/IAS32_BC86.dita" class="- map/topicref " navtitle="BC86"/>
+                    <topicref href="ias32/IAS32_BC87.dita" class="- map/topicref " navtitle="BC87"/>
+                    <topicref href="ias32/IAS32_gBC88-BC93.dita" class="- map/topicref " navtitle="Applicability to all counterparties">
+                        <topicref href="ias32/IAS32_BC88.dita" class="- map/topicref " navtitle="BC88"/>
+                        <topicref href="ias32/IAS32_BC89.dita" class="- map/topicref " navtitle="BC89"/>
+                        <topicref href="ias32/IAS32_BC90.dita" class="- map/topicref " navtitle="BC90"/>
+                        <topicref href="ias32/IAS32_BC91.dita" class="- map/topicref " navtitle="BC91"/>
+                        <topicref href="ias32/IAS32_BC92.dita" class="- map/topicref " navtitle="BC92"/>
+                        <topicref href="ias32/IAS32_BC93.dita" class="- map/topicref " navtitle="BC93"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ias32/IAS32_gBC94-BC101.dita" class="- map/topicref " navtitle="Criterion that an entity ‘intends either to settle on a net basis, or to realise the asset and settle the liability simultaneously’ (paragraph 42(b))">
+                    <topicref href="ias32/IAS32_BC94.dita" class="- map/topicref " navtitle="BC94"/>
+                    <topicref href="ias32/IAS32_BC95.dita" class="- map/topicref " navtitle="BC95"/>
+                    <topicref href="ias32/IAS32_BC96.dita" class="- map/topicref " navtitle="BC96"/>
+                    <topicref href="ias32/IAS32_BC97.dita" class="- map/topicref " navtitle="BC97"/>
+                    <topicref href="ias32/IAS32_BC98.dita" class="- map/topicref " navtitle="BC98"/>
+                    <topicref href="ias32/IAS32_BC99.dita" class="- map/topicref " navtitle="BC99"/>
+                    <topicref href="ias32/IAS32_BC100.dita" class="- map/topicref " navtitle="BC100"/>
+                    <topicref href="ias32/IAS32_BC101.dita" class="- map/topicref " navtitle="BC101"/>
+                </topicref>
+            </topicref>
+            <topicref href="ias32/IAS32_gBC102-BC104.dita" class="- map/topicref " navtitle="Offsetting collateral amounts">
+                <topicref href="ias32/IAS32_BC102.dita" class="- map/topicref " navtitle="BC102"/>
+                <topicref href="ias32/IAS32_BC103.dita" class="- map/topicref " navtitle="BC103"/>
+                <topicref href="ias32/IAS32_BC104.dita" class="- map/topicref " navtitle="BC104"/>
+            </topicref>
+            <topicref href="ias32/IAS32_gBC105-BC111.dita" class="- map/topicref " navtitle="Unit of account">
+                <topicref href="ias32/IAS32_BC105.dita" class="- map/topicref " navtitle="BC105"/>
+                <topicref href="ias32/IAS32_BC106.dita" class="- map/topicref " navtitle="BC106"/>
+                <topicref href="ias32/IAS32_BC107.dita" class="- map/topicref " navtitle="BC107"/>
+                <topicref href="ias32/IAS32_BC108.dita" class="- map/topicref " navtitle="BC108"/>
+                <topicref href="ias32/IAS32_BC109.dita" class="- map/topicref " navtitle="BC109"/>
+                <topicref href="ias32/IAS32_BC110.dita" class="- map/topicref " navtitle="BC110"/>
+                <topicref href="ias32/IAS32_BC111.dita" class="- map/topicref " navtitle="BC111"/>
+            </topicref>
+            <topicref href="ias32/IAS32_gBC112-BC116.dita" class="- map/topicref " navtitle="Cost‑benefit considerations">
+                <topicref href="ias32/IAS32_BC112.dita" class="- map/topicref " navtitle="BC112"/>
+                <topicref href="ias32/IAS32_BC113.dita" class="- map/topicref " navtitle="BC113"/>
+                <topicref href="ias32/IAS32_BC114.dita" class="- map/topicref " navtitle="BC114"/>
+                <topicref href="ias32/IAS32_BC115.dita" class="- map/topicref " navtitle="BC115"/>
+                <topicref href="ias32/IAS32_BC116.dita" class="- map/topicref " navtitle="BC116"/>
+            </topicref>
+            <topicref href="ias32/IAS32_gBC117-BC118.dita" class="- map/topicref " navtitle="Transition and effective date">
+                <topicref href="ias32/IAS32_BC117.dita" class="- map/topicref " navtitle="BC117"/>
+                <topicref href="ias32/IAS32_BC118.dita" class="- map/topicref " navtitle="BC118"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias32/IAS32_BC119.dita" class="- map/topicref " navtitle="BC119"/>
+        <topicref href="ias32/IAS32_BC120.dita" class="- map/topicref " navtitle="BC120"/>
+    
+        <topicref href="ias32/IAS32_BC_DO0001.dita" class="- map/topicref " navtitle="Dissenting opinions">
+            <topicref href="ias32/IAS32_sgDO1-DO3.dita" class="- map/topicref " navtitle="Dissent of James J Leisenring from the issue of IAS 32 in December 2003">
+                <topicref href="ias32/IAS32_DO1.dita" class="- map/topicref " navtitle="DO1"/>
+                <topicref href="ias32/IAS32_DO2_V.dita" class="- map/topicref " navtitle="DO2"/>
+                <topicref href="ias32/IAS32_DO3.dita" class="- map/topicref " navtitle="DO3"/>
+            </topicref>
+            <topicref href="ias32/IAS32_sgDO1-DO6.dita" outputclass="new_page" class="- map/topicref " navtitle="Dissent of Mary E Barth and Robert P Garnett from the issue of Puttable Financial Instruments and Obligations Arising on Liquidation (Amendments to IAS 32 and IAS 1) in February 2008">
+                <topicref href="ias32/IAS32_DO1_a.dita" class="- map/topicref " navtitle="DO1"/>
+                <topicref href="ias32/IAS32_DO2_Va.dita" class="- map/topicref " navtitle="DO2"/>
+                <topicref href="ias32/IAS32_DO3_a.dita" class="- map/topicref " navtitle="DO3"/>
+                <topicref href="ias32/IAS32_DO4.dita" class="- map/topicref " navtitle="DO4"/>
+                <topicref href="ias32/IAS32_DO5.dita" class="- map/topicref " navtitle="DO5"/>
+                <topicref href="ias32/IAS32_DO6.dita" class="- map/topicref " navtitle="DO6"/>
+            </topicref>
+            <topicref href="ias32/IAS32_sgDO1-DO9.dita" outputclass="new_page" class="- map/topicref " navtitle="Dissent of James J Leisenring and John T Smith from the issue of Classification of Rights Issues in October 2009">
+                <topicref href="ias32/IAS32_DO1_b.dita" class="- map/topicref " navtitle="DO1"/>
+                <topicref href="ias32/IAS32_DO2.dita" class="- map/topicref " navtitle="DO2"/>
+                <topicref href="ias32/IAS32_DO3_b.dita" class="- map/topicref " navtitle="DO3"/>
+                <topicref href="ias32/IAS32_DO4_a.dita" class="- map/topicref " navtitle="DO4"/>
+                <topicref href="ias32/IAS32_DO5_a.dita" class="- map/topicref " navtitle="DO5"/>
+                <topicref href="ias32/IAS32_DO6_a.dita" class="- map/topicref " navtitle="DO6"/>
+                <topicref href="ias32/IAS32_DO7.dita" class="- map/topicref " navtitle="DO7"/>
+                <topicref href="ias32/IAS32_DO8.dita" class="- map/topicref " navtitle="DO8"/>
+                <topicref href="ias32/IAS32_DO9.dita" class="- map/topicref " navtitle="DO9"/>
+            </topicref>
+        </topicref>
+    </chapter>
+    
+</bookmap>

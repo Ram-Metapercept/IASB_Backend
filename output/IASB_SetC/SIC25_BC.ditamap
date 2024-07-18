@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" chunk="to-content" id="SIC25_BC_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle "><ph otherprops="print" class="- topic/ph ">Income Taxes—Changes in the Tax Status of an Entity or its
+                Shareholders</ph></mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Basis For Conclusions</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">SIC‑25</booknumber>
+        </bookid>
+        <document_type value="SIC" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2000-07-15" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="1999-08-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="sic-25-income-taxes-changes-in-the-tax-status-of-an-entity-or-its-shareholders" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="basis-for-conclusion" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="sic25/SIC25_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="sic25/SIC25_PartB.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+    </frontmatter>
+    <chapter href="sic25/SIC25_BC_TI.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Basis for Conclusions on SIC-25 Income Taxes—Changes in the Tax Status of an Entity or its Shareholders">
+        <topicref href="sic25/SIC25_BC5.dita" class="- map/topicref " navtitle="5"/>
+        <topicref href="sic25/SIC25_BC5A.dita" class="- map/topicref " navtitle="5A"/>
+        <topicref href="sic25/SIC25_BC6.dita" class="- map/topicref " navtitle="6"/>
+        <topicref href="sic25/SIC25_BC7.dita" class="- map/topicref " navtitle="7"/>
+        <topicref href="sic25/SIC25_BC8.dita" class="- map/topicref " navtitle="8"/>
+    </chapter>
+</bookmap>

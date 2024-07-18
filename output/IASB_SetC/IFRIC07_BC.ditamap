@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IFRIC07_BC_CHK_ALL" chunk="to-content" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle "><ph otherprops="print" class="- topic/ph ">Applying the Restatement Approach under IAS 29 Financial
+                Reporting in Hyperinflationary Economies</ph></mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Basis For Conclusions</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IFRIC 7</booknumber>
+        </bookid>
+        <document_type value="IFRIC" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2006-03-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2005-11-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ifric-7-applying-the-restatement-approach-under-ias-29-financial-reporting-in-hyperinflationary-economies" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="basis-for-conclusion" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ifric07/IFRIC07_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifric07/IFRIC07_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifric07/IFRIC07_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ifric07/IFRIC07_PartC.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+    </frontmatter>
+    <chapter href="ifric07/IFRIC07_BC_TI.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Basis for Conclusions on IFRIC 7 Applying the Restatement Approach under IAS 29 Financial Reporting in Hyperinflationary Economies">
+        <topicref href="ifric07/IFRIC07_gBC1-BC1.dita" class="- map/topicref " navtitle="Introduction">
+            <topicref href="ifric07/IFRIC07_BC1.dita" class="- map/topicref " navtitle="BC1"/>
+        </topicref>
+        <topicref href="ifric07/IFRIC07_gBC2-BC4.dita" class="- map/topicref " navtitle="Background">
+            <topicref href="ifric07/IFRIC07_BC2.dita" class="- map/topicref " navtitle="BC2"/>
+            <topicref href="ifric07/IFRIC07_BC3.dita" class="- map/topicref " navtitle="BC3"/>
+            <topicref href="ifric07/IFRIC07_BC4.dita" class="- map/topicref " navtitle="BC4"/>
+        </topicref>
+        <topicref href="ifric07/IFRIC07_gBC5-BC25.dita" class="- map/topicref " navtitle="Basis for consensus">
+            <topicref href="ifric07/IFRIC07_gBC5-BC17.dita" class="- map/topicref " navtitle="The restatement approach">
+                <topicref href="ifric07/IFRIC07_BC5.dita" class="- map/topicref " navtitle="BC5"/>
+                <topicref href="ifric07/IFRIC07_BC6.dita" class="- map/topicref " navtitle="BC6"/>
+                <topicref href="ifric07/IFRIC07_BC7.dita" class="- map/topicref " navtitle="BC7"/>
+                <topicref href="ifric07/IFRIC07_BC8.dita" class="- map/topicref " navtitle="BC8"/>
+                <topicref href="ifric07/IFRIC07_BC9.dita" class="- map/topicref " navtitle="BC9"/>
+                <topicref href="ifric07/IFRIC07_BC10.dita" class="- map/topicref " navtitle="BC10"/>
+                <topicref href="ifric07/IFRIC07_BC11.dita" class="- map/topicref " navtitle="BC11"/>
+                <topicref href="ifric07/IFRIC07_BC12.dita" class="- map/topicref " navtitle="BC12"/>
+                <topicref href="ifric07/IFRIC07_BC13.dita" class="- map/topicref " navtitle="BC13"/>
+                <topicref href="ifric07/IFRIC07_BC14.dita" class="- map/topicref " navtitle="BC14"/>
+                <topicref href="ifric07/IFRIC07_BC15.dita" class="- map/topicref " navtitle="BC15"/>
+                <topicref href="ifric07/IFRIC07_BC16.dita" class="- map/topicref " navtitle="BC16"/>
+                <topicref href="ifric07/IFRIC07_BC17.dita" class="- map/topicref " navtitle="BC17"/>
+            </topicref>
+            <topicref href="ifric07/IFRIC07_gBC18-BC25.dita" class="- map/topicref " navtitle="Deferred tax items">
+                <topicref href="ifric07/IFRIC07_BC18.dita" class="- map/topicref " navtitle="BC18"/>
+                <topicref href="ifric07/IFRIC07_BC19.dita" class="- map/topicref " navtitle="BC19"/>
+                <topicref href="ifric07/IFRIC07_BC20.dita" class="- map/topicref " navtitle="BC20"/>
+                <topicref href="ifric07/IFRIC07_BC21.dita" class="- map/topicref " navtitle="BC21"/>
+                <topicref href="ifric07/IFRIC07_BC22.dita" class="- map/topicref " navtitle="BC22"/>
+                <topicref href="ifric07/IFRIC07_BC23.dita" class="- map/topicref " navtitle="BC23"/>
+                <topicref href="ifric07/IFRIC07_BC24.dita" class="- map/topicref " navtitle="BC24"/>
+                <topicref href="ifric07/IFRIC07_BC25.dita" class="- map/topicref " navtitle="BC25"/>
+            </topicref>
+        </topicref>
+    </chapter>
+</bookmap>

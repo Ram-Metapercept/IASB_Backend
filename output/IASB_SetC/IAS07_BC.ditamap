@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" chunk="to-content" id="IAS07_BC_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle "><ph otherprops="print" class="- topic/ph ">Statement of Cash Flows</ph></mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Basis For Conclusions</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IAS 7</booknumber>
+        </bookid>
+        <document_type value="IAS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="1994-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="1994-01-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ias-7-statement-of-cash-flows" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="basis-for-conclusion" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ias07/IAS07_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias07/IAS07_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias07/IAS07_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ias07/IAS07_PartC.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+    </frontmatter>
+    <chapter href="ias07/IAS07_TI0040.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Basis for Conclusions on IAS 7 Statement of Cash Flows">
+        <topicref href="ias07/IAS07_BC1.dita" class="- map/topicref " navtitle="BC1"/>
+        <topicref href="ias07/IAS07_BC2.dita" class="- map/topicref " navtitle="BC2"/>
+        <topicref href="ias07/IAS07_gBC3-BC8.dita" class="- map/topicref " navtitle="Classification of expenditures on unrecognised assets">
+            <topicref href="ias07/IAS07_BC3.dita" class="- map/topicref " navtitle="BC3"/>
+            <topicref href="ias07/IAS07_BC4.dita" class="- map/topicref " navtitle="BC4"/>
+            <topicref href="ias07/IAS07_BC5.dita" class="- map/topicref " navtitle="BC5"/>
+            <topicref href="ias07/IAS07_BC6.dita" class="- map/topicref " navtitle="BC6"/>
+            <topicref href="ias07/IAS07_BC7.dita" class="- map/topicref " navtitle="BC7"/>
+            <topicref href="ias07/IAS07_BC8.dita" class="- map/topicref " navtitle="BC8"/>
+        </topicref>
+        <topicref href="ias07/IAS07_gBC9-BC27_V2.dita" class="- map/topicref " navtitle="Changes in liabilities arising from financing activities (paragraphs 44A–44E)">
+            <topicref href="ias07/IAS07_gBC9-BC13.dita" class="- map/topicref " navtitle="Background to the January 2016 Amendments">
+                <topicref href="ias07/IAS07_BC9.dita" class="- map/topicref " navtitle="BC9"/>
+                <topicref href="ias07/IAS07_BC10.dita" class="- map/topicref " navtitle="BC10"/>
+                <topicref href="ias07/IAS07_BC11.dita" class="- map/topicref " navtitle="BC11"/>
+                <topicref href="ias07/IAS07_BC12.dita" class="- map/topicref " navtitle="BC12"/>
+                <topicref href="ias07/IAS07_BC13.dita" class="- map/topicref " navtitle="BC13"/>
+            </topicref>
+            <topicref href="ias07/IAS07_gBC14-BC24.dita" class="- map/topicref " navtitle="Feedback on the proposals set out in the Exposure Draft">
+                <topicref href="ias07/IAS07_BC14.dita" class="- map/topicref " navtitle="BC14"/>
+                <topicref href="ias07/IAS07_gBC15-BC16.dita" class="- map/topicref " navtitle="The objective of the disclosure">
+                    <topicref href="ias07/IAS07_BC15.dita" class="- map/topicref " navtitle="BC15"/>
+                    <topicref href="ias07/IAS07_BC16.dita" class="- map/topicref " navtitle="BC16"/>
+                </topicref>
+                <topicref href="ias07/IAS07_gBC17-BC19.dita" class="- map/topicref " navtitle="Application of the 2016 Amendments to financial institutions">
+                    <topicref href="ias07/IAS07_BC17.dita" class="- map/topicref " navtitle="BC17"/>
+                    <topicref href="ias07/IAS07_BC18.dita" class="- map/topicref " navtitle="BC18"/>
+                    <topicref href="ias07/IAS07_BC19.dita" class="- map/topicref " navtitle="BC19"/>
+                </topicref>
+                <topicref href="ias07/IAS07_gBC20-BC21.dita" class="- map/topicref " navtitle="Information that supplements the disclosures">
+                    <topicref href="ias07/IAS07_BC20.dita" class="- map/topicref " navtitle="BC20"/>
+                    <topicref href="ias07/IAS07_BC21.dita" class="- map/topicref " navtitle="BC21"/>
+                </topicref>
+                <topicref href="ias07/IAS07_gBC22-BC22.dita" class="- map/topicref " navtitle="Financial assets">
+                    <topicref href="ias07/IAS07_BC22.dita" class="- map/topicref " navtitle="BC22"/>
+                </topicref>
+                <topicref href="ias07/IAS07_gBC23-BC23.dita" class="- map/topicref " navtitle="Cost-benefit considerations">
+                    <topicref href="ias07/IAS07_BC23.dita" class="- map/topicref " navtitle="BC23"/>
+                </topicref>
+                <topicref href="ias07/IAS07_gBC24-BC24.dita" class="- map/topicref " navtitle="Illustrative example">
+                    <topicref href="ias07/IAS07_BC24.dita" class="- map/topicref " navtitle="BC24"/>
+                </topicref>
+            </topicref>
+            <topicref href="ias07/IAS07_gBC25-BC25.dita" class="- map/topicref " navtitle="Other disclosures">
+                <topicref href="ias07/IAS07_BC25.dita" class="- map/topicref " navtitle="BC25"/>
+            </topicref>
+            <topicref href="ias07/IAS07_gBC26-BC27.dita" class="- map/topicref " navtitle="Transition and effective date">
+                <topicref href="ias07/IAS07_sgBC26-BC27.dita" class="- map/topicref " navtitle="Amendments to IAS 7">
+                    <topicref href="ias07/IAS07_BC26.dita" class="- map/topicref " navtitle="BC26"/>
+                    <topicref href="ias07/IAS07_BC27.dita" class="- map/topicref " navtitle="BC27"/>
+                </topicref>
+            </topicref>
+        </topicref>
+    
+        <topicref href="ias07/IAS07_gDO1-DO6.dita" class="- map/topicref " navtitle="Dissenting opinion">
+            <topicref href="ias07/IAS07_sgDO1-DO6.dita" class="- map/topicref " navtitle="Dissent of Mr Takatsugu Ochi from Disclosure Initiative (Amendments to IAS 7)">
+                <topicref href="ias07/IAS07_DO1.dita" class="- map/topicref " navtitle="DO1"/>
+                <topicref href="ias07/IAS07_DO2.dita" class="- map/topicref " navtitle="DO2"/>
+                <topicref href="ias07/IAS07_DO3.dita" class="- map/topicref " navtitle="DO3"/>
+                <topicref href="ias07/IAS07_DO4.dita" class="- map/topicref " navtitle="DO4"/>
+                <topicref href="ias07/IAS07_DO5.dita" class="- map/topicref " navtitle="DO5"/>
+                <topicref href="ias07/IAS07_DO6.dita" class="- map/topicref " navtitle="DO6"/>
+            </topicref>
+        </topicref>
+    </chapter>
+    
+</bookmap>

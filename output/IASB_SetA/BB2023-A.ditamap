@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /mnt/crx/author/crx-quickstart/profiles/ditamaps/ditamap516591590676960468/temp/temp20230109121828435?><?workdir-uri file:/mnt/crx/author/crx-quickstart/profiles/ditamaps/ditamap516591590676960468/temp/temp20230109121828435/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//IFRS//DTD DITA Map//EN?><?doctype-system ifrsMap.dtd?><!DOCTYPE map PUBLIC "-//IFRS//DTD DITA Map//EN" "ifrsMap.dtd">
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="BB2023_A" cascade="merge"
+    ditaarch:DITAArchVersion="1.3"
+    domains="(map mapgroup-d)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (map glossref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
+    class="- map/map ">
+    <topicmeta class="- map/topicmeta ">
+        <category class="- topic/category ">A</category>
+    </topicmeta>
+    <mapref href="frontmatter_A.ditamap" keyscope="frontmatter" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "/>
+    <mapref href="introduction.ditamap" keyscope="introduction" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Introduction to this edition"/>
+    <mapref href="changesinthisedition.ditamap" keyscope="changes" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Changes in this edition"/>
+    <mapref href="PrefaceToIFRS.ditamap" keyscope="preface" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Preface to IFRS Standards"/>
+    <mapref href="CF2018.ditamap" keyscope="cf2018" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "
+        navtitle="Conceptual Framework for Financial Reporting"/>
+    <mapref href="IFRS01.ditamap" keyscope="ifrs01" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "
+        navtitle="First‑time Adoption of International Financial Reporting Standards"/>
+    <mapref href="IFRS02.ditamap" keyscope="ifrs02" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Share‑based Payment"/>
+    <mapref href="IFRS03.ditamap" keyscope="ifrs03" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Business Combinations"/>
+    <mapref href="IFRS05.ditamap" keyscope="ifrs05" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "
+        navtitle="Non‑current Assets Held for Sale and Discontinued Operations"/>
+    <mapref href="IFRS06.ditamap" keyscope="ifrs06" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "
+        navtitle="Exploration for and Evaluation of Mineral Resources"/>
+    <mapref href="IFRS07.ditamap" keyscope="ifrs07" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Financial Instruments: Disclosures"/>
+    <mapref href="IFRS08.ditamap" keyscope="ifrs08" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Operating Segments"/>
+    <mapref href="IFRS09.ditamap" keyscope="ifrs09" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Financial Instruments"/>
+    <mapref href="IFRS10.ditamap" keyscope="ifrs10" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Consolidated Financial Statements"/>
+    <mapref href="IFRS11.ditamap" keyscope="ifrs11" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Joint Arrangements"/>
+    <mapref href="IFRS12.ditamap" keyscope="ifrs12" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "
+        navtitle="Disclosure of Interests in Other Entities"/>
+    <mapref href="IFRS13.ditamap" keyscope="ifrs13" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Fair Value Measurement"/>
+    <mapref href="IFRS14.ditamap" keyscope="ifrs14" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Regulatory Deferral Accounts"/>
+    <mapref href="IFRS15.ditamap" keyscope="ifrs15" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Revenue from Contracts with Customers"/>
+    <mapref href="IFRS16.ditamap" keyscope="ifrs16" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Leases"/>
+    <mapref href="IFRS17.ditamap" keyscope="ifrs17" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Insurance Contracts"/>
+    <mapref href="IAS01.ditamap" keyscope="ias01" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Presentation of Financial Statements"/>
+    <mapref href="IAS02.ditamap" keyscope="ias02" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Inventories"/>
+    <mapref href="IAS07.ditamap" keyscope="ias07" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Statement of Cash Flows"/>
+    <mapref href="IAS08.ditamap" keyscope="ias08" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "
+        navtitle="Accounting Policies, Changes in Accounting Estimates and Errors"/>
+    <mapref href="IAS10.ditamap" keyscope="ias10" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Events after the Reporting Period"/>
+    <mapref href="IAS12.ditamap" keyscope="ias12" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Income Taxes"/>
+    <mapref href="IAS16.ditamap" keyscope="ias16" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Property, Plant and Equipment"/>
+    <mapref href="IAS19.ditamap" keyscope="ias19" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Employee Benefits"/>
+    <mapref href="IAS20.ditamap" keyscope="ias20" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "
+        navtitle="Accounting for Government Grants and Disclosure of Government Assistance"/>
+    <mapref href="IAS21.ditamap" keyscope="ias21" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "
+        navtitle="The Effects of Changes in Foreign Exchange Rates"/>
+    <mapref href="IAS23.ditamap" keyscope="ias23" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Borrowing Costs"/>
+    <mapref href="IAS24.ditamap" keyscope="ias24" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Related Party Disclosures"/>
+    <mapref href="IAS26.ditamap" keyscope="ias26" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "
+        navtitle="Accounting and Reporting by Retirement Benefit Plans"/>
+    <mapref href="IAS27.ditamap" keyscope="ias27" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Separate Financial Statements"/>
+    <mapref href="IAS28.ditamap" keyscope="ias28" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "
+        navtitle="Investments in Associates and Joint Ventures"/>
+    <mapref href="IAS29.ditamap" keyscope="ias29" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "
+        navtitle="Financial Reporting in Hyperinflationary Economies"/>
+    <mapref href="IAS32.ditamap" keyscope="ias32" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Financial Instruments: Presentation"/>
+    <mapref href="IAS33.ditamap" keyscope="ias33" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Earnings per Share"/>
+    <mapref href="IAS34.ditamap" keyscope="ias34" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Interim Financial Reporting"/>
+    <mapref href="IAS36.ditamap" keyscope="ias36" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Impairment of Assets"/>
+    <mapref href="IAS37.ditamap" keyscope="ias37" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "
+        navtitle="Provisions, Contingent Liabilities and Contingent Assets"/>
+    <mapref href="IAS38.ditamap" keyscope="ias38" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Intangible Assets"/>
+    <mapref href="IAS39.ditamap" keyscope="ias39" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "
+        navtitle="Financial Instruments: Recognition and Measurement"/>
+    <mapref href="IAS40.ditamap" keyscope="ias40" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Investment Property"/>
+    <mapref href="IAS41.ditamap" keyscope="ias41" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Agriculture"/>
+    <mapref href="IFRIC01.ditamap" keyscope="ifric01" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "
+        navtitle="Changes in Existing Decommissioning, Restoration and Similar Liabilities"/>
+    <mapref href="IFRIC02.ditamap" keyscope="ifric02" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "
+        navtitle="Members’ Shares in Co‑operative Entities and Similar Instruments"/>
+    <mapref href="IFRIC05.ditamap" keyscope="ifric05" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "
+        navtitle="Rights to Interests arising from Decommissioning, Restoration and Environmental Rehabilitation Funds"/>
+    <mapref href="IFRIC06.ditamap" keyscope="ifric06" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "
+        navtitle="Liabilities arising from Participating in a Specific Market—Waste Electrical and Electronic Equipment"/>
+    <mapref href="IFRIC07.ditamap" keyscope="ifric07" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "
+        navtitle="Applying the Restatement Approach under IAS 29 Financial Reporting in Hyperinflationary Economies"/>
+    <mapref href="IFRIC10.ditamap" keyscope="ifric10" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "
+        navtitle="Interim Financial Reporting and Impairment"/>
+    <mapref href="IFRIC12.ditamap" keyscope="ifric12" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Service Concession Arrangements"/>
+    <mapref href="IFRIC14.ditamap" keyscope="ifric14" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "
+        navtitle="IAS 19—The Limit on a Defined Benefit Asset, Minimum Funding Requirements and their Interaction"/>
+    <mapref href="IFRIC16.ditamap" keyscope="ifric16" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "
+        navtitle="Hedges of a Net Investment in a Foreign Operation"/>
+    <mapref href="IFRIC17.ditamap" keyscope="ifric17" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "
+        navtitle="Distributions of Non‑cash Assets to Owners"/>
+    <mapref href="IFRIC19.ditamap" keyscope="ifric19" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "
+        navtitle="Extinguishing Financial Liabilities with Equity Instruments"/>
+    <mapref href="IFRIC20.ditamap" keyscope="ifric20" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "
+        navtitle="Stripping Costs in the Production Phase of a Surface Mine"/>
+    <mapref href="IFRIC21.ditamap" keyscope="ifric21" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Levies"/>
+    <mapref href="IFRIC22.ditamap" keyscope="ifric22" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "
+        navtitle="Foreign Currency Transactions and Advance Consideration"/>
+    <mapref href="IFRIC23.ditamap" keyscope="ifric23" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Uncertainty over Income Tax Treatments"/>
+    <mapref href="SIC07.ditamap" keyscope="sic07" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Introduction of the Euro"/>
+    <mapref href="SIC10.ditamap" keyscope="sic10" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "
+        navtitle="Government Assistance—No Specific Relation to Operating Activities"/>
+    <mapref href="SIC25.ditamap" keyscope="sic25" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "
+        navtitle="Income Taxes—Changes in the Tax Status of an Entity or its Shareholders"/>
+    <mapref href="SIC29.ditamap" keyscope="sic29" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref "
+        navtitle="Service Concession Arrangements: Disclosures"/>
+    <mapref href="SIC32.ditamap" keyscope="sic32" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Intangible Assets—Web Site Costs"/>
+    <mapref href="glossary.ditamap" keyscope="glossary" format="ditamap"
+        class="+ map/topicref mapgroup-d/mapref " navtitle="Glossary"/>
+</map>

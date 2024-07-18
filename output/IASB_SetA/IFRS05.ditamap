@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IFRS05_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <booklibrary class="- topic/ph bookmap/booklibrary ">IFRS 5</booklibrary>
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Non‑current Assets Held for Sale
+            and Discontinued Operations</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Standard</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IFRS 5</booknumber>
+        </bookid>
+        <document_type value="IFRS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2005-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2004-03-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ifrs-5-non-current-assets-held-for-sale-and-discontinued-operations" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="standard" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" id="IFRS05_CHK_FM" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ifrs05/IFRS05_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs05/IFRS05_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs05/IFRS05_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ifrs05/IFRS05_PRE.dita" chunk="to-content" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ifrs05/IFRS05_TOC.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+        <preface href="ifrs05/IFRS05_rubric.dita" class="- map/topicref bookmap/preface "/>
+    </frontmatter>
+    <chapter href="ifrs05/IFRS05_TI.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="IFRS 5 Non‑current Assets Held for Sale and Discontinued Operations"><topicref href="ifrs05/IFRS05_rubric.dita" class="- map/topicref " navtitle="Rubric"/>
+        <topicref href="ifrs05/IFRS05_g1-1.dita" class="- map/topicref " navtitle="Objective">
+            <topicref href="ifrs05/IFRS05_1.dita" class="- map/topicref " navtitle="1"/>
+        </topicref>
+        <topicref href="ifrs05/IFRS05_g2-5B.dita" class="- map/topicref " navtitle="Scope">
+            <topicref href="ifrs05/IFRS05_2.dita" class="- map/topicref " navtitle="2"/>
+            <topicref href="ifrs05/IFRS05_3.dita" class="- map/topicref " navtitle="3"/>
+            <topicref href="ifrs05/IFRS05_4.dita" class="- map/topicref " navtitle="4"/>
+            <topicref href="ifrs05/IFRS05_5.dita" class="- map/topicref " navtitle="5"/>
+            <topicref href="ifrs05/IFRS05_5A.dita" class="- map/topicref " navtitle="5A"/>
+            <topicref href="ifrs05/IFRS05_5B.dita" class="- map/topicref " navtitle="5B"/>
+        </topicref>
+        <topicref href="ifrs05/IFRS05_g6-14.dita" class="- map/topicref " navtitle="Classification of non‑current assets (or disposal groups) as held for sale or as held for distribution to owners">
+            <topicref href="ifrs05/IFRS05_6.dita" class="- map/topicref " navtitle="6"/>
+            <topicref href="ifrs05/IFRS05_7.dita" class="- map/topicref " navtitle="7"/>
+            <topicref href="ifrs05/IFRS05_8.dita" class="- map/topicref " navtitle="8"/>
+            <topicref href="ifrs05/IFRS05_8A.dita" class="- map/topicref " navtitle="8A"/>
+            <topicref href="ifrs05/IFRS05_9.dita" class="- map/topicref " navtitle="9"/>
+            <topicref href="ifrs05/IFRS05_10.dita" class="- map/topicref " navtitle="10"/>
+            <topicref href="ifrs05/IFRS05_11.dita" class="- map/topicref " navtitle="11"/>
+            <topicref href="ifrs05/IFRS05_12.dita" class="- map/topicref " navtitle="12"/>
+            <topicref href="ifrs05/IFRS05_12A.dita" class="- map/topicref " navtitle="12A"/>
+            <topicref href="ifrs05/IFRS05_g13-14.dita" class="- map/topicref " navtitle="Non‑current assets that are to be abandoned">
+                <topicref href="ifrs05/IFRS05_13.dita" class="- map/topicref " navtitle="13"/>
+                <topicref href="ifrs05/IFRS05_14.dita" class="- map/topicref " navtitle="14"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs05/IFRS05_g15-29.dita" class="- map/topicref " navtitle="Measurement of non‑current assets (or disposal groups) classified as held for sale">
+            <topicref href="ifrs05/IFRS05_g15-19.dita" class="- map/topicref " navtitle="Measurement of a non‑current asset (or disposal group)">
+                <topicref href="ifrs05/IFRS05_15.dita" class="- map/topicref " navtitle="15"/>
+                <topicref href="ifrs05/IFRS05_15A.dita" class="- map/topicref " navtitle="15A"/>
+                <topicref href="ifrs05/IFRS05_16.dita" class="- map/topicref " navtitle="16"/>
+                <topicref href="ifrs05/IFRS05_17.dita" class="- map/topicref " navtitle="17"/>
+                <topicref href="ifrs05/IFRS05_18.dita" class="- map/topicref " navtitle="18"/>
+                <topicref href="ifrs05/IFRS05_19.dita" class="- map/topicref " navtitle="19"/>
+            </topicref>
+            <topicref href="ifrs05/IFRS05_g20-25.dita" class="- map/topicref " navtitle="Recognition of impairment losses and reversals">
+                <topicref href="ifrs05/IFRS05_20.dita" class="- map/topicref " navtitle="20"/>
+                <topicref href="ifrs05/IFRS05_21.dita" class="- map/topicref " navtitle="21"/>
+                <topicref href="ifrs05/IFRS05_22.dita" class="- map/topicref " navtitle="22"/>
+                <topicref href="ifrs05/IFRS05_23.dita" class="- map/topicref " navtitle="23"/>
+                <topicref href="ifrs05/IFRS05_24.dita" class="- map/topicref " navtitle="24"/>
+                <topicref href="ifrs05/IFRS05_25.dita" class="- map/topicref " navtitle="25"/>
+            </topicref>
+            <topicref href="ifrs05/IFRS05_g26-29.dita" keys="IFRS05_g26-29_TI_V1" class="- map/topicref " navtitle="Changes to a plan of sale or to a plan of distribution to owners">
+                <topicref href="ifrs05/IFRS05_26.dita" keys="IFRS05_26" class="- map/topicref " navtitle="26"/>
+                <topicref href="ifrs05/IFRS05_26A.dita" class="- map/topicref " navtitle="26A"/>
+                <topicref href="ifrs05/IFRS05_27.dita" class="- map/topicref " navtitle="27"/>
+                <topicref href="ifrs05/IFRS05_28.dita" keys="IFRS05_28" class="- map/topicref " navtitle="28"/>
+                <topicref href="ifrs05/IFRS05_29.dita" keys="IFRS05_29" class="- map/topicref " navtitle="29"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs05/IFRS05_g30-42.dita" class="- map/topicref " navtitle="Presentation and disclosure">
+            <topicref href="ifrs05/IFRS05_30.dita" class="- map/topicref " navtitle="30"/>
+            <topicref href="ifrs05/IFRS05_g31-36A.dita" class="- map/topicref " navtitle="Presenting discontinued operations">
+                <topicref href="ifrs05/IFRS05_31.dita" class="- map/topicref " navtitle="31"/>
+                <topicref href="ifrs05/IFRS05_32.dita" class="- map/topicref " navtitle="32"/>
+                <topicref href="ifrs05/IFRS05_33.dita" class="- map/topicref " navtitle="33"/>
+                <topicref href="ifrs05/IFRS05_33A.dita" class="- map/topicref " navtitle="33A"/>
+                <topicref href="ifrs05/IFRS05_34.dita" class="- map/topicref " navtitle="34"/>
+                <topicref href="ifrs05/IFRS05_35.dita" class="- map/topicref " navtitle="35"/>
+                <topicref href="ifrs05/IFRS05_36.dita" class="- map/topicref " navtitle="36"/>
+                <topicref href="ifrs05/IFRS05_36A.dita" class="- map/topicref " navtitle="36A"/>
+            </topicref>
+            <topicref href="ifrs05/IFRS05_g37-37.dita" class="- map/topicref " navtitle="Gains or losses relating to continuing operations">
+                <topicref href="ifrs05/IFRS05_37.dita" class="- map/topicref " navtitle="37"/>
+            </topicref>
+            <topicref href="ifrs05/IFRS05_g38-40.dita" class="- map/topicref " navtitle="Presentation of a non‑current asset or disposal group classified as held for sale">
+                <topicref href="ifrs05/IFRS05_38.dita" class="- map/topicref " navtitle="38"/>
+                <topicref href="ifrs05/IFRS05_39.dita" class="- map/topicref " navtitle="39"/>
+                <topicref href="ifrs05/IFRS05_40.dita" class="- map/topicref " navtitle="40"/>
+            </topicref>
+            <topicref href="ifrs05/IFRS05_g41-42.dita" class="- map/topicref " navtitle="Additional disclosures">
+                <topicref href="ifrs05/IFRS05_41.dita" class="- map/topicref " navtitle="41"/>
+                <topicref href="ifrs05/IFRS05_42.dita" class="- map/topicref " navtitle="42"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs05/IFRS05_g43-43.dita" class="- map/topicref " navtitle="Transitional provisions">
+            <topicref href="ifrs05/IFRS05_43.dita" class="- map/topicref " navtitle="43"/>
+        </topicref>
+        <topicref href="ifrs05/IFRS05_g44-44M.dita" class="- map/topicref " navtitle="Effective date">
+            <topicref href="ifrs05/IFRS05_44.dita" class="- map/topicref " navtitle="44"/>
+            <topicref href="ifrs05/IFRS05_44A.dita" class="- map/topicref " navtitle="44A"/>
+            <topicref href="ifrs05/IFRS05_44B.dita" class="- map/topicref " navtitle="44B"/>
+            <topicref href="ifrs05/IFRS05_44C.dita" class="- map/topicref " navtitle="44C"/>
+            <topicref href="ifrs05/IFRS05_44D.dita" class="- map/topicref " navtitle="44D"/>
+            <topicref href="ifrs05/IFRS05_44E.dita" class="- map/topicref " navtitle="44E"/>
+            <topicref href="ifrs05/IFRS05_44F_DELETED.dita" class="- map/topicref " navtitle="44F">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ifrs05/IFRS05_44G.dita" class="- map/topicref " navtitle="44G"/>
+            <topicref href="ifrs05/IFRS05_44H.dita" class="- map/topicref " navtitle="44H"/>
+            <topicref href="ifrs05/IFRS05_44I.dita" class="- map/topicref " navtitle="44I"/>
+            <topicref href="ifrs05/IFRS05_44J_DELETED.dita" class="- map/topicref " navtitle="44J">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ifrs05/IFRS05_44K.dita" class="- map/topicref " navtitle="44K"/>
+            <topicref href="ifrs05/IFRS05_44L.dita" class="- map/topicref " navtitle="44L"/>
+            <topicref href="ifrs05/IFRS05_44M.dita" class="- map/topicref " navtitle="44M">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs05/IFRS05_g45-45.dita" class="- map/topicref " navtitle="Withdrawal of IAS 35">
+            <topicref href="ifrs05/IFRS05_45.dita" class="- map/topicref " navtitle="45"/>
+        </topicref>
+    <topicref chunk="to-content" class="- map/topicref " navtitle="Appendices">
+        <topicref href="ifrs05/IFRS05_APPA.dita" class="- map/topicref " navtitle="Appendix A Defined terms">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="A" class="- topic/data "/>
+            </topicmeta>
+        </topicref>
+        <topicref href="ifrs05/IFRS05_APPB.dita" class="- map/topicref " navtitle="Appendix B Application supplement">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="B" class="- topic/data "/>
+            </topicmeta>
+            <topicref href="ifrs05/IFRS05_gB1-B1.dita" class="- map/topicref " navtitle="Extension of the period required to complete a sale">
+                <topicref href="ifrs05/IFRS05_B1.dita" class="- map/topicref " navtitle="B1"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs05/IFRS05_APPC.dita" class="- map/topicref " navtitle="Appendix C Amendments to other IFRSs">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="C" class="- topic/data "/>
+            </topicmeta>
+        </topicref>
+    </topicref>
+        <topicref href="ifrs05/IFRS05_BAMar2004.dita" class="- map/topicref " navtitle="Approval by the Board of IFRS 5 issued in March 2004"/>
+    </chapter>
+    
+    
+</bookmap>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" chunk="to-content" id="IAS08_IG_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle "><ph otherprops="print" class="- topic/ph ">Accounting Policies, Changes in Accounting Estimates and
+                Errors</ph></mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Implementation Guidance</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IAS 8</booknumber>
+        </bookid>
+        <document_type value="IAS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2005-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2003-12-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ias-8-accounting-policies-changes-in-accounting-estimates-and-errors" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="implementation-guidance" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ias08/IAS08_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias08/IAS08_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias08/IAS08_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ias08/IAS08_PartB.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+    </frontmatter>
+    <chapter href="ias08/IAS08_TI0025.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Guidance on implementing IAS 8 Accounting Policies, Changes in Accounting Estimates and Errors">
+        <topicref href="ias08/IAS08_IG_ex1.dita" class="- map/topicref " navtitle="Example 1 – Retrospective restatement of errors">
+            <topicref href="ias08/IAS08_1.1.dita" class="- map/topicref " navtitle="1.1"/>
+            <topicref href="ias08/IAS08_1.2.dita" class="- map/topicref " navtitle="1.2"/>
+            <topicref href="ias08/IAS08_1.3.dita" class="- map/topicref " navtitle="1.3"/>
+            <topicref href="ias08/IAS08_1.4.dita" class="- map/topicref " navtitle="1.4"/>
+            <topicref href="ias08/IAS08_1.5.dita" class="- map/topicref " navtitle="1.5"/>
+            <topicref href="ias08/IAS08_1.6.dita" class="- map/topicref " navtitle="1.6"/>
+            <topicref href="ias08/IAS08_1_a.dita" class="- map/topicref " navtitle="1"/>
+        </topicref>
+        <topicref href="ias08/IAS08_IG_ex2_DELETED.dita" class="- map/topicref " navtitle="Example 2 – Change in accounting policy with retrospective application"/>
+        <topicref href="ias08/IAS08_IG_ex3_DELETED.dita" base="IAS2021-1" class="- map/topicref " navtitle="Example 3 – Prospective application of a change in accounting policy when retrospective application is not practicable"/>
+        <topicref href="ias08/IAS08_IG_ex4.dita" base="IAS2021-1" class="- map/topicref " navtitle="Example 4 – Applying the definition of accounting estimates—Fair value of an investment property">
+            <topicref href="ias08/IAS08_IG_g4.1-4.2.dita" class="- map/topicref " navtitle="Fact pattern">
+                <topicref href="ias08/IAS08_IG_4.1.dita" class="- map/topicref " navtitle="4.1"/>
+                <topicref href="ias08/IAS08_IG_4.2.dita" class="- map/topicref " navtitle="4.2"/>
+            </topicref>
+            <topicref href="ias08/IAS08_IG_g4.3-4.4.dita" class="- map/topicref " navtitle="Applying the definition of accounting estimates">
+                <topicref href="ias08/IAS08_IG_4.3.dita" class="- map/topicref " navtitle="4.3"/>
+                <topicref href="ias08/IAS08_IG_4.4.dita" class="- map/topicref " navtitle="4.4"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias08/IAS08_IG_ex5.dita" base="IAS2021-1" class="- map/topicref " navtitle="Example 5 – Applying the definition of accounting estimates—Fair value of a cash-settled share-based payment liability">
+            <topicref href="ias08/IAS08_IG_g5.1-5.3.dita" class="- map/topicref " navtitle="Fact pattern">
+                <topicref href="ias08/IAS08_IG_5.1.dita" class="- map/topicref " navtitle="5.1"/>
+                <topicref href="ias08/IAS08_IG_5.2.dita" class="- map/topicref " navtitle="5.2"/>
+                <topicref href="ias08/IAS08_IG_5.3.dita" class="- map/topicref " navtitle="5.3"/>
+            </topicref>
+            <topicref href="ias08/IAS08_IG_g5.4-5.5.dita" class="- map/topicref " navtitle="Applying the definition of accounting estimates">
+                <topicref href="ias08/IAS08_IG_5.4.dita" class="- map/topicref " navtitle="5.4"/>
+                <topicref href="ias08/IAS08_IG_5.5.dita" class="- map/topicref " navtitle="5.5"/>
+            </topicref>
+        </topicref>
+    </chapter>
+</bookmap>

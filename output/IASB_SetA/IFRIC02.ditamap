@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IFRIC02_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <booklibrary class="- topic/ph bookmap/booklibrary ">IFRIC 2</booklibrary>
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Members’ Shares in Co‑operative
+            Entities and Similar Instruments</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Standard</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IFRIC 2</booknumber>
+        </bookid>
+        <document_type value="IFRIC" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2005-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2004-11-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ifric-2-members-shares-in-cooperative-entities-and-similar-instruments" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="standard" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" id="IFRIC02_CHK_FM" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ifric02/IFRIC02_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifric02/IFRIC02_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifric02/IFRIC02_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ifric02/IFRIC02_PRE.dita" chunk="to-content" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ifric02/IFRIC02_TOC0001.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+        <preface href="ifric02/IFRIC02_rubric.dita" class="- map/topicref bookmap/preface "/>
+    </frontmatter>
+    <chapter href="ifric02/IFRIC02_TI0002.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="IFRIC 2 Members' Shares in Co‑operative Entities and Similar Instruments"><topicref href="ifric02/IFRIC02_rubric.dita" class="- map/topicref " navtitle="Rubric"/>
+        <topicref href="ifric02/IFRIC02_0001.dita" class="- map/topicref " navtitle="References"/>
+        <topicref href="ifric02/IFRIC02_g1-2.dita" class="- map/topicref " navtitle="Background">
+            <topicref href="ifric02/IFRIC02_1.dita" class="- map/topicref " navtitle="1"/>
+            <topicref href="ifric02/IFRIC02_2.dita" class="- map/topicref " navtitle="2"/>
+        </topicref>
+        <topicref href="ifric02/IFRIC02_g3-3.dita" class="- map/topicref " navtitle="Scope">
+            <topicref href="ifric02/IFRIC02_3.dita" class="- map/topicref " navtitle="3"/>
+        </topicref>
+        <topicref href="ifric02/IFRIC02_g4-4.dita" class="- map/topicref " navtitle="Issue">
+            <topicref href="ifric02/IFRIC02_4.dita" class="- map/topicref " navtitle="4"/>
+        </topicref>
+        <topicref href="ifric02/IFRIC02_g5-12.dita" class="- map/topicref " navtitle="Consensus">
+            <topicref href="ifric02/IFRIC02_5.dita" class="- map/topicref " navtitle="5"/>
+            <topicref href="ifric02/IFRIC02_6.dita" class="- map/topicref " navtitle="6"/>
+            <topicref href="ifric02/IFRIC02_7.dita" class="- map/topicref " navtitle="7"/>
+            <topicref href="ifric02/IFRIC02_8.dita" class="- map/topicref " navtitle="8"/>
+            <topicref href="ifric02/IFRIC02_9.dita" class="- map/topicref " navtitle="9"/>
+            <topicref href="ifric02/IFRIC02_10.dita" class="- map/topicref " navtitle="10"/>
+            <topicref href="ifric02/IFRIC02_11.dita" class="- map/topicref " navtitle="11"/>
+            <topicref href="ifric02/IFRIC02_12.dita" class="- map/topicref " navtitle="12"/>
+        </topicref>
+        <topicref href="ifric02/IFRIC02_g13-13.dita" class="- map/topicref " navtitle="Disclosure">
+            <topicref href="ifric02/IFRIC02_13.dita" class="- map/topicref " navtitle="13"/>
+        </topicref>
+        <topicref href="ifric02/IFRIC02_g14-19.dita" class="- map/topicref " navtitle="Effective date">
+            <topicref href="ifric02/IFRIC02_14.dita" class="- map/topicref " navtitle="14"/>
+            <topicref href="ifric02/IFRIC02_14A.dita" class="- map/topicref " navtitle="14A"/>
+            <topicref href="ifric02/IFRIC02_15_DELETED.dita" class="- map/topicref " navtitle="15">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ifric02/IFRIC02_16.dita" class="- map/topicref " navtitle="16"/>
+            <topicref href="ifric02/IFRIC02_17.dita" class="- map/topicref " navtitle="17"/>
+            <topicref href="ifric02/IFRIC02_18_DELETED.dita" class="- map/topicref " navtitle="18">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ifric02/IFRIC02_19.dita" class="- map/topicref " navtitle="19"/>
+        </topicref>
+    <topicref chunk="to-content" class="- map/topicref " navtitle="Appendices">
+        <topicref href="ifric02/IFRIC02_APP.dita" class="- map/topicref " navtitle="Appendix Examples of application of the consensus">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="APP" class="- topic/data "/>
+            </topicmeta>
+            <topicref href="ifric02/IFRIC02_A1.dita" class="- map/topicref " navtitle="A1"/>
+            <topicref href="ifric02/IFRIC02_gA2-A5.dita" class="- map/topicref " navtitle="Unconditional right to refuse redemption (paragraph 7)">
+                <topicref href="ifric02/IFRIC02_gA2-A3.dita" class="- map/topicref " navtitle="Example 1">
+                    <topicref href="ifric02/IFRIC02_gA2-A2.dita" class="- map/topicref " navtitle="Facts">
+                        <topicref href="ifric02/IFRIC02_A2.dita" class="- map/topicref " navtitle="A2"/>
+                    </topicref>
+                    <topicref href="ifric02/IFRIC02_gA3-A3.dita" class="- map/topicref " navtitle="Classification">
+                        <topicref href="ifric02/IFRIC02_A3.dita" class="- map/topicref " navtitle="A3"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifric02/IFRIC02_gA4-A5.dita" class="- map/topicref " navtitle="Example 2">
+                    <topicref href="ifric02/IFRIC02_gA4-A4.dita" class="- map/topicref " navtitle="Facts">
+                        <topicref href="ifric02/IFRIC02_A4.dita" class="- map/topicref " navtitle="A4"/>
+                    </topicref>
+                    <topicref href="ifric02/IFRIC02_gA5-A5.dita" class="- map/topicref " navtitle="Classification">
+                        <topicref href="ifric02/IFRIC02_A5.dita" class="- map/topicref " navtitle="A5"/>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="ifric02/IFRIC02_gA6-A19.dita" class="- map/topicref " navtitle="Prohibitions against redemption (paragraphs 8 and 9)">
+                <topicref href="ifric02/IFRIC02_gA6-A10.dita" class="- map/topicref " navtitle="Example 3">
+                    <topicref href="ifric02/IFRIC02_gA6-A7.dita" class="- map/topicref " navtitle="Facts">
+                        <topicref href="ifric02/IFRIC02_A6.dita" class="- map/topicref " navtitle="A6"/>
+                        <topicref href="ifric02/IFRIC02_A7.dita" class="- map/topicref " navtitle="A7"/>
+                    </topicref>
+                    <topicref href="ifric02/IFRIC02_gA8-A10.dita" class="- map/topicref " navtitle="Classification">
+                        <topicref href="ifric02/IFRIC02_gA8-A9.dita" class="- map/topicref " navtitle="Before the governing charter is amended">
+                            <topicref href="ifric02/IFRIC02_A8.dita" class="- map/topicref " navtitle="A8"/>
+                            <topicref href="ifric02/IFRIC02_A9.dita" class="- map/topicref " navtitle="A9"/>
+                        </topicref>
+                        <topicref href="ifric02/IFRIC02_gA10-A10.dita" class="- map/topicref " navtitle="After the governing charter is amended">
+                            <topicref href="ifric02/IFRIC02_A10.dita" class="- map/topicref " navtitle="A10"/>
+                        </topicref>
+                    </topicref>
+                </topicref>
+                <topicref href="ifric02/IFRIC02_gA11-A13.dita" class="- map/topicref " navtitle="Example 4">
+                    <topicref href="ifric02/IFRIC02_gA11-A11.dita" class="- map/topicref " navtitle="Facts">
+                        <topicref href="ifric02/IFRIC02_A11.dita" class="- map/topicref " navtitle="A11"/>
+                    </topicref>
+                    <topicref href="ifric02/IFRIC02_gA12-A13.dita" class="- map/topicref " navtitle="Classification">
+                        <topicref href="ifric02/IFRIC02_A12.dita" class="- map/topicref " navtitle="A12"/>
+                        <topicref href="ifric02/IFRIC02_A13.dita" class="- map/topicref " navtitle="A13"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifric02/IFRIC02_gA14-A15.dita" class="- map/topicref " navtitle="Example 5">
+                    <topicref href="ifric02/IFRIC02_gA14-A14.dita" class="- map/topicref " navtitle="Facts">
+                        <topicref href="ifric02/IFRIC02_A14.dita" class="- map/topicref " navtitle="A14"/>
+                    </topicref>
+                    <topicref href="ifric02/IFRIC02_gA15-A15.dita" class="- map/topicref " navtitle="Classification">
+                        <topicref href="ifric02/IFRIC02_A15.dita" class="- map/topicref " navtitle="A15"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifric02/IFRIC02_gA16-A17.dita" class="- map/topicref " navtitle="Example 6">
+                    <topicref href="ifric02/IFRIC02_gA16-A16.dita" class="- map/topicref " navtitle="Facts">
+                        <topicref href="ifric02/IFRIC02_A16.dita" class="- map/topicref " navtitle="A16"/>
+                    </topicref>
+                    <topicref href="ifric02/IFRIC02_gA17-A17.dita" class="- map/topicref " navtitle="Classification">
+                        <topicref href="ifric02/IFRIC02_A17.dita" class="- map/topicref " navtitle="A17"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifric02/IFRIC02_gA18-A19.dita" class="- map/topicref " navtitle="Example 7">
+                    <topicref href="ifric02/IFRIC02_gA18-A18.dita" class="- map/topicref " navtitle="Facts">
+                        <topicref href="ifric02/IFRIC02_A18.dita" class="- map/topicref " navtitle="A18"/>
+                    </topicref>
+                    <topicref href="ifric02/IFRIC02_gA19-A19.dita" class="- map/topicref " navtitle="Classification">
+                        <topicref href="ifric02/IFRIC02_A19.dita" class="- map/topicref " navtitle="A19"/>
+                    </topicref>
+                </topicref>
+            </topicref>
+        </topicref>
+    </topicref></chapter>
+    
+</bookmap>

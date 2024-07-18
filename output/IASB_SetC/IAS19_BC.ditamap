@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" chunk="to-content" id="IAS19_BC_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Employee Benefits</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Basis For Conclusions</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IAS 19</booknumber>
+        </bookid>
+        <document_type value="IAS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2013-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2011-06-16" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ias-19-employee-benefits" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="basis-for-conclusion" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ias19/IAS19_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias19/IAS19_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias19/IAS19_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ias19/IAS19_PartC.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ias19/IAS19_TOC0004.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+    </frontmatter>
+    <chapter href="ias19/IAS19_TI0075.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Basis for Conclusions on IAS 19 Employee Benefits">
+        <topicref href="ias19/IAS19_gBC1-BC2.dita" class="- map/topicref " navtitle="Introduction">
+            <topicref href="ias19/IAS19_BC1.dita" class="- map/topicref " navtitle="BC1"/>
+            <topicref href="ias19/IAS19_BC2.dita" class="- map/topicref " navtitle="BC2"/>
+        </topicref>
+        <topicref href="ias19/IAS19_gBC3-BC15.dita" class="- map/topicref " navtitle="Amendments made in 2011">
+            <topicref href="ias19/IAS19_BC3.dita" class="- map/topicref " navtitle="BC3"/>
+            <topicref href="ias19/IAS19_BC4.dita" class="- map/topicref " navtitle="BC4"/>
+            <topicref href="ias19/IAS19_BC5.dita" class="- map/topicref " navtitle="BC5"/>
+            <topicref href="ias19/IAS19_BC6.dita" class="- map/topicref " navtitle="BC6"/>
+            <topicref href="ias19/IAS19_BC7.dita" class="- map/topicref " navtitle="BC7"/>
+            <topicref href="ias19/IAS19_BC8.dita" class="- map/topicref " navtitle="BC8"/>
+            <topicref href="ias19/IAS19_BC9.dita" class="- map/topicref " navtitle="BC9"/>
+            <topicref href="ias19/IAS19_BC10.dita" class="- map/topicref " navtitle="BC10"/>
+            <topicref href="ias19/IAS19_BC11.dita" class="- map/topicref " navtitle="BC11"/>
+            <topicref href="ias19/IAS19_gBC12-BC13.dita" class="- map/topicref " navtitle="Matters not addressed as part of the limited scope project">
+                <topicref href="ias19/IAS19_BC12.dita" class="- map/topicref " navtitle="BC12"/>
+                <topicref href="ias19/IAS19_BC13.dita" class="- map/topicref " navtitle="BC13"/>
+            </topicref>
+            <topicref href="ias19/IAS19_gBC14-BC15.dita" class="- map/topicref " navtitle="Employee Benefits Working Group">
+                <topicref href="ias19/IAS19_BC14.dita" class="- map/topicref " navtitle="BC14"/>
+                <topicref href="ias19/IAS19_BC15.dita" class="- map/topicref " navtitle="BC15"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias19/IAS19_gBC16-BC24.dita" class="- map/topicref " navtitle="Classification of benefits">
+            <topicref href="ias19/IAS19_gBC16-BC21.dita" class="- map/topicref " navtitle="Short‑term employee benefits: amendments issued in 2011">
+                <topicref href="ias19/IAS19_BC16.dita" class="- map/topicref " navtitle="BC16"/>
+                <topicref href="ias19/IAS19_BC17.dita" class="- map/topicref " navtitle="BC17"/>
+                <topicref href="ias19/IAS19_BC18.dita" class="- map/topicref " navtitle="BC18"/>
+                <topicref href="ias19/IAS19_BC19.dita" class="- map/topicref " navtitle="BC19"/>
+                <topicref href="ias19/IAS19_BC20.dita" class="- map/topicref " navtitle="BC20"/>
+                <topicref href="ias19/IAS19_BC21.dita" class="- map/topicref " navtitle="BC21"/>
+            </topicref>
+            <topicref href="ias19/IAS19_gBC22-BC24.dita" class="- map/topicref " navtitle="Long‑term employee benefits: exposure draft published in 2010">
+                <topicref href="ias19/IAS19_BC22.dita" class="- map/topicref " navtitle="BC22"/>
+                <topicref href="ias19/IAS19_BC23.dita" class="- map/topicref " navtitle="BC23"/>
+                <topicref href="ias19/IAS19_BC24.dita" class="- map/topicref " navtitle="BC24"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias19/IAS19_gBC25-BC27.dita" class="- map/topicref " navtitle="Short‑term employee benefits">
+            <topicref href="ias19/IAS19_sgBC25-BC27.dita" class="- map/topicref " navtitle="Paid absences">
+                <topicref href="ias19/IAS19_BC25.dita" class="- map/topicref " navtitle="BC25"/>
+                <topicref href="ias19/IAS19_BC26.dita" class="- map/topicref " navtitle="BC26"/>
+                <topicref href="ias19/IAS19_BC27.dita" class="- map/topicref " navtitle="BC27"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias19/IAS19_gBC28-BC150Q.dita" class="- map/topicref " navtitle="Post‑employment benefits">
+            <topicref href="ias19/IAS19_gBC28-BC30.dita" class="- map/topicref " navtitle="Distinction between defined contribution plans and defined benefit plans">
+                <topicref href="ias19/IAS19_gBC28-BC29.dita" class="- map/topicref " navtitle="Defined contribution plans">
+                    <topicref href="ias19/IAS19_BC28.dita" class="- map/topicref " navtitle="BC28"/>
+                    <topicref href="ias19/IAS19_BC29.dita" class="- map/topicref " navtitle="BC29"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC30-BC30.dita" class="- map/topicref " navtitle="Defined benefit plans: amendments issued in 2011">
+                    <topicref href="ias19/IAS19_BC30.dita" class="- map/topicref " navtitle="BC30"/>
+                </topicref>
+            </topicref>
+            <topicref href="ias19/IAS19_gBC31-BC51.dita" class="- map/topicref " navtitle="Multi‑employer plans and state plans">
+                <topicref href="ias19/IAS19_BC31.dita" class="- map/topicref " navtitle="BC31"/>
+                <topicref href="ias19/IAS19_BC32.dita" class="- map/topicref " navtitle="BC32"/>
+                <topicref href="ias19/IAS19_BC33.dita" class="- map/topicref " navtitle="BC33"/>
+                <topicref href="ias19/IAS19_BC34.dita" class="- map/topicref " navtitle="BC34"/>
+                <topicref href="ias19/IAS19_gBC35-BC38.dita" class="- map/topicref " navtitle="Multi‑employer plans: amendments issued in 2004">
+                    <topicref href="ias19/IAS19_BC35.dita" class="- map/topicref " navtitle="BC35"/>
+                    <topicref href="ias19/IAS19_BC36.dita" class="- map/topicref " navtitle="BC36"/>
+                    <topicref href="ias19/IAS19_BC37.dita" class="- map/topicref " navtitle="BC37"/>
+                    <topicref href="ias19/IAS19_BC38.dita" class="- map/topicref " navtitle="BC38"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC39-BC39.dita" class="- map/topicref " navtitle="Multi‑employer plans: exposure draft published in 2010">
+                    <topicref href="ias19/IAS19_BC39.dita" class="- map/topicref " navtitle="BC39"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC40-BC50.dita" class="- map/topicref " navtitle="Group plans: amendments issued in 2004">
+                    <topicref href="ias19/IAS19_BC40.dita" class="- map/topicref " navtitle="BC40"/>
+                    <topicref href="ias19/IAS19_BC41.dita" class="- map/topicref " navtitle="BC41"/>
+                    <topicref href="ias19/IAS19_BC42.dita" class="- map/topicref " navtitle="BC42"/>
+                    <topicref href="ias19/IAS19_BC43.dita" class="- map/topicref " navtitle="BC43"/>
+                    <topicref href="ias19/IAS19_BC44.dita" class="- map/topicref " navtitle="BC44"/>
+                    <topicref href="ias19/IAS19_BC45.dita" class="- map/topicref " navtitle="BC45"/>
+                    <topicref href="ias19/IAS19_BC46.dita" class="- map/topicref " navtitle="BC46"/>
+                    <topicref href="ias19/IAS19_BC47.dita" class="- map/topicref " navtitle="BC47"/>
+                    <topicref href="ias19/IAS19_BC48.dita" class="- map/topicref " navtitle="BC48"/>
+                    <topicref href="ias19/IAS19_BC49.dita" class="- map/topicref " navtitle="BC49"/>
+                    <topicref href="ias19/IAS19_BC50.dita" class="- map/topicref " navtitle="BC50"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC51-BC51.dita" class="- map/topicref " navtitle="State plan and group plan disclosures: amendments issued in 2011">
+                    <topicref href="ias19/IAS19_BC51.dita" class="- map/topicref " navtitle="BC51"/>
+                </topicref>
+            </topicref>
+            <topicref href="ias19/IAS19_gBC52-BC150Q.dita" class="- map/topicref " navtitle="Defined benefit plans: recognition and measurement">
+                <topicref href="ias19/IAS19_BC52.dita" class="- map/topicref " navtitle="BC52"/>
+                <topicref href="ias19/IAS19_BC53.dita" class="- map/topicref " navtitle="BC53"/>
+                <topicref href="ias19/IAS19_BC54.dita" class="- map/topicref " navtitle="BC54"/>
+                <topicref href="ias19/IAS19_BC55.dita" class="- map/topicref " navtitle="BC55"/>
+                <topicref href="ias19/IAS19_gBC56-BC57.dita" class="- map/topicref " navtitle="Measurement date">
+                    <topicref href="ias19/IAS19_BC56.dita" class="- map/topicref " navtitle="BC56"/>
+                    <topicref href="ias19/IAS19_BC57.dita" class="- map/topicref " navtitle="BC57"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC58-BC64.dita" class="- map/topicref " navtitle="Interim reporting: effects of the amendments issued in 2011">
+                    <topicref href="ias19/IAS19_BC58.dita" class="- map/topicref " navtitle="BC58"/>
+                    <topicref href="ias19/IAS19_BC59.dita" class="- map/topicref " navtitle="BC59"/>
+                    <topicref href="ias19/IAS19_BC60.dita" class="- map/topicref " navtitle="BC60"/>
+                    <topicref href="ias19/IAS19_BC61.dita" class="- map/topicref " navtitle="BC61"/>
+                    <topicref href="ias19/IAS19_BC62.dita" class="- map/topicref " navtitle="BC62"/>
+                    <topicref href="ias19/IAS19_BC63.dita" class="- map/topicref " navtitle="BC63"/>
+                    <topicref href="ias19/IAS19_BC64_DELETED.dita" class="- map/topicref " navtitle="BC64"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC65-BC100.dita" class="- map/topicref " navtitle="Recognition: amendments issued in 2011">
+                    <topicref href="ias19/IAS19_BC65.dita" class="- map/topicref " navtitle="BC65"/>
+                    <topicref href="ias19/IAS19_BC66.dita" class="- map/topicref " navtitle="BC66"/>
+                    <topicref href="ias19/IAS19_BC67.dita" class="- map/topicref " navtitle="BC67"/>
+                    <topicref href="ias19/IAS19_BC68.dita" class="- map/topicref " navtitle="BC68"/>
+                    <topicref href="ias19/IAS19_BC69.dita" class="- map/topicref " navtitle="BC69"/>
+                    <topicref href="ias19/IAS19_gBC70-BC72.dita" class="- map/topicref " navtitle="Immediate recognition: elimination of the corridor">
+                        <topicref href="ias19/IAS19_BC70.dita" class="- map/topicref " navtitle="BC70"/>
+                        <topicref href="ias19/IAS19_BC71.dita" class="- map/topicref " navtitle="BC71"/>
+                        <topicref href="ias19/IAS19_BC72.dita" class="- map/topicref " navtitle="BC72"/>
+                    </topicref>
+                    <topicref href="ias19/IAS19_gBC73-BC73.dita" class="- map/topicref " navtitle="Components of defined benefit cost: service cost">
+                        <topicref href="ias19/IAS19_BC73.dita" class="- map/topicref " navtitle="BC73"/>
+                    </topicref>
+                    <topicref href="ias19/IAS19_gBC74-BC85.dita" class="- map/topicref " navtitle="Components of defined benefit cost: net interest">
+                        <topicref href="ias19/IAS19_BC74.dita" class="- map/topicref " navtitle="BC74"/>
+                        <topicref href="ias19/IAS19_BC75.dita" class="- map/topicref " navtitle="BC75"/>
+                        <topicref href="ias19/IAS19_BC76.dita" class="- map/topicref " navtitle="BC76"/>
+                        <topicref href="ias19/IAS19_BC77.dita" class="- map/topicref " navtitle="BC77"/>
+                        <topicref href="ias19/IAS19_BC78.dita" class="- map/topicref " navtitle="BC78"/>
+                        <topicref href="ias19/IAS19_BC79.dita" class="- map/topicref " navtitle="BC79"/>
+                        <topicref href="ias19/IAS19_BC80.dita" class="- map/topicref " navtitle="BC80"/>
+                        <topicref href="ias19/IAS19_BC81.dita" class="- map/topicref " navtitle="BC81"/>
+                        <topicref href="ias19/IAS19_BC82.dita" class="- map/topicref " navtitle="BC82"/>
+                        <topicref href="ias19/IAS19_BC83.dita" class="- map/topicref " navtitle="BC83"/>
+                        <topicref href="ias19/IAS19_BC84.dita" class="- map/topicref " navtitle="BC84"/>
+                        <topicref href="ias19/IAS19_BC85.dita" class="- map/topicref " navtitle="BC85"/>
+                    </topicref>
+                    <topicref href="ias19/IAS19_gBC86-BC87.dita" class="- map/topicref " navtitle="Components of defined benefit cost: remeasurements">
+                        <topicref href="ias19/IAS19_BC86.dita" class="- map/topicref " navtitle="BC86"/>
+                        <topicref href="ias19/IAS19_BC87.dita" class="- map/topicref " navtitle="BC87"/>
+                    </topicref>
+                    <topicref href="ias19/IAS19_gBC88-BC91.dita" class="- map/topicref " navtitle="Components of defined benefit cost: recognition of the remeasurements component">
+                        <topicref href="ias19/IAS19_BC88.dita" class="- map/topicref " navtitle="BC88"/>
+                        <topicref href="ias19/IAS19_BC89.dita" class="- map/topicref " navtitle="BC89"/>
+                        <topicref href="ias19/IAS19_BC90.dita" class="- map/topicref " navtitle="BC90"/>
+                        <topicref href="ias19/IAS19_BC91.dita" class="- map/topicref " navtitle="BC91"/>
+                    </topicref>
+                    <topicref href="ias19/IAS19_gBC92-BC98.dita" class="- map/topicref " navtitle="Components of defined benefit cost: other approaches to recognising remeasurements">
+                        <topicref href="ias19/IAS19_BC92.dita" class="- map/topicref " navtitle="BC92"/>
+                        <topicref href="ias19/IAS19_BC93.dita" class="- map/topicref " navtitle="BC93"/>
+                        <topicref href="ias19/IAS19_BC94.dita" class="- map/topicref " navtitle="BC94"/>
+                        <topicref href="ias19/IAS19_BC95.dita" class="- map/topicref " navtitle="BC95"/>
+                        <topicref href="ias19/IAS19_BC96.dita" class="- map/topicref " navtitle="BC96"/>
+                        <topicref href="ias19/IAS19_BC97.dita" class="- map/topicref " navtitle="BC97"/>
+                        <topicref href="ias19/IAS19_BC98.dita" class="- map/topicref " navtitle="BC98"/>
+                    </topicref>
+                    <topicref href="ias19/IAS19_gBC99-BC99.dita" class="- map/topicref " navtitle="Components of defined benefit cost: reclassification to profit or loss">
+                        <topicref href="ias19/IAS19_BC99.dita" class="- map/topicref " navtitle="BC99"/>
+                    </topicref>
+                    <topicref href="ias19/IAS19_gBC100-BC100.dita" class="- map/topicref " navtitle="Components of defined benefit cost: cumulative remeasurements">
+                        <topicref href="ias19/IAS19_BC100.dita" class="- map/topicref " navtitle="BC100"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC101-BC102.dita" class="- map/topicref " navtitle="The asset ceiling">
+                    <topicref href="ias19/IAS19_BC101.dita" class="- map/topicref " navtitle="BC101"/>
+                    <topicref href="ias19/IAS19_BC102.dita" class="- map/topicref " navtitle="BC102"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC103-BC105.dita" class="- map/topicref " navtitle="An additional minimum liability">
+                    <topicref href="ias19/IAS19_BC103.dita" class="- map/topicref " navtitle="BC103"/>
+                    <topicref href="ias19/IAS19_BC104.dita" class="- map/topicref " navtitle="BC104"/>
+                    <topicref href="ias19/IAS19_BC105.dita" class="- map/topicref " navtitle="BC105"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC106-BC107.dita" class="- map/topicref " navtitle="Recognition of defined benefit cost as part of an asset: amendments issued in 2011">
+                    <topicref href="ias19/IAS19_BC106.dita" class="- map/topicref " navtitle="BC106"/>
+                    <topicref href="ias19/IAS19_BC107.dita" class="- map/topicref " navtitle="BC107"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC108-BC113.dita" class="- map/topicref " navtitle="Actuarial valuation method">
+                    <topicref href="ias19/IAS19_BC108.dita" class="- map/topicref " navtitle="BC108"/>
+                    <topicref href="ias19/IAS19_BC109.dita" class="- map/topicref " navtitle="BC109"/>
+                    <topicref href="ias19/IAS19_BC110.dita" class="- map/topicref " navtitle="BC110"/>
+                    <topicref href="ias19/IAS19_BC111.dita" class="- map/topicref " navtitle="BC111"/>
+                    <topicref href="ias19/IAS19_BC112.dita" class="- map/topicref " navtitle="BC112"/>
+                    <topicref href="ias19/IAS19_BC113.dita" class="- map/topicref " navtitle="BC113"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC114-BC116.dita" class="- map/topicref " navtitle="Attributing benefit to periods of service">
+                    <topicref href="ias19/IAS19_BC114.dita" class="- map/topicref " navtitle="BC114"/>
+                    <topicref href="ias19/IAS19_BC115.dita" class="- map/topicref " navtitle="BC115"/>
+                    <topicref href="ias19/IAS19_BC116.dita" class="- map/topicref " navtitle="BC116"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC117-BC120.dita" class="- map/topicref " navtitle="Attributing benefit to periods of service: exposure draft published in 2010">
+                    <topicref href="ias19/IAS19_BC117.dita" class="- map/topicref " navtitle="BC117"/>
+                    <topicref href="ias19/IAS19_BC118.dita" class="- map/topicref " navtitle="BC118"/>
+                    <topicref href="ias19/IAS19_BC119.dita" class="- map/topicref " navtitle="BC119"/>
+                    <topicref href="ias19/IAS19_BC120.dita" class="- map/topicref " navtitle="BC120"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC121-BC124.dita" class="- map/topicref " navtitle="Actuarial assumptions—tax payable by the plan: amendments issued in 2011">
+                    <topicref href="ias19/IAS19_BC121.dita" class="- map/topicref " navtitle="BC121"/>
+                    <topicref href="ias19/IAS19_BC122.dita" class="- map/topicref " navtitle="BC122"/>
+                    <topicref href="ias19/IAS19_BC123.dita" class="- map/topicref " navtitle="BC123"/>
+                    <topicref href="ias19/IAS19_BC124.dita" class="- map/topicref " navtitle="BC124"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC125-BC128.dita" class="- map/topicref " navtitle="Actuarial assumptions—administration costs: amendments issued in 2011">
+                    <topicref href="ias19/IAS19_BC125.dita" class="- map/topicref " navtitle="BC125"/>
+                    <topicref href="ias19/IAS19_BC126.dita" class="- map/topicref " navtitle="BC126"/>
+                    <topicref href="ias19/IAS19_BC127.dita" class="- map/topicref " navtitle="BC127"/>
+                    <topicref href="ias19/IAS19_BC128.dita" class="- map/topicref " navtitle="BC128"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC129-BC137.dita" class="- map/topicref " navtitle="Actuarial assumptions—discount rate">
+                    <topicref href="ias19/IAS19_BC129.dita" class="- map/topicref " navtitle="BC129"/>
+                    <topicref href="ias19/IAS19_BC130.dita" class="- map/topicref " navtitle="BC130"/>
+                    <topicref href="ias19/IAS19_BC131.dita" class="- map/topicref " navtitle="BC131"/>
+                    <topicref href="ias19/IAS19_BC132.dita" class="- map/topicref " navtitle="BC132"/>
+                    <topicref href="ias19/IAS19_BC133.dita" class="- map/topicref " navtitle="BC133"/>
+                    <topicref href="ias19/IAS19_BC134.dita" class="- map/topicref " navtitle="BC134"/>
+                    <topicref href="ias19/IAS19_BC135.dita" class="- map/topicref " navtitle="BC135"/>
+                    <topicref href="ias19/IAS19_BC136.dita" class="- map/topicref " navtitle="BC136"/>
+                    <topicref href="ias19/IAS19_BC137.dita" class="- map/topicref " navtitle="BC137"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC138-BC139.dita" class="- map/topicref " navtitle="Actuarial assumptions—discount rate: exposure draft published in 2009">
+                    <topicref href="ias19/IAS19_BC138.dita" class="- map/topicref " navtitle="BC138"/>
+                    <topicref href="ias19/IAS19_BC139.dita" class="- map/topicref " navtitle="BC139"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC140-BC141.dita" class="- map/topicref " navtitle="Actuarial assumptions—salaries, benefits and medical costs">
+                    <topicref href="ias19/IAS19_BC140.dita" class="- map/topicref " navtitle="BC140"/>
+                    <topicref href="ias19/IAS19_BC141.dita" class="- map/topicref " navtitle="BC141"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC142-BC142.dita" class="- map/topicref " navtitle="Actuarial assumptions—mortality: amendments issued in 2011">
+                    <topicref href="ias19/IAS19_BC142.dita" class="- map/topicref " navtitle="BC142"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC143-BC150.dita" class="- map/topicref " navtitle="Actuarial assumptions—risk‑sharing: amendments issued in 2011">
+                    <topicref href="ias19/IAS19_BC143.dita" class="- map/topicref " navtitle="BC143"/>
+                    <topicref href="ias19/IAS19_BC144.dita" class="- map/topicref " navtitle="BC144"/>
+                    <topicref href="ias19/IAS19_BC145.dita" class="- map/topicref " navtitle="BC145"/>
+                    <topicref href="ias19/IAS19_BC146.dita" class="- map/topicref " navtitle="BC146"/>
+                    <topicref href="ias19/IAS19_gBC147-BC149.dita" class="- map/topicref " navtitle="Conditional indexation">
+                        <topicref href="ias19/IAS19_BC147.dita" class="- map/topicref " navtitle="BC147"/>
+                        <topicref href="ias19/IAS19_BC148.dita" class="- map/topicref " navtitle="BC148"/>
+                        <topicref href="ias19/IAS19_BC149.dita" class="- map/topicref " navtitle="BC149"/>
+                    </topicref>
+                    <topicref href="ias19/IAS19_gBC150-BC150.dita" class="- map/topicref " navtitle="Other clarifications">
+                        <topicref href="ias19/IAS19_BC150.dita" class="- map/topicref " navtitle="BC150"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC150A-BC150F.dita" class="- map/topicref " navtitle="Actuarial assumptions—discount rate: regional market issue">
+                    <topicref href="ias19/IAS19_BC150A.dita" class="- map/topicref " navtitle="BC150A"/>
+                    <topicref href="ias19/IAS19_BC150B.dita" class="- map/topicref " navtitle="BC150B"/>
+                    <topicref href="ias19/IAS19_BC150C.dita" class="- map/topicref " navtitle="BC150C"/>
+                    <topicref href="ias19/IAS19_BC150D.dita" class="- map/topicref " navtitle="BC150D"/>
+                    <topicref href="ias19/IAS19_BC150E.dita" class="- map/topicref " navtitle="BC150E"/>
+                    <topicref href="ias19/IAS19_BC150F.dita" class="- map/topicref " navtitle="BC150F"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC150A-BC150K_RgBC150G-BC150Q.dita" keys="IAS19_gBC150A-BC150K_TI_V1" class="- map/topicref " navtitle="Contributions from employees or third parties: amendments issued in 2013">
+                    <topicref href="ias19/IAS19_BC150A_RBC150G.dita" class="- map/topicref " navtitle="BC150G"/>
+                    <topicref href="ias19/IAS19_BC150B_RBC150H.dita" class="- map/topicref " navtitle="BC150H"/>
+                    <topicref href="ias19/IAS19_BC150C_RBC150I.dita" class="- map/topicref " navtitle="BC150I"/>
+                    <topicref href="ias19/IAS19_BC150D_RBC150J.dita" class="- map/topicref " navtitle="BC150J"/>
+                    <topicref href="ias19/IAS19_BC150E_RBC150K.dita" class="- map/topicref " navtitle="BC150K"/>
+                    <topicref href="ias19/IAS19_BC150F_RBC150L.dita" class="- map/topicref " navtitle="BC150L"/>
+                    <topicref href="ias19/IAS19_BC150G_RBC150M.dita" class="- map/topicref " navtitle="BC150M"/>
+                    <topicref href="ias19/IAS19_BC150H_RBC150N.dita" class="- map/topicref " navtitle="BC150N"/>
+                    <topicref href="ias19/IAS19_BC150I_RBC150O.dita" class="- map/topicref " navtitle="BC150O"/>
+                    <topicref href="ias19/IAS19_BC150J_RBC150P.dita" class="- map/topicref " navtitle="BC150P"/>
+                    <topicref href="ias19/IAS19_BC150K_RBC150Q.dita" class="- map/topicref " navtitle="BC150Q"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ias19/IAS19_gBC151-BC151.dita" class="- map/topicref " navtitle="Curtailments and settlements">
+            <topicref href="ias19/IAS19_BC151.dita" class="- map/topicref " navtitle="BC151"/>
+        </topicref>
+        <topicref href="ias19/IAS19_gBC152-BC173.dita" class="- map/topicref " navtitle="Plan amendments, curtailments and settlements: amendments issued in 2011">
+            <topicref href="ias19/IAS19_BC152.dita" class="- map/topicref " navtitle="BC152"/>
+            <topicref href="ias19/IAS19_BC153.dita" class="- map/topicref " navtitle="BC153"/>
+            <topicref href="ias19/IAS19_gBC154-BC159.dita" class="- map/topicref " navtitle="Immediate recognition—past service cost">
+                <topicref href="ias19/IAS19_BC154.dita" class="- map/topicref " navtitle="BC154"/>
+                <topicref href="ias19/IAS19_BC155.dita" class="- map/topicref " navtitle="BC155"/>
+                <topicref href="ias19/IAS19_BC156.dita" class="- map/topicref " navtitle="BC156"/>
+                <topicref href="ias19/IAS19_BC157.dita" class="- map/topicref " navtitle="BC157"/>
+                <topicref href="ias19/IAS19_BC158.dita" class="- map/topicref " navtitle="BC158"/>
+                <topicref href="ias19/IAS19_BC159.dita" class="- map/topicref " navtitle="BC159"/>
+            </topicref>
+            <topicref href="ias19/IAS19_gBC160-BC163.dita" class="- map/topicref " navtitle="Definitions of past service cost, curtailments and settlements">
+                <topicref href="ias19/IAS19_BC160.dita" class="- map/topicref " navtitle="BC160"/>
+                <topicref href="ias19/IAS19_BC161.dita" class="- map/topicref " navtitle="BC161"/>
+                <topicref href="ias19/IAS19_BC162.dita" class="- map/topicref " navtitle="BC162"/>
+                <topicref href="ias19/IAS19_BC163.dita" class="- map/topicref " navtitle="BC163"/>
+            </topicref>
+            <topicref href="ias19/IAS19_gBC164-BC164.dita" class="- map/topicref " navtitle="Other alternatives considered for accounting for plan amendments and settlements">
+                <topicref href="ias19/IAS19_BC164.dita" class="- map/topicref " navtitle="BC164"/>
+            </topicref>
+            <topicref href="ias19/IAS19_gBC165-BC170.dita" class="- map/topicref " navtitle="Other alternatives considered: confirming the proposals in the 2010 ED">
+                <topicref href="ias19/IAS19_BC165.dita" class="- map/topicref " navtitle="BC165"/>
+                <topicref href="ias19/IAS19_BC166.dita" class="- map/topicref " navtitle="BC166"/>
+                <topicref href="ias19/IAS19_BC167.dita" class="- map/topicref " navtitle="BC167"/>
+                <topicref href="ias19/IAS19_BC168.dita" class="- map/topicref " navtitle="BC168"/>
+                <topicref href="ias19/IAS19_BC169.dita" class="- map/topicref " navtitle="BC169"/>
+                <topicref href="ias19/IAS19_BC170.dita" class="- map/topicref " navtitle="BC170"/>
+            </topicref>
+            <topicref href="ias19/IAS19_gBC171-BC173.dita" class="- map/topicref " navtitle="Other alternatives considered: remeasurements approach">
+                <topicref href="ias19/IAS19_BC171.dita" class="- map/topicref " navtitle="BC171"/>
+                <topicref href="ias19/IAS19_BC172.dita" class="- map/topicref " navtitle="BC172"/>
+                <topicref href="ias19/IAS19_BC173.dita" class="- map/topicref " navtitle="BC173"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias19/IAS19_gBC173A-BC173H_V1.dita" class="- map/topicref " navtitle="Plan Amendment, Curtailment or Settlement—amendments issued in 2018">
+            <topicref href="ias19/IAS19_BC173A.dita" class="- map/topicref " navtitle="BC173A"/>
+            <topicref href="ias19/IAS19_BC173B.dita" class="- map/topicref " navtitle="BC173B"/>
+            <topicref href="ias19/IAS19_BC173C.dita" class="- map/topicref " navtitle="BC173C"/>
+            <topicref href="ias19/IAS19_BC173D.dita" class="- map/topicref " navtitle="BC173D"/>
+            <topicref href="ias19/IAS19_BC173E.dita" class="- map/topicref " navtitle="BC173E"/>
+            <topicref href="ias19/IAS19_BC173F.dita" class="- map/topicref " navtitle="BC173F"/>
+            <topicref href="ias19/IAS19_gBC173G-BC173H.dita" class="- map/topicref " navtitle="Effect on the asset ceiling requirements">
+                <topicref href="ias19/IAS19_BC173G.dita" class="- map/topicref " navtitle="BC173G"/>
+                <topicref href="ias19/IAS19_BC173H.dita" class="- map/topicref " navtitle="BC173H"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias19/IAS19_gBC174-BC177.dita" class="- map/topicref " navtitle="Plan assets">
+            <topicref href="ias19/IAS19_BC174.dita" class="- map/topicref " navtitle="BC174"/>
+            <topicref href="ias19/IAS19_BC175.dita" class="- map/topicref " navtitle="BC175"/>
+            <topicref href="ias19/IAS19_BC176.dita" class="- map/topicref " navtitle="BC176"/>
+            <topicref href="ias19/IAS19_BC177.dita" class="- map/topicref " navtitle="BC177"/>
+        </topicref>
+        <topicref href="ias19/IAS19_gBC178-BC190.dita" class="- map/topicref " navtitle="Plan assets: amendments issued in 2000">
+            <topicref href="ias19/IAS19_BC178.dita" class="- map/topicref " navtitle="BC178"/>
+            <topicref href="ias19/IAS19_BC179.dita" class="- map/topicref " navtitle="BC179"/>
+            <topicref href="ias19/IAS19_BC180.dita" class="- map/topicref " navtitle="BC180"/>
+            <topicref href="ias19/IAS19_BC181.dita" class="- map/topicref " navtitle="BC181"/>
+            <topicref href="ias19/IAS19_BC182.dita" class="- map/topicref " navtitle="BC182"/>
+            <topicref href="ias19/IAS19_BC183.dita" class="- map/topicref " navtitle="BC183"/>
+            <topicref href="ias19/IAS19_BC184.dita" class="- map/topicref " navtitle="BC184"/>
+            <topicref href="ias19/IAS19_BC185.dita" class="- map/topicref " navtitle="BC185"/>
+            <topicref href="ias19/IAS19_BC186.dita" class="- map/topicref " navtitle="BC186"/>
+            <topicref href="ias19/IAS19_BC187.dita" class="- map/topicref " navtitle="BC187"/>
+            <topicref href="ias19/IAS19_BC188.dita" class="- map/topicref " navtitle="BC188"/>
+            <topicref href="ias19/IAS19_BC189.dita" class="- map/topicref " navtitle="BC189"/>
+            <topicref href="ias19/IAS19_BC190.dita" class="- map/topicref " navtitle="BC190"/>
+        </topicref>
+        <topicref href="ias19/IAS19_gBC191-BC194.dita" class="- map/topicref " navtitle="Plan assets—measurement">
+            <topicref href="ias19/IAS19_BC191.dita" class="- map/topicref " navtitle="BC191"/>
+            <topicref href="ias19/IAS19_BC192.dita" class="- map/topicref " navtitle="BC192"/>
+            <topicref href="ias19/IAS19_BC193.dita" class="- map/topicref " navtitle="BC193"/>
+            <topicref href="ias19/IAS19_BC194.dita" class="- map/topicref " navtitle="BC194"/>
+        </topicref>
+        <topicref href="ias19/IAS19_gBC195-BC199.dita" class="- map/topicref " navtitle="Reimbursements: amendments issued in 2000">
+            <topicref href="ias19/IAS19_BC195.dita" class="- map/topicref " navtitle="BC195"/>
+            <topicref href="ias19/IAS19_BC196.dita" class="- map/topicref " navtitle="BC196"/>
+            <topicref href="ias19/IAS19_BC197.dita" class="- map/topicref " navtitle="BC197"/>
+            <topicref href="ias19/IAS19_BC198.dita" class="- map/topicref " navtitle="BC198"/>
+            <topicref href="ias19/IAS19_BC199.dita" class="- map/topicref " navtitle="BC199"/>
+        </topicref>
+        <topicref href="ias19/IAS19_gBC200-BC200.dita" class="- map/topicref " navtitle="Defined benefit plans—presentation of assets and liabilities">
+            <topicref href="ias19/IAS19_BC200.dita" class="- map/topicref " navtitle="BC200"/>
+        </topicref>
+        <topicref href="ias19/IAS19_gBC201-BC202.dita" class="- map/topicref " navtitle="Defined benefit plans—presentation of defined benefit cost: amendments issued in 2011">
+            <topicref href="ias19/IAS19_BC201.dita" class="- map/topicref " navtitle="BC201"/>
+            <topicref href="ias19/IAS19_BC202.dita" class="- map/topicref " navtitle="BC202"/>
+        </topicref>
+        <topicref href="ias19/IAS19_gBC203-BC252.dita" class="- map/topicref " navtitle="Defined benefit plans—disclosures: amendments issued in 2011">
+            <topicref href="ias19/IAS19_BC203.dita" class="- map/topicref " navtitle="BC203"/>
+            <topicref href="ias19/IAS19_BC204.dita" class="- map/topicref " navtitle="BC204"/>
+            <topicref href="ias19/IAS19_BC205.dita" class="- map/topicref " navtitle="BC205"/>
+            <topicref href="ias19/IAS19_BC206.dita" class="- map/topicref " navtitle="BC206"/>
+            <topicref href="ias19/IAS19_gBC207-BC211.dita" class="- map/topicref " navtitle="The Board’s approach to disclosures about defined benefit plans">
+                <topicref href="ias19/IAS19_BC207.dita" class="- map/topicref " navtitle="BC207"/>
+                <topicref href="ias19/IAS19_BC208.dita" class="- map/topicref " navtitle="BC208"/>
+                <topicref href="ias19/IAS19_BC209.dita" class="- map/topicref " navtitle="BC209"/>
+                <topicref href="ias19/IAS19_BC210.dita" class="- map/topicref " navtitle="BC210"/>
+                <topicref href="ias19/IAS19_BC211.dita" class="- map/topicref " navtitle="BC211"/>
+            </topicref>
+            <topicref href="ias19/IAS19_gBC212-BC214.dita" class="- map/topicref " navtitle="Selecting disclosure objectives">
+                <topicref href="ias19/IAS19_BC212.dita" class="- map/topicref " navtitle="BC212"/>
+                <topicref href="ias19/IAS19_BC213.dita" class="- map/topicref " navtitle="BC213"/>
+                <topicref href="ias19/IAS19_BC214.dita" class="- map/topicref " navtitle="BC214"/>
+            </topicref>
+            <topicref href="ias19/IAS19_gBC215-BC228.dita" class="- map/topicref " navtitle="Characteristics of the defined benefit plan and amounts in the financial statements">
+                <topicref href="ias19/IAS19_BC215.dita" class="- map/topicref " navtitle="BC215"/>
+                <topicref href="ias19/IAS19_gBC216-BC218.dita" class="- map/topicref " navtitle="Exposure to risk">
+                    <topicref href="ias19/IAS19_BC216.dita" class="- map/topicref " navtitle="BC216"/>
+                    <topicref href="ias19/IAS19_BC217.dita" class="- map/topicref " navtitle="BC217"/>
+                    <topicref href="ias19/IAS19_BC218.dita" class="- map/topicref " navtitle="BC218"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC219-BC219.dita" class="- map/topicref " navtitle="Actuarial gains and losses arising from demographic and financial assumptions">
+                    <topicref href="ias19/IAS19_BC219.dita" class="- map/topicref " navtitle="BC219"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC220-BC220.dita" class="- map/topicref " navtitle="Plan amendments, curtailments and settlements">
+                    <topicref href="ias19/IAS19_BC220.dita" class="- map/topicref " navtitle="BC220"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC221-BC226.dita" class="- map/topicref " navtitle="Plan assets">
+                    <topicref href="ias19/IAS19_BC221.dita" class="- map/topicref " navtitle="BC221"/>
+                    <topicref href="ias19/IAS19_BC222.dita" class="- map/topicref " navtitle="BC222"/>
+                    <topicref href="ias19/IAS19_BC223.dita" class="- map/topicref " navtitle="BC223"/>
+                    <topicref href="ias19/IAS19_BC224.dita" class="- map/topicref " navtitle="BC224"/>
+                    <topicref href="ias19/IAS19_BC225.dita" class="- map/topicref " navtitle="BC225"/>
+                    <topicref href="ias19/IAS19_BC226.dita" class="- map/topicref " navtitle="BC226"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC227-BC228.dita" class="- map/topicref " navtitle="Actuarial assumptions">
+                    <topicref href="ias19/IAS19_BC227.dita" class="- map/topicref " navtitle="BC227"/>
+                    <topicref href="ias19/IAS19_BC228.dita" class="- map/topicref " navtitle="BC228"/>
+                </topicref>
+            </topicref>
+            <topicref href="ias19/IAS19_gBC229-BC243.dita" class="- map/topicref " navtitle="Amount, timing and uncertainty of future cash flows">
+                <topicref href="ias19/IAS19_BC229.dita" class="- map/topicref " navtitle="BC229"/>
+                <topicref href="ias19/IAS19_gBC230-BC234.dita" class="- map/topicref " navtitle="Asset‑liability matching strategies">
+                    <topicref href="ias19/IAS19_BC230.dita" class="- map/topicref " navtitle="BC230"/>
+                    <topicref href="ias19/IAS19_BC231.dita" class="- map/topicref " navtitle="BC231"/>
+                    <topicref href="ias19/IAS19_BC232.dita" class="- map/topicref " navtitle="BC232"/>
+                    <topicref href="ias19/IAS19_BC233.dita" class="- map/topicref " navtitle="BC233"/>
+                    <topicref href="ias19/IAS19_BC234.dita" class="- map/topicref " navtitle="BC234"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC235-BC239.dita" class="- map/topicref " navtitle="Sensitivity analysis">
+                    <topicref href="ias19/IAS19_BC235.dita" class="- map/topicref " navtitle="BC235"/>
+                    <topicref href="ias19/IAS19_BC236.dita" class="- map/topicref " navtitle="BC236"/>
+                    <topicref href="ias19/IAS19_BC237.dita" class="- map/topicref " navtitle="BC237"/>
+                    <topicref href="ias19/IAS19_BC238.dita" class="- map/topicref " navtitle="BC238"/>
+                    <topicref href="ias19/IAS19_BC239.dita" class="- map/topicref " navtitle="BC239"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC240-BC243.dita" class="- map/topicref " navtitle="Information about the funding and duration of the liability">
+                    <topicref href="ias19/IAS19_BC240.dita" class="- map/topicref " navtitle="BC240"/>
+                    <topicref href="ias19/IAS19_BC241.dita" class="- map/topicref " navtitle="BC241"/>
+                    <topicref href="ias19/IAS19_BC242.dita" class="- map/topicref " navtitle="BC242"/>
+                    <topicref href="ias19/IAS19_BC243.dita" class="- map/topicref " navtitle="BC243"/>
+                </topicref>
+            </topicref>
+            <topicref href="ias19/IAS19_gBC244-BC244.dita" class="- map/topicref " navtitle="Other disclosures considered but rejected by the Board">
+                <topicref href="ias19/IAS19_BC244.dita" class="- map/topicref " navtitle="BC244"/>
+            </topicref>
+            <topicref href="ias19/IAS19_gBC245-BC252.dita" class="- map/topicref " navtitle="Multi‑employer plans">
+                <topicref href="ias19/IAS19_BC245.dita" class="- map/topicref " navtitle="BC245"/>
+                <topicref href="ias19/IAS19_BC246.dita" class="- map/topicref " navtitle="BC246"/>
+                <topicref href="ias19/IAS19_gBC247-BC249.dita" class="- map/topicref " navtitle="Withdrawal obligations">
+                    <topicref href="ias19/IAS19_BC247.dita" class="- map/topicref " navtitle="BC247"/>
+                    <topicref href="ias19/IAS19_BC248.dita" class="- map/topicref " navtitle="BC248"/>
+                    <topicref href="ias19/IAS19_BC249.dita" class="- map/topicref " navtitle="BC249"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC250-BC250.dita" class="- map/topicref " navtitle="Future contributions">
+                    <topicref href="ias19/IAS19_BC250.dita" class="- map/topicref " navtitle="BC250"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gBC251-BC252.dita" class="- map/topicref " navtitle="Level of participation">
+                    <topicref href="ias19/IAS19_BC251.dita" class="- map/topicref " navtitle="BC251"/>
+                    <topicref href="ias19/IAS19_BC252.dita" class="- map/topicref " navtitle="BC252"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ias19/IAS19_gBC253-BC253.dita" class="- map/topicref " navtitle="Other long‑term employee benefits">
+            <topicref href="ias19/IAS19_sgBC253-BC253.dita" class="- map/topicref " navtitle="Death‑in‑service benefits">
+                <topicref href="ias19/IAS19_BC253.dita" class="- map/topicref " navtitle="BC253"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias19/IAS19_gBC254-BC261.dita" class="- map/topicref " navtitle="Termination benefits: amendments issued in 2011">
+            <topicref href="ias19/IAS19_BC254.dita" class="- map/topicref " navtitle="BC254"/>
+            <topicref href="ias19/IAS19_BC255.dita" class="- map/topicref " navtitle="BC255"/>
+            <topicref href="ias19/IAS19_gBC256-BC257.dita" class="- map/topicref " navtitle="Benefits payable in exchange for services">
+                <topicref href="ias19/IAS19_BC256.dita" class="- map/topicref " navtitle="BC256"/>
+                <topicref href="ias19/IAS19_BC257.dita" class="- map/topicref " navtitle="BC257"/>
+            </topicref>
+            <topicref href="ias19/IAS19_gBC258-BC260.dita" class="- map/topicref " navtitle="Recognition">
+                <topicref href="ias19/IAS19_BC258.dita" class="- map/topicref " navtitle="BC258"/>
+                <topicref href="ias19/IAS19_BC259.dita" class="- map/topicref " navtitle="BC259"/>
+                <topicref href="ias19/IAS19_BC260.dita" class="- map/topicref " navtitle="BC260"/>
+            </topicref>
+            <topicref href="ias19/IAS19_gBC261-BC261.dita" class="- map/topicref " navtitle="Measurement">
+                <topicref href="ias19/IAS19_BC261.dita" class="- map/topicref " navtitle="BC261"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias19/IAS19_gBC262-BC268.dita" class="- map/topicref " navtitle="Interaction between plan amendments, curtailments, settlements, termination benefits and restructuring costs">
+            <topicref href="ias19/IAS19_BC262.dita" class="- map/topicref " navtitle="BC262"/>
+            <topicref href="ias19/IAS19_BC263.dita" class="- map/topicref " navtitle="BC263"/>
+            <topicref href="ias19/IAS19_BC264.dita" class="- map/topicref " navtitle="BC264"/>
+            <topicref href="ias19/IAS19_BC265.dita" class="- map/topicref " navtitle="BC265"/>
+            <topicref href="ias19/IAS19_BC266.dita" class="- map/topicref " navtitle="BC266"/>
+            <topicref href="ias19/IAS19_BC267.dita" class="- map/topicref " navtitle="BC267"/>
+            <topicref href="ias19/IAS19_BC268.dita" class="- map/topicref " navtitle="BC268"/>
+        </topicref>
+        <topicref href="ias19/IAS19_gBC269-BC271E.dita" class="- map/topicref " navtitle="Transition">
+            <topicref href="ias19/IAS19_BC269.dita" class="- map/topicref " navtitle="BC269"/>
+            <topicref href="ias19/IAS19_gBC270-BC270.dita" class="- map/topicref " navtitle="First‑time adopters">
+                <topicref href="ias19/IAS19_BC270.dita" class="- map/topicref " navtitle="BC270"/>
+            </topicref>
+            <topicref href="ias19/IAS19_gBC271-BC271.dita" class="- map/topicref " navtitle="Early application">
+                <topicref href="ias19/IAS19_BC271.dita" class="- map/topicref " navtitle="BC271"/>
+            </topicref>
+            <topicref href="ias19/IAS19_gBC271A-BC271B_V1.dita" class="- map/topicref " navtitle="Transition provisions for Defined Benefit Plans: Employee Contributions">
+                <topicref href="ias19/IAS19_BC271A.dita" class="- map/topicref " navtitle="BC271A"/>
+                <topicref href="ias19/IAS19_BC271B.dita" class="- map/topicref " navtitle="BC271B"/>
+            </topicref>
+            <topicref href="ias19/IAS19_gBC271C-BC271C_V2.dita" class="- map/topicref " navtitle="Annual Improvements to IFRSs 2012–2014 Cycle">
+                <topicref href="ias19/IAS19_BC271C.dita" class="- map/topicref " navtitle="BC271C"/>
+            </topicref>
+            <topicref href="ias19/IAS19_gBC271D-BC271E_V1.dita" class="- map/topicref " navtitle="Plan Amendment, Curtailment or Settlement—amendments issued in 2018">
+                <topicref href="ias19/IAS19_BC271D.dita" class="- map/topicref " navtitle="BC271D"/>
+                <topicref href="ias19/IAS19_BC271E.dita" class="- map/topicref " navtitle="BC271E"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias19/IAS19_gBC272-BC273.dita" class="- map/topicref " navtitle="Summary of changes from the 2010 ED and 2005 ED: amendments issued in 2011">
+            <topicref href="ias19/IAS19_BC272.dita" class="- map/topicref " navtitle="BC272"/>
+            <topicref href="ias19/IAS19_BC273.dita" class="- map/topicref " navtitle="BC273"/>
+        </topicref>
+        <topicref href="ias19/IAS19_gBC274-BC279.dita" class="- map/topicref " navtitle="Convergence with US GAAP: amendments issued in 2011">
+            <topicref href="ias19/IAS19_gBC274-BC274.dita" class="- map/topicref " navtitle="Multi‑employer plan disclosures">
+                <topicref href="ias19/IAS19_BC274.dita" class="- map/topicref " navtitle="BC274"/>
+            </topicref>
+            <topicref href="ias19/IAS19_gBC275-BC276.dita" class="- map/topicref " navtitle="Recognition of defined benefit cost">
+                <topicref href="ias19/IAS19_BC275.dita" class="- map/topicref " navtitle="BC275"/>
+                <topicref href="ias19/IAS19_BC276.dita" class="- map/topicref " navtitle="BC276"/>
+            </topicref>
+            <topicref href="ias19/IAS19_gBC277-BC279.dita" class="- map/topicref " navtitle="Termination benefits">
+                <topicref href="ias19/IAS19_BC277.dita" class="- map/topicref " navtitle="BC277"/>
+                <topicref href="ias19/IAS19_BC278.dita" class="- map/topicref " navtitle="BC278"/>
+                <topicref href="ias19/IAS19_BC279.dita" class="- map/topicref " navtitle="BC279"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias19/IAS19_gBC280-BC284.dita" class="- map/topicref " navtitle="Cost‑benefit considerations: amendments issued in 2011">
+            <topicref href="ias19/IAS19_BC280.dita" class="- map/topicref " navtitle="BC280"/>
+            <topicref href="ias19/IAS19_BC281.dita" class="- map/topicref " navtitle="BC281"/>
+            <topicref href="ias19/IAS19_BC282.dita" class="- map/topicref " navtitle="BC282"/>
+            <topicref href="ias19/IAS19_BC283.dita" class="- map/topicref " navtitle="BC283"/>
+            <topicref href="ias19/IAS19_BC284.dita" class="- map/topicref " navtitle="BC284"/>
+        </topicref>
+    <topicref chunk="to-content" class="- map/topicref " navtitle="Appendices">
+        <topicref href="ias19/IAS19_BC_APPA.dita" class="- map/topicref " navtitle="Appendix Amendments to the Basis for Conclusions on other IFRSs">
+            <topicmeta class="- map/topicmeta "/>
+        </topicref>
+    </topicref>
+        <topicref href="ias19/IAS19_BC_DO0001.dita" class="- map/topicref " navtitle="Dissenting opinions">
+            <topicref href="ias19/IAS19_0005.dita" class="- map/topicref " navtitle="Dissent of James J Leisenring and Tatsumi Yamada from the issue in December 2004 of Actuarial Gains and Losses, Group Plans and Disclosures (Amendment to IAS 19)"/>
+            <topicref href="ias19/IAS19_gDO1-DO3.dita" class="- map/topicref " navtitle="Mr Leisenring">
+                <topicref href="ias19/IAS19_DO1.dita" class="- map/topicref " navtitle="DO1"/>
+                <topicref href="ias19/IAS19_DO2.dita" class="- map/topicref " navtitle="DO2"/>
+                <topicref href="ias19/IAS19_DO3.dita" class="- map/topicref " navtitle="DO3"/>
+            </topicref>
+            <topicref href="ias19/IAS19_gDO4-DO8.dita" class="- map/topicref " navtitle="Mr Yamada">
+                <topicref href="ias19/IAS19_DO4.dita" class="- map/topicref " navtitle="DO4"/>
+                <topicref href="ias19/IAS19_DO5.dita" class="- map/topicref " navtitle="DO5"/>
+                <topicref href="ias19/IAS19_DO6.dita" class="- map/topicref " navtitle="DO6"/>
+                <topicref href="ias19/IAS19_DO7.dita" class="- map/topicref " navtitle="DO7"/>
+                <topicref href="ias19/IAS19_DO8.dita" class="- map/topicref " navtitle="DO8"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias19/IAS19_0006.dita" outputclass="new_page" class="- map/topicref " navtitle="Dissent of Jan Engström and Tatsumi Yamada from the issue in June 2011 of IAS 19 as amended">
+            <topicref href="ias19/IAS19_gDO1-DO6.dita" class="- map/topicref " navtitle="Mr Engström">
+                <topicref href="ias19/IAS19_DO1_a.dita" class="- map/topicref " navtitle="DO1"/>
+                <topicref href="ias19/IAS19_DO2_a.dita" class="- map/topicref " navtitle="DO2"/>
+                <topicref href="ias19/IAS19_DO3_a.dita" class="- map/topicref " navtitle="DO3"/>
+                <topicref href="ias19/IAS19_DO4_a.dita" class="- map/topicref " navtitle="DO4"/>
+                <topicref href="ias19/IAS19_DO5_a.dita" class="- map/topicref " navtitle="DO5"/>
+                <topicref href="ias19/IAS19_DO6_a.dita" class="- map/topicref " navtitle="DO6"/>
+            </topicref>
+            <topicref href="ias19/IAS19_gDO7-DO17.dita" class="- map/topicref " navtitle="Mr Yamada">
+                <topicref href="ias19/IAS19_DO7_a.dita" class="- map/topicref " navtitle="DO7"/>
+                <topicref href="ias19/IAS19_DO8_a.dita" class="- map/topicref " navtitle="DO8"/>
+                <topicref href="ias19/IAS19_DO9.dita" class="- map/topicref " navtitle="DO9"/>
+                <topicref href="ias19/IAS19_gDO10-DO10.dita" class="- map/topicref " navtitle="Disaggregation of defined benefit cost">
+                    <topicref href="ias19/IAS19_DO10.dita" class="- map/topicref " navtitle="DO10"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gDO11-DO14.dita" class="- map/topicref " navtitle="Definition of net interest and remeasurements on the net defined benefit liability (asset)">
+                    <topicref href="ias19/IAS19_DO11.dita" class="- map/topicref " navtitle="DO11"/>
+                    <topicref href="ias19/IAS19_DO12.dita" class="- map/topicref " navtitle="DO12"/>
+                    <topicref href="ias19/IAS19_DO13.dita" class="- map/topicref " navtitle="DO13"/>
+                    <topicref href="ias19/IAS19_DO14.dita" class="- map/topicref " navtitle="DO14"/>
+                </topicref>
+                <topicref href="ias19/IAS19_gDO15-DO17.dita" class="- map/topicref " navtitle="Presentation of remeasurements in other comprehensive income">
+                    <topicref href="ias19/IAS19_DO15.dita" class="- map/topicref " navtitle="DO15"/>
+                    <topicref href="ias19/IAS19_DO16.dita" class="- map/topicref " navtitle="DO16"/>
+                    <topicref href="ias19/IAS19_DO17.dita" class="- map/topicref " navtitle="DO17"/>
+                </topicref>
+            </topicref>
+        </topicref>
+    </chapter>
+    
+    
+</bookmap>

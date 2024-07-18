@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Changes in this
+            edition</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">changes</category>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="changesinthisedition/changesinthisedition_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+    </frontmatter>
+    <chapter href="changesinthisedition/changesinthisedition.dita" base="2022" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Changes in this edition">
+        <topicref href="changesinthisedition/changesinthisedition_basisofpreparation.dita" class="- map/topicref " navtitle="Basis of preparation"/>
+        <topicref href="changesinthisedition/changesinthisedition_newinthisedition.dita" class="- map/topicref " navtitle="New in this edition"/>
+        <topicref href="changesinthisedition/changesinthisedition_amendmentstostandards.dita" outputclass="keep_with_next" class="- map/topicref " navtitle="Amendments to Accounting Standards">
+            <topicref href="changesinthisedition/changesinthisedition_IFRS17.dita" class="- map/topicref " navtitle="IFRS 17 Insurance Contracts and Amendments to IFRS 17"/>
+            <topicref href="changesinthisedition/changesinthisedition_IAS2021-1.dita" class="- map/topicref " navtitle="Definition of Accounting Estimates"/>
+            <topicref href="changesinthisedition/changesinthisedition_IAS2021-2.dita" class="- map/topicref " navtitle="Disclosure of Accounting Policies"/>
+            <topicref href="changesinthisedition/changesinthisedition_IAS2021-3.dita" class="- map/topicref " navtitle="Deferred Tax related to Assets and Liabilities arising from a Single Transaction"/>
+        </topicref>
+        <topicref href="changesinthisedition/changesinthisedition_possibleimpact.dita" base="required-only" class="- map/topicref " navtitle="Disclosure of the possible effect of issued Accounting Standards that are not yet required">
+            <topicref href="changesinthisedition/changesinthisedition_IAS2020-1.dita" class="- map/topicref " navtitle="Classification of Liabilities as Current and Non-current and Classification of Liabilities as Current and Non-current—Deferral of Effective Date"/>
+            <topicref href="changesinthisedition/changesinthisedition_Saleorcontribution.dita" class="- map/topicref " navtitle="Sale or Contribution of Assets between an Investor and its Associate or Joint Venture"/>
+            <topicref href="changesinthisedition/changesinthisedition_IASB-IFRS2022-1.dita" class="- map/topicref " navtitle="Lease Liability in a Sale and Leaseback"/>
+            <topicref href="changesinthisedition/changesinthisedition_IASB-IAS2022-1.dita" class="- map/topicref " navtitle="Non-current Liabilities with Covenants"/>
+        </topicref>
+    </chapter>
+</bookmap>

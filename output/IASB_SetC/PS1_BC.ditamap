@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="PS1_BC_CHK_ALL" chunk="to-content" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle "><ph otherprops="print" class="- topic/ph ">Management Commentary A framework for
+            presentation</ph></mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">ps1</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <bookpartno class="- topic/data bookmap/bookpartno ">ps1</bookpartno>
+        </bookid>
+        <document_type value="BC" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2011-03-08" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2011-03-08" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="management-commentary-practice-statement" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="basis-for-conclusion" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ps1/PS1_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ps1/PS1_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ps1/PS1_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ps1/PS1_PartB.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+    </frontmatter>
+    <chapter href="ps1/PS1_BC_TI.dita" class="- map/topicref bookmap/chapter " chunk="to-content">
+        <topicref href="ps1/PS1_gBC1-BC6.dita" class="- map/topicref " navtitle="Introduction">
+            <topicref href="ps1/PS1_BC1.dita" class="- map/topicref " navtitle="BC1"/>
+            <topicref href="ps1/PS1_BC2.dita" class="- map/topicref " navtitle="BC2"/>
+            <topicref href="ps1/PS1_BC3.dita" class="- map/topicref " navtitle="BC3"/>
+            <topicref href="ps1/PS1_BC4.dita" class="- map/topicref " navtitle="BC4"/>
+            <topicref href="ps1/PS1_BC5.dita" class="- map/topicref " navtitle="BC5"/>
+            <topicref href="ps1/PS1_BC6.dita" class="- map/topicref " navtitle="BC6"/>
+        </topicref>
+        <topicref href="ps1/PS1_gBC7-BC11.dita" class="- map/topicref " navtitle="Background">
+            <topicref href="ps1/PS1_BC7.dita" class="- map/topicref " navtitle="BC7"/>
+            <topicref href="ps1/PS1_BC8.dita" class="- map/topicref " navtitle="BC8"/>
+            <topicref href="ps1/PS1_BC9.dita" class="- map/topicref " navtitle="BC9"/>
+            <topicref href="ps1/PS1_BC10.dita" class="- map/topicref " navtitle="BC10"/>
+            <topicref href="ps1/PS1_BC11.dita" class="- map/topicref " navtitle="BC11"/>
+        </topicref>
+        <topicref href="ps1/PS1_gBC12-BC14.dita" class="- map/topicref " navtitle="Objective">
+            <topicref href="ps1/PS1_BC12.dita" class="- map/topicref " navtitle="BC12"/>
+            <topicref href="ps1/PS1_BC13.dita" class="- map/topicref " navtitle="BC13"/>
+            <topicref href="ps1/PS1_BC14.dita" class="- map/topicref " navtitle="BC14"/>
+        </topicref>
+        <topicref href="ps1/PS1_gBC15-BC17.dita" class="- map/topicref " navtitle="Scope">
+            <topicref href="ps1/PS1_BC15.dita" class="- map/topicref " navtitle="BC15"/>
+            <topicref href="ps1/PS1_BC16.dita" class="- map/topicref " navtitle="BC16"/>
+            <topicref href="ps1/PS1_BC17.dita" class="- map/topicref " navtitle="BC17"/>
+        </topicref>
+        <topicref href="ps1/PS1_gBC18-BC21.dita" class="- map/topicref " navtitle="Identification of management commentary">
+            <topicref href="ps1/PS1_BC18.dita" class="- map/topicref " navtitle="BC18"/>
+            <topicref href="ps1/PS1_BC19.dita" class="- map/topicref " navtitle="BC19"/>
+            <topicref href="ps1/PS1_BC20.dita" class="- map/topicref " navtitle="BC20"/>
+            <topicref href="ps1/PS1_BC21.dita" class="- map/topicref " navtitle="BC21"/>
+        </topicref>
+        <topicref href="ps1/PS1_gBC22-BC25.dita" class="- map/topicref " navtitle="Users of management commentary">
+            <topicref href="ps1/PS1_BC22.dita" class="- map/topicref " navtitle="BC22"/>
+            <topicref href="ps1/PS1_BC23.dita" class="- map/topicref " navtitle="BC23"/>
+            <topicref href="ps1/PS1_BC24.dita" class="- map/topicref " navtitle="BC24"/>
+            <topicref href="ps1/PS1_BC25.dita" class="- map/topicref " navtitle="BC25"/>
+        </topicref>
+        <topicref href="ps1/PS1_gBC26-BC28.dita" class="- map/topicref " navtitle="Purpose of management commentary">
+            <topicref href="ps1/PS1_BC26.dita" class="- map/topicref " navtitle="BC26"/>
+            <topicref href="ps1/PS1_BC27.dita" class="- map/topicref " navtitle="BC27"/>
+            <topicref href="ps1/PS1_BC28.dita" class="- map/topicref " navtitle="BC28"/>
+        </topicref>
+        <topicref href="ps1/PS1_gBC29-BC44.dita" class="- map/topicref " navtitle="Principles for the presentation of management commentary">
+            <topicref href="ps1/PS1_gBC29-BC32.dita" class="- map/topicref " navtitle="Management’s view">
+                <topicref href="ps1/PS1_BC29.dita" class="- map/topicref " navtitle="BC29"/>
+                <topicref href="ps1/PS1_BC30.dita" class="- map/topicref " navtitle="BC30"/>
+                <topicref href="ps1/PS1_BC31.dita" class="- map/topicref " navtitle="BC31"/>
+                <topicref href="ps1/PS1_BC32.dita" class="- map/topicref " navtitle="BC32"/>
+            </topicref>
+            <topicref href="ps1/PS1_gBC33-BC34.dita" class="- map/topicref " navtitle="Supplement and complement the financial statements">
+                <topicref href="ps1/PS1_BC33.dita" class="- map/topicref " navtitle="BC33"/>
+                <topicref href="ps1/PS1_BC34.dita" class="- map/topicref " navtitle="BC34"/>
+            </topicref>
+            <topicref href="ps1/PS1_gBC35-BC41.dita" class="- map/topicref " navtitle="Forward‑looking information">
+                <topicref href="ps1/PS1_BC35.dita" class="- map/topicref " navtitle="BC35"/>
+                <topicref href="ps1/PS1_BC36.dita" class="- map/topicref " navtitle="BC36"/>
+                <topicref href="ps1/PS1_BC37.dita" class="- map/topicref " navtitle="BC37"/>
+                <topicref href="ps1/PS1_BC38.dita" class="- map/topicref " navtitle="BC38"/>
+                <topicref href="ps1/PS1_BC39.dita" class="- map/topicref " navtitle="BC39"/>
+                <topicref href="ps1/PS1_BC40.dita" class="- map/topicref " navtitle="BC40"/>
+                <topicref href="ps1/PS1_BC41.dita" class="- map/topicref " navtitle="BC41"/>
+            </topicref>
+            <topicref href="ps1/PS1_gBC42-BC44.dita" class="- map/topicref " navtitle="Qualitative characteristics">
+                <topicref href="ps1/PS1_BC42.dita" class="- map/topicref " navtitle="BC42"/>
+                <topicref href="ps1/PS1_BC43.dita" class="- map/topicref " navtitle="BC43"/>
+                <topicref href="ps1/PS1_BC44.dita" class="- map/topicref " navtitle="BC44"/>
+            </topicref>
+        </topicref>
+        <topicref href="ps1/PS1_gBC45-BC46.dita" class="- map/topicref " navtitle="Presentation">
+            <topicref href="ps1/PS1_BC45.dita" class="- map/topicref " navtitle="BC45"/>
+            <topicref href="ps1/PS1_BC46.dita" class="- map/topicref " navtitle="BC46"/>
+        </topicref>
+        <topicref href="ps1/PS1_gBC47-BC49.dita" class="- map/topicref " navtitle="Elements of management commentary">
+            <topicref href="ps1/PS1_BC47.dita" class="- map/topicref " navtitle="BC47"/>
+            <topicref href="ps1/PS1_gBC48-BC49.dita" class="- map/topicref " navtitle="User needs">
+                <topicref href="ps1/PS1_BC48.dita" class="- map/topicref " navtitle="BC48"/>
+                <topicref href="ps1/PS1_BC49.dita" class="- map/topicref " navtitle="BC49"/>
+            </topicref>
+        </topicref>
+        <topicref href="ps1/PS1_gBC50-BC53.dita" class="- map/topicref " navtitle="Placement of disclosure within the financial reports">
+            <topicref href="ps1/PS1_BC50.dita" class="- map/topicref " navtitle="BC50"/>
+            <topicref href="ps1/PS1_BC51.dita" class="- map/topicref " navtitle="BC51"/>
+            <topicref href="ps1/PS1_BC52.dita" class="- map/topicref " navtitle="BC52"/>
+            <topicref href="ps1/PS1_BC53.dita" class="- map/topicref " navtitle="BC53"/>
+        </topicref>
+    </chapter>
+</bookmap>

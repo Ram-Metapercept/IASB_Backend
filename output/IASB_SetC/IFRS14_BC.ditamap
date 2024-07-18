@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" chunk="to-content" id="IFRS14_BC_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Regulatory Deferral
+            Accounts</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Basis For Conclusions</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IFRS 14</booknumber>
+        </bookid>
+        <document_type value="IFRS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2016-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2014-01-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ifrs-14-regulatory-deferral-accounts" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="basis-for-conclusion" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ifrs14/IFRS14_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs14/IFRS14_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs14/IFRS14_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ifrs14/IFRS14_PartC.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ifrs14/IFRS14_BC_TOC.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+    </frontmatter>
+    <chapter href="ifrs14/IFRS14_BC_TI.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Basis for Conclusions on IFRS 14 Regulatory Deferral Accounts">
+        <topicref href="ifrs14/IFRS14_gBC1-BC10.dita" class="- map/topicref " navtitle="Introduction">
+            <topicref href="ifrs14/IFRS14_BC1.dita" class="- map/topicref " navtitle="BC1"/>
+            <topicref href="ifrs14/IFRS14_BC2.dita" class="- map/topicref " navtitle="BC2"/>
+            <topicref href="ifrs14/IFRS14_BC3.dita" class="- map/topicref " navtitle="BC3"/>
+            <topicref href="ifrs14/IFRS14_BC4.dita" class="- map/topicref " navtitle="BC4"/>
+            <topicref href="ifrs14/IFRS14_BC5.dita" class="- map/topicref " navtitle="BC5"/>
+            <topicref href="ifrs14/IFRS14_BC6.dita" class="- map/topicref " navtitle="BC6"/>
+            <topicref href="ifrs14/IFRS14_BC7.dita" class="- map/topicref " navtitle="BC7"/>
+            <topicref href="ifrs14/IFRS14_BC8.dita" class="- map/topicref " navtitle="BC8"/>
+            <topicref href="ifrs14/IFRS14_BC9.dita" class="- map/topicref " navtitle="BC9"/>
+            <topicref href="ifrs14/IFRS14_BC10.dita" class="- map/topicref " navtitle="BC10"/>
+        </topicref>
+        <topicref href="ifrs14/IFRS14_gBC11-BC21.dita" class="- map/topicref " navtitle="Reasons for issuing this Standard">
+            <topicref href="ifrs14/IFRS14_BC11.dita" class="- map/topicref " navtitle="BC11"/>
+            <topicref href="ifrs14/IFRS14_BC12.dita" class="- map/topicref " navtitle="BC12"/>
+            <topicref href="ifrs14/IFRS14_BC13.dita" class="- map/topicref " navtitle="BC13"/>
+            <topicref href="ifrs14/IFRS14_BC14.dita" class="- map/topicref " navtitle="BC14"/>
+            <topicref href="ifrs14/IFRS14_BC15.dita" class="- map/topicref " navtitle="BC15"/>
+            <topicref href="ifrs14/IFRS14_BC16.dita" class="- map/topicref " navtitle="BC16"/>
+            <topicref href="ifrs14/IFRS14_BC17.dita" class="- map/topicref " navtitle="BC17"/>
+            <topicref href="ifrs14/IFRS14_BC18.dita" class="- map/topicref " navtitle="BC18"/>
+            <topicref href="ifrs14/IFRS14_BC19.dita" class="- map/topicref " navtitle="BC19"/>
+            <topicref href="ifrs14/IFRS14_BC20.dita" class="- map/topicref " navtitle="BC20"/>
+            <topicref href="ifrs14/IFRS14_BC21.dita" class="- map/topicref " navtitle="BC21"/>
+        </topicref>
+        <topicref href="ifrs14/IFRS14_gBC22-BC27.dita" class="- map/topicref " navtitle="Scope">
+            <topicref href="ifrs14/IFRS14_BC22.dita" class="- map/topicref " navtitle="BC22"/>
+            <topicref href="ifrs14/IFRS14_BC23.dita" class="- map/topicref " navtitle="BC23"/>
+            <topicref href="ifrs14/IFRS14_BC24.dita" class="- map/topicref " navtitle="BC24"/>
+            <topicref href="ifrs14/IFRS14_BC25.dita" class="- map/topicref " navtitle="BC25"/>
+            <topicref href="ifrs14/IFRS14_BC26.dita" class="- map/topicref " navtitle="BC26"/>
+            <topicref href="ifrs14/IFRS14_BC27.dita" class="- map/topicref " navtitle="BC27"/>
+        </topicref>
+        <topicref href="ifrs14/IFRS14_gBC28-BC39.dita" class="- map/topicref " navtitle="Recognition, measurement, impairment and derecognition">
+            <topicref href="ifrs14/IFRS14_gBC28-BC32.dita" class="- map/topicref " navtitle="Temporary exemption from paragraph 11 of IAS 8">
+                <topicref href="ifrs14/IFRS14_BC28.dita" class="- map/topicref " navtitle="BC28"/>
+                <topicref href="ifrs14/IFRS14_BC29.dita" class="- map/topicref " navtitle="BC29"/>
+                <topicref href="ifrs14/IFRS14_BC30.dita" class="- map/topicref " navtitle="BC30"/>
+                <topicref href="ifrs14/IFRS14_BC31.dita" class="- map/topicref " navtitle="BC31"/>
+                <topicref href="ifrs14/IFRS14_BC32.dita" class="- map/topicref " navtitle="BC32"/>
+            </topicref>
+            <topicref href="ifrs14/IFRS14_gBC33-BC36.dita" class="- map/topicref " navtitle="Changes in accounting policies">
+                <topicref href="ifrs14/IFRS14_BC33.dita" class="- map/topicref " navtitle="BC33"/>
+                <topicref href="ifrs14/IFRS14_BC34.dita" class="- map/topicref " navtitle="BC34"/>
+                <topicref href="ifrs14/IFRS14_BC35.dita" class="- map/topicref " navtitle="BC35"/>
+                <topicref href="ifrs14/IFRS14_BC36.dita" class="- map/topicref " navtitle="BC36"/>
+            </topicref>
+            <topicref href="ifrs14/IFRS14_gBC37-BC38.dita" class="- map/topicref " navtitle="Interaction with other Standards">
+                <topicref href="ifrs14/IFRS14_BC37.dita" class="- map/topicref " navtitle="BC37"/>
+                <topicref href="ifrs14/IFRS14_BC38.dita" class="- map/topicref " navtitle="BC38"/>
+            </topicref>
+            <topicref href="ifrs14/IFRS14_gBC39-BC39.dita" class="- map/topicref " navtitle="Recoverability">
+                <topicref href="ifrs14/IFRS14_BC39.dita" class="- map/topicref " navtitle="BC39"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs14/IFRS14_gBC40-BC47.dita" class="- map/topicref " navtitle="Presentation">
+            <topicref href="ifrs14/IFRS14_gBC40-BC43.dita" class="- map/topicref " navtitle="Cost of self-constructed or internally generated assets">
+                <topicref href="ifrs14/IFRS14_BC40.dita" class="- map/topicref " navtitle="BC40"/>
+                <topicref href="ifrs14/IFRS14_BC41.dita" class="- map/topicref " navtitle="BC41"/>
+                <topicref href="ifrs14/IFRS14_BC42.dita" class="- map/topicref " navtitle="BC42"/>
+                <topicref href="ifrs14/IFRS14_BC43.dita" class="- map/topicref " navtitle="BC43"/>
+            </topicref>
+            <topicref href="ifrs14/IFRS14_gBC44-BC47.dita" class="- map/topicref " navtitle="Separate presentation in the primary financial statements">
+                <topicref href="ifrs14/IFRS14_BC44.dita" class="- map/topicref " navtitle="BC44"/>
+                <topicref href="ifrs14/IFRS14_BC45.dita" class="- map/topicref " navtitle="BC45"/>
+                <topicref href="ifrs14/IFRS14_BC46.dita" class="- map/topicref " navtitle="BC46"/>
+                <topicref href="ifrs14/IFRS14_gBC47-BC47.dita" class="- map/topicref " navtitle="Current/non-current allocation and offset">
+                    <topicref href="ifrs14/IFRS14_BC47.dita" class="- map/topicref " navtitle="BC47"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs14/IFRS14_gBC48-BC52.dita" class="- map/topicref " navtitle="Disclosure">
+            <topicref href="ifrs14/IFRS14_BC48.dita" class="- map/topicref " navtitle="BC48"/>
+            <topicref href="ifrs14/IFRS14_BC49.dita" class="- map/topicref " navtitle="BC49"/>
+            <topicref href="ifrs14/IFRS14_BC50.dita" class="- map/topicref " navtitle="BC50"/>
+            <topicref href="ifrs14/IFRS14_BC51.dita" class="- map/topicref " navtitle="BC51"/>
+            <topicref href="ifrs14/IFRS14_gBC52-BC52.dita" class="- map/topicref " navtitle="Location of qualitative disclosures">
+                <topicref href="ifrs14/IFRS14_BC52.dita" class="- map/topicref " navtitle="BC52"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs14/IFRS14_gBC53-BC54.dita" class="- map/topicref " navtitle="Effective date and transition">
+            <topicref href="ifrs14/IFRS14_BC53.dita" class="- map/topicref " navtitle="BC53"/>
+            <topicref href="ifrs14/IFRS14_BC54.dita" class="- map/topicref " navtitle="BC54"/>
+        </topicref>
+        <topicref href="ifrs14/IFRS14_gBC55-BC62.dita" class="- map/topicref " navtitle="Summary of main changes from the Exposure Draft Regulatory Deferral Accounts">
+            <topicref href="ifrs14/IFRS14_BC55.dita" class="- map/topicref " navtitle="BC55"/>
+            <topicref href="ifrs14/IFRS14_BC56.dita" class="- map/topicref " navtitle="BC56"/>
+            <topicref href="ifrs14/IFRS14_BC57.dita" class="- map/topicref " navtitle="BC57"/>
+            <topicref href="ifrs14/IFRS14_BC58.dita" class="- map/topicref " navtitle="BC58"/>
+            <topicref href="ifrs14/IFRS14_BC59.dita" class="- map/topicref " navtitle="BC59"/>
+            <topicref href="ifrs14/IFRS14_BC60.dita" class="- map/topicref " navtitle="BC60"/>
+            <topicref href="ifrs14/IFRS14_BC61.dita" class="- map/topicref " navtitle="BC61"/>
+            <topicref href="ifrs14/IFRS14_BC62.dita" class="- map/topicref " navtitle="BC62"/>
+        </topicref>
+        <topicref href="ifrs14/IFRS14_gBC63-BC79.dita" class="- map/topicref " navtitle="Effects analysis">
+            <topicref href="ifrs14/IFRS14_BC63.dita" class="- map/topicref " navtitle="BC63"/>
+            <topicref href="ifrs14/IFRS14_BC64.dita" class="- map/topicref " navtitle="BC64"/>
+            <topicref href="ifrs14/IFRS14_gBC65-BC67.dita" class="- map/topicref " navtitle="Financial statements of rate-regulated entities">
+                <topicref href="ifrs14/IFRS14_BC65.dita" class="- map/topicref " navtitle="BC65"/>
+                <topicref href="ifrs14/IFRS14_BC66.dita" class="- map/topicref " navtitle="BC66"/>
+                <topicref href="ifrs14/IFRS14_BC67.dita" class="- map/topicref " navtitle="BC67"/>
+            </topicref>
+            <topicref href="ifrs14/IFRS14_gBC68-BC71.dita" class="- map/topicref " navtitle="Comparability">
+                <topicref href="ifrs14/IFRS14_BC68.dita" class="- map/topicref " navtitle="BC68"/>
+                <topicref href="ifrs14/IFRS14_BC69.dita" class="- map/topicref " navtitle="BC69"/>
+                <topicref href="ifrs14/IFRS14_BC70.dita" class="- map/topicref " navtitle="BC70"/>
+                <topicref href="ifrs14/IFRS14_BC71.dita" class="- map/topicref " navtitle="BC71"/>
+            </topicref>
+            <topicref href="ifrs14/IFRS14_gBC72-BC72.dita" class="- map/topicref " navtitle="Usefulness in assessing the future cash flows of an entity">
+                <topicref href="ifrs14/IFRS14_BC72.dita" class="- map/topicref " navtitle="BC72"/>
+            </topicref>
+            <topicref href="ifrs14/IFRS14_gBC73-BC75.dita" class="- map/topicref " navtitle="Better economic decision-making">
+                <topicref href="ifrs14/IFRS14_BC73.dita" class="- map/topicref " navtitle="BC73"/>
+                <topicref href="ifrs14/IFRS14_BC74.dita" class="- map/topicref " navtitle="BC74"/>
+                <topicref href="ifrs14/IFRS14_BC75.dita" class="- map/topicref " navtitle="BC75"/>
+            </topicref>
+            <topicref href="ifrs14/IFRS14_gBC76-BC78.dita" class="- map/topicref " navtitle="Effect on compliance costs for preparers">
+                <topicref href="ifrs14/IFRS14_BC76.dita" class="- map/topicref " navtitle="BC76"/>
+                <topicref href="ifrs14/IFRS14_BC77.dita" class="- map/topicref " navtitle="BC77"/>
+                <topicref href="ifrs14/IFRS14_BC78.dita" class="- map/topicref " navtitle="BC78"/>
+            </topicref>
+            <topicref href="ifrs14/IFRS14_gBC79-BC79.dita" class="- map/topicref " navtitle="How the costs of analysis for users are affected">
+                <topicref href="ifrs14/IFRS14_BC79.dita" class="- map/topicref " navtitle="BC79"/>
+            </topicref>
+        </topicref>
+    
+        <topicref href="ifrs14/IFRS14_gDO1-DO7.dita" class="- map/topicref " navtitle="Dissenting opinions">
+            <topicref href="ifrs14/IFRS14_sgDO1-DO7.dita" class="- map/topicref " navtitle="Dissent of Messrs Edelmann, Gomes and Zhang">
+                <topicref href="ifrs14/IFRS14_DO1.dita" class="- map/topicref " navtitle="DO1"/>
+                <topicref href="ifrs14/IFRS14_gDO2-DO3.dita" class="- map/topicref " navtitle="Reduced comparability and inconsistency with existing IFRS practice">
+                    <topicref href="ifrs14/IFRS14_DO2.dita" class="- map/topicref " navtitle="DO2"/>
+                    <topicref href="ifrs14/IFRS14_DO3.dita" class="- map/topicref " navtitle="DO3"/>
+                </topicref>
+                <topicref href="ifrs14/IFRS14_gDO4-DO5.dita" class="- map/topicref " navtitle="Creating uncertainty for potential future adopters of IFRS">
+                    <topicref href="ifrs14/IFRS14_DO4.dita" class="- map/topicref " navtitle="DO4"/>
+                    <topicref href="ifrs14/IFRS14_DO5.dita" class="- map/topicref " navtitle="DO5"/>
+                </topicref>
+                <topicref href="ifrs14/IFRS14_gDO6-DO7.dita" class="- map/topicref " navtitle="Recognition is contrary to the Conceptual Framework for Financial Reporting">
+                    <topicref href="ifrs14/IFRS14_DO6.dita" class="- map/topicref " navtitle="DO6"/>
+                    <topicref href="ifrs14/IFRS14_DO7.dita" class="- map/topicref " navtitle="DO7"/>
+                </topicref>
+            </topicref>
+        </topicref>
+    </chapter>
+    
+</bookmap>

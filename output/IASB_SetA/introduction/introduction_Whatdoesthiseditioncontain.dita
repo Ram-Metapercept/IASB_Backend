@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE topic PUBLIC "-//IFRS//DTD DITA Topic//EN" "ifrsTopic.dtd"><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="introduction_Whatdoesthiseditioncontain" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic ifrs-d)                            (topic ifrsElements-c)                               (topic principlesAtt-c)   (topic decimalAtt-c)   (topic double_underlineAtt-c)   (topic keep_togetherAtt-c)   (topic rotateAtt-c)   (topic tintAtt-c)   (topic background_colorAtt-c)   (topic line_colorAtt-c)   (topic font_colorAtt-c)   (topic typeAtt-c)   (topic reference_labelAtt-c)   (topic toc_labelAtt-c)   (topic typefaceAtt-c)   (topic typestyleAtt-c)   (topic layoutAtt-c)   (topic indentedAtt-c)   (topic levelAtt-c)   (topic issueAtt-c)   (topic amendment_idAtt-c)   (topic versionAtt-c)   (topic updAtt-c)     " class="- topic/topic ">
+    <title level="1" id="introduction_Whatdoesthiseditioncontain_TI" class="- topic/title ">What
+        does this edition contain?</title>
+    <body class="- topic/body ">
+        <bodydiv base="BB2023" class="- topic/bodydiv ">
+            <p outputclass="keep_with_next" class="- topic/p ">This edition contains only Accounting
+                Standards issued by the IASB as at 31 December 2022 that are required for accounting
+                periods beginning on or after 1 January 2023 (that is, all Accounting Standards with
+                an effective date on or before 1 January 2023).</p>
+            <p edu="no" class="- topic/p ">Accounting Standards and amendments to Accounting
+                Standards issued by 31 December 2022 with an effective date after 1 January 2023 are
+                excluded from this edition and will be included in <i class="+ topic/ph hi-d/i ">IFRS® Accounting Standards—Issued at 1 January 2023</i> and in <i class="+ topic/ph hi-d/i ">The Annotated IFRS® Accounting Standards—Standards
+                    issued at 1 January 2023</i>.</p>
+        </bodydiv>
+    </body>
+</topic>

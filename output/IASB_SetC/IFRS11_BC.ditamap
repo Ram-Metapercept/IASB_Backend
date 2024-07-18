@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IFRS11_BC_CHK_ALL" chunk="to-content" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Joint Arrangements</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Basis For Conclusions</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IFRS 11</booknumber>
+        </bookid>
+        <document_type value="IFRS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2013-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2011-05-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ifrs-11-joint-arrangements" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="basis-for-conclusion" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ifrs11/IFRS11_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs11/IFRS11_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs11/IFRS11_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ifrs11/IFRS11_PartC.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ifrs11/IFRS11_BC_TOC.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+    </frontmatter>
+    <chapter href="ifrs11/IFRS11_BC_TI.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Basis for Conclusions on IFRS 11 Joint Arrangements">
+        <topicref href="ifrs11/IFRS11_gBC1-BC3.dita" class="- map/topicref " navtitle="Introduction">
+            <topicref href="ifrs11/IFRS11_BC1.dita" class="- map/topicref " navtitle="BC1"/>
+            <topicref href="ifrs11/IFRS11_BC2.dita" class="- map/topicref " navtitle="BC2"/>
+            <topicref href="ifrs11/IFRS11_BC3.dita" class="- map/topicref " navtitle="BC3"/>
+        </topicref>
+        <topicref href="ifrs11/IFRS11_gBC4-BC12.dita" class="- map/topicref " navtitle="Objective">
+            <topicref href="ifrs11/IFRS11_BC4.dita" class="- map/topicref " navtitle="BC4"/>
+            <topicref href="ifrs11/IFRS11_BC5.dita" class="- map/topicref " navtitle="BC5"/>
+            <topicref href="ifrs11/IFRS11_BC6.dita" class="- map/topicref " navtitle="BC6"/>
+            <topicref href="ifrs11/IFRS11_gBC7-BC8.dita" class="- map/topicref " navtitle="The problems with IAS 31">
+                <topicref href="ifrs11/IFRS11_BC7.dita" class="- map/topicref " navtitle="BC7"/>
+                <topicref href="ifrs11/IFRS11_BC8.dita" class="- map/topicref " navtitle="BC8"/>
+            </topicref>
+            <topicref href="ifrs11/IFRS11_gBC9-BC12.dita" class="- map/topicref " navtitle="Improving IAS 31 with the principles of IFRS 11">
+                <topicref href="ifrs11/IFRS11_BC9.dita" class="- map/topicref " navtitle="BC9"/>
+                <topicref href="ifrs11/IFRS11_BC10.dita" class="- map/topicref " navtitle="BC10"/>
+                <topicref href="ifrs11/IFRS11_BC11.dita" class="- map/topicref " navtitle="BC11"/>
+                <topicref href="ifrs11/IFRS11_BC12.dita" class="- map/topicref " navtitle="BC12"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs11/IFRS11_gBC13-BC18.dita" class="- map/topicref " navtitle="Scope">
+            <topicref href="ifrs11/IFRS11_BC13.dita" class="- map/topicref " navtitle="BC13"/>
+            <topicref href="ifrs11/IFRS11_BC14.dita" class="- map/topicref " navtitle="BC14"/>
+            <topicref href="ifrs11/IFRS11_gBC15-BC18.dita" class="- map/topicref " navtitle="Scope exception">
+                <topicref href="ifrs11/IFRS11_BC15.dita" class="- map/topicref " navtitle="BC15"/>
+                <topicref href="ifrs11/IFRS11_BC16.dita" class="- map/topicref " navtitle="BC16"/>
+                <topicref href="ifrs11/IFRS11_BC17.dita" class="- map/topicref " navtitle="BC17"/>
+                <topicref href="ifrs11/IFRS11_BC18.dita" class="- map/topicref " navtitle="BC18"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs11/IFRS11_gBC19-BC23.dita" class="- map/topicref " navtitle="Joint arrangements">
+            <topicref href="ifrs11/IFRS11_BC19.dita" class="- map/topicref " navtitle="BC19"/>
+            <topicref href="ifrs11/IFRS11_gBC20-BC23.dita" class="- map/topicref " navtitle="Joint control">
+                <topicref href="ifrs11/IFRS11_BC20.dita" class="- map/topicref " navtitle="BC20"/>
+                <topicref href="ifrs11/IFRS11_BC21.dita" class="- map/topicref " navtitle="BC21"/>
+                <topicref href="ifrs11/IFRS11_BC22.dita" class="- map/topicref " navtitle="BC22"/>
+                <topicref href="ifrs11/IFRS11_BC23.dita" class="- map/topicref " navtitle="BC23"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs11/IFRS11_gBC24-BC37.dita" class="- map/topicref " navtitle="Types of joint arrangement">
+            <topicref href="ifrs11/IFRS11_BC24.dita" class="- map/topicref " navtitle="BC24"/>
+            <topicref href="ifrs11/IFRS11_BC25.dita" class="- map/topicref " navtitle="BC25"/>
+            <topicref href="ifrs11/IFRS11_BC26.dita" class="- map/topicref " navtitle="BC26"/>
+            <topicref href="ifrs11/IFRS11_BC27.dita" class="- map/topicref " navtitle="BC27"/>
+            <topicref href="ifrs11/IFRS11_BC28.dita" class="- map/topicref " navtitle="BC28"/>
+            <topicref href="ifrs11/IFRS11_BC29.dita" class="- map/topicref " navtitle="BC29"/>
+            <topicref href="ifrs11/IFRS11_BC30.dita" class="- map/topicref " navtitle="BC30"/>
+            <topicref href="ifrs11/IFRS11_BC31.dita" class="- map/topicref " navtitle="BC31"/>
+            <topicref href="ifrs11/IFRS11_BC32.dita" class="- map/topicref " navtitle="BC32"/>
+            <topicref href="ifrs11/IFRS11_BC33.dita" class="- map/topicref " navtitle="BC33"/>
+            <topicref href="ifrs11/IFRS11_BC34.dita" class="- map/topicref " navtitle="BC34"/>
+            <topicref href="ifrs11/IFRS11_BC35.dita" class="- map/topicref " navtitle="BC35"/>
+            <topicref href="ifrs11/IFRS11_BC36.dita" class="- map/topicref " navtitle="BC36"/>
+            <topicref href="ifrs11/IFRS11_BC37.dita" class="- map/topicref " navtitle="BC37"/>
+        </topicref>
+        <topicref href="ifrs11/IFRS11_gBC38-BC51.dita" class="- map/topicref " navtitle="Financial statements of parties to a joint arrangement">
+            <topicref href="ifrs11/IFRS11_gBC38-BC40.dita" class="- map/topicref " navtitle="Joint operation">
+                <topicref href="ifrs11/IFRS11_BC38.dita" class="- map/topicref " navtitle="BC38"/>
+                <topicref href="ifrs11/IFRS11_BC39.dita" class="- map/topicref " navtitle="BC39"/>
+                <topicref href="ifrs11/IFRS11_BC40.dita" class="- map/topicref " navtitle="BC40"/>
+            </topicref>
+            <topicref href="ifrs11/IFRS11_gBC41-BC44.dita" class="- map/topicref " navtitle="Joint venture">
+                <topicref href="ifrs11/IFRS11_BC41.dita" class="- map/topicref " navtitle="BC41"/>
+                <topicref href="ifrs11/IFRS11_BC42.dita" class="- map/topicref " navtitle="BC42"/>
+                <topicref href="ifrs11/IFRS11_BC43.dita" class="- map/topicref " navtitle="BC43"/>
+                <topicref href="ifrs11/IFRS11_BC44.dita" class="- map/topicref " navtitle="BC44"/>
+            </topicref>
+            <topicref href="ifrs11/IFRS11_BC45.dita" class="- map/topicref " navtitle="BC45"/>
+            <topicref href="ifrs11/IFRS11_gBC45A-BC45Q_V2.dita" keys="IFRS11_gBC45A-BC45N_TI_V1" class="- map/topicref " navtitle="Accounting for acquisitions of interests in joint operations">
+                <topicref href="ifrs11/IFRS11_BC45A_a.dita" keys="IFRS11_BC45A" class="- map/topicref " navtitle="BC45A"/>
+                <topicref href="ifrs11/IFRS11_BC45B_a.dita" class="- map/topicref " navtitle="BC45B"/>
+                <topicref href="ifrs11/IFRS11_BC45C_a.dita" class="- map/topicref " navtitle="BC45C"/>
+                <topicref href="ifrs11/IFRS11_BC45D_a.dita" class="- map/topicref " navtitle="BC45D"/>
+                <topicref href="ifrs11/IFRS11_BC45E_a.dita" keys="IFRS11_BC45E" class="- map/topicref " navtitle="BC45E"/>
+                <topicref href="ifrs11/IFRS11_BC45F_a.dita" class="- map/topicref " navtitle="BC45F"/>
+                <topicref href="ifrs11/IFRS11_BC45G_a.dita" class="- map/topicref " navtitle="BC45G"/>
+                <topicref href="ifrs11/IFRS11_BC45H_a.dita" class="- map/topicref " navtitle="BC45H"/>
+                <topicref href="ifrs11/IFRS11_BC45I_a.dita" keys="IFRS11_BC45I" class="- map/topicref " navtitle="BC45I"/>
+                <topicref href="ifrs11/IFRS11_BC45J_a.dita" class="- map/topicref " navtitle="BC45J"/>
+                <topicref href="ifrs11/IFRS11_BC45K_a.dita" class="- map/topicref " navtitle="BC45K"/>
+                <topicref href="ifrs11/IFRS11_BC45L_a.dita" keys="IFRS11_BC45L" class="- map/topicref " navtitle="BC45L"/>
+                <topicref href="ifrs11/IFRS11_BC45M_a.dita" class="- map/topicref " navtitle="BC45M"/>
+                <topicref href="ifrs11/IFRS11_BC45N_a.dita" keys="IFRS11_BC45N" class="- map/topicref " navtitle="BC45N"/>
+                <topicref href="ifrs11/IFRS11_gBC45O-BC45Q.dita" class="- map/topicref " navtitle="Previously held interest in a joint operation (amendments issued in December 2017)">
+                    <topicref href="ifrs11/IFRS11_BC45O.dita" class="- map/topicref " navtitle="BC45O"/>
+                    <topicref href="ifrs11/IFRS11_BC45P.dita" class="- map/topicref " navtitle="BC45P"/>
+                    <topicref href="ifrs11/IFRS11_BC45Q.dita" class="- map/topicref " navtitle="BC45Q"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs11/IFRS11_gBC46-BC47.dita" class="- map/topicref " navtitle="Transactions between an entity and a joint operation in which that entity is a joint operator and incorporation of SIC‑13 into the IFRS">
+                <topicref href="ifrs11/IFRS11_BC46.dita" class="- map/topicref " navtitle="BC46"/>
+                <topicref href="ifrs11/IFRS11_BC47.dita" class="- map/topicref " navtitle="BC47"/>
+            </topicref>
+            <topicref href="ifrs11/IFRS11_gBC48-BC50.dita" class="- map/topicref " navtitle="Reporting interests in joint arrangements in the financial statements of parties that participate in, but do not have joint control of, a joint arrangement">
+                <topicref href="ifrs11/IFRS11_BC48.dita" class="- map/topicref " navtitle="BC48"/>
+                <topicref href="ifrs11/IFRS11_BC49.dita" class="- map/topicref " navtitle="BC49"/>
+                <topicref href="ifrs11/IFRS11_BC50.dita" class="- map/topicref " navtitle="BC50"/>
+            </topicref>
+            <topicref href="ifrs11/IFRS11_gBC51-BC51.dita" class="- map/topicref " navtitle="Joint operation held for sale">
+                <topicref href="ifrs11/IFRS11_BC51.dita" class="- map/topicref " navtitle="BC51"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs11/IFRS11_gBC52-BC55.dita" class="- map/topicref " navtitle="Disclosure">
+            <topicref href="ifrs11/IFRS11_BC52.dita" class="- map/topicref " navtitle="BC52"/>
+            <topicref href="ifrs11/IFRS11_BC53.dita" class="- map/topicref " navtitle="BC53"/>
+            <topicref href="ifrs11/IFRS11_BC54.dita" class="- map/topicref " navtitle="BC54"/>
+            <topicref href="ifrs11/IFRS11_BC55.dita" class="- map/topicref " navtitle="BC55"/>
+        </topicref>
+        <topicref href="ifrs11/IFRS11_gBC56-BC59.dita" class="- map/topicref " navtitle="Effective date">
+            <topicref href="ifrs11/IFRS11_BC56.dita" class="- map/topicref " navtitle="BC56"/>
+            <topicref href="ifrs11/IFRS11_BC57.dita" class="- map/topicref " navtitle="BC57"/>
+            <topicref href="ifrs11/IFRS11_BC58.dita" class="- map/topicref " navtitle="BC58"/>
+            <topicref href="ifrs11/IFRS11_BC59.dita" class="- map/topicref " navtitle="BC59"/>
+        </topicref>
+        <topicref href="ifrs11/IFRS11_gBC60-BC69D.dita" class="- map/topicref " navtitle="Transition">
+            <topicref href="ifrs11/IFRS11_BC60.dita" class="- map/topicref " navtitle="BC60"/>
+            <topicref href="ifrs11/IFRS11_BC61.dita" class="- map/topicref " navtitle="BC61"/>
+            <topicref href="ifrs11/IFRS11_BC62.dita" class="- map/topicref " navtitle="BC62"/>
+            <topicref href="ifrs11/IFRS11_BC63.dita" class="- map/topicref " navtitle="BC63"/>
+            <topicref href="ifrs11/IFRS11_BC64.dita" class="- map/topicref " navtitle="BC64"/>
+            <topicref href="ifrs11/IFRS11_BC65.dita" class="- map/topicref " navtitle="BC65"/>
+            <topicref href="ifrs11/IFRS11_BC66.dita" class="- map/topicref " navtitle="BC66"/>
+            <topicref href="ifrs11/IFRS11_BC67.dita" class="- map/topicref " navtitle="BC67"/>
+            <topicref href="ifrs11/IFRS11_BC68.dita" class="- map/topicref " navtitle="BC68"/>
+            <topicref href="ifrs11/IFRS11_BC69.dita" class="- map/topicref " navtitle="BC69"/>
+            <topicref href="ifrs11/IFRS11_BC69A.dita" class="- map/topicref " navtitle="BC69A"/>
+            <topicref href="ifrs11/IFRS11_BC69B.dita" class="- map/topicref " navtitle="BC69B"/>
+            <topicref href="ifrs11/IFRS11_gBC69C-BC69D_V2.dita" keys="IFRS11_gBC69C-BC69C_TI_V1" class="- map/topicref " navtitle="Accounting for acquisitions of interests in joint operations">
+                <topicref href="ifrs11/IFRS11_BC69C_a.dita" keys="IFRS11_BC69C" class="- map/topicref " navtitle="BC69C"/>
+                <topicref href="ifrs11/IFRS11_gBC69D-BC69D.dita" class="- map/topicref " navtitle="Previously held interest in a joint operation (amendments issued in December 2017)">
+                    <topicref href="ifrs11/IFRS11_BC69D.dita" class="- map/topicref " navtitle="BC69D"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs11/IFRS11_gBC70-BC70.dita" class="- map/topicref " navtitle="Summary of main changes from ED 9">
+            <topicref href="ifrs11/IFRS11_BC70.dita" class="- map/topicref " navtitle="BC70"/>
+        </topicref>
+        <topicref href="ifrs11/IFRS11_gBC71-BC78.dita" class="- map/topicref " navtitle="Cost-benefit considerations">
+            <topicref href="ifrs11/IFRS11_BC71.dita" class="- map/topicref " navtitle="BC71"/>
+            <topicref href="ifrs11/IFRS11_BC72.dita" class="- map/topicref " navtitle="BC72"/>
+            <topicref href="ifrs11/IFRS11_BC73.dita" class="- map/topicref " navtitle="BC73"/>
+            <topicref href="ifrs11/IFRS11_BC74.dita" class="- map/topicref " navtitle="BC74"/>
+            <topicref href="ifrs11/IFRS11_BC75.dita" class="- map/topicref " navtitle="BC75"/>
+            <topicref href="ifrs11/IFRS11_BC76.dita" class="- map/topicref " navtitle="BC76"/>
+            <topicref href="ifrs11/IFRS11_BC77.dita" class="- map/topicref " navtitle="BC77"/>
+            <topicref href="ifrs11/IFRS11_BC78.dita" class="- map/topicref " navtitle="BC78"/>
+        </topicref>
+    <topicref chunk="to-content" class="- map/topicref " navtitle="Appendices">
+        <topicref href="ifrs11/IFRS11_BC_APP.dita" class="- map/topicref " navtitle="Appendix Amendments to the Basis for Conclusions on other IFRSs">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="BC" class="- topic/data "/>
+            </topicmeta>
+        </topicref>
+    </topicref></chapter>
+    
+</bookmap>

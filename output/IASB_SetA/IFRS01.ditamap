@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IFRS01_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <booklibrary class="- topic/ph bookmap/booklibrary ">IFRS 1</booklibrary>
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">First‑time Adoption of
+            International Financial Reporting Standards</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Standard</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IFRS 1</booknumber>
+        </bookid>
+        <document_type value="IFRS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2009-07-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2008-11-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ifrs-1-first-time-adoption-of-ifrs" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="standard" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" id="IFRS01_CHK_FM" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ifrs01/IFRS01_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs01/IFRS01_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs01/IFRS01_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ifrs01/IFRS01_PRE.dita" chunk="to-content" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ifrs01/IFRS01_TOC.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+        <preface href="ifrs01/IFRS01_rubric.dita" class="- map/topicref bookmap/preface "/>
+    </frontmatter>
+    <chapter href="ifrs01/IFRS01_TI.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="IFRS 1 First‑time Adoption of International Financial Reporting Standards"><topicref href="ifrs01/IFRS01_rubric.dita" class="- map/topicref " navtitle="Rubric"/>
+        <topicref href="ifrs01/IFRS01_g1-1.dita" class="- map/topicref " navtitle="Objective">
+            <topicref href="ifrs01/IFRS01_1.dita" class="- map/topicref " navtitle="1"/>
+        </topicref>
+        <topicref href="ifrs01/IFRS01_g2-5.dita" class="- map/topicref " navtitle="Scope">
+            <topicref href="ifrs01/IFRS01_2.dita" class="- map/topicref " navtitle="2"/>
+            <topicref href="ifrs01/IFRS01_3.dita" class="- map/topicref " navtitle="3"/>
+            <topicref href="ifrs01/IFRS01_4.dita" class="- map/topicref " navtitle="4"/>
+            <topicref href="ifrs01/IFRS01_4A.dita" class="- map/topicref " navtitle="4A"/>
+            <topicref href="ifrs01/IFRS01_4B.dita" class="- map/topicref " navtitle="4B"/>
+            <topicref href="ifrs01/IFRS01_5.dita" class="- map/topicref " navtitle="5"/>
+        </topicref>
+        <topicref href="ifrs01/IFRS01_g6-19.dita" class="- map/topicref " navtitle="Recognition and measurement">
+            <topicref href="ifrs01/IFRS01_g6-6.dita" class="- map/topicref " navtitle="Opening IFRS statement of financial position">
+                <topicref href="ifrs01/IFRS01_6.dita" class="- map/topicref " navtitle="6"/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_g7-12.dita" class="- map/topicref " navtitle="Accounting policies">
+                <topicref href="ifrs01/IFRS01_7.dita" class="- map/topicref " navtitle="7"/>
+                <topicref href="ifrs01/IFRS01_8.dita" class="- map/topicref " navtitle="8"/>
+                <topicref href="ifrs01/IFRS01_9.dita" class="- map/topicref " navtitle="9"/>
+                <topicref href="ifrs01/IFRS01_10.dita" class="- map/topicref " navtitle="10"/>
+                <topicref href="ifrs01/IFRS01_11.dita" class="- map/topicref " navtitle="11"/>
+                <topicref href="ifrs01/IFRS01_12.dita" class="- map/topicref " navtitle="12"/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_g13-17.dita" class="- map/topicref " navtitle="Exceptions to the retrospective application of other IFRSs">
+                <topicref href="ifrs01/IFRS01_13.dita" class="- map/topicref " navtitle="13"/>
+                <topicref href="ifrs01/IFRS01_g14-17.dita" class="- map/topicref " navtitle="Estimates">
+                    <topicref href="ifrs01/IFRS01_14.dita" class="- map/topicref " navtitle="14"/>
+                    <topicref href="ifrs01/IFRS01_15.dita" class="- map/topicref " navtitle="15"/>
+                    <topicref href="ifrs01/IFRS01_16.dita" class="- map/topicref " navtitle="16"/>
+                    <topicref href="ifrs01/IFRS01_17.dita" class="- map/topicref " navtitle="17"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_g18-19.dita" class="- map/topicref " navtitle="Exemptions from other IFRSs">
+                <topicref href="ifrs01/IFRS01_18.dita" class="- map/topicref " navtitle="18"/>
+                <topicref href="ifrs01/IFRS01_19_DELETED.dita" class="- map/topicref " navtitle="19"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs01/IFRS01_g20-33.dita" class="- map/topicref " navtitle="Presentation and disclosure">
+            <topicref href="ifrs01/IFRS01_20.dita" class="- map/topicref " navtitle="20"/>
+            <topicref href="ifrs01/IFRS01_g21-22.dita" class="- map/topicref " navtitle="Comparative information">
+                <topicref href="ifrs01/IFRS01_21.dita" class="- map/topicref " navtitle="21"/>
+                <topicref href="ifrs01/IFRS01_g22-22.dita" class="- map/topicref " navtitle="Non‑IFRS comparative information and historical summaries">
+                    <topicref href="ifrs01/IFRS01_22.dita" class="- map/topicref " navtitle="22"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_g23-33.dita" class="- map/topicref " navtitle="Explanation of transition to IFRSs">
+                <topicref href="ifrs01/IFRS01_23.dita" class="- map/topicref " navtitle="23"/>
+                <topicref href="ifrs01/IFRS01_23A.dita" class="- map/topicref " navtitle="23A"/>
+                <topicref href="ifrs01/IFRS01_23B.dita" class="- map/topicref " navtitle="23B"/>
+                <topicref href="ifrs01/IFRS01_g24-28.dita" class="- map/topicref " navtitle="Reconciliations">
+                    <topicref href="ifrs01/IFRS01_24.dita" class="- map/topicref " navtitle="24"/>
+                    <topicref href="ifrs01/IFRS01_25.dita" class="- map/topicref " navtitle="25"/>
+                    <topicref href="ifrs01/IFRS01_26.dita" class="- map/topicref " navtitle="26"/>
+                    <topicref href="ifrs01/IFRS01_27.dita" class="- map/topicref " navtitle="27"/>
+                    <topicref href="ifrs01/IFRS01_27A.dita" class="- map/topicref " navtitle="27A"/>
+                    <topicref href="ifrs01/IFRS01_28.dita" class="- map/topicref " navtitle="28"/>
+                </topicref>
+                <topicref href="ifrs01/IFRS01_g29-29A.dita" class="- map/topicref " navtitle="Designation of financial assets or financial liabilities">
+                    <topicref href="ifrs01/IFRS01_29.dita" class="- map/topicref " navtitle="29"/>
+                    <topicref href="ifrs01/IFRS01_29A.dita" class="- map/topicref " navtitle="29A">
+                        <topicmeta class="- map/topicmeta "/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifrs01/IFRS01_g30-30.dita" class="- map/topicref " navtitle="Use of fair value as deemed cost">
+                    <topicref href="ifrs01/IFRS01_30.dita" class="- map/topicref " navtitle="30"/>
+                </topicref>
+                <topicref href="ifrs01/IFRS01_g31-31.dita" class="- map/topicref " navtitle="Use of deemed cost for investments in subsidiaries, joint ventures and associates">
+                    <topicref href="ifrs01/IFRS01_31.dita" class="- map/topicref " navtitle="31"/>
+                </topicref>
+                <topicref href="ifrs01/IFRS01_g31A-31A.dita" class="- map/topicref " navtitle="Use of deemed cost for oil and gas assets">
+                    <topicref href="ifrs01/IFRS01_31A.dita" class="- map/topicref " navtitle="31A"/>
+                </topicref>
+                <topicref href="ifrs01/IFRS01_g31B-31B.dita" class="- map/topicref " navtitle="Use of deemed cost for operations subject to rate regulation">
+                    <topicref href="ifrs01/IFRS01_31B.dita" class="- map/topicref " navtitle="31B"/>
+                </topicref>
+                <topicref href="ifrs01/IFRS01_g31C-31C.dita" class="- map/topicref " navtitle="Use of deemed cost after severe hyperinflation">
+                    <topicref href="ifrs01/IFRS01_31C.dita" class="- map/topicref " navtitle="31C"/>
+                </topicref>
+                <topicref href="ifrs01/IFRS01_g32-33.dita" class="- map/topicref " navtitle="Interim financial reports">
+                    <topicref href="ifrs01/IFRS01_32.dita" class="- map/topicref " navtitle="32"/>
+                    <topicref href="ifrs01/IFRS01_33.dita" class="- map/topicref " navtitle="33"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs01/IFRS01_g34-39M.dita" class="- map/topicref " navtitle="Effective date">
+            <topicref href="ifrs01/IFRS01_34.dita" class="- map/topicref " navtitle="34"/>
+            <topicref href="ifrs01/IFRS01_35.dita" class="- map/topicref " navtitle="35"/>
+            <topicref href="ifrs01/IFRS01_36.dita" class="- map/topicref " navtitle="36"/>
+            <topicref href="ifrs01/IFRS01_37.dita" class="- map/topicref " navtitle="37"/>
+            <topicref href="ifrs01/IFRS01_38.dita" class="- map/topicref " navtitle="38"/>
+            <topicref href="ifrs01/IFRS01_39.dita" class="- map/topicref " navtitle="39"/>
+            <topicref href="ifrs01/IFRS01_39A.dita" class="- map/topicref " navtitle="39A"/>
+            <topicref href="ifrs01/IFRS01_39B_DELETED.dita" class="- map/topicref " navtitle="39B">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_39C.dita" class="- map/topicref " navtitle="39C"/>
+            <topicref href="ifrs01/IFRS01_39D_DELETED.dita" class="- map/topicref " navtitle="39D">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_39E.dita" class="- map/topicref " navtitle="39E"/>
+            <topicref href="ifrs01/IFRS01_39F_DELETED.dita" class="- map/topicref " navtitle="39F">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_39G_DELETED.dita" class="- map/topicref " navtitle="39G">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_39H.dita" class="- map/topicref " navtitle="39H"/>
+            <topicref href="ifrs01/IFRS01_39I.dita" class="- map/topicref " navtitle="39I"/>
+            <topicref href="ifrs01/IFRS01_39J.dita" class="- map/topicref " navtitle="39J"/>
+            <topicref href="ifrs01/IFRS01_39K.dita" class="- map/topicref " navtitle="39K"/>
+            <topicref href="ifrs01/IFRS01_39L.dita" class="- map/topicref " navtitle="39L"/>
+            <topicref href="ifrs01/IFRS01_39M.dita" class="- map/topicref " navtitle="39M"/>
+            <topicref href="ifrs01/IFRS01_39N.dita" class="- map/topicref " navtitle="39N"/>
+            <topicref href="ifrs01/IFRS01_39O.dita" class="- map/topicref " navtitle="39O"/>
+            <topicref href="ifrs01/IFRS01_39P.dita" class="- map/topicref " navtitle="39P"/>
+            <topicref href="ifrs01/IFRS01_39Q.dita" class="- map/topicref " navtitle="39Q"/>
+            <topicref href="ifrs01/IFRS01_39R.dita" class="- map/topicref " navtitle="39R"/>
+            <topicref href="ifrs01/IFRS01_39S.dita" class="- map/topicref " navtitle="39S"/>
+            <topicref href="ifrs01/IFRS01_39T.dita" class="- map/topicref " navtitle="39T"/>
+            <topicref href="ifrs01/IFRS01_39U_DELETED.dita" class="- map/topicref " navtitle="39U">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_39V.dita" class="- map/topicref " navtitle="39V">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_39W.dita" class="- map/topicref " navtitle="39W"/>
+            <topicref href="ifrs01/IFRS01_39X.dita" class="- map/topicref " navtitle="39X">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_39Y.dita" class="- map/topicref " navtitle="39Y"/>
+            <topicref href="ifrs01/IFRS01_39Z.dita" class="- map/topicref " navtitle="39Z"/>
+            <topicref href="ifrs01/IFRS01_39AA_DELETED.dita" class="- map/topicref " navtitle="39AA">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_39AB.dita" class="- map/topicref " navtitle="39AB">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_39AC.dita" class="- map/topicref " navtitle="39AC"/>
+            <topicref href="ifrs01/IFRS01_39AD.dita" class="- map/topicref " navtitle="39AD"/>
+            <topicref href="ifrs01/IFRS01_39AE.dita" class="- map/topicref " navtitle="39AE">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_39AF.dita" class="- map/topicref " navtitle="39AF">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref base="AI2018-2020" href="ifrs01/IFRS01_39AG.dita" class="- map/topicref " navtitle="39AG">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_39AH.dita" base="IAS2021-3" class="- map/topicref " navtitle="39AH"/>
+        </topicref>
+        <topicref href="ifrs01/IFRS01_g40-40.dita" class="- map/topicref " navtitle="Withdrawal of IFRS 1 (issued 2003)">
+            <topicref href="ifrs01/IFRS01_40.dita" class="- map/topicref " navtitle="40"/>
+        </topicref>
+    <topicref chunk="to-content" class="- map/topicref " navtitle="Appendices">
+        <topicref href="ifrs01/IFRS01_APPA.dita" class="- map/topicref " navtitle="Appendix A Defined terms">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="A" class="- topic/data "/>
+            </topicmeta>
+        </topicref>
+        <topicref href="ifrs01/IFRS01_APPB.dita" class="- map/topicref " navtitle="Appendix B Exceptions to the retrospective application of other IFRSs">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="B" class="- topic/data "/>
+            </topicmeta>
+            <topicref href="ifrs01/IFRS01_B1.dita" class="- map/topicref " navtitle="B1"/>
+            <topicref href="ifrs01/IFRS01_gB2-B3.dita" class="- map/topicref " navtitle="Derecognition of financial assets and financial liabilities">
+                <topicref href="ifrs01/IFRS01_B2.dita" class="- map/topicref " navtitle="B2"/>
+                <topicref href="ifrs01/IFRS01_B3.dita" class="- map/topicref " navtitle="B3"/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_gB4-B6.dita" class="- map/topicref " navtitle="Hedge accounting">
+                <topicref href="ifrs01/IFRS01_B4.dita" class="- map/topicref " navtitle="B4"/>
+                <topicref href="ifrs01/IFRS01_B5.dita" class="- map/topicref " navtitle="B5"/>
+                <topicref href="ifrs01/IFRS01_B6.dita" class="- map/topicref " navtitle="B6"/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_gB7-B8-B9.dita" class="- map/topicref " navtitle="Non‑controlling interests">
+                <topicref href="ifrs01/IFRS01_B7.dita" class="- map/topicref " navtitle="B7"/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_gB8-B8C.dita" class="- map/topicref " navtitle="Classification and measurement of financial instruments">
+                <topicref href="ifrs01/IFRS01_B8.dita" keys="IFRS01_B8" class="- map/topicref " navtitle="B8"/>
+                <topicref href="ifrs01/IFRS01_B8A.dita" class="- map/topicref " navtitle="B8A"/>
+                <topicref href="ifrs01/IFRS01_B8B.dita" class="- map/topicref " navtitle="B8B"/>
+                <topicref href="ifrs01/IFRS01_B8C.dita" class="- map/topicref " navtitle="B8C"/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_gB8D-B8G.dita" class="- map/topicref " navtitle="Impairment of financial assets">
+                <topicref href="ifrs01/IFRS01_B8D.dita" class="- map/topicref " navtitle="B8D"/>
+                <topicref href="ifrs01/IFRS01_B8E.dita" class="- map/topicref " navtitle="B8E"/>
+                <topicref href="ifrs01/IFRS01_B8F.dita" class="- map/topicref " navtitle="B8F"/>
+                <topicref href="ifrs01/IFRS01_B8G.dita" class="- map/topicref " navtitle="B8G"/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_gB9-B9.dita" class="- map/topicref " navtitle="Embedded derivatives">
+                <topicref href="ifrs01/IFRS01_B9.dita" class="- map/topicref " navtitle="B9"/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_gB10-B12.dita" class="- map/topicref " navtitle="Government loans">
+                <topicref href="ifrs01/IFRS01_B10.dita" class="- map/topicref " navtitle="B10"/>
+                <topicref href="ifrs01/IFRS01_B11.dita" class="- map/topicref " navtitle="B11"/>
+                <topicref href="ifrs01/IFRS01_B12.dita" class="- map/topicref " navtitle="B12"/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_gB13-B13.dita" class="- map/topicref " navtitle="Insurance contracts">
+                <topicref href="ifrs01/IFRS01_B13.dita" class="- map/topicref " navtitle="B13"/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_gB14-B14.dita" base="IAS2021-3" class="- map/topicref " navtitle="Deferred tax related to leases and decommissioning, restoration and similar liabilities">
+                <topicref href="ifrs01/IFRS01_B14.dita" base="IAS2021-3" class="- map/topicref " navtitle="B14"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs01/IFRS01_APPC.dita" class="- map/topicref " navtitle="Appendix C Exemptions for business combinations">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="C" class="- topic/data "/>
+            </topicmeta>
+            <topicref href="ifrs01/IFRS01_C1.dita" class="- map/topicref " navtitle="C1"/>
+            <topicref href="ifrs01/IFRS01_C2.dita" class="- map/topicref " navtitle="C2"/>
+            <topicref href="ifrs01/IFRS01_C3.dita" class="- map/topicref " navtitle="C3"/>
+            <topicref href="ifrs01/IFRS01_C4.dita" class="- map/topicref " navtitle="C4"/>
+            <topicref href="ifrs01/IFRS01_C5.dita" class="- map/topicref " navtitle="C5"/>
+        </topicref>
+        <topicref href="ifrs01/IFRS01_APPD.dita" class="- map/topicref " navtitle="Appendix D Exemptions from other IFRSs">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="D" class="- topic/data "/>
+            </topicmeta>
+            <topicref href="ifrs01/IFRS01_D1.dita" class="- map/topicref " navtitle="D1"/>
+            <topicref href="ifrs01/IFRS01_gD2-D3.dita" class="- map/topicref " navtitle="Share‑based payment transactions">
+                <topicref href="ifrs01/IFRS01_D2.dita" class="- map/topicref " navtitle="D2"/>
+                <topicref href="ifrs01/IFRS01_D3.dita" class="- map/topicref " navtitle="D3"/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_D4_DELETED.dita" keys="IFRS01_gD4-D4_V1" class="- map/topicref " navtitle="D4"/>
+            <topicref href="ifrs01/IFRS01_gD5-D8B.dita" class="- map/topicref " navtitle="Deemed cost">
+                <topicref href="ifrs01/IFRS01_D5.dita" class="- map/topicref " navtitle="D5"/>
+                <topicref href="ifrs01/IFRS01_D6.dita" class="- map/topicref " navtitle="D6"/>
+                <topicref href="ifrs01/IFRS01_D7.dita" class="- map/topicref " navtitle="D7"/>
+                <topicref href="ifrs01/IFRS01_D8.dita" class="- map/topicref " navtitle="D8"/>
+                <topicref href="ifrs01/IFRS01_D8A.dita" class="- map/topicref " navtitle="D8A"/>
+                <topicref href="ifrs01/IFRS01_D8B.dita" class="- map/topicref " navtitle="D8B"/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_gD9-D10-D11.dita" class="- map/topicref " navtitle="Leases">
+                <topicref href="ifrs01/IFRS01_D9.dita" class="- map/topicref " navtitle="D9"/>
+                <topicref href="ifrs01/IFRS01_D9A_DELETED.dita" class="- map/topicref " navtitle="D9A">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="ifrs01/IFRS01_D9B.dita" class="- map/topicref " navtitle="D9B">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="ifrs01/IFRS01_D9C.dita" class="- map/topicref " navtitle="D9C"/>
+                <topicref href="ifrs01/IFRS01_D9D.dita" class="- map/topicref " navtitle="D9D"/>
+                <topicref href="ifrs01/IFRS01_D9E.dita" class="- map/topicref " navtitle="D9E"/>
+                <topicref href="ifrs01/IFRS01_D10-D11_DELETED.dita" class="- map/topicref " navtitle="D10–D11"/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_gD12-D13A.dita" class="- map/topicref " navtitle="Cumulative translation differences">
+                <topicref href="ifrs01/IFRS01_D12.dita" class="- map/topicref " navtitle="D12"/>
+                <topicref href="ifrs01/IFRS01_D13.dita" class="- map/topicref " navtitle="D13"/>
+                <topicref base="AI2018-2020" href="ifrs01/IFRS01_D13A.dita" class="- map/topicref " navtitle="D13A">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_gD14-D15A.dita" class="- map/topicref " navtitle="Investments in subsidiaries, joint ventures and associates">
+                <topicref href="ifrs01/IFRS01_D14.dita" class="- map/topicref " navtitle="D14"/>
+                <topicref href="ifrs01/IFRS01_D15.dita" class="- map/topicref " navtitle="D15"/>
+                <topicref href="ifrs01/IFRS01_D15A.dita" class="- map/topicref " navtitle="D15A">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_gD16-D17.dita" class="- map/topicref " navtitle="Assets and liabilities of subsidiaries, associates and joint ventures">
+                <topicref href="ifrs01/IFRS01_D16.dita" class="- map/topicref " navtitle="D16"/>
+                <topicref href="ifrs01/IFRS01_D17.dita" class="- map/topicref " navtitle="D17"/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_gD18-D18.dita" class="- map/topicref " navtitle="Compound financial instruments">
+                <topicref href="ifrs01/IFRS01_D18.dita" class="- map/topicref " navtitle="D18"/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_gD19-D19C.dita" class="- map/topicref " navtitle="Designation of previously recognised financial instruments">
+                <topicref href="ifrs01/IFRS01_D19.dita" class="- map/topicref " navtitle="D19"/>
+                <topicref href="ifrs01/IFRS01_D19A.dita" class="- map/topicref " navtitle="D19A">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="ifrs01/IFRS01_D19B.dita" class="- map/topicref " navtitle="D19B"/>
+                <topicref href="ifrs01/IFRS01_D19C.dita" class="- map/topicref " navtitle="D19C"/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_gD20-D20.dita" class="- map/topicref " navtitle="Fair value measurement of financial assets or financial liabilities at initial recognition">
+                <topicref href="ifrs01/IFRS01_D20.dita" class="- map/topicref " navtitle="D20"/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_gD21-D21A.dita" class="- map/topicref " navtitle="Decommissioning liabilities included in the cost of property, plant and equipment">
+                <topicref href="ifrs01/IFRS01_D21.dita" class="- map/topicref " navtitle="D21"/>
+                <topicref href="ifrs01/IFRS01_D21A.dita" class="- map/topicref " navtitle="D21A"/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_gD22-D22.dita" class="- map/topicref " navtitle="Financial assets or intangible assets accounted for in accordance with IFRIC 12">
+                <topicref href="ifrs01/IFRS01_D22.dita" class="- map/topicref " navtitle="D22"/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_gD23-D23.dita" class="- map/topicref " navtitle="Borrowing costs">
+                <topicref href="ifrs01/IFRS01_D23.dita" class="- map/topicref " navtitle="D23"/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_D24_DELETED.dita" class="- map/topicref " navtitle="D24"/>
+            <topicref href="ifrs01/IFRS01_gD25-D25.dita" class="- map/topicref " navtitle="Extinguishing financial liabilities with equity instruments">
+                <topicref href="ifrs01/IFRS01_D25.dita" class="- map/topicref " navtitle="D25"/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_gD26-D30.dita" class="- map/topicref " navtitle="Severe hyperinflation">
+                <topicref href="ifrs01/IFRS01_D26.dita" class="- map/topicref " navtitle="D26"/>
+                <topicref href="ifrs01/IFRS01_D27.dita" class="- map/topicref " navtitle="D27"/>
+                <topicref href="ifrs01/IFRS01_D28.dita" class="- map/topicref " navtitle="D28"/>
+                <topicref href="ifrs01/IFRS01_D29.dita" class="- map/topicref " navtitle="D29"/>
+                <topicref href="ifrs01/IFRS01_D30.dita" class="- map/topicref " navtitle="D30"/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_gD31-D31.dita" class="- map/topicref " navtitle="Joint arrangements">
+                <topicref href="ifrs01/IFRS01_D31.dita" class="- map/topicref " navtitle="D31"/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_gD32-D33-D36.dita" class="- map/topicref " navtitle="Stripping costs in the production phase of a surface mine">
+                <topicref href="ifrs01/IFRS01_D32.dita" class="- map/topicref " navtitle="D32"/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_gD33-D33.dita" class="- map/topicref " navtitle="Designation of contracts to buy or sell a non-financial item">
+                <topicref href="ifrs01/IFRS01_D33.dita" class="- map/topicref " navtitle="D33"/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_gD34-D35.dita" class="- map/topicref " navtitle="Revenue">
+                <topicref href="ifrs01/IFRS01_D34.dita" class="- map/topicref " navtitle="D34"/>
+                <topicref href="ifrs01/IFRS01_D35.dita" class="- map/topicref " navtitle="D35"/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_gD36-D36.dita" class="- map/topicref " navtitle="Foreign currency transactions and advance consideration">
+                <topicref href="ifrs01/IFRS01_D36.dita" class="- map/topicref " navtitle="D36"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs01/IFRS01_APPE.dita" class="- map/topicref " navtitle="Appendix E Short‑term exemptions from IFRSs">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="E" class="- topic/data "/>
+            </topicmeta>
+            <topicref href="ifrs01/IFRS01_gE1-E2.dita" class="- map/topicref " navtitle="Exemption from the requirement to restate comparative information for IFRS 9">
+                <topicmeta class="- map/topicmeta "/>
+                <topicref href="ifrs01/IFRS01_E1.dita" class="- map/topicref " navtitle="E1">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="ifrs01/IFRS01_E2.dita" class="- map/topicref " navtitle="E2"/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_E3-E7_DELETED.dita" class="- map/topicref " navtitle="E3–E7">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ifrs01/IFRS01_gE8-E8.dita" class="- map/topicref " navtitle="Uncertainty over income tax treatments">
+                <topicmeta class="- map/topicmeta "/>
+                <topicref href="ifrs01/IFRS01_E8.dita" class="- map/topicref " navtitle="E8">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+            </topicref>
+        </topicref>
+    </topicref>
+        <topicref href="ifrs01/IFRS01_BANov2008.dita" class="- map/topicref " navtitle="Approval by the Board of IFRS 1 issued in November 2008"/>
+        <topicref href="ifrs01/IFRS01_BAJul2009.dita" class="- map/topicref " navtitle="Approval by the Board of Additional Exemptions for First‑time Adopters (Amendments to IFRS 1) issued in July 2009"/>
+        <topicref href="ifrs01/IFRS01_BAJan2010.dita" class="- map/topicref " navtitle="Approval by the Board of Limited Exemption from Comparative IFRS 7 Disclosures for First‑time Adopters (Amendment to IFRS 1) issued in January 2010"/>
+        <topicref href="ifrs01/IFRS01_BADec2010.dita" class="- map/topicref " navtitle="Approval by the Board of Severe Hyperinflation and Removal of Fixed Dates for First‑time Adopters (Amendments to IFRS 1) issued in December 2010"/>
+        <topicref href="ifrs01/IFRS01_BAMar2012.dita" class="- map/topicref " navtitle="Approval by the Board of Government Loans (Amendments to IFRS 1) issued in March 2012"/>
+    </chapter>
+    
+    
+</bookmap>

@@ -1,0 +1,1088 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IFRS15_BC_CHK_ALL" chunk="to-content" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Revenue from Contracts with
+            Customers</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Basis For Conclusions</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IFRS 15</booknumber>
+        </bookid>
+        <document_type value="IFRS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2018-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2014-05-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ifrs-15-revenue-from-contracts-with-customers" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="basis-for-conclusion" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ifrs15/IFRS15_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs15/IFRS15_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs15/IFRS15_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ifrs15/IFRS15_PartC.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ifrs15/IFRS15_BC_TOC.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+    </frontmatter>
+    <chapter href="ifrs15/IFRS15_BC_TI.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Basis for Conclusions on IFRS 15 Revenue from Contracts with Customers">
+        <topicmeta class="- map/topicmeta "/>
+        <topicref href="ifrs15/IFRS15_gBC1-BC1A.dita" class="- map/topicref " navtitle="Introduction">
+            <topicref href="ifrs15/IFRS15_BC1.dita" class="- map/topicref " navtitle="BC1"/>
+            <topicref href="ifrs15/IFRS15_BC1A.dita" class="- map/topicref " navtitle="BC1A"/>
+        </topicref>
+        <topicref href="ifrs15/IFRS15_gBC2-BC3.dita" class="- map/topicref " navtitle="Overview">
+            <topicref href="ifrs15/IFRS15_BC2.dita" class="- map/topicref " navtitle="BC2"/>
+            <topicref href="ifrs15/IFRS15_BC3.dita" class="- map/topicref " navtitle="BC3"/>
+        </topicref>
+        <topicref href="ifrs15/IFRS15_gBC4-BC27H.dita" class="- map/topicref " navtitle="Background">
+            <topicref href="ifrs15/IFRS15_BC4.dita" class="- map/topicref " navtitle="BC4"/>
+            <topicref href="ifrs15/IFRS15_BC5.dita" class="- map/topicref " navtitle="BC5"/>
+            <topicref href="ifrs15/IFRS15_BC6.dita" class="- map/topicref " navtitle="BC6"/>
+            <topicref href="ifrs15/IFRS15_BC7.dita" class="- map/topicref " navtitle="BC7"/>
+            <topicref href="ifrs15/IFRS15_BC8.dita" class="- map/topicref " navtitle="BC8"/>
+            <topicref href="ifrs15/IFRS15_BC9.dita" class="- map/topicref " navtitle="BC9"/>
+            <topicref href="ifrs15/IFRS15_BC10.dita" class="- map/topicref " navtitle="BC10"/>
+            <topicref href="ifrs15/IFRS15_BC11.dita" class="- map/topicref " navtitle="BC11"/>
+            <topicref href="ifrs15/IFRS15_BC12.dita" class="- map/topicref " navtitle="BC12"/>
+            <topicref href="ifrs15/IFRS15_BC13.dita" class="- map/topicref " navtitle="BC13"/>
+            <topicref href="ifrs15/IFRS15_gBC14-BC15.dita" class="- map/topicref " navtitle="Why make the change?">
+                <topicref href="ifrs15/IFRS15_BC14.dita" class="- map/topicref " navtitle="BC14"/>
+                <topicref href="ifrs15/IFRS15_BC15.dita" class="- map/topicref " navtitle="BC15"/>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC16-BC27.dita" class="- map/topicref " navtitle="Alternative revenue recognition models">
+                <topicref href="ifrs15/IFRS15_BC16.dita" class="- map/topicref " navtitle="BC16"/>
+                <topicref href="ifrs15/IFRS15_gBC17-BC24.dita" class="- map/topicref " navtitle="Basis for recognising revenue">
+                    <topicref href="ifrs15/IFRS15_BC17.dita" class="- map/topicref " navtitle="BC17"/>
+                    <topicref href="ifrs15/IFRS15_BC18.dita" class="- map/topicref " navtitle="BC18"/>
+                    <topicref href="ifrs15/IFRS15_BC19.dita" class="- map/topicref " navtitle="BC19"/>
+                    <topicref href="ifrs15/IFRS15_BC20.dita" class="- map/topicref " navtitle="BC20"/>
+                    <topicref href="ifrs15/IFRS15_BC21.dita" class="- map/topicref " navtitle="BC21"/>
+                    <topicref href="ifrs15/IFRS15_BC22.dita" class="- map/topicref " navtitle="BC22"/>
+                    <topicref href="ifrs15/IFRS15_BC23.dita" class="- map/topicref " navtitle="BC23"/>
+                    <topicref href="ifrs15/IFRS15_BC24.dita" class="- map/topicref " navtitle="BC24"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC25-BC27.dita" class="- map/topicref " navtitle="Basis for measuring revenue">
+                    <topicref href="ifrs15/IFRS15_BC25.dita" class="- map/topicref " navtitle="BC25"/>
+                    <topicref href="ifrs15/IFRS15_BC26.dita" class="- map/topicref " navtitle="BC26"/>
+                    <topicref href="ifrs15/IFRS15_BC27.dita" class="- map/topicref " navtitle="BC27"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC27A-BC27H.dita" class="- map/topicref " navtitle="Clarifications to IFRS 15 (amendments issued in April 2016)">
+                <topicref href="ifrs15/IFRS15_BC27A.dita" class="- map/topicref " navtitle="BC27A"/>
+                <topicref href="ifrs15/IFRS15_BC27B.dita" class="- map/topicref " navtitle="BC27B"/>
+                <topicref href="ifrs15/IFRS15_BC27C.dita" class="- map/topicref " navtitle="BC27C"/>
+                <topicref href="ifrs15/IFRS15_BC27D.dita" class="- map/topicref " navtitle="BC27D"/>
+                <topicref href="ifrs15/IFRS15_BC27E.dita" class="- map/topicref " navtitle="BC27E"/>
+                <topicref href="ifrs15/IFRS15_BC27F.dita" class="- map/topicref " navtitle="BC27F"/>
+                <topicref href="ifrs15/IFRS15_BC27G.dita" class="- map/topicref " navtitle="BC27G"/>
+                <topicref href="ifrs15/IFRS15_BC27H.dita" class="- map/topicref " navtitle="BC27H"/>
+                <topicref href="ifrs15/IFRS15_0001.dita" class="- map/topicref " navtitle="Topics for which both the IASB and FASB decided to amend IFRS 15 and Topic 606"/>
+                <topicref href="ifrs15/IFRS15_0002.dita" class="- map/topicref " navtitle="Topics for which the IASB decided not to amend IFRS 15 but the FASB decided to amend Topic 606"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs15/IFRS15_gBC28-BC66.dita" class="- map/topicref " navtitle="Scope">
+            <topicref href="ifrs15/IFRS15_BC28.dita" class="- map/topicref " navtitle="BC28"/>
+            <topicref href="ifrs15/IFRS15_BC29.dita" class="- map/topicref " navtitle="BC29"/>
+            <topicref href="ifrs15/IFRS15_BC30.dita" class="- map/topicref " navtitle="BC30"/>
+            <topicref href="ifrs15/IFRS15_gBC31-BC46H.dita" class="- map/topicref " navtitle="Definition of a contract (Appendix A)">
+                <topicref href="ifrs15/IFRS15_BC31.dita" class="- map/topicref " navtitle="BC31"/>
+                <topicref href="ifrs15/IFRS15_BC32.dita" class="- map/topicref " navtitle="BC32"/>
+                <topicref href="ifrs15/IFRS15_BC33.dita" class="- map/topicref " navtitle="BC33"/>
+                <topicref href="ifrs15/IFRS15_BC34.dita" class="- map/topicref " navtitle="BC34"/>
+                <topicref href="ifrs15/IFRS15_gBC35-BC36.dita" class="- map/topicref " navtitle="The parties have approved the contract and are committed to perform their respective obligations (paragraph 9(a))">
+                    <topicref href="ifrs15/IFRS15_BC35.dita" class="- map/topicref " navtitle="BC35"/>
+                    <topicref href="ifrs15/IFRS15_BC36.dita" class="- map/topicref " navtitle="BC36"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC37-BC37.dita" class="- map/topicref " navtitle="The entity can identify each party’s rights regarding the goods or services to be transferred (paragraph 9(b))">
+                    <topicref href="ifrs15/IFRS15_BC37.dita" class="- map/topicref " navtitle="BC37"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC38-BC39.dita" class="- map/topicref " navtitle="The entity can identify the payment terms for the goods or services to be transferred (paragraph 9(c))">
+                    <topicref href="ifrs15/IFRS15_BC38.dita" class="- map/topicref " navtitle="BC38"/>
+                    <topicref href="ifrs15/IFRS15_BC39.dita" class="- map/topicref " navtitle="BC39"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC40-BC41.dita" class="- map/topicref " navtitle="The contract has commercial substance (paragraph 9(d))">
+                    <topicref href="ifrs15/IFRS15_BC40.dita" class="- map/topicref " navtitle="BC40"/>
+                    <topicref href="ifrs15/IFRS15_BC41.dita" class="- map/topicref " navtitle="BC41"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC42-BC46H.dita" class="- map/topicref " navtitle="It is probable that the entity will collect the consideration to which it will be entitled (paragraph 9(e))">
+                    <topicref href="ifrs15/IFRS15_BC42.dita" class="- map/topicref " navtitle="BC42"/>
+                    <topicref href="ifrs15/IFRS15_BC43.dita" class="- map/topicref " navtitle="BC43"/>
+                    <topicref href="ifrs15/IFRS15_BC44.dita" class="- map/topicref " navtitle="BC44"/>
+                    <topicref href="ifrs15/IFRS15_BC45.dita" class="- map/topicref " navtitle="BC45"/>
+                    <topicref href="ifrs15/IFRS15_BC46.dita" class="- map/topicref " navtitle="BC46"/>
+                    <topicref href="ifrs15/IFRS15_gBC46A-BC46H.dita" class="- map/topicref " navtitle="Clarifications to IFRS 15 (amendments issued in April 2016)—topics for which the IASB decided not to amend IFRS 15">
+                        <topicmeta class="- map/topicmeta "/>
+                        <topicref href="ifrs15/IFRS15_BC46A.dita" class="- map/topicref " navtitle="BC46A"/>
+                        <topicref href="ifrs15/IFRS15_gBC46B-BC46E.dita" class="- map/topicref " navtitle="Assessing collectability">
+                            <topicref href="ifrs15/IFRS15_BC46B.dita" class="- map/topicref " navtitle="BC46B"/>
+                            <topicref href="ifrs15/IFRS15_BC46C.dita" class="- map/topicref " navtitle="BC46C"/>
+                            <topicref href="ifrs15/IFRS15_BC46D.dita" class="- map/topicref " navtitle="BC46D"/>
+                            <topicref href="ifrs15/IFRS15_BC46E.dita" class="- map/topicref " navtitle="BC46E"/>
+                        </topicref>
+                        <topicref href="ifrs15/IFRS15_gBC46F-BC46H.dita" class="- map/topicref " navtitle="Contract termination">
+                            <topicref href="ifrs15/IFRS15_BC46F.dita" class="- map/topicref " navtitle="BC46F"/>
+                            <topicref href="ifrs15/IFRS15_BC46G.dita" class="- map/topicref " navtitle="BC46G"/>
+                            <topicref href="ifrs15/IFRS15_BC46H.dita" class="- map/topicref " navtitle="BC46H"/>
+                        </topicref>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC47-BC49.dita" class="- map/topicref " navtitle="Accounting for contracts that do not meet the criteria in paragraph 9">
+                <topicref href="ifrs15/IFRS15_BC47.dita" class="- map/topicref " navtitle="BC47"/>
+                <topicref href="ifrs15/IFRS15_BC48.dita" class="- map/topicref " navtitle="BC48"/>
+                <topicref href="ifrs15/IFRS15_BC49.dita" class="- map/topicref " navtitle="BC49"/>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC50-BC51.dita" class="- map/topicref " navtitle="Wholly unperformed contracts">
+                <topicref href="ifrs15/IFRS15_BC50.dita" class="- map/topicref " navtitle="BC50"/>
+                <topicref href="ifrs15/IFRS15_BC51.dita" class="- map/topicref " navtitle="BC51"/>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC52-BC57.dita" class="- map/topicref " navtitle="Definition of a customer (paragraph 6 and Appendix A)">
+                <topicref href="ifrs15/IFRS15_BC52.dita" class="- map/topicref " navtitle="BC52"/>
+                <topicref href="ifrs15/IFRS15_BC53.dita" class="- map/topicref " navtitle="BC53"/>
+                <topicref href="ifrs15/IFRS15_BC54.dita" class="- map/topicref " navtitle="BC54"/>
+                <topicref href="ifrs15/IFRS15_BC55.dita" class="- map/topicref " navtitle="BC55"/>
+                <topicref href="ifrs15/IFRS15_BC56.dita" class="- map/topicref " navtitle="BC56"/>
+                <topicref href="ifrs15/IFRS15_BC57.dita" class="- map/topicref " navtitle="BC57"/>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC58-BC59.dita" class="- map/topicref " navtitle="Exchanges of products to facilitate a sale to another party (paragraph 5(d))">
+                <topicref href="ifrs15/IFRS15_BC58.dita" class="- map/topicref " navtitle="BC58"/>
+                <topicref href="ifrs15/IFRS15_BC59.dita" class="- map/topicref " navtitle="BC59"/>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC60-BC63.dita" class="- map/topicref " navtitle="Contracts with customers outside the scope of the requirements (paragraph 5)">
+                <topicref href="ifrs15/IFRS15_BC60.dita" class="- map/topicref " navtitle="BC60"/>
+                <topicref href="ifrs15/IFRS15_BC61.dita" class="- map/topicref " navtitle="BC61"/>
+                <topicref href="ifrs15/IFRS15_BC62.dita" class="- map/topicref " navtitle="BC62"/>
+                <topicref href="ifrs15/IFRS15_BC63.dita" class="- map/topicref " navtitle="BC63"/>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC64-BC66.dita" class="- map/topicref " navtitle="Contracts partially within the scope of other Standards (paragraph 7)">
+                <topicref href="ifrs15/IFRS15_BC64.dita" class="- map/topicref " navtitle="BC64"/>
+                <topicref href="ifrs15/IFRS15_BC65.dita" class="- map/topicref " navtitle="BC65"/>
+                <topicref href="ifrs15/IFRS15_BC66.dita" class="- map/topicref " navtitle="BC66"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs15/IFRS15_gBC67-BC83.dita" class="- map/topicref " navtitle="Identifying the contract (paragraphs 9–16)">
+            <topicref href="ifrs15/IFRS15_BC67.dita" class="- map/topicref " navtitle="BC67"/>
+            <topicref href="ifrs15/IFRS15_BC68.dita" class="- map/topicref " navtitle="BC68"/>
+            <topicref href="ifrs15/IFRS15_gBC69-BC70.dita" class="- map/topicref " navtitle="Applying IFRS 15 at a portfolio level">
+                <topicref href="ifrs15/IFRS15_BC69.dita" class="- map/topicref " navtitle="BC69"/>
+                <topicref href="ifrs15/IFRS15_BC70.dita" class="- map/topicref " navtitle="BC70"/>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC71-BC75.dita" class="- map/topicref " navtitle="Combination of contracts (paragraph 17)">
+                <topicref href="ifrs15/IFRS15_BC71.dita" class="- map/topicref " navtitle="BC71"/>
+                <topicref href="ifrs15/IFRS15_BC72.dita" class="- map/topicref " navtitle="BC72"/>
+                <topicref href="ifrs15/IFRS15_BC73.dita" class="- map/topicref " navtitle="BC73"/>
+                <topicref href="ifrs15/IFRS15_BC74.dita" class="- map/topicref " navtitle="BC74"/>
+                <topicref href="ifrs15/IFRS15_BC75.dita" class="- map/topicref " navtitle="BC75"/>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC76-BC83.dita" class="- map/topicref " navtitle="Contract modifications (paragraphs 18–21)">
+                <topicref href="ifrs15/IFRS15_BC76.dita" class="- map/topicref " navtitle="BC76"/>
+                <topicref href="ifrs15/IFRS15_BC77.dita" class="- map/topicref " navtitle="BC77"/>
+                <topicref href="ifrs15/IFRS15_BC78.dita" class="- map/topicref " navtitle="BC78"/>
+                <topicref href="ifrs15/IFRS15_BC79.dita" class="- map/topicref " navtitle="BC79"/>
+                <topicref href="ifrs15/IFRS15_BC80.dita" class="- map/topicref " navtitle="BC80"/>
+                <topicref href="ifrs15/IFRS15_BC81.dita" class="- map/topicref " navtitle="BC81"/>
+                <topicref href="ifrs15/IFRS15_gBC82-BC83.dita" class="- map/topicref " navtitle="Interaction between changes in the transaction price and contract modifications">
+                    <topicref href="ifrs15/IFRS15_BC82.dita" class="- map/topicref " navtitle="BC82"/>
+                    <topicref href="ifrs15/IFRS15_BC83.dita" class="- map/topicref " navtitle="BC83"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs15/IFRS15_gBC84-BC116U.dita" class="- map/topicref " navtitle="Identifying performance obligations">
+            <topicref href="ifrs15/IFRS15_gBC84-BC86.dita" class="- map/topicref " navtitle="Definition of a performance obligation (Appendix A)">
+                <topicref href="ifrs15/IFRS15_BC84.dita" class="- map/topicref " navtitle="BC84"/>
+                <topicref href="ifrs15/IFRS15_BC85.dita" class="- map/topicref " navtitle="BC85"/>
+                <topicref href="ifrs15/IFRS15_BC86.dita" class="- map/topicref " navtitle="BC86"/>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC87-BC93.dita" class="- map/topicref " navtitle="Identifying the promised goods or services (paragraphs 24–25)">
+                <topicref href="ifrs15/IFRS15_BC87.dita" class="- map/topicref " navtitle="BC87"/>
+                <topicref href="ifrs15/IFRS15_BC88.dita" class="- map/topicref " navtitle="BC88"/>
+                <topicref href="ifrs15/IFRS15_BC89.dita" class="- map/topicref " navtitle="BC89"/>
+                <topicref href="ifrs15/IFRS15_BC90.dita" class="- map/topicref " navtitle="BC90"/>
+                <topicref href="ifrs15/IFRS15_BC91.dita" class="- map/topicref " navtitle="BC91"/>
+                <topicref href="ifrs15/IFRS15_BC92.dita" class="- map/topicref " navtitle="BC92"/>
+                <topicref href="ifrs15/IFRS15_BC93.dita" class="- map/topicref " navtitle="BC93"/>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC94-BC112.dita" class="- map/topicref " navtitle="Identifying when promises represent performance obligations (paragraphs 22–30)">
+                <topicref href="ifrs15/IFRS15_BC94.dita" class="- map/topicref " navtitle="BC94"/>
+                <topicref href="ifrs15/IFRS15_BC95.dita" class="- map/topicref " navtitle="BC95"/>
+                <topicref href="ifrs15/IFRS15_BC96.dita" class="- map/topicref " navtitle="BC96"/>
+                <topicref href="ifrs15/IFRS15_gBC97-BC101.dita" class="- map/topicref " navtitle="Capable of being distinct">
+                    <topicref href="ifrs15/IFRS15_BC97.dita" class="- map/topicref " navtitle="BC97"/>
+                    <topicref href="ifrs15/IFRS15_BC98.dita" class="- map/topicref " navtitle="BC98"/>
+                    <topicref href="ifrs15/IFRS15_BC99.dita" class="- map/topicref " navtitle="BC99"/>
+                    <topicref href="ifrs15/IFRS15_BC100.dita" class="- map/topicref " navtitle="BC100"/>
+                    <topicref href="ifrs15/IFRS15_BC101.dita" class="- map/topicref " navtitle="BC101"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC102-BC112.dita" class="- map/topicref " navtitle="Distinct within the context of the contract">
+                    <topicref href="ifrs15/IFRS15_BC102.dita" class="- map/topicref " navtitle="BC102"/>
+                    <topicref href="ifrs15/IFRS15_BC103.dita" class="- map/topicref " navtitle="BC103"/>
+                    <topicref href="ifrs15/IFRS15_BC104.dita" class="- map/topicref " navtitle="BC104"/>
+                    <topicref href="ifrs15/IFRS15_BC105.dita" class="- map/topicref " navtitle="BC105"/>
+                    <topicref href="ifrs15/IFRS15_BC106.dita" class="- map/topicref " navtitle="BC106"/>
+                    <topicref href="ifrs15/IFRS15_gBC107-BC108.dita" class="- map/topicref " navtitle="Significant integration service (paragraph 29(a))">
+                        <topicref href="ifrs15/IFRS15_BC107.dita" class="- map/topicref " navtitle="BC107"/>
+                        <topicref href="ifrs15/IFRS15_BC108.dita" class="- map/topicref " navtitle="BC108"/>
+                    </topicref>
+                    <topicref href="ifrs15/IFRS15_gBC109-BC110.dita" class="- map/topicref " navtitle="Significant modification or customisation (paragraph 29(b))">
+                        <topicref href="ifrs15/IFRS15_BC109.dita" class="- map/topicref " navtitle="BC109"/>
+                        <topicref href="ifrs15/IFRS15_BC110.dita" class="- map/topicref " navtitle="BC110"/>
+                    </topicref>
+                    <topicref href="ifrs15/IFRS15_gBC111-BC112.dita" class="- map/topicref " navtitle="Highly dependent or highly interrelated (paragraph 29(c))">
+                        <topicref href="ifrs15/IFRS15_BC111.dita" class="- map/topicref " navtitle="BC111"/>
+                        <topicref href="ifrs15/IFRS15_BC112.dita" class="- map/topicref " navtitle="BC112"/>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC113-BC116.dita" class="- map/topicref " navtitle="A series of distinct goods or services that are substantially the same and have the same pattern of transfer (paragraph 22(b))">
+                <topicref href="ifrs15/IFRS15_BC113.dita" class="- map/topicref " navtitle="BC113"/>
+                <topicref href="ifrs15/IFRS15_BC114.dita" class="- map/topicref " navtitle="BC114"/>
+                <topicref href="ifrs15/IFRS15_BC115.dita" class="- map/topicref " navtitle="BC115"/>
+                <topicref href="ifrs15/IFRS15_BC116.dita" class="- map/topicref " navtitle="BC116"/>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC116A-BC116U.dita" class="- map/topicref " navtitle="Clarifications to IFRS 15 (amendments issued in April 2016)">
+                <topicref href="ifrs15/IFRS15_gBC116A-BC116E.dita" class="- map/topicref " navtitle="Promised goods or services that are immaterial within the context of the contract">
+                    <topicref href="ifrs15/IFRS15_BC116A.dita" class="- map/topicref " navtitle="BC116A"/>
+                    <topicref href="ifrs15/IFRS15_BC116B.dita" class="- map/topicref " navtitle="BC116B"/>
+                    <topicref href="ifrs15/IFRS15_BC116C.dita" class="- map/topicref " navtitle="BC116C"/>
+                    <topicref href="ifrs15/IFRS15_BC116D.dita" class="- map/topicref " navtitle="BC116D"/>
+                    <topicref href="ifrs15/IFRS15_BC116E.dita" class="- map/topicref " navtitle="BC116E"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC116F-BC116Q.dita" class="- map/topicref " navtitle="Identifying performance obligations (paragraphs 27–30)">
+                    <topicref href="ifrs15/IFRS15_BC116F.dita" class="- map/topicref " navtitle="BC116F"/>
+                    <topicref href="ifrs15/IFRS15_BC116G.dita" class="- map/topicref " navtitle="BC116G"/>
+                    <topicref href="ifrs15/IFRS15_BC116H.dita" class="- map/topicref " navtitle="BC116H"/>
+                    <topicref href="ifrs15/IFRS15_BC116I.dita" class="- map/topicref " navtitle="BC116I"/>
+                    <topicref href="ifrs15/IFRS15_BC116J.dita" class="- map/topicref " navtitle="BC116J"/>
+                    <topicref href="ifrs15/IFRS15_BC116K.dita" class="- map/topicref " navtitle="BC116K"/>
+                    <topicref href="ifrs15/IFRS15_BC116L.dita" class="- map/topicref " navtitle="BC116L"/>
+                    <topicref href="ifrs15/IFRS15_BC116M.dita" class="- map/topicref " navtitle="BC116M"/>
+                    <topicref href="ifrs15/IFRS15_BC116N.dita" class="- map/topicref " navtitle="BC116N"/>
+                    <topicref href="ifrs15/IFRS15_BC116O.dita" class="- map/topicref " navtitle="BC116O"/>
+                    <topicref href="ifrs15/IFRS15_BC116P.dita" class="- map/topicref " navtitle="BC116P"/>
+                    <topicref href="ifrs15/IFRS15_BC116Q.dita" class="- map/topicref " navtitle="BC116Q"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC116R-BC116U.dita" class="- map/topicref " navtitle="Shipping and handling activities">
+                    <topicref href="ifrs15/IFRS15_BC116R.dita" class="- map/topicref " navtitle="BC116R"/>
+                    <topicref href="ifrs15/IFRS15_BC116S.dita" class="- map/topicref " navtitle="BC116S"/>
+                    <topicref href="ifrs15/IFRS15_BC116T.dita" class="- map/topicref " navtitle="BC116T"/>
+                    <topicref href="ifrs15/IFRS15_BC116U.dita" class="- map/topicref " navtitle="BC116U"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs15/IFRS15_gBC117-BC180.dita" class="- map/topicref " navtitle="Satisfaction of performance obligations (paragraphs 31–45)">
+            <topicref href="ifrs15/IFRS15_BC117.dita" class="- map/topicref " navtitle="BC117"/>
+            <topicref href="ifrs15/IFRS15_gBC118-BC123.dita" class="- map/topicref " navtitle="Control">
+                <topicref href="ifrs15/IFRS15_BC118.dita" class="- map/topicref " navtitle="BC118"/>
+                <topicref href="ifrs15/IFRS15_BC119.dita" class="- map/topicref " navtitle="BC119"/>
+                <topicref href="ifrs15/IFRS15_gBC120-BC121.dita" class="- map/topicref " navtitle="Developing the notion of control">
+                    <topicref href="ifrs15/IFRS15_BC120.dita" class="- map/topicref " navtitle="BC120"/>
+                    <topicref href="ifrs15/IFRS15_BC121.dita" class="- map/topicref " navtitle="BC121"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC122-BC123.dita" class="- map/topicref " navtitle="Applying the notion of control">
+                    <topicref href="ifrs15/IFRS15_BC122.dita" class="- map/topicref " navtitle="BC122"/>
+                    <topicref href="ifrs15/IFRS15_BC123.dita" class="- map/topicref " navtitle="BC123"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC124-BC152.dita" class="- map/topicref " navtitle="Performance obligations satisfied over time (paragraphs 35–37)">
+                <topicref href="ifrs15/IFRS15_BC124.dita" class="- map/topicref " navtitle="BC124"/>
+                <topicref href="ifrs15/IFRS15_gBC125-BC128.dita" class="- map/topicref " navtitle="Customer simultaneously receives and consumes benefits as entity performs (paragraph 35(a))">
+                    <topicref href="ifrs15/IFRS15_BC125.dita" class="- map/topicref " navtitle="BC125"/>
+                    <topicref href="ifrs15/IFRS15_BC126.dita" class="- map/topicref " navtitle="BC126"/>
+                    <topicref href="ifrs15/IFRS15_BC127.dita" class="- map/topicref " navtitle="BC127"/>
+                    <topicref href="ifrs15/IFRS15_BC128.dita" class="- map/topicref " navtitle="BC128"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC129-BC131.dita" class="- map/topicref " navtitle="Performance creates or enhances an asset that the customer controls as it is created (paragraph 35(b))">
+                    <topicref href="ifrs15/IFRS15_BC129.dita" class="- map/topicref " navtitle="BC129"/>
+                    <topicref href="ifrs15/IFRS15_BC130.dita" class="- map/topicref " navtitle="BC130"/>
+                    <topicref href="ifrs15/IFRS15_BC131.dita" class="- map/topicref " navtitle="BC131"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC132-BC152.dita" class="- map/topicref " navtitle="Performance does not create an asset with an alternative use to the entity and the entity has an enforceable right to payment for performance completed to date (paragraph 35(c))">
+                    <topicref href="ifrs15/IFRS15_BC132.dita" class="- map/topicref " navtitle="BC132"/>
+                    <topicref href="ifrs15/IFRS15_BC133.dita" class="- map/topicref " navtitle="BC133"/>
+                    <topicref href="ifrs15/IFRS15_gBC134-BC141.dita" class="- map/topicref " navtitle="Performance does not create an asset with an alternative use">
+                        <topicref href="ifrs15/IFRS15_BC134.dita" class="- map/topicref " navtitle="BC134"/>
+                        <topicref href="ifrs15/IFRS15_BC135.dita" class="- map/topicref " navtitle="BC135"/>
+                        <topicref href="ifrs15/IFRS15_BC136.dita" class="- map/topicref " navtitle="BC136"/>
+                        <topicref href="ifrs15/IFRS15_BC137.dita" class="- map/topicref " navtitle="BC137"/>
+                        <topicref href="ifrs15/IFRS15_BC138.dita" class="- map/topicref " navtitle="BC138"/>
+                        <topicref href="ifrs15/IFRS15_BC139.dita" class="- map/topicref " navtitle="BC139"/>
+                        <topicref href="ifrs15/IFRS15_BC140.dita" class="- map/topicref " navtitle="BC140"/>
+                        <topicref href="ifrs15/IFRS15_BC141.dita" class="- map/topicref " navtitle="BC141"/>
+                    </topicref>
+                    <topicref href="ifrs15/IFRS15_gBC142-BC147.dita" class="- map/topicref " navtitle="The entity has an enforceable right to payment for performance completed to date">
+                        <topicref href="ifrs15/IFRS15_BC142.dita" class="- map/topicref " navtitle="BC142"/>
+                        <topicref href="ifrs15/IFRS15_BC143.dita" class="- map/topicref " navtitle="BC143"/>
+                        <topicref href="ifrs15/IFRS15_BC144.dita" class="- map/topicref " navtitle="BC144"/>
+                        <topicref href="ifrs15/IFRS15_BC145.dita" class="- map/topicref " navtitle="BC145"/>
+                        <topicref href="ifrs15/IFRS15_BC146.dita" class="- map/topicref " navtitle="BC146"/>
+                        <topicref href="ifrs15/IFRS15_BC147.dita" class="- map/topicref " navtitle="BC147"/>
+                    </topicref>
+                    <topicref href="ifrs15/IFRS15_gBC148-BC148.dita" class="- map/topicref " navtitle="Right to payment as a separate revenue recognition criterion">
+                        <topicref href="ifrs15/IFRS15_BC148.dita" class="- map/topicref " navtitle="BC148"/>
+                    </topicref>
+                    <topicref href="ifrs15/IFRS15_gBC149-BC152.dita" class="- map/topicref " navtitle="Agreements for the construction of real estate">
+                        <topicref href="ifrs15/IFRS15_BC149.dita" class="- map/topicref " navtitle="BC149"/>
+                        <topicref href="ifrs15/IFRS15_BC150.dita" class="- map/topicref " navtitle="BC150"/>
+                        <topicref href="ifrs15/IFRS15_BC151.dita" class="- map/topicref " navtitle="BC151"/>
+                        <topicref href="ifrs15/IFRS15_BC152.dita" class="- map/topicref " navtitle="BC152"/>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC153-BC157.dita" class="- map/topicref " navtitle="Performance obligations satisfied at a point in time (paragraph 38)">
+                <topicref href="ifrs15/IFRS15_BC153.dita" class="- map/topicref " navtitle="BC153"/>
+                <topicref href="ifrs15/IFRS15_BC154.dita" class="- map/topicref " navtitle="BC154"/>
+                <topicref href="ifrs15/IFRS15_BC155.dita" class="- map/topicref " navtitle="BC155"/>
+                <topicref href="ifrs15/IFRS15_BC156.dita" class="- map/topicref " navtitle="BC156"/>
+                <topicref href="ifrs15/IFRS15_BC157.dita" class="- map/topicref " navtitle="BC157"/>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC158-BC180.dita" class="- map/topicref " navtitle="Measuring progress towards complete satisfaction of a performance obligation (paragraphs 39–45 and B14–B19)">
+                <topicref href="ifrs15/IFRS15_BC158.dita" class="- map/topicref " navtitle="BC158"/>
+                <topicref href="ifrs15/IFRS15_BC159.dita" class="- map/topicref " navtitle="BC159"/>
+                <topicref href="ifrs15/IFRS15_BC160.dita" class="- map/topicref " navtitle="BC160"/>
+                <topicref href="ifrs15/IFRS15_BC161.dita" class="- map/topicref " navtitle="BC161"/>
+                <topicref href="ifrs15/IFRS15_BC162.dita" class="- map/topicref " navtitle="BC162"/>
+                <topicref href="ifrs15/IFRS15_gBC163-BC167.dita" class="- map/topicref " navtitle="Output methods">
+                    <topicref href="ifrs15/IFRS15_BC163.dita" class="- map/topicref " navtitle="BC163"/>
+                    <topicref href="ifrs15/IFRS15_BC164.dita" class="- map/topicref " navtitle="BC164"/>
+                    <topicref href="ifrs15/IFRS15_BC165.dita" class="- map/topicref " navtitle="BC165"/>
+                    <topicref href="ifrs15/IFRS15_BC166.dita" class="- map/topicref " navtitle="BC166"/>
+                    <topicref href="ifrs15/IFRS15_BC167.dita" class="- map/topicref " navtitle="BC167"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC168-BC178.dita" class="- map/topicref " navtitle="Input methods">
+                    <topicref href="ifrs15/IFRS15_BC168.dita" class="- map/topicref " navtitle="BC168"/>
+                    <topicref href="ifrs15/IFRS15_BC169.dita" class="- map/topicref " navtitle="BC169"/>
+                    <topicref href="ifrs15/IFRS15_gBC170-BC175.dita" class="- map/topicref " navtitle="Uninstalled materials">
+                        <topicref href="ifrs15/IFRS15_BC170.dita" class="- map/topicref " navtitle="BC170"/>
+                        <topicref href="ifrs15/IFRS15_BC171.dita" class="- map/topicref " navtitle="BC171"/>
+                        <topicref href="ifrs15/IFRS15_BC172.dita" class="- map/topicref " navtitle="BC172"/>
+                        <topicref href="ifrs15/IFRS15_BC173.dita" class="- map/topicref " navtitle="BC173"/>
+                        <topicref href="ifrs15/IFRS15_BC174.dita" class="- map/topicref " navtitle="BC174"/>
+                        <topicref href="ifrs15/IFRS15_BC175.dita" class="- map/topicref " navtitle="BC175"/>
+                    </topicref>
+                    <topicref href="ifrs15/IFRS15_gBC176-BC178.dita" class="- map/topicref " navtitle="Inefficiencies and wasted materials">
+                        <topicref href="ifrs15/IFRS15_BC176.dita" class="- map/topicref " navtitle="BC176"/>
+                        <topicref href="ifrs15/IFRS15_BC177.dita" class="- map/topicref " navtitle="BC177"/>
+                        <topicref href="ifrs15/IFRS15_BC178.dita" class="- map/topicref " navtitle="BC178"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC179-BC180.dita" class="- map/topicref " navtitle="Reasonable measures of progress">
+                    <topicref href="ifrs15/IFRS15_BC179.dita" class="- map/topicref " navtitle="BC179"/>
+                    <topicref href="ifrs15/IFRS15_BC180.dita" class="- map/topicref " navtitle="BC180"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs15/IFRS15_gBC181-BC265.dita" class="- map/topicref " navtitle="Measurement of revenue (paragraphs 46–90)">
+            <topicref href="ifrs15/IFRS15_BC181.dita" class="- map/topicref " navtitle="BC181"/>
+            <topicref href="ifrs15/IFRS15_BC182.dita" class="- map/topicref " navtitle="BC182"/>
+            <topicref href="ifrs15/IFRS15_BC183.dita" class="- map/topicref " navtitle="BC183"/>
+            <topicref href="ifrs15/IFRS15_gBC184-BC188D.dita" class="- map/topicref " navtitle="Determining the transaction price (paragraphs 47–72)">
+                <topicref href="ifrs15/IFRS15_BC184.dita" class="- map/topicref " navtitle="BC184"/>
+                <topicref href="ifrs15/IFRS15_BC185.dita" class="- map/topicref " navtitle="BC185"/>
+                <topicref href="ifrs15/IFRS15_BC186.dita" class="- map/topicref " navtitle="BC186"/>
+                <topicref href="ifrs15/IFRS15_BC187.dita" class="- map/topicref " navtitle="BC187"/>
+                <topicref href="ifrs15/IFRS15_BC188.dita" class="- map/topicref " navtitle="BC188"/>
+                <topicref href="ifrs15/IFRS15_gBC188A-BC188D.dita" class="- map/topicref " navtitle="Clarifications to IFRS 15 (amendments issued in April 2016)—topics for which the IASB decided not to amend IFRS 15 (presentation of sales taxes)">
+                    <topicmeta class="- map/topicmeta "/>
+                    <topicref href="ifrs15/IFRS15_BC188A.dita" class="- map/topicref " navtitle="BC188A"/>
+                    <topicref href="ifrs15/IFRS15_BC188B.dita" class="- map/topicref " navtitle="BC188B"/>
+                    <topicref href="ifrs15/IFRS15_BC188C.dita" class="- map/topicref " navtitle="BC188C"/>
+                    <topicref href="ifrs15/IFRS15_BC188D.dita" class="- map/topicref " navtitle="BC188D"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC189-BC228.dita" class="- map/topicref " navtitle="Variable consideration (paragraphs 50–59)">
+                <topicref href="ifrs15/IFRS15_BC189.dita" class="- map/topicref " navtitle="BC189"/>
+                <topicref href="ifrs15/IFRS15_gBC190-BC194.dita" class="- map/topicref " navtitle="Identifying variable consideration">
+                    <topicref href="ifrs15/IFRS15_BC190.dita" class="- map/topicref " navtitle="BC190"/>
+                    <topicref href="ifrs15/IFRS15_BC191.dita" class="- map/topicref " navtitle="BC191"/>
+                    <topicref href="ifrs15/IFRS15_BC192.dita" class="- map/topicref " navtitle="BC192"/>
+                    <topicref href="ifrs15/IFRS15_BC193.dita" class="- map/topicref " navtitle="BC193"/>
+                    <topicref href="ifrs15/IFRS15_BC194.dita" class="- map/topicref " navtitle="BC194"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC195-BC202.dita" class="- map/topicref " navtitle="The method for estimating the variable consideration">
+                    <topicref href="ifrs15/IFRS15_BC195.dita" class="- map/topicref " navtitle="BC195"/>
+                    <topicref href="ifrs15/IFRS15_BC196.dita" class="- map/topicref " navtitle="BC196"/>
+                    <topicref href="ifrs15/IFRS15_BC197.dita" class="- map/topicref " navtitle="BC197"/>
+                    <topicref href="ifrs15/IFRS15_BC198.dita" class="- map/topicref " navtitle="BC198"/>
+                    <topicref href="ifrs15/IFRS15_BC199.dita" class="- map/topicref " navtitle="BC199"/>
+                    <topicref href="ifrs15/IFRS15_BC200.dita" class="- map/topicref " navtitle="BC200"/>
+                    <topicref href="ifrs15/IFRS15_BC201.dita" class="- map/topicref " navtitle="BC201"/>
+                    <topicref href="ifrs15/IFRS15_BC202.dita" class="- map/topicref " navtitle="BC202"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC203-BC223.dita" class="- map/topicref " navtitle="Constraining estimates of variable consideration">
+                    <topicref href="ifrs15/IFRS15_BC203.dita" class="- map/topicref " navtitle="BC203"/>
+                    <topicref href="ifrs15/IFRS15_BC204.dita" class="- map/topicref " navtitle="BC204"/>
+                    <topicref href="ifrs15/IFRS15_BC205.dita" class="- map/topicref " navtitle="BC205"/>
+                    <topicref href="ifrs15/IFRS15_gBC206-BC213.dita" class="- map/topicref " navtitle="The objective of constraining estimates of variable consideration and specifying a level of confidence">
+                        <topicref href="ifrs15/IFRS15_BC206.dita" class="- map/topicref " navtitle="BC206"/>
+                        <topicref href="ifrs15/IFRS15_BC207.dita" class="- map/topicref " navtitle="BC207"/>
+                        <topicref href="ifrs15/IFRS15_BC208.dita" class="- map/topicref " navtitle="BC208"/>
+                        <topicref href="ifrs15/IFRS15_BC209.dita" class="- map/topicref " navtitle="BC209"/>
+                        <topicref href="ifrs15/IFRS15_BC210.dita" class="- map/topicref " navtitle="BC210"/>
+                        <topicref href="ifrs15/IFRS15_BC211.dita" class="- map/topicref " navtitle="BC211"/>
+                        <topicref href="ifrs15/IFRS15_BC212.dita" class="- map/topicref " navtitle="BC212"/>
+                        <topicref href="ifrs15/IFRS15_BC213.dita" class="- map/topicref " navtitle="BC213"/>
+                    </topicref>
+                    <topicref href="ifrs15/IFRS15_gBC214-BC219.dita" class="- map/topicref " navtitle="Application of the requirements to constrain estimates of variable consideration">
+                        <topicref href="ifrs15/IFRS15_BC214.dita" class="- map/topicref " navtitle="BC214"/>
+                        <topicref href="ifrs15/IFRS15_BC215.dita" class="- map/topicref " navtitle="BC215"/>
+                        <topicref href="ifrs15/IFRS15_BC216.dita" class="- map/topicref " navtitle="BC216"/>
+                        <topicref href="ifrs15/IFRS15_BC217.dita" class="- map/topicref " navtitle="BC217"/>
+                        <topicref href="ifrs15/IFRS15_BC218.dita" class="- map/topicref " navtitle="BC218"/>
+                        <topicref href="ifrs15/IFRS15_BC219.dita" class="- map/topicref " navtitle="BC219"/>
+                    </topicref>
+                    <topicref href="ifrs15/IFRS15_gBC220-BC223.dita" class="- map/topicref " navtitle="Constraining the estimate of the transaction price (Step 3) or constraining the cumulative amount of revenue that is recognised (Step 5)">
+                        <topicref href="ifrs15/IFRS15_BC220.dita" class="- map/topicref " navtitle="BC220"/>
+                        <topicref href="ifrs15/IFRS15_BC221.dita" class="- map/topicref " navtitle="BC221"/>
+                        <topicref href="ifrs15/IFRS15_BC222.dita" class="- map/topicref " navtitle="BC222"/>
+                        <topicref href="ifrs15/IFRS15_BC223.dita" class="- map/topicref " navtitle="BC223"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC224-BC228.dita" class="- map/topicref " navtitle="Subsequent changes in the transaction price">
+                    <topicref href="ifrs15/IFRS15_BC224.dita" class="- map/topicref " navtitle="BC224"/>
+                    <topicref href="ifrs15/IFRS15_BC225.dita" class="- map/topicref " navtitle="BC225"/>
+                    <topicref href="ifrs15/IFRS15_BC226.dita" class="- map/topicref " navtitle="BC226"/>
+                    <topicref href="ifrs15/IFRS15_BC227.dita" class="- map/topicref " navtitle="BC227"/>
+                    <topicref href="ifrs15/IFRS15_BC228.dita" class="- map/topicref " navtitle="BC228"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC229-BC247.dita" class="- map/topicref " navtitle="The existence of a significant financing component in the contract (paragraphs 60–65)">
+                <topicref href="ifrs15/IFRS15_BC229.dita" class="- map/topicref " navtitle="BC229"/>
+                <topicref href="ifrs15/IFRS15_BC230.dita" class="- map/topicref " navtitle="BC230"/>
+                <topicref href="ifrs15/IFRS15_gBC231-BC234.dita" class="- map/topicref " navtitle="Determining whether a contract includes a significant financing component">
+                    <topicref href="ifrs15/IFRS15_BC231.dita" class="- map/topicref " navtitle="BC231"/>
+                    <topicref href="ifrs15/IFRS15_BC232.dita" class="- map/topicref " navtitle="BC232"/>
+                    <topicref href="ifrs15/IFRS15_BC233.dita" class="- map/topicref " navtitle="BC233"/>
+                    <topicref href="ifrs15/IFRS15_BC234.dita" class="- map/topicref " navtitle="BC234"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC235-BC238.dita" class="- map/topicref " navtitle="Practical reliefs from the significant financing component requirements">
+                    <topicref href="ifrs15/IFRS15_BC235.dita" class="- map/topicref " navtitle="BC235"/>
+                    <topicref href="ifrs15/IFRS15_BC236.dita" class="- map/topicref " navtitle="BC236"/>
+                    <topicref href="ifrs15/IFRS15_BC237.dita" class="- map/topicref " navtitle="BC237"/>
+                    <topicref href="ifrs15/IFRS15_BC238.dita" class="- map/topicref " navtitle="BC238"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC239-BC241.dita" class="- map/topicref " navtitle="Discount rate">
+                    <topicref href="ifrs15/IFRS15_BC239.dita" class="- map/topicref " navtitle="BC239"/>
+                    <topicref href="ifrs15/IFRS15_BC240.dita" class="- map/topicref " navtitle="BC240"/>
+                    <topicref href="ifrs15/IFRS15_BC241.dita" class="- map/topicref " navtitle="BC241"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC242-BC243.dita" class="- map/topicref " navtitle="Re-evaluating the discount rate used for a significant financing component">
+                    <topicref href="ifrs15/IFRS15_BC242.dita" class="- map/topicref " navtitle="BC242"/>
+                    <topicref href="ifrs15/IFRS15_BC243.dita" class="- map/topicref " navtitle="BC243"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC244-BC247.dita" class="- map/topicref " navtitle="Presentation of the effect of a significant financing component">
+                    <topicref href="ifrs15/IFRS15_BC244.dita" class="- map/topicref " navtitle="BC244"/>
+                    <topicref href="ifrs15/IFRS15_BC245.dita" class="- map/topicref " navtitle="BC245"/>
+                    <topicref href="ifrs15/IFRS15_BC246.dita" class="- map/topicref " navtitle="BC246"/>
+                    <topicref href="ifrs15/IFRS15_BC247.dita" class="- map/topicref " navtitle="BC247"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC248-BC254H.dita" class="- map/topicref " navtitle="Non-cash consideration (paragraphs 66–69)">
+                <topicref href="ifrs15/IFRS15_BC248.dita" class="- map/topicref " navtitle="BC248"/>
+                <topicref href="ifrs15/IFRS15_BC249.dita" class="- map/topicref " navtitle="BC249"/>
+                <topicref href="ifrs15/IFRS15_BC250.dita" class="- map/topicref " navtitle="BC250"/>
+                <topicref href="ifrs15/IFRS15_BC251.dita" class="- map/topicref " navtitle="BC251"/>
+                <topicref href="ifrs15/IFRS15_BC252.dita" class="- map/topicref " navtitle="BC252"/>
+                <topicref href="ifrs15/IFRS15_BC253.dita" class="- map/topicref " navtitle="BC253"/>
+                <topicref href="ifrs15/IFRS15_BC254.dita" class="- map/topicref " navtitle="BC254"/>
+                <topicref href="ifrs15/IFRS15_gBC254A-BC254H.dita" class="- map/topicref " navtitle="Clarifications to IFRS 15 (amendments issued in April 2016)—topics for which the IASB decided not to amend IFRS 15">
+                    <topicref href="ifrs15/IFRS15_BC254A.dita" class="- map/topicref " navtitle="BC254A"/>
+                    <topicref href="ifrs15/IFRS15_gBC254B-BC254E.dita" class="- map/topicref " navtitle="Date of measurement of non-cash consideration">
+                        <topicref href="ifrs15/IFRS15_BC254B.dita" class="- map/topicref " navtitle="BC254B"/>
+                        <topicref href="ifrs15/IFRS15_BC254C.dita" class="- map/topicref " navtitle="BC254C"/>
+                        <topicref href="ifrs15/IFRS15_BC254D.dita" class="- map/topicref " navtitle="BC254D"/>
+                        <topicref href="ifrs15/IFRS15_BC254E.dita" class="- map/topicref " navtitle="BC254E"/>
+                    </topicref>
+                    <topicref href="ifrs15/IFRS15_gBC254F-BC254H.dita" class="- map/topicref " navtitle="Application of the variable consideration constraint to changes in fair value of non-cash consideration">
+                        <topicref href="ifrs15/IFRS15_BC254F.dita" class="- map/topicref " navtitle="BC254F"/>
+                        <topicref href="ifrs15/IFRS15_BC254G.dita" class="- map/topicref " navtitle="BC254G"/>
+                        <topicref href="ifrs15/IFRS15_BC254H.dita" class="- map/topicref " navtitle="BC254H"/>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC255-BC258.dita" class="- map/topicref " navtitle="Consideration payable to a customer (paragraphs 70–72)">
+                <topicref href="ifrs15/IFRS15_BC255.dita" class="- map/topicref " navtitle="BC255"/>
+                <topicref href="ifrs15/IFRS15_BC256.dita" class="- map/topicref " navtitle="BC256"/>
+                <topicref href="ifrs15/IFRS15_BC257.dita" class="- map/topicref " navtitle="BC257"/>
+                <topicref href="ifrs15/IFRS15_BC258.dita" class="- map/topicref " navtitle="BC258"/>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC259-BC265.dita" class="- map/topicref " navtitle="Customer credit risk">
+                <topicref href="ifrs15/IFRS15_BC259.dita" class="- map/topicref " navtitle="BC259"/>
+                <topicref href="ifrs15/IFRS15_BC260.dita" class="- map/topicref " navtitle="BC260"/>
+                <topicref href="ifrs15/IFRS15_BC261.dita" class="- map/topicref " navtitle="BC261"/>
+                <topicref href="ifrs15/IFRS15_BC262.dita" class="- map/topicref " navtitle="BC262"/>
+                <topicref href="ifrs15/IFRS15_BC263.dita" class="- map/topicref " navtitle="BC263"/>
+                <topicref href="ifrs15/IFRS15_BC264.dita" class="- map/topicref " navtitle="BC264"/>
+                <topicref href="ifrs15/IFRS15_BC265.dita" class="- map/topicref " navtitle="BC265"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs15/IFRS15_gBC266-BC293.dita" class="- map/topicref " navtitle="Allocating the transaction price to performance obligations (paragraphs 73–86)">
+            <topicref href="ifrs15/IFRS15_BC266.dita" class="- map/topicref " navtitle="BC266"/>
+            <topicref href="ifrs15/IFRS15_BC267.dita" class="- map/topicref " navtitle="BC267"/>
+            <topicref href="ifrs15/IFRS15_gBC268-BC276.dita" class="- map/topicref " navtitle="Estimating stand-alone selling prices (paragraphs 76–80)">
+                <topicref href="ifrs15/IFRS15_BC268.dita" class="- map/topicref " navtitle="BC268"/>
+                <topicref href="ifrs15/IFRS15_BC269.dita" class="- map/topicref " navtitle="BC269"/>
+                <topicref href="ifrs15/IFRS15_gBC270-BC273.dita" class="- map/topicref " navtitle="Residual approach">
+                    <topicref href="ifrs15/IFRS15_BC270.dita" class="- map/topicref " navtitle="BC270"/>
+                    <topicref href="ifrs15/IFRS15_BC271.dita" class="- map/topicref " navtitle="BC271"/>
+                    <topicref href="ifrs15/IFRS15_BC272.dita" class="- map/topicref " navtitle="BC272"/>
+                    <topicref href="ifrs15/IFRS15_BC273.dita" class="- map/topicref " navtitle="BC273"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC274-BC276.dita" class="- map/topicref " navtitle="Specifying a hierarchy of evidence">
+                    <topicref href="ifrs15/IFRS15_BC274.dita" class="- map/topicref " navtitle="BC274"/>
+                    <topicref href="ifrs15/IFRS15_BC275.dita" class="- map/topicref " navtitle="BC275"/>
+                    <topicref href="ifrs15/IFRS15_BC276.dita" class="- map/topicref " navtitle="BC276"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC277-BC285.dita" class="- map/topicref " navtitle="Allocating discounts and variable consideration (paragraphs 81–86)">
+                <topicref href="ifrs15/IFRS15_BC277.dita" class="- map/topicref " navtitle="BC277"/>
+                <topicref href="ifrs15/IFRS15_BC278.dita" class="- map/topicref " navtitle="BC278"/>
+                <topicref href="ifrs15/IFRS15_BC279.dita" class="- map/topicref " navtitle="BC279"/>
+                <topicref href="ifrs15/IFRS15_BC280.dita" class="- map/topicref " navtitle="BC280"/>
+                <topicref href="ifrs15/IFRS15_gBC281-BC283.dita" class="- map/topicref " navtitle="Allocating discounts (paragraphs 81–83)">
+                    <topicref href="ifrs15/IFRS15_BC281.dita" class="- map/topicref " navtitle="BC281"/>
+                    <topicref href="ifrs15/IFRS15_BC282.dita" class="- map/topicref " navtitle="BC282"/>
+                    <topicref href="ifrs15/IFRS15_BC283.dita" class="- map/topicref " navtitle="BC283"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC284-BC285.dita" class="- map/topicref " navtitle="Allocating variable consideration (paragraphs 84–86)">
+                    <topicref href="ifrs15/IFRS15_BC284.dita" class="- map/topicref " navtitle="BC284"/>
+                    <topicref href="ifrs15/IFRS15_BC285.dita" class="- map/topicref " navtitle="BC285"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC286-BC286.dita" class="- map/topicref " navtitle="Changes in transaction price">
+                <topicref href="ifrs15/IFRS15_BC286.dita" class="- map/topicref " navtitle="BC286"/>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC287-BC293.dita" class="- map/topicref " navtitle="Contingent revenue cap and the portfolio approach to allocation">
+                <topicref href="ifrs15/IFRS15_BC287.dita" class="- map/topicref " navtitle="BC287"/>
+                <topicref href="ifrs15/IFRS15_BC288.dita" class="- map/topicref " navtitle="BC288"/>
+                <topicref href="ifrs15/IFRS15_BC289.dita" class="- map/topicref " navtitle="BC289"/>
+                <topicref href="ifrs15/IFRS15_BC290.dita" class="- map/topicref " navtitle="BC290"/>
+                <topicref href="ifrs15/IFRS15_BC291.dita" class="- map/topicref " navtitle="BC291"/>
+                <topicref href="ifrs15/IFRS15_BC292.dita" class="- map/topicref " navtitle="BC292"/>
+                <topicref href="ifrs15/IFRS15_BC293.dita" class="- map/topicref " navtitle="BC293"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs15/IFRS15_gBC294-BC296.dita" class="- map/topicref " navtitle="Onerous performance obligations">
+            <topicref href="ifrs15/IFRS15_BC294.dita" class="- map/topicref " navtitle="BC294"/>
+            <topicref href="ifrs15/IFRS15_BC295.dita" class="- map/topicref " navtitle="BC295"/>
+            <topicref href="ifrs15/IFRS15_BC296.dita" class="- map/topicref " navtitle="BC296"/>
+        </topicref>
+        <topicref href="ifrs15/IFRS15_gBC297-BC316.dita" class="- map/topicref " navtitle="Contract costs (paragraphs 91–104)">
+            <topicref href="ifrs15/IFRS15_gBC297-BC303.dita" class="- map/topicref " navtitle="Incremental costs of obtaining a contract (paragraphs 91–94)">
+                <topicref href="ifrs15/IFRS15_BC297.dita" class="- map/topicref " navtitle="BC297"/>
+                <topicref href="ifrs15/IFRS15_BC298.dita" class="- map/topicref " navtitle="BC298"/>
+                <topicref href="ifrs15/IFRS15_BC299.dita" class="- map/topicref " navtitle="BC299"/>
+                <topicref href="ifrs15/IFRS15_BC300.dita" class="- map/topicref " navtitle="BC300"/>
+                <topicref href="ifrs15/IFRS15_BC301.dita" class="- map/topicref " navtitle="BC301"/>
+                <topicref href="ifrs15/IFRS15_BC302.dita" class="- map/topicref " navtitle="BC302"/>
+                <topicref href="ifrs15/IFRS15_BC303.dita" class="- map/topicref " navtitle="BC303"/>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC304-BC308.dita" class="- map/topicref " navtitle="Costs to fulfil a contract (paragraphs 95–98)">
+                <topicref href="ifrs15/IFRS15_BC304.dita" class="- map/topicref " navtitle="BC304"/>
+                <topicref href="ifrs15/IFRS15_BC305.dita" class="- map/topicref " navtitle="BC305"/>
+                <topicref href="ifrs15/IFRS15_BC306.dita" class="- map/topicref " navtitle="BC306"/>
+                <topicref href="ifrs15/IFRS15_BC307.dita" class="- map/topicref " navtitle="BC307"/>
+                <topicref href="ifrs15/IFRS15_BC308.dita" class="- map/topicref " navtitle="BC308"/>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC309-BC311.dita" class="- map/topicref " navtitle="Amortisation and impairment (paragraphs 99–104)">
+                <topicref href="ifrs15/IFRS15_BC309.dita" class="- map/topicref " navtitle="BC309"/>
+                <topicref href="ifrs15/IFRS15_BC310.dita" class="- map/topicref " navtitle="BC310"/>
+                <topicref href="ifrs15/IFRS15_BC311.dita" class="- map/topicref " navtitle="BC311"/>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC312-BC316.dita" class="- map/topicref " navtitle="Learning curve">
+                <topicref href="ifrs15/IFRS15_BC312.dita" class="- map/topicref " navtitle="BC312"/>
+                <topicref href="ifrs15/IFRS15_BC313.dita" class="- map/topicref " navtitle="BC313"/>
+                <topicref href="ifrs15/IFRS15_BC314.dita" class="- map/topicref " navtitle="BC314"/>
+                <topicref href="ifrs15/IFRS15_BC315.dita" class="- map/topicref " navtitle="BC315"/>
+                <topicref href="ifrs15/IFRS15_BC316.dita" class="- map/topicref " navtitle="BC316"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs15/IFRS15_gBC317-BC326.dita" class="- map/topicref " navtitle="Presentation (paragraphs 105–109)">
+            <topicref href="ifrs15/IFRS15_BC317.dita" class="- map/topicref " navtitle="BC317"/>
+            <topicref href="ifrs15/IFRS15_BC318.dita" class="- map/topicref " navtitle="BC318"/>
+            <topicref href="ifrs15/IFRS15_BC319.dita" class="- map/topicref " navtitle="BC319"/>
+            <topicref href="ifrs15/IFRS15_BC320.dita" class="- map/topicref " navtitle="BC320"/>
+            <topicref href="ifrs15/IFRS15_BC321.dita" class="- map/topicref " navtitle="BC321"/>
+            <topicref href="ifrs15/IFRS15_gBC322-BC326.dita" class="- map/topicref " navtitle="Relationship between contract assets and receivables">
+                <topicref href="ifrs15/IFRS15_BC322.dita" class="- map/topicref " navtitle="BC322"/>
+                <topicref href="ifrs15/IFRS15_BC323.dita" class="- map/topicref " navtitle="BC323"/>
+                <topicref href="ifrs15/IFRS15_BC324.dita" class="- map/topicref " navtitle="BC324"/>
+                <topicref href="ifrs15/IFRS15_BC325.dita" class="- map/topicref " navtitle="BC325"/>
+                <topicref href="ifrs15/IFRS15_BC326.dita" class="- map/topicref " navtitle="BC326"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs15/IFRS15_gBC327-BC361.dita" class="- map/topicref " navtitle="Disclosure (paragraphs 110–129)">
+            <topicref href="ifrs15/IFRS15_BC327.dita" class="- map/topicref " navtitle="BC327"/>
+            <topicref href="ifrs15/IFRS15_BC328.dita" class="- map/topicref " navtitle="BC328"/>
+            <topicref href="ifrs15/IFRS15_BC329.dita" class="- map/topicref " navtitle="BC329"/>
+            <topicref href="ifrs15/IFRS15_gBC330-BC331.dita" class="- map/topicref " navtitle="Disclosure objective and materiality (paragraphs 110–112)">
+                <topicref href="ifrs15/IFRS15_BC330.dita" class="- map/topicref " navtitle="BC330"/>
+                <topicref href="ifrs15/IFRS15_BC331.dita" class="- map/topicref " navtitle="BC331"/>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC332-BC353.dita" class="- map/topicref " navtitle="Contracts with customers">
+                <topicref href="ifrs15/IFRS15_BC332.dita" class="- map/topicref " navtitle="BC332"/>
+                <topicref href="ifrs15/IFRS15_BC333.dita" class="- map/topicref " navtitle="BC333"/>
+                <topicref href="ifrs15/IFRS15_BC334.dita" class="- map/topicref " navtitle="BC334"/>
+                <topicref href="ifrs15/IFRS15_gBC335-BC340.dita" class="- map/topicref " navtitle="Disaggregation of revenue (paragraphs 114–115)">
+                    <topicref href="ifrs15/IFRS15_BC335.dita" class="- map/topicref " navtitle="BC335"/>
+                    <topicref href="ifrs15/IFRS15_BC336.dita" class="- map/topicref " navtitle="BC336"/>
+                    <topicref href="ifrs15/IFRS15_BC337.dita" class="- map/topicref " navtitle="BC337"/>
+                    <topicref href="ifrs15/IFRS15_BC338.dita" class="- map/topicref " navtitle="BC338"/>
+                    <topicref href="ifrs15/IFRS15_BC339.dita" class="- map/topicref " navtitle="BC339"/>
+                    <topicref href="ifrs15/IFRS15_BC340.dita" class="- map/topicref " navtitle="BC340"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC341-BC347.dita" class="- map/topicref " navtitle="Contract balances (paragraphs 116–118)">
+                    <topicref href="ifrs15/IFRS15_BC341.dita" class="- map/topicref " navtitle="BC341"/>
+                    <topicref href="ifrs15/IFRS15_BC342.dita" class="- map/topicref " navtitle="BC342"/>
+                    <topicref href="ifrs15/IFRS15_BC343.dita" class="- map/topicref " navtitle="BC343"/>
+                    <topicref href="ifrs15/IFRS15_BC344.dita" class="- map/topicref " navtitle="BC344"/>
+                    <topicref href="ifrs15/IFRS15_BC345.dita" class="- map/topicref " navtitle="BC345"/>
+                    <topicref href="ifrs15/IFRS15_BC346.dita" class="- map/topicref " navtitle="BC346"/>
+                    <topicref href="ifrs15/IFRS15_BC347.dita" class="- map/topicref " navtitle="BC347"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC348-BC353.dita" class="- map/topicref " navtitle="Disclosure of the transaction price allocated to the remaining performance obligations (paragraphs 120–122)">
+                    <topicref href="ifrs15/IFRS15_BC348.dita" class="- map/topicref " navtitle="BC348"/>
+                    <topicref href="ifrs15/IFRS15_BC349.dita" class="- map/topicref " navtitle="BC349"/>
+                    <topicref href="ifrs15/IFRS15_BC350.dita" class="- map/topicref " navtitle="BC350"/>
+                    <topicref href="ifrs15/IFRS15_BC351.dita" class="- map/topicref " navtitle="BC351"/>
+                    <topicref href="ifrs15/IFRS15_BC352.dita" class="- map/topicref " navtitle="BC352"/>
+                    <topicref href="ifrs15/IFRS15_BC353.dita" class="- map/topicref " navtitle="BC353"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC354-BC354.dita" class="- map/topicref " navtitle="Performance obligations (paragraph 119)">
+                <topicref href="ifrs15/IFRS15_BC354.dita" class="- map/topicref " navtitle="BC354"/>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC355-BC355.dita" class="- map/topicref " navtitle="Significant judgements (paragraphs 123–126)">
+                <topicref href="ifrs15/IFRS15_BC355.dita" class="- map/topicref " navtitle="BC355"/>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC356-BC357.dita" class="- map/topicref " navtitle="Assets recognised from the costs to obtain or fulfil a contract with a customer (paragraphs 127–128)">
+                <topicref href="ifrs15/IFRS15_BC356.dita" class="- map/topicref " navtitle="BC356"/>
+                <topicref href="ifrs15/IFRS15_BC357.dita" class="- map/topicref " navtitle="BC357"/>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC358-BC361.dita" class="- map/topicref " navtitle="Disclosures required for interim financial reports">
+                <topicref href="ifrs15/IFRS15_BC358.dita" class="- map/topicref " navtitle="BC358"/>
+                <topicref href="ifrs15/IFRS15_BC359.dita" class="- map/topicref " navtitle="BC359"/>
+                <topicref href="ifrs15/IFRS15_BC360.dita" class="- map/topicref " navtitle="BC360"/>
+                <topicref href="ifrs15/IFRS15_BC361.dita" class="- map/topicref " navtitle="BC361"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs15/IFRS15_gBC362-BC433.dita" class="- map/topicref " navtitle="Application guidance (paragraphs B2–B89)">
+            <topicref href="ifrs15/IFRS15_BC362.dita" class="- map/topicref " navtitle="BC362"/>
+            <topicref href="ifrs15/IFRS15_gBC363-BC367.dita" class="- map/topicref " navtitle="Sale with a right of return (paragraphs B20–B27)">
+                <topicref href="ifrs15/IFRS15_BC363.dita" class="- map/topicref " navtitle="BC363"/>
+                <topicref href="ifrs15/IFRS15_BC364.dita" class="- map/topicref " navtitle="BC364"/>
+                <topicref href="ifrs15/IFRS15_BC365.dita" class="- map/topicref " navtitle="BC365"/>
+                <topicref href="ifrs15/IFRS15_BC366.dita" class="- map/topicref " navtitle="BC366"/>
+                <topicref href="ifrs15/IFRS15_BC367.dita" class="- map/topicref " navtitle="BC367"/>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC368-BC378.dita" class="- map/topicref " navtitle="Warranties (paragraphs B28–B33)">
+                <topicref href="ifrs15/IFRS15_BC368.dita" class="- map/topicref " navtitle="BC368"/>
+                <topicref href="ifrs15/IFRS15_BC369.dita" class="- map/topicref " navtitle="BC369"/>
+                <topicref href="ifrs15/IFRS15_BC370.dita" class="- map/topicref " navtitle="BC370"/>
+                <topicref href="ifrs15/IFRS15_gBC371-BC373.dita" class="- map/topicref " navtitle="Warranties that are performance obligations (service-type warranties)">
+                    <topicref href="ifrs15/IFRS15_BC371.dita" class="- map/topicref " navtitle="BC371"/>
+                    <topicref href="ifrs15/IFRS15_BC372.dita" class="- map/topicref " navtitle="BC372"/>
+                    <topicref href="ifrs15/IFRS15_BC373.dita" class="- map/topicref " navtitle="BC373"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC374-BC376.dita" class="- map/topicref " navtitle="Warranties that are not performance obligations (assurance-type warranties)">
+                    <topicref href="ifrs15/IFRS15_BC374.dita" class="- map/topicref " navtitle="BC374"/>
+                    <topicref href="ifrs15/IFRS15_BC375.dita" class="- map/topicref " navtitle="BC375"/>
+                    <topicref href="ifrs15/IFRS15_BC376.dita" class="- map/topicref " navtitle="BC376"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC377-BC377.dita" class="- map/topicref " navtitle="Statutory warranties">
+                    <topicref href="ifrs15/IFRS15_BC377.dita" class="- map/topicref " navtitle="BC377"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC378-BC378.dita" class="- map/topicref " navtitle="Product liability laws">
+                    <topicref href="ifrs15/IFRS15_BC378.dita" class="- map/topicref " navtitle="BC378"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC379-BC385Z.dita" class="- map/topicref " navtitle="Principal versus agent considerations (paragraphs B34–B38)">
+                <topicref href="ifrs15/IFRS15_BC379.dita" class="- map/topicref " navtitle="BC379"/>
+                <topicref href="ifrs15/IFRS15_BC380.dita" class="- map/topicref " navtitle="BC380"/>
+                <topicref href="ifrs15/IFRS15_BC381.dita" class="- map/topicref " navtitle="BC381"/>
+                <topicref href="ifrs15/IFRS15_BC382.dita" class="- map/topicref " navtitle="BC382"/>
+                <topicref href="ifrs15/IFRS15_BC383.dita" class="- map/topicref " navtitle="BC383"/>
+                <topicref href="ifrs15/IFRS15_BC384.dita" class="- map/topicref " navtitle="BC384"/>
+                <topicref href="ifrs15/IFRS15_BC385.dita" class="- map/topicref " navtitle="BC385"/>
+                <topicref href="ifrs15/IFRS15_gBC385A-BC385Z.dita" class="- map/topicref " navtitle="Clarifications to IFRS 15 (amendments issued in April 2016)">
+                    <topicref href="ifrs15/IFRS15_BC385A.dita" class="- map/topicref " navtitle="BC385A"/>
+                    <topicref href="ifrs15/IFRS15_BC385B.dita" class="- map/topicref " navtitle="BC385B"/>
+                    <topicref href="ifrs15/IFRS15_gBC385C-BC385F.dita" class="- map/topicref " navtitle="Principle for determining whether an entity is a principal or an agent">
+                        <topicref href="ifrs15/IFRS15_BC385C.dita" class="- map/topicref " navtitle="BC385C"/>
+                        <topicref href="ifrs15/IFRS15_BC385D.dita" class="- map/topicref " navtitle="BC385D"/>
+                        <topicref href="ifrs15/IFRS15_BC385E.dita" class="- map/topicref " navtitle="BC385E"/>
+                        <topicref href="ifrs15/IFRS15_BC385F.dita" class="- map/topicref " navtitle="BC385F"/>
+                    </topicref>
+                    <topicref href="ifrs15/IFRS15_gBC385G-BC385L.dita" class="- map/topicref " navtitle="The relationship between control and the indicators in paragraph B37">
+                        <topicref href="ifrs15/IFRS15_BC385G.dita" class="- map/topicref " navtitle="BC385G"/>
+                        <topicref href="ifrs15/IFRS15_BC385H.dita" class="- map/topicref " navtitle="BC385H"/>
+                        <topicref href="ifrs15/IFRS15_BC385I.dita" class="- map/topicref " navtitle="BC385I"/>
+                        <topicref href="ifrs15/IFRS15_BC385J.dita" class="- map/topicref " navtitle="BC385J"/>
+                        <topicref href="ifrs15/IFRS15_BC385K.dita" class="- map/topicref " navtitle="BC385K"/>
+                        <topicref href="ifrs15/IFRS15_gBC385L-BC385L.dita" class="- map/topicref " navtitle="The use of the indicators in paragraph B37 rather than the indicators in paragraph 38">
+                            <topicref href="ifrs15/IFRS15_BC385L.dita" class="- map/topicref " navtitle="BC385L"/>
+                        </topicref>
+                    </topicref>
+                    <topicref href="ifrs15/IFRS15_gBC385M-BC385T.dita" class="- map/topicref " navtitle="Application of the control principle to intangible goods and services">
+                        <topicref href="ifrs15/IFRS15_BC385M.dita" class="- map/topicref " navtitle="BC385M"/>
+                        <topicref href="ifrs15/IFRS15_BC385N.dita" class="- map/topicref " navtitle="BC385N"/>
+                        <topicref href="ifrs15/IFRS15_BC385O.dita" class="- map/topicref " navtitle="BC385O"/>
+                        <topicref href="ifrs15/IFRS15_BC385P.dita" class="- map/topicref " navtitle="BC385P"/>
+                        <topicref href="ifrs15/IFRS15_BC385Q.dita" class="- map/topicref " navtitle="BC385Q"/>
+                        <topicref href="ifrs15/IFRS15_BC385R.dita" class="- map/topicref " navtitle="BC385R"/>
+                        <topicref href="ifrs15/IFRS15_BC385S.dita" class="- map/topicref " navtitle="BC385S"/>
+                        <topicref href="ifrs15/IFRS15_BC385T.dita" class="- map/topicref " navtitle="BC385T"/>
+                    </topicref>
+                    <topicref href="ifrs15/IFRS15_gBC385U-BC385W.dita" class="- map/topicref " navtitle="Assessment of control of a service">
+                        <topicref href="ifrs15/IFRS15_BC385U.dita" class="- map/topicref " navtitle="BC385U"/>
+                        <topicref href="ifrs15/IFRS15_BC385V.dita" class="- map/topicref " navtitle="BC385V"/>
+                        <topicref href="ifrs15/IFRS15_BC385W.dita" class="- map/topicref " navtitle="BC385W"/>
+                    </topicref>
+                    <topicref href="ifrs15/IFRS15_gBC385X-BC385Z.dita" class="- map/topicref " navtitle="Estimating revenue as a principal">
+                        <topicref href="ifrs15/IFRS15_BC385X.dita" class="- map/topicref " navtitle="BC385X"/>
+                        <topicref href="ifrs15/IFRS15_BC385Y.dita" class="- map/topicref " navtitle="BC385Y"/>
+                        <topicref href="ifrs15/IFRS15_BC385Z.dita" class="- map/topicref " navtitle="BC385Z"/>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC386-BC395.dita" class="- map/topicref " navtitle="Customer options for additional goods or services (paragraphs B39–B43)">
+                <topicref href="ifrs15/IFRS15_BC386.dita" class="- map/topicref " navtitle="BC386"/>
+                <topicref href="ifrs15/IFRS15_BC387.dita" class="- map/topicref " navtitle="BC387"/>
+                <topicref href="ifrs15/IFRS15_BC388.dita" class="- map/topicref " navtitle="BC388"/>
+                <topicref href="ifrs15/IFRS15_gBC389-BC390.dita" class="- map/topicref " navtitle="Allocating the transaction price">
+                    <topicref href="ifrs15/IFRS15_BC389.dita" class="- map/topicref " navtitle="BC389"/>
+                    <topicref href="ifrs15/IFRS15_BC390.dita" class="- map/topicref " navtitle="BC390"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC391-BC395.dita" class="- map/topicref " navtitle="Renewal options">
+                    <topicref href="ifrs15/IFRS15_BC391.dita" class="- map/topicref " navtitle="BC391"/>
+                    <topicref href="ifrs15/IFRS15_BC392.dita" class="- map/topicref " navtitle="BC392"/>
+                    <topicref href="ifrs15/IFRS15_BC393.dita" class="- map/topicref " navtitle="BC393"/>
+                    <topicref href="ifrs15/IFRS15_BC394.dita" class="- map/topicref " navtitle="BC394"/>
+                    <topicref href="ifrs15/IFRS15_BC395.dita" class="- map/topicref " navtitle="BC395"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC396-BC401.dita" class="- map/topicref " navtitle="Customers’ unexercised rights (breakage) (paragraphs B44–B47)">
+                <topicref href="ifrs15/IFRS15_BC396.dita" class="- map/topicref " navtitle="BC396"/>
+                <topicref href="ifrs15/IFRS15_BC397.dita" class="- map/topicref " navtitle="BC397"/>
+                <topicref href="ifrs15/IFRS15_BC398.dita" class="- map/topicref " navtitle="BC398"/>
+                <topicref href="ifrs15/IFRS15_BC399.dita" class="- map/topicref " navtitle="BC399"/>
+                <topicref href="ifrs15/IFRS15_BC400.dita" class="- map/topicref " navtitle="BC400"/>
+                <topicref href="ifrs15/IFRS15_BC401.dita" class="- map/topicref " navtitle="BC401"/>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC402-BC421J.dita" class="- map/topicref " navtitle="Licensing (paragraphs B52–B63B)">
+                <topicref href="ifrs15/IFRS15_BC402.dita" class="- map/topicref " navtitle="BC402"/>
+                <topicref href="ifrs15/IFRS15_BC403.dita" class="- map/topicref " navtitle="BC403"/>
+                <topicref href="ifrs15/IFRS15_BC404.dita" class="- map/topicref " navtitle="BC404"/>
+                <topicref href="ifrs15/IFRS15_BC405.dita" class="- map/topicref " navtitle="BC405"/>
+                <topicref href="ifrs15/IFRS15_gBC406-BC407.dita" class="- map/topicref " navtitle="Identifying the performance obligations">
+                    <topicref href="ifrs15/IFRS15_BC406.dita" class="- map/topicref " navtitle="BC406"/>
+                    <topicref href="ifrs15/IFRS15_BC407.dita" class="- map/topicref " navtitle="BC407"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC408-BC413.dita" class="- map/topicref " navtitle="Developing the criteria for licences that provide a right to access">
+                    <topicref href="ifrs15/IFRS15_BC408.dita" class="- map/topicref " navtitle="BC408"/>
+                    <topicref href="ifrs15/IFRS15_BC409.dita" class="- map/topicref " navtitle="BC409"/>
+                    <topicref href="ifrs15/IFRS15_BC410.dita" class="- map/topicref " navtitle="BC410"/>
+                    <topicref href="ifrs15/IFRS15_BC411.dita" class="- map/topicref " navtitle="BC411"/>
+                    <topicref href="ifrs15/IFRS15_BC412.dita" class="- map/topicref " navtitle="BC412"/>
+                    <topicref href="ifrs15/IFRS15_BC413.dita" class="- map/topicref " navtitle="BC413"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC414-BC414.dita" class="- map/topicref " navtitle="When is the performance obligation satisfied?">
+                    <topicref href="ifrs15/IFRS15_BC414.dita" class="- map/topicref " navtitle="BC414"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC414A-BC414Y.dita" class="- map/topicref " navtitle="Clarifications to IFRS 15 (amendments issued in April 2016)">
+                    <topicref href="ifrs15/IFRS15_BC414A.dita" class="- map/topicref " navtitle="BC414A"/>
+                    <topicref href="ifrs15/IFRS15_BC414B.dita" class="- map/topicref " navtitle="BC414B"/>
+                    <topicref href="ifrs15/IFRS15_gBC414C-BC414N.dita" class="- map/topicref " navtitle="Determining the nature of the entity’s promise in granting a licence of intellectual property">
+                        <topicref href="ifrs15/IFRS15_BC414C.dita" class="- map/topicref " navtitle="BC414C"/>
+                        <topicref href="ifrs15/IFRS15_BC414D.dita" class="- map/topicref " navtitle="BC414D"/>
+                        <topicref href="ifrs15/IFRS15_BC414E.dita" class="- map/topicref " navtitle="BC414E"/>
+                        <topicref href="ifrs15/IFRS15_BC414F.dita" class="- map/topicref " navtitle="BC414F"/>
+                        <topicref href="ifrs15/IFRS15_BC414G.dita" class="- map/topicref " navtitle="BC414G"/>
+                        <topicref href="ifrs15/IFRS15_BC414H.dita" class="- map/topicref " navtitle="BC414H"/>
+                        <topicref href="ifrs15/IFRS15_BC414I.dita" class="- map/topicref " navtitle="BC414I"/>
+                        <topicref href="ifrs15/IFRS15_BC414J.dita" class="- map/topicref " navtitle="BC414J"/>
+                        <topicref href="ifrs15/IFRS15_BC414K.dita" class="- map/topicref " navtitle="BC414K"/>
+                        <topicref href="ifrs15/IFRS15_gBC414L-BC414N.dita" class="- map/topicref " navtitle="Alternative approach developed by the FASB">
+                            <topicref href="ifrs15/IFRS15_BC414L.dita" class="- map/topicref " navtitle="BC414L"/>
+                            <topicref href="ifrs15/IFRS15_BC414M.dita" class="- map/topicref " navtitle="BC414M"/>
+                            <topicref href="ifrs15/IFRS15_BC414N.dita" class="- map/topicref " navtitle="BC414N"/>
+                        </topicref>
+                    </topicref>
+                    <topicref href="ifrs15/IFRS15_gBC414O-BC414R.dita" class="- map/topicref " navtitle="Contractual restrictions in a licence and the identification of performance obligations">
+                        <topicref href="ifrs15/IFRS15_BC414O.dita" class="- map/topicref " navtitle="BC414O"/>
+                        <topicref href="ifrs15/IFRS15_BC414P.dita" class="- map/topicref " navtitle="BC414P"/>
+                        <topicref href="ifrs15/IFRS15_BC414Q.dita" class="- map/topicref " navtitle="BC414Q"/>
+                        <topicref href="ifrs15/IFRS15_BC414R.dita" class="- map/topicref " navtitle="BC414R"/>
+                    </topicref>
+                    <topicref href="ifrs15/IFRS15_gBC414S-BC414U.dita" class="- map/topicref " navtitle="Renewals of licences of intellectual property">
+                        <topicref href="ifrs15/IFRS15_BC414S.dita" class="- map/topicref " navtitle="BC414S"/>
+                        <topicref href="ifrs15/IFRS15_BC414T.dita" class="- map/topicref " navtitle="BC414T"/>
+                        <topicref href="ifrs15/IFRS15_BC414U.dita" class="- map/topicref " navtitle="BC414U"/>
+                    </topicref>
+                    <topicref href="ifrs15/IFRS15_gBC414V-BC414Y.dita" class="- map/topicref " navtitle="When to consider the nature of the entity’s promise in granting a licence">
+                        <topicref href="ifrs15/IFRS15_BC414V.dita" class="- map/topicref " navtitle="BC414V"/>
+                        <topicref href="ifrs15/IFRS15_BC414W.dita" class="- map/topicref " navtitle="BC414W"/>
+                        <topicref href="ifrs15/IFRS15_BC414X.dita" class="- map/topicref " navtitle="BC414X"/>
+                        <topicref href="ifrs15/IFRS15_BC414Y.dita" class="- map/topicref " navtitle="BC414Y"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC415-BC421J.dita" class="- map/topicref " navtitle="Consideration in the form of sales-based or usage-based royalties">
+                    <topicref href="ifrs15/IFRS15_BC415.dita" class="- map/topicref " navtitle="BC415"/>
+                    <topicref href="ifrs15/IFRS15_BC416.dita" class="- map/topicref " navtitle="BC416"/>
+                    <topicref href="ifrs15/IFRS15_gBC417-BC418.dita" class="- map/topicref " navtitle="Expand the scope">
+                        <topicref href="ifrs15/IFRS15_BC417.dita" class="- map/topicref " navtitle="BC417"/>
+                        <topicref href="ifrs15/IFRS15_BC418.dita" class="- map/topicref " navtitle="BC418"/>
+                    </topicref>
+                    <topicref href="ifrs15/IFRS15_gBC419-BC421.dita" class="- map/topicref " navtitle="Develop a general principle">
+                        <topicref href="ifrs15/IFRS15_BC419.dita" class="- map/topicref " navtitle="BC419"/>
+                        <topicref href="ifrs15/IFRS15_BC420.dita" class="- map/topicref " navtitle="BC420"/>
+                        <topicref href="ifrs15/IFRS15_BC421.dita" class="- map/topicref " navtitle="BC421"/>
+                    </topicref>
+                    <topicref href="ifrs15/IFRS15_gBC421A-BC421J.dita" class="- map/topicref " navtitle="Clarifications to IFRS 15 (amendments issued in April 2016)">
+                        <topicref href="ifrs15/IFRS15_BC421A.dita" class="- map/topicref " navtitle="BC421A"/>
+                        <topicref href="ifrs15/IFRS15_BC421B.dita" class="- map/topicref " navtitle="BC421B"/>
+                        <topicref href="ifrs15/IFRS15_BC421C.dita" class="- map/topicref " navtitle="BC421C"/>
+                        <topicref href="ifrs15/IFRS15_gBC421D-BC421I.dita" class="- map/topicref " navtitle="Applying the royalties constraint">
+                            <topicref href="ifrs15/IFRS15_BC421D.dita" class="- map/topicref " navtitle="BC421D"/>
+                            <topicref href="ifrs15/IFRS15_BC421E.dita" class="- map/topicref " navtitle="BC421E"/>
+                            <topicref href="ifrs15/IFRS15_BC421F.dita" class="- map/topicref " navtitle="BC421F"/>
+                            <topicref href="ifrs15/IFRS15_BC421G.dita" class="- map/topicref " navtitle="BC421G"/>
+                            <topicref href="ifrs15/IFRS15_BC421H.dita" class="- map/topicref " navtitle="BC421H"/>
+                            <topicref href="ifrs15/IFRS15_BC421I.dita" class="- map/topicref " navtitle="BC421I"/>
+                        </topicref>
+                        <topicref href="ifrs15/IFRS15_gBC421J-BC421J.dita" class="- map/topicref " navtitle="Splitting a royalty">
+                            <topicref href="ifrs15/IFRS15_BC421J.dita" class="- map/topicref " navtitle="BC421J"/>
+                        </topicref>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC422-BC433.dita" class="- map/topicref " navtitle="Repurchase agreements (paragraphs B64–B76)">
+                <topicref href="ifrs15/IFRS15_BC422.dita" class="- map/topicref " navtitle="BC422"/>
+                <topicref href="ifrs15/IFRS15_BC423.dita" class="- map/topicref " navtitle="BC423"/>
+                <topicref href="ifrs15/IFRS15_gBC424-BC427.dita" class="- map/topicref " navtitle="A forward or a call option">
+                    <topicref href="ifrs15/IFRS15_BC424.dita" class="- map/topicref " navtitle="BC424"/>
+                    <topicref href="ifrs15/IFRS15_BC425.dita" class="- map/topicref " navtitle="BC425"/>
+                    <topicref href="ifrs15/IFRS15_BC426.dita" class="- map/topicref " navtitle="BC426"/>
+                    <topicref href="ifrs15/IFRS15_BC427.dita" class="- map/topicref " navtitle="BC427"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC428-BC431.dita" class="- map/topicref " navtitle="A put option">
+                    <topicref href="ifrs15/IFRS15_BC428.dita" class="- map/topicref " navtitle="BC428"/>
+                    <topicref href="ifrs15/IFRS15_BC429.dita" class="- map/topicref " navtitle="BC429"/>
+                    <topicref href="ifrs15/IFRS15_BC430.dita" class="- map/topicref " navtitle="BC430"/>
+                    <topicref href="ifrs15/IFRS15_BC431.dita" class="- map/topicref " navtitle="BC431"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC432-BC433.dita" class="- map/topicref " navtitle="Accounting for repurchase agreements in which the customer does not obtain control of the asset">
+                    <topicref href="ifrs15/IFRS15_BC432.dita" class="- map/topicref " navtitle="BC432"/>
+                    <topicref href="ifrs15/IFRS15_BC433.dita" class="- map/topicref " navtitle="BC433"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs15/IFRS15_gBC434-BC453J.dita" class="- map/topicref " navtitle="Transition, effective date and early application (paragraphs C1–C9)">
+            <topicref href="ifrs15/IFRS15_gBC434-BC445U.dita" class="- map/topicref " navtitle="Transition (paragraphs C2–C8A)">
+                <topicref href="ifrs15/IFRS15_BC434.dita" class="- map/topicref " navtitle="BC434"/>
+                <topicref href="ifrs15/IFRS15_gBC435-BC436.dita" class="- map/topicref " navtitle="Retrospective application">
+                    <topicref href="ifrs15/IFRS15_BC435.dita" class="- map/topicref " navtitle="BC435"/>
+                    <topicref href="ifrs15/IFRS15_BC436.dita" class="- map/topicref " navtitle="BC436"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC437-BC438.dita" class="- map/topicref " navtitle="Retrospective application with practical expedients (paragraphs C4–C6)">
+                    <topicref href="ifrs15/IFRS15_BC437.dita" class="- map/topicref " navtitle="BC437"/>
+                    <topicref href="ifrs15/IFRS15_BC438.dita" class="- map/topicref " navtitle="BC438"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC439-BC444.dita" class="- map/topicref " navtitle="Retrospective application with the cumulative effect recognised in the current period (paragraphs C7–C8)">
+                    <topicref href="ifrs15/IFRS15_BC439.dita" class="- map/topicref " navtitle="BC439"/>
+                    <topicref href="ifrs15/IFRS15_BC440.dita" class="- map/topicref " navtitle="BC440"/>
+                    <topicref href="ifrs15/IFRS15_BC441.dita" class="- map/topicref " navtitle="BC441"/>
+                    <topicref href="ifrs15/IFRS15_BC442.dita" class="- map/topicref " navtitle="BC442"/>
+                    <topicref href="ifrs15/IFRS15_BC443.dita" class="- map/topicref " navtitle="BC443"/>
+                    <topicref href="ifrs15/IFRS15_BC444.dita" class="- map/topicref " navtitle="BC444"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC445-BC445.dita" class="- map/topicref " navtitle="Other relief">
+                    <topicref href="ifrs15/IFRS15_BC445.dita" class="- map/topicref " navtitle="BC445"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC445A-BC445U.dita" class="- map/topicref " navtitle="Clarifications to IFRS 15 (amendments issued in April 2016)">
+                    <topicref href="ifrs15/IFRS15_BC445A.dita" class="- map/topicref " navtitle="BC445A"/>
+                    <topicref href="ifrs15/IFRS15_gBC445B-BC445N.dita" class="- map/topicref " navtitle="Completed contracts">
+                        <topicref href="ifrs15/IFRS15_BC445B.dita" class="- map/topicref " navtitle="BC445B"/>
+                        <topicref href="ifrs15/IFRS15_gBC445C-BC445I.dita" class="- map/topicref " navtitle="Definition of and accounting for a completed contract">
+                            <topicref href="ifrs15/IFRS15_BC445C.dita" class="- map/topicref " navtitle="BC445C"/>
+                            <topicref href="ifrs15/IFRS15_BC445D.dita" class="- map/topicref " navtitle="BC445D"/>
+                            <topicref href="ifrs15/IFRS15_BC445E.dita" class="- map/topicref " navtitle="BC445E"/>
+                            <topicref href="ifrs15/IFRS15_BC445F.dita" class="- map/topicref " navtitle="BC445F"/>
+                            <topicref href="ifrs15/IFRS15_BC445G.dita" class="- map/topicref " navtitle="BC445G"/>
+                            <topicref href="ifrs15/IFRS15_BC445H.dita" class="- map/topicref " navtitle="BC445H"/>
+                            <topicref href="ifrs15/IFRS15_BC445I.dita" class="- map/topicref " navtitle="BC445I"/>
+                        </topicref>
+                        <topicref href="ifrs15/IFRS15_gBC445J-BC445L.dita" class="- map/topicref " navtitle="Providing an entity applying IFRS 15 in accordance with paragraph C3(b) with the choice of applying IFRS 15 to all contracts including completed contracts at the date of initial application">
+                            <topicref href="ifrs15/IFRS15_BC445J.dita" class="- map/topicref " navtitle="BC445J"/>
+                            <topicref href="ifrs15/IFRS15_BC445K.dita" class="- map/topicref " navtitle="BC445K"/>
+                            <topicref href="ifrs15/IFRS15_BC445L.dita" class="- map/topicref " navtitle="BC445L"/>
+                        </topicref>
+                        <topicref href="ifrs15/IFRS15_gBC445M-BC445N.dita" class="- map/topicref " navtitle="Permitting an entity applying IFRS 15 in accordance with paragraph C3(a) not to restate completed contracts at the beginning of the earliest period presented">
+                            <topicref href="ifrs15/IFRS15_BC445M.dita" class="- map/topicref " navtitle="BC445M"/>
+                            <topicref href="ifrs15/IFRS15_BC445N.dita" class="- map/topicref " navtitle="BC445N"/>
+                        </topicref>
+                    </topicref>
+                    <topicref href="ifrs15/IFRS15_gBC445O-BC445R.dita" class="- map/topicref " navtitle="Modified contracts">
+                        <topicref href="ifrs15/IFRS15_BC445O.dita" class="- map/topicref " navtitle="BC445O"/>
+                        <topicref href="ifrs15/IFRS15_BC445P.dita" class="- map/topicref " navtitle="BC445P"/>
+                        <topicref href="ifrs15/IFRS15_BC445Q.dita" class="- map/topicref " navtitle="BC445Q"/>
+                        <topicref href="ifrs15/IFRS15_BC445R.dita" class="- map/topicref " navtitle="BC445R"/>
+                    </topicref>
+                    <topicref href="ifrs15/IFRS15_gBC445S-BC445U.dita" class="- map/topicref " navtitle="Transition to Clarifications to IFRS 15">
+                        <topicref href="ifrs15/IFRS15_BC445S.dita" class="- map/topicref " navtitle="BC445S"/>
+                        <topicref href="ifrs15/IFRS15_BC445T.dita" class="- map/topicref " navtitle="BC445T"/>
+                        <topicref href="ifrs15/IFRS15_BC445U.dita" class="- map/topicref " navtitle="BC445U"/>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC446-BC453J.dita" class="- map/topicref " navtitle="Effective date and early application (paragraphs C1–C1B)">
+                <topicref href="ifrs15/IFRS15_gBC446-BC451.dita" class="- map/topicref " navtitle="Effective date">
+                    <topicref href="ifrs15/IFRS15_BC446.dita" class="- map/topicref " navtitle="BC446"/>
+                    <topicref href="ifrs15/IFRS15_BC447.dita" class="- map/topicref " navtitle="BC447"/>
+                    <topicref href="ifrs15/IFRS15_BC448.dita" class="- map/topicref " navtitle="BC448"/>
+                    <topicref href="ifrs15/IFRS15_BC449.dita" class="- map/topicref " navtitle="BC449"/>
+                    <topicref href="ifrs15/IFRS15_BC450.dita" class="- map/topicref " navtitle="BC450"/>
+                    <topicref href="ifrs15/IFRS15_BC451.dita" class="- map/topicref " navtitle="BC451"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC452-BC453.dita" class="- map/topicref " navtitle="Early application">
+                    <topicref href="ifrs15/IFRS15_BC452.dita" class="- map/topicref " navtitle="BC452"/>
+                    <topicref href="ifrs15/IFRS15_BC453.dita" class="- map/topicref " navtitle="BC453"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC453A-BC453H.dita" class="- map/topicref " navtitle="Deferral of effective date (amendment issued in September 2015)">
+                    <topicref href="ifrs15/IFRS15_BC453A.dita" class="- map/topicref " navtitle="BC453A"/>
+                    <topicref href="ifrs15/IFRS15_BC453B.dita" class="- map/topicref " navtitle="BC453B"/>
+                    <topicref href="ifrs15/IFRS15_BC453C.dita" class="- map/topicref " navtitle="BC453C"/>
+                    <topicref href="ifrs15/IFRS15_BC453D.dita" class="- map/topicref " navtitle="BC453D"/>
+                    <topicref href="ifrs15/IFRS15_BC453E.dita" class="- map/topicref " navtitle="BC453E"/>
+                    <topicref href="ifrs15/IFRS15_BC453F.dita" class="- map/topicref " navtitle="BC453F"/>
+                    <topicref href="ifrs15/IFRS15_BC453G.dita" class="- map/topicref " navtitle="BC453G"/>
+                    <topicref href="ifrs15/IFRS15_BC453H.dita" class="- map/topicref " navtitle="BC453H"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC453I-BC453J.dita" class="- map/topicref " navtitle="Clarifications to IFRS 15 (amendments issued in April 2016)">
+                    <topicref href="ifrs15/IFRS15_BC453I.dita" class="- map/topicref " navtitle="BC453I"/>
+                    <topicref href="ifrs15/IFRS15_BC453J.dita" class="- map/topicref " navtitle="BC453J"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs15/IFRS15_gBC454-BC493.dita" class="- map/topicref " navtitle="Analysis of the effects of IFRS 15">
+            <topicref href="ifrs15/IFRS15_BC454.dita" class="- map/topicref " navtitle="BC454"/>
+            <topicref href="ifrs15/IFRS15_BC455.dita" class="- map/topicref " navtitle="BC455"/>
+            <topicref href="ifrs15/IFRS15_gBC456-BC459.dita" class="- map/topicref " navtitle="Overview">
+                <topicref href="ifrs15/IFRS15_BC456.dita" class="- map/topicref " navtitle="BC456"/>
+                <topicref href="ifrs15/IFRS15_BC457.dita" class="- map/topicref " navtitle="BC457"/>
+                <topicref href="ifrs15/IFRS15_BC458.dita" class="- map/topicref " navtitle="BC458"/>
+                <topicref href="ifrs15/IFRS15_BC459.dita" class="- map/topicref " navtitle="BC459"/>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC460-BC480.dita" class="- map/topicref " navtitle="Reporting revenue from contracts with customers in the financial statements">
+                <topicref href="ifrs15/IFRS15_BC460.dita" class="- map/topicref " navtitle="BC460"/>
+                <topicref href="ifrs15/IFRS15_BC461.dita" class="- map/topicref " navtitle="BC461"/>
+                <topicref href="ifrs15/IFRS15_BC462.dita" class="- map/topicref " navtitle="BC462"/>
+                <topicref href="ifrs15/IFRS15_BC463.dita" class="- map/topicref " navtitle="BC463"/>
+                <topicref href="ifrs15/IFRS15_gBC464-BC469.dita" class="- map/topicref " navtitle="Transfer of control: basis for the timing of revenue recognition">
+                    <topicref href="ifrs15/IFRS15_BC464.dita" class="- map/topicref " navtitle="BC464"/>
+                    <topicref href="ifrs15/IFRS15_BC465.dita" class="- map/topicref " navtitle="BC465"/>
+                    <topicref href="ifrs15/IFRS15_BC466.dita" class="- map/topicref " navtitle="BC466"/>
+                    <topicref href="ifrs15/IFRS15_gBC467-BC469.dita" class="- map/topicref " navtitle="Application guidance: licensing">
+                        <topicref href="ifrs15/IFRS15_BC467.dita" class="- map/topicref " navtitle="BC467"/>
+                        <topicref href="ifrs15/IFRS15_BC468.dita" class="- map/topicref " navtitle="BC468"/>
+                        <topicref href="ifrs15/IFRS15_BC469.dita" class="- map/topicref " navtitle="BC469"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC470-BC472.dita" class="- map/topicref " navtitle="Identification of performance obligations in a contract">
+                    <topicref href="ifrs15/IFRS15_BC470.dita" class="- map/topicref " navtitle="BC470"/>
+                    <topicref href="ifrs15/IFRS15_BC471.dita" class="- map/topicref " navtitle="BC471"/>
+                    <topicref href="ifrs15/IFRS15_BC472.dita" class="- map/topicref " navtitle="BC472"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC473-BC476.dita" class="- map/topicref " navtitle="Allocating the transaction price to performance obligations based on relative stand-alone selling prices">
+                    <topicref href="ifrs15/IFRS15_BC473.dita" class="- map/topicref " navtitle="BC473"/>
+                    <topicref href="ifrs15/IFRS15_BC474.dita" class="- map/topicref " navtitle="BC474"/>
+                    <topicref href="ifrs15/IFRS15_BC475.dita" class="- map/topicref " navtitle="BC475"/>
+                    <topicref href="ifrs15/IFRS15_BC476.dita" class="- map/topicref " navtitle="BC476"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC477-BC480.dita" class="- map/topicref " navtitle="Measurement of revenue">
+                    <topicref href="ifrs15/IFRS15_BC477.dita" class="- map/topicref " navtitle="BC477"/>
+                    <topicref href="ifrs15/IFRS15_BC478.dita" class="- map/topicref " navtitle="BC478"/>
+                    <topicref href="ifrs15/IFRS15_BC479.dita" class="- map/topicref " navtitle="BC479"/>
+                    <topicref href="ifrs15/IFRS15_BC480.dita" class="- map/topicref " navtitle="BC480"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC481-BC485.dita" class="- map/topicref " navtitle="Improved comparability of financial information and better economic decision-making">
+                <topicref href="ifrs15/IFRS15_BC481.dita" class="- map/topicref " navtitle="BC481"/>
+                <topicref href="ifrs15/IFRS15_BC482.dita" class="- map/topicref " navtitle="BC482"/>
+                <topicref href="ifrs15/IFRS15_BC483.dita" class="- map/topicref " navtitle="BC483"/>
+                <topicref href="ifrs15/IFRS15_BC484.dita" class="- map/topicref " navtitle="BC484"/>
+                <topicref href="ifrs15/IFRS15_BC485.dita" class="- map/topicref " navtitle="BC485"/>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC486-BC488.dita" class="- map/topicref " navtitle="Compliance costs for preparers">
+                <topicref href="ifrs15/IFRS15_BC486.dita" class="- map/topicref " navtitle="BC486"/>
+                <topicref href="ifrs15/IFRS15_BC487.dita" class="- map/topicref " navtitle="BC487"/>
+                <topicref href="ifrs15/IFRS15_BC488.dita" class="- map/topicref " navtitle="BC488"/>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC489-BC490.dita" class="- map/topicref " navtitle="Costs of analysis for users of financial statements">
+                <topicref href="ifrs15/IFRS15_BC489.dita" class="- map/topicref " navtitle="BC489"/>
+                <topicref href="ifrs15/IFRS15_BC490.dita" class="- map/topicref " navtitle="BC490"/>
+            </topicref>
+            <topicref href="ifrs15/IFRS15_gBC491-BC493.dita" class="- map/topicref " navtitle="Conclusion">
+                <topicref href="ifrs15/IFRS15_BC491.dita" class="- map/topicref " navtitle="BC491"/>
+                <topicref href="ifrs15/IFRS15_BC492.dita" class="- map/topicref " navtitle="BC492"/>
+                <topicref href="ifrs15/IFRS15_BC493.dita" class="- map/topicref " navtitle="BC493"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs15/IFRS15_gBC494-BC503.dita" class="- map/topicref " navtitle="Consequential amendments">
+            <topicref href="ifrs15/IFRS15_sgBC494-BC503.dita" class="- map/topicref " navtitle="Sales of assets that are not an output of an entity’s ordinary activities">
+                <topicref href="ifrs15/IFRS15_BC494.dita" class="- map/topicref " navtitle="BC494"/>
+                <topicref href="ifrs15/IFRS15_BC495.dita" class="- map/topicref " navtitle="BC495"/>
+                <topicref href="ifrs15/IFRS15_BC496.dita" class="- map/topicref " navtitle="BC496"/>
+                <topicref href="ifrs15/IFRS15_gBC497-BC499.dita" class="- map/topicref " navtitle="Consequential amendments to US GAAP">
+                    <topicref href="ifrs15/IFRS15_BC497.dita" class="- map/topicref " navtitle="BC497"/>
+                    <topicref href="ifrs15/IFRS15_BC498.dita" class="- map/topicref " navtitle="BC498"/>
+                    <topicref href="ifrs15/IFRS15_BC499.dita" class="- map/topicref " navtitle="BC499"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC500-BC501.dita" class="- map/topicref " navtitle="Consequential amendments to IFRS">
+                    <topicref href="ifrs15/IFRS15_BC500.dita" class="- map/topicref " navtitle="BC500"/>
+                    <topicref href="ifrs15/IFRS15_BC501.dita" class="- map/topicref " navtitle="BC501"/>
+                </topicref>
+                <topicref href="ifrs15/IFRS15_gBC502-BC503.dita" class="- map/topicref " navtitle="A separate project">
+                    <topicref href="ifrs15/IFRS15_BC502.dita" class="- map/topicref " navtitle="BC502"/>
+                    <topicref href="ifrs15/IFRS15_BC503.dita" class="- map/topicref " navtitle="BC503"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs15/IFRS15_gBC504-BC509.dita" class="- map/topicref " navtitle="Transition for first-time adopters of IFRS">
+            <topicref href="ifrs15/IFRS15_BC504.dita" class="- map/topicref " navtitle="BC504"/>
+            <topicref href="ifrs15/IFRS15_BC505.dita" class="- map/topicref " navtitle="BC505"/>
+            <topicref href="ifrs15/IFRS15_BC506.dita" class="- map/topicref " navtitle="BC506"/>
+            <topicref href="ifrs15/IFRS15_BC507.dita" class="- map/topicref " navtitle="BC507"/>
+            <topicref href="ifrs15/IFRS15_BC508.dita" class="- map/topicref " navtitle="BC508"/>
+            <topicref href="ifrs15/IFRS15_BC509.dita" class="- map/topicref " navtitle="BC509"/>
+        </topicref>
+        <topicref href="ifrs15/IFRS15_gBC510-BC510.dita" class="- map/topicref " navtitle="Summary of main changes from the 2011 Exposure Draft">
+            <topicref href="ifrs15/IFRS15_BC510.dita" class="- map/topicref " navtitle="BC510"/>
+        </topicref>
+        <topicref href="ifrs15/IFRS15_BC_DO.dita" outputclass="new_page" class="- map/topicref " navtitle="Dissenting Opinion">
+            <topicmeta class="- map/topicmeta "/>
+            <topicref href="ifrs15/IFRS15_gDO1-DO5.dita" class="- map/topicref " navtitle="Dissenting Opinion from Clarifications to IFRS 15 Revenue from Contracts with Customers as issued in April 2016">
+                <topicref href="ifrs15/IFRS15_DO1.dita" class="- map/topicref " navtitle="DO1"/>
+                <topicref href="ifrs15/IFRS15_DO2.dita" class="- map/topicref " navtitle="DO2"/>
+                <topicref href="ifrs15/IFRS15_DO3.dita" class="- map/topicref " navtitle="DO3"/>
+                <topicref href="ifrs15/IFRS15_DO4.dita" class="- map/topicref " navtitle="DO4"/>
+                <topicref href="ifrs15/IFRS15_DO5.dita" class="- map/topicref " navtitle="DO5"/>
+            </topicref>
+        </topicref>
+    <topicref chunk="to-content" class="- map/topicref " navtitle="Appendices">
+        <topicref href="ifrs15/IFRS15_BC_APPA.dita" class="- map/topicref " navtitle="Appendix A Comparison of IFRS 15 and Topic 606">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="BCA" class="- topic/data "/>
+            </topicmeta>
+            <topicref href="ifrs15/IFRS15_BC_A1.dita" class="- map/topicref " navtitle="A1"/>
+            <topicref href="ifrs15/IFRS15_BC_A1A.dita" class="- map/topicref " navtitle="A1A"/>
+            <topicref href="ifrs15/IFRS15_BC_A2.dita" class="- map/topicref " navtitle="A2"/>
+            <topicref href="ifrs15/IFRS15_BC_APPA_TAB.dita" class="- map/topicref " navtitle=""/>
+        </topicref>
+        <topicref href="ifrs15/IFRS15_BC_APPB.dita" class="- map/topicref " navtitle="Appendix B Amendments to the Basis for Conclusions on other Standards">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="BCB" class="- topic/data "/>
+            </topicmeta>
+        </topicref>
+    </topicref></chapter>
+    
+</bookmap>

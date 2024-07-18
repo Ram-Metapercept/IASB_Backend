@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IFRIC16_BC_CHK_ALL" chunk="to-content" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle "><ph otherprops="print" class="- topic/ph ">Hedges of a Net Investment in a Foreign
+            Operation</ph></mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Basis For Conclusions</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IFRIC 16</booknumber>
+        </bookid>
+        <document_type value="IFRIC" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2008-10-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2008-07-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ifric-16-hedges-of-a-net-investment-in-a-foreign-operation" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="basis-for-conclusion" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ifric16/IFRIC16_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifric16/IFRIC16_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifric16/IFRIC16_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ifric16/IFRIC16_PartC.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+    </frontmatter>
+    <chapter href="ifric16/IFRIC16_BC_TI.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Basis for Conclusions on IFRIC 16 Hedges of a Net Investment in a Foreign Operation">
+        <topicref href="ifric16/IFRIC16_gBC1-BC1.dita" class="- map/topicref " navtitle="Introduction">
+            <topicref href="ifric16/IFRIC16_BC1.dita" class="- map/topicref " navtitle="BC1"/>
+        </topicref>
+        <topicref href="ifric16/IFRIC16_gBC2-BC5.dita" class="- map/topicref " navtitle="Background">
+            <topicref href="ifric16/IFRIC16_BC2.dita" class="- map/topicref " navtitle="BC2"/>
+            <topicref href="ifric16/IFRIC16_BC3.dita" class="- map/topicref " navtitle="BC3"/>
+            <topicref href="ifric16/IFRIC16_BC4.dita" class="- map/topicref " navtitle="BC4"/>
+            <topicref href="ifric16/IFRIC16_BC5.dita" class="- map/topicref " navtitle="BC5"/>
+        </topicref>
+        <topicref href="ifric16/IFRIC16_gBC6-BC40.dita" class="- map/topicref " navtitle="Consensus">
+            <topicref href="ifric16/IFRIC16_gBC6-BC21.dita" class="- map/topicref " navtitle="Hedged risk and hedged item">
+                <topicref href="ifric16/IFRIC16_gBC6-BC14.dita" class="- map/topicref " navtitle="Functional currency versus presentation currency (paragraph 10)">
+                    <topicref href="ifric16/IFRIC16_BC6.dita" class="- map/topicref " navtitle="BC6"/>
+                    <topicref href="ifric16/IFRIC16_BC7.dita" class="- map/topicref " navtitle="BC7"/>
+                    <topicref href="ifric16/IFRIC16_BC8.dita" class="- map/topicref " navtitle="BC8"/>
+                    <topicref href="ifric16/IFRIC16_BC9.dita" class="- map/topicref " navtitle="BC9"/>
+                    <topicref href="ifric16/IFRIC16_BC10.dita" class="- map/topicref " navtitle="BC10"/>
+                    <topicref href="ifric16/IFRIC16_BC11.dita" class="- map/topicref " navtitle="BC11"/>
+                    <topicref href="ifric16/IFRIC16_BC12.dita" class="- map/topicref " navtitle="BC12"/>
+                    <topicref href="ifric16/IFRIC16_BC13.dita" class="- map/topicref " navtitle="BC13"/>
+                    <topicref href="ifric16/IFRIC16_BC14.dita" class="- map/topicref " navtitle="BC14"/>
+                </topicref>
+                <topicref href="ifric16/IFRIC16_gBC15-BC18.dita" class="- map/topicref " navtitle="Eligible risk (paragraph 12)">
+                    <topicref href="ifric16/IFRIC16_BC15.dita" class="- map/topicref " navtitle="BC15"/>
+                    <topicref href="ifric16/IFRIC16_BC16.dita" class="- map/topicref " navtitle="BC16"/>
+                    <topicref href="ifric16/IFRIC16_BC17.dita" class="- map/topicref " navtitle="BC17"/>
+                    <topicref href="ifric16/IFRIC16_BC18.dita" class="- map/topicref " navtitle="BC18"/>
+                </topicref>
+                <topicref href="ifric16/IFRIC16_gBC19-BC21.dita" class="- map/topicref " navtitle="Amount of hedged item that may be hedged (paragraphs 11 and 13)">
+                    <topicref href="ifric16/IFRIC16_BC19.dita" class="- map/topicref " navtitle="BC19"/>
+                    <topicref href="ifric16/IFRIC16_BC20.dita" class="- map/topicref " navtitle="BC20"/>
+                    <topicref href="ifric16/IFRIC16_BC21.dita" class="- map/topicref " navtitle="BC21"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifric16/IFRIC16_gBC22-BC32.dita" class="- map/topicref " navtitle="Hedging instrument">
+                <topicref href="ifric16/IFRIC16_sgBC22-BC32.dita" class="- map/topicref " navtitle="Location of the hedging instrument (paragraph 14) and assessment of hedge effectiveness (paragraph 15)">
+                    <topicref href="ifric16/IFRIC16_BC22.dita" class="- map/topicref " navtitle="BC22"/>
+                    <topicref href="ifric16/IFRIC16_BC23.dita" class="- map/topicref " navtitle="BC23"/>
+                    <topicref href="ifric16/IFRIC16_BC24.dita" class="- map/topicref " navtitle="BC24"/>
+                    <topicref href="ifric16/IFRIC16_BC24A.dita" class="- map/topicref " navtitle="BC24A"/>
+                    <topicref href="ifric16/IFRIC16_BC24B.dita" class="- map/topicref " navtitle="BC24B"/>
+                    <topicref href="ifric16/IFRIC16_BC24C.dita" class="- map/topicref " navtitle="BC24C"/>
+                    <topicref href="ifric16/IFRIC16_BC24D.dita" class="- map/topicref " navtitle="BC24D"/>
+                    <topicref href="ifric16/IFRIC16_BC25.dita" class="- map/topicref " navtitle="BC25"/>
+                    <topicref href="ifric16/IFRIC16_BC26.dita" class="- map/topicref " navtitle="BC26"/>
+                    <topicref href="ifric16/IFRIC16_BC27.dita" class="- map/topicref " navtitle="BC27"/>
+                    <topicref href="ifric16/IFRIC16_BC28.dita" class="- map/topicref " navtitle="BC28"/>
+                    <topicref href="ifric16/IFRIC16_BC29.dita" class="- map/topicref " navtitle="BC29"/>
+                    <topicref href="ifric16/IFRIC16_BC30.dita" class="- map/topicref " navtitle="BC30"/>
+                    <topicref href="ifric16/IFRIC16_BC31.dita" class="- map/topicref " navtitle="BC31"/>
+                    <topicref href="ifric16/IFRIC16_BC32.dita" class="- map/topicref " navtitle="BC32"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifric16/IFRIC16_gBC33-BC34.dita" class="- map/topicref " navtitle="Reclassification from other comprehensive income to profit or loss (paragraphs 16 and 17)">
+                <topicref href="ifric16/IFRIC16_BC33.dita" class="- map/topicref " navtitle="BC33"/>
+                <topicref href="ifric16/IFRIC16_BC34.dita" class="- map/topicref " navtitle="BC34"/>
+            </topicref>
+            <topicref href="ifric16/IFRIC16_gBC35-BC39.dita" class="- map/topicref " navtitle="Effect of consolidation method">
+                <topicref href="ifric16/IFRIC16_BC35.dita" class="- map/topicref " navtitle="BC35"/>
+                <topicref href="ifric16/IFRIC16_BC36.dita" class="- map/topicref " navtitle="BC36"/>
+                <topicref href="ifric16/IFRIC16_BC37.dita" class="- map/topicref " navtitle="BC37"/>
+                <topicref href="ifric16/IFRIC16_BC38.dita" class="- map/topicref " navtitle="BC38"/>
+                <topicref href="ifric16/IFRIC16_BC39.dita" class="- map/topicref " navtitle="BC39"/>
+            </topicref>
+            <topicref href="ifric16/IFRIC16_gBC40-BC40.dita" class="- map/topicref " navtitle="Transition (paragraph 19)">
+                <topicref href="ifric16/IFRIC16_BC40.dita" class="- map/topicref " navtitle="BC40"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifric16/IFRIC16_gBC40A-BC40A.dita" class="- map/topicref " navtitle="Effective date of amended paragraph 14">
+            <topicref href="ifric16/IFRIC16_BC40A.dita" class="- map/topicref " navtitle="BC40A"/>
+        </topicref>
+        <topicref href="ifric16/IFRIC16_gBC41-BC41.dita" class="- map/topicref " navtitle="Summary of main changes from the draft Interpretation">
+            <topicref href="ifric16/IFRIC16_BC41.dita" class="- map/topicref " navtitle="BC41"/>
+        </topicref>
+    </chapter>
+</bookmap>

@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IFRS17_IE_CHK_ALL" chunk="to-content" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Insurance Contracts</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Illustrative Examples</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IFRS 17</booknumber>
+        </bookid>
+        <document_type value="IFRS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2021-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2017-05-25" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ifrs-17-insurance-contracts" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="illustrative-example" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ifrs17/IFRS17_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs17/IFRS17_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs17/IFRS17_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ifrs17/IFRS17_PartB.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ifrs17/IFRS17_IE_TOC.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+    </frontmatter>
+    <chapter href="ifrs17/IFRS17_IE_TI.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="IFRS 17 Insurance Contracts Illustrative Examples">
+        <topicref href="ifrs17/IFRS17_gIE1-IE3.dita" class="- map/topicref " navtitle="Introduction">
+            <topicref href="ifrs17/IFRS17_IE1.dita" class="- map/topicref " navtitle="IE1"/>
+            <topicref href="ifrs17/IFRS17_IE2.dita" class="- map/topicref " navtitle="IE2"/>
+            <topicref href="ifrs17/IFRS17_IE3.dita" class="- map/topicref " navtitle="IE3"/>
+            <topicref href="ifrs17/IFRS17_IE3A.dita" base="IFRS2020-3" class="- map/topicref " navtitle="IE3A"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gIE4-IE41.dita" class="- map/topicref " navtitle="Key features of accounting for groups of insurance contracts">
+            <topicref href="ifrs17/IFRS17_gIE4-IE11.dita" class="- map/topicref " navtitle="Example 1—Measurement on initial recognition (paragraphs 32, 38 and 47)">
+                <topicref href="ifrs17/IFRS17_IE4.dita" class="- map/topicref " navtitle="IE4"/>
+                <topicref href="ifrs17/IFRS17_gIE5-IE9.dita" class="- map/topicref " navtitle="Assumptions">
+                    <topicref href="ifrs17/IFRS17_IE5.dita" class="- map/topicref " navtitle="IE5"/>
+                    <topicref href="ifrs17/IFRS17_IE6.dita" class="- map/topicref " navtitle="IE6"/>
+                    <topicref href="ifrs17/IFRS17_IE7.dita" class="- map/topicref " navtitle="IE7"/>
+                    <topicref href="ifrs17/IFRS17_IE8.dita" class="- map/topicref " navtitle="IE8"/>
+                    <topicref href="ifrs17/IFRS17_IE9.dita" class="- map/topicref " navtitle="IE9"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gIE10-IE11.dita" class="- map/topicref " navtitle="Analysis">
+                    <topicref href="ifrs17/IFRS17_IE10.dita" class="- map/topicref " navtitle="IE10"/>
+                    <topicref href="ifrs17/IFRS17_IE11.dita" class="- map/topicref " navtitle="IE11"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_gIE12-IE17.dita" class="- map/topicref " navtitle="Example 2—Subsequent measurement (paragraphs 40, 44, 48, 101 and B96–B97)">
+                <topicref href="ifrs17/IFRS17_IE12.dita" class="- map/topicref " navtitle="IE12"/>
+                <topicref href="ifrs17/IFRS17_IE13.dita" class="- map/topicref " navtitle="IE13"/>
+                <topicref href="ifrs17/IFRS17_gIE14-IE15.dita" class="- map/topicref " navtitle="Assumptions">
+                    <topicref href="ifrs17/IFRS17_IE14.dita" class="- map/topicref " navtitle="IE14"/>
+                    <topicref href="ifrs17/IFRS17_IE15.dita" class="- map/topicref " navtitle="IE15"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gIE16-IE17.dita" class="- map/topicref " navtitle="Analysis">
+                    <topicref href="ifrs17/IFRS17_IE16.dita" class="- map/topicref " navtitle="IE16"/>
+                    <topicref href="ifrs17/IFRS17_IE17.dita" class="- map/topicref " navtitle="IE17"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_gIE18-IE23.dita" class="- map/topicref " navtitle="Example 2A—Changes in fulfilment cash flows that increase future profitability">
+                <topicref href="ifrs17/IFRS17_gIE18-IE18.dita" class="- map/topicref " navtitle="Assumptions">
+                    <topicref href="ifrs17/IFRS17_IE18.dita" class="- map/topicref " navtitle="IE18"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gIE19-IE23.dita" class="- map/topicref " navtitle="Analysis">
+                    <topicref href="ifrs17/IFRS17_IE19.dita" class="- map/topicref " navtitle="IE19"/>
+                    <topicref href="ifrs17/IFRS17_IE20.dita" class="- map/topicref " navtitle="IE20"/>
+                    <topicref href="ifrs17/IFRS17_IE21.dita" class="- map/topicref " navtitle="IE21"/>
+                    <topicref href="ifrs17/IFRS17_IE22.dita" class="- map/topicref " navtitle="IE22"/>
+                    <topicref href="ifrs17/IFRS17_IE23.dita" class="- map/topicref " navtitle="IE23"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_gIE24-IE28.dita" class="- map/topicref " navtitle="Example 2B—Changes in fulfilment cash flows that create an onerous group of insurance contracts">
+                <topicref href="ifrs17/IFRS17_IE24.dita" class="- map/topicref " navtitle="IE24"/>
+                <topicref href="ifrs17/IFRS17_IE25.dita" class="- map/topicref " navtitle="IE25"/>
+                <topicref href="ifrs17/IFRS17_IE26.dita" class="- map/topicref " navtitle="IE26"/>
+                <topicref href="ifrs17/IFRS17_IE27.dita" class="- map/topicref " navtitle="IE27"/>
+                <topicref href="ifrs17/IFRS17_IE28.dita" class="- map/topicref " navtitle="IE28"/>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_gIE29-IE32.dita" class="- map/topicref " navtitle="Example 3—Presentation in the statement of profit or loss (paragraphs 49–50(a), 84–85, 100 and B120–B124)">
+                <topicref href="ifrs17/IFRS17_IE29.dita" class="- map/topicref " navtitle="IE29"/>
+                <topicref href="ifrs17/IFRS17_IE30.dita" class="- map/topicref " navtitle="IE30"/>
+                <topicref href="ifrs17/IFRS17_gIE31-IE32.dita" class="- map/topicref " navtitle="Assumptions">
+                    <topicref href="ifrs17/IFRS17_IE31.dita" class="- map/topicref " navtitle="IE31"/>
+                    <topicref href="ifrs17/IFRS17_IE32.dita" class="- map/topicref " navtitle="IE32"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_gIE33-IE37.dita" class="- map/topicref " navtitle="Example 3A—Changes in fulfilment cash flows that increase future profitability">
+                <topicref href="ifrs17/IFRS17_sgIE33-IE37.dita" class="- map/topicref " navtitle="Analysis">
+                    <topicref href="ifrs17/IFRS17_IE33.dita" class="- map/topicref " navtitle="IE33"/>
+                    <topicref href="ifrs17/IFRS17_IE34.dita" class="- map/topicref " navtitle="IE34"/>
+                    <topicref href="ifrs17/IFRS17_IE35.dita" class="- map/topicref " navtitle="IE35"/>
+                    <topicref href="ifrs17/IFRS17_IE36.dita" class="- map/topicref " navtitle="IE36"/>
+                    <topicref href="ifrs17/IFRS17_IE37.dita" class="- map/topicref " navtitle="IE37"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_gIE38-IE41.dita" class="- map/topicref " navtitle="Example 3B—Changes in fulfilment cash flows that create an onerous group of insurance contracts">
+                <topicref href="ifrs17/IFRS17_sgIE38-IE41.dita" class="- map/topicref " navtitle="Analysis">
+                    <topicref href="ifrs17/IFRS17_IE38.dita" class="- map/topicref " navtitle="IE38"/>
+                    <topicref href="ifrs17/IFRS17_IE39.dita" class="- map/topicref " navtitle="IE39"/>
+                    <topicref href="ifrs17/IFRS17_IE40.dita" class="- map/topicref " navtitle="IE40"/>
+                    <topicref href="ifrs17/IFRS17_IE41.dita" class="- map/topicref " navtitle="IE41"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gIE42-IE55.dita" class="- map/topicref " navtitle="Separating components from an insurance contract (paragraphs B31–B35)">
+            <topicref href="ifrs17/IFRS17_IE42.dita" class="- map/topicref " navtitle="IE42"/>
+            <topicref href="ifrs17/IFRS17_gIE43-IE50.dita" class="- map/topicref " navtitle="Example 4—Separating components from a life insurance contract with an account balance">
+                <topicref href="ifrs17/IFRS17_gIE43-IE47.dita" class="- map/topicref " navtitle="Assumptions">
+                    <topicref href="ifrs17/IFRS17_IE43.dita" class="- map/topicref " navtitle="IE43"/>
+                    <topicref href="ifrs17/IFRS17_IE44.dita" class="- map/topicref " navtitle="IE44"/>
+                    <topicref href="ifrs17/IFRS17_IE45.dita" class="- map/topicref " navtitle="IE45"/>
+                    <topicref href="ifrs17/IFRS17_IE46.dita" class="- map/topicref " navtitle="IE46"/>
+                    <topicref href="ifrs17/IFRS17_IE47.dita" class="- map/topicref " navtitle="IE47"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gIE48-IE50.dita" class="- map/topicref " navtitle="Analysis">
+                    <topicref href="ifrs17/IFRS17_gIE48-IE48.dita" class="- map/topicref " navtitle="Separating the account balance">
+                        <topicref href="ifrs17/IFRS17_IE48.dita" class="- map/topicref " navtitle="IE48"/>
+                    </topicref>
+                    <topicref href="ifrs17/IFRS17_gIE49-IE49.dita" class="- map/topicref " navtitle="Separating the claims processing component">
+                        <topicref href="ifrs17/IFRS17_IE49.dita" class="- map/topicref " navtitle="IE49"/>
+                    </topicref>
+                    <topicref href="ifrs17/IFRS17_gIE50-IE50.dita" class="- map/topicref " navtitle="Separating the asset management component">
+                        <topicref href="ifrs17/IFRS17_IE50.dita" class="- map/topicref " navtitle="IE50"/>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_gIE51-IE55.dita" class="- map/topicref " navtitle="Example 5—Separating components from a stop-loss contract with claims processing services">
+                <topicref href="ifrs17/IFRS17_gIE51-IE52.dita" class="- map/topicref " navtitle="Assumptions">
+                    <topicref href="ifrs17/IFRS17_IE51.dita" class="- map/topicref " navtitle="IE51"/>
+                    <topicref href="ifrs17/IFRS17_IE52.dita" class="- map/topicref " navtitle="IE52"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gIE53-IE55.dita" class="- map/topicref " navtitle="Analysis">
+                    <topicref href="ifrs17/IFRS17_sgIE53-IE55.dita" class="- map/topicref " navtitle="Separating the claims processing services">
+                        <topicref href="ifrs17/IFRS17_IE53.dita" class="- map/topicref " navtitle="IE53"/>
+                        <topicref href="ifrs17/IFRS17_IE54.dita" class="- map/topicref " navtitle="IE54"/>
+                        <topicref href="ifrs17/IFRS17_IE55.dita" class="- map/topicref " navtitle="IE55"/>
+                    </topicref>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gIE56-IE98.dita" class="- map/topicref " navtitle="Subsequent measurement">
+            <topicref href="ifrs17/IFRS17_gIE56-IE71.dita" class="- map/topicref " navtitle="   Example 6—Additional features of the contractual service margin (paragraphs 44, 87, 101, B96–B99 and B119–B119B)">
+                <topicref href="ifrs17/IFRS17_IE56.dita" class="- map/topicref " navtitle="IE56"/>
+                <topicref href="ifrs17/IFRS17_gIE57-IE64.dita" class="- map/topicref " navtitle="Assumptions">
+                    <topicref href="ifrs17/IFRS17_IE57.dita" class="- map/topicref " navtitle="IE57"/>
+                    <topicref href="ifrs17/IFRS17_IE58.dita" class="- map/topicref " navtitle="IE58"/>
+                    <topicref href="ifrs17/IFRS17_IE59.dita" class="- map/topicref " navtitle="IE59"/>
+                    <topicref href="ifrs17/IFRS17_IE60.dita" class="- map/topicref " navtitle="IE60"/>
+                    <topicref href="ifrs17/IFRS17_IE61.dita" class="- map/topicref " navtitle="IE61"/>
+                    <topicref href="ifrs17/IFRS17_IE62.dita" class="- map/topicref " navtitle="IE62"/>
+                    <topicref href="ifrs17/IFRS17_IE63.dita" class="- map/topicref " navtitle="IE63"/>
+                    <topicref href="ifrs17/IFRS17_IE64.dita" class="- map/topicref " navtitle="IE64"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gIE65-IE71.dita" class="- map/topicref " navtitle="Analysis">
+                    <topicref href="ifrs17/IFRS17_IE65.dita" class="- map/topicref " navtitle="IE65"/>
+                    <topicref href="ifrs17/IFRS17_IE66.dita" class="- map/topicref " navtitle="IE66"/>
+                    <topicref href="ifrs17/IFRS17_IE67.dita" class="- map/topicref " navtitle="IE67"/>
+                    <topicref href="ifrs17/IFRS17_IE68.dita" class="- map/topicref " navtitle="IE68"/>
+                    <topicref href="ifrs17/IFRS17_IE69.dita" class="- map/topicref " navtitle="IE69"/>
+                    <topicref href="ifrs17/IFRS17_IE70.dita" class="- map/topicref " navtitle="IE70"/>
+                    <topicref href="ifrs17/IFRS17_IE71.dita" class="- map/topicref " navtitle="IE71"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_gIE72-IE80.dita" class="- map/topicref " navtitle="Example 7—Insurance acquisition cash flows (paragraphs 106, B65(e) and B125)">
+                <topicref href="ifrs17/IFRS17_IE72.dita" class="- map/topicref " navtitle="IE72"/>
+                <topicref href="ifrs17/IFRS17_IE73.dita" class="- map/topicref " navtitle="IE73"/>
+                <topicref href="ifrs17/IFRS17_gIE74-IE76.dita" class="- map/topicref " navtitle="Assumptions">
+                    <topicref href="ifrs17/IFRS17_IE74.dita" class="- map/topicref " navtitle="IE74"/>
+                    <topicref href="ifrs17/IFRS17_IE75.dita" class="- map/topicref " navtitle="IE75"/>
+                    <topicref href="ifrs17/IFRS17_IE76.dita" class="- map/topicref " navtitle="IE76"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gIE77-IE80.dita" class="- map/topicref " navtitle="Analysis">
+                    <topicref href="ifrs17/IFRS17_IE77.dita" class="- map/topicref " navtitle="IE77"/>
+                    <topicref href="ifrs17/IFRS17_IE78.dita" class="- map/topicref " navtitle="IE78"/>
+                    <topicref href="ifrs17/IFRS17_IE79.dita" class="- map/topicref " navtitle="IE79"/>
+                    <topicref href="ifrs17/IFRS17_IE80.dita" class="- map/topicref " navtitle="IE80"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_gIE81-IE98.dita" class="- map/topicref " navtitle="Example 8—Reversal of losses in an onerous group of insurance contracts (paragraphs 49–50 and B123–B124)">
+                <topicref href="ifrs17/IFRS17_IE81.dita" class="- map/topicref " navtitle="IE81"/>
+                <topicref href="ifrs17/IFRS17_gIE82-IE90.dita" class="- map/topicref " navtitle="Assumptions">
+                    <topicref href="ifrs17/IFRS17_IE82.dita" class="- map/topicref " navtitle="IE82"/>
+                    <topicref href="ifrs17/IFRS17_IE83.dita" class="- map/topicref " navtitle="IE83"/>
+                    <topicref href="ifrs17/IFRS17_IE84.dita" class="- map/topicref " navtitle="IE84"/>
+                    <topicref href="ifrs17/IFRS17_IE85.dita" class="- map/topicref " navtitle="IE85"/>
+                    <topicref href="ifrs17/IFRS17_IE86.dita" class="- map/topicref " navtitle="IE86"/>
+                    <topicref href="ifrs17/IFRS17_IE87.dita" class="- map/topicref " navtitle="IE87"/>
+                    <topicref href="ifrs17/IFRS17_IE88.dita" class="- map/topicref " navtitle="IE88"/>
+                    <topicref href="ifrs17/IFRS17_IE89.dita" class="- map/topicref " navtitle="IE89"/>
+                    <topicref href="ifrs17/IFRS17_IE90.dita" class="- map/topicref " navtitle="IE90"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gIE91-IE98.dita" class="- map/topicref " navtitle="Analysis">
+                    <topicref href="ifrs17/IFRS17_IE91.dita" class="- map/topicref " navtitle="IE91"/>
+                    <topicref href="ifrs17/IFRS17_IE92.dita" class="- map/topicref " navtitle="IE92"/>
+                    <topicref href="ifrs17/IFRS17_IE93.dita" class="- map/topicref " navtitle="IE93"/>
+                    <topicref href="ifrs17/IFRS17_IE94.dita" class="- map/topicref " navtitle="IE94"/>
+                    <topicref href="ifrs17/IFRS17_IE95.dita" class="- map/topicref " navtitle="IE95"/>
+                    <topicref href="ifrs17/IFRS17_IE96.dita" class="- map/topicref " navtitle="IE96"/>
+                    <topicref href="ifrs17/IFRS17_IE97.dita" class="- map/topicref " navtitle="IE97"/>
+                    <topicref href="ifrs17/IFRS17_IE98.dita" class="- map/topicref " navtitle="IE98"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gIE99-IE112.dita" class="- map/topicref " navtitle="Measurement of groups of insurance contracts with direct participation features">
+            <topicref href="ifrs17/IFRS17_gIE100-IE112.dita" class="- map/topicref " navtitle="Example 9—Measurement on initial recognition and subsequently of groups of insurance contracts with direct participation features (paragraphs 45 and B110–B114)">
+                <topicref href="ifrs17/IFRS17_IE99.dita" base="IFRS2020-3" class="- map/topicref " navtitle="IE99"/>
+                <topicref href="ifrs17/IFRS17_gIE100-IE106.dita" class="- map/topicref " navtitle="Assumptions">
+                    <topicref href="ifrs17/IFRS17_IE100.dita" class="- map/topicref " navtitle="IE100"/>
+                    <topicref href="ifrs17/IFRS17_IE101.dita" class="- map/topicref " navtitle="IE101"/>
+                    <topicref href="ifrs17/IFRS17_IE102.dita" class="- map/topicref " navtitle="IE102"/>
+                    <topicref href="ifrs17/IFRS17_IE103.dita" class="- map/topicref " navtitle="IE103"/>
+                    <topicref href="ifrs17/IFRS17_IE104.dita" class="- map/topicref " navtitle="IE104"/>
+                    <topicref href="ifrs17/IFRS17_IE105.dita" class="- map/topicref " navtitle="IE105"/>
+                    <topicref href="ifrs17/IFRS17_IE106.dita" class="- map/topicref " navtitle="IE106"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gIE107-IE112.dita" class="- map/topicref " navtitle="Analysis">
+                    <topicref href="ifrs17/IFRS17_IE107.dita" class="- map/topicref " navtitle="IE107"/>
+                    <topicref href="ifrs17/IFRS17_IE108.dita" class="- map/topicref " navtitle="IE108"/>
+                    <topicref href="ifrs17/IFRS17_IE109.dita" class="- map/topicref " navtitle="IE109"/>
+                    <topicref href="ifrs17/IFRS17_IE110.dita" class="- map/topicref " navtitle="IE110"/>
+                    <topicref href="ifrs17/IFRS17_IE111.dita" class="- map/topicref " navtitle="IE111"/>
+                    <topicref href="ifrs17/IFRS17_IE112.dita" class="- map/topicref " navtitle="IE112"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gIE113-IE123.dita" class="- map/topicref " navtitle="Measurement of groups of insurance contracts using the premium allocation approach">
+            <topicref href="ifrs17/IFRS17_sgIE113-IE123.dita" class="- map/topicref " navtitle="Example 10—Measurement on initial recognition and subsequently of groups of insurance contracts using the premium allocation approach (paragraphs 55–56, 59, 100 and B126)">
+                <topicref href="ifrs17/IFRS17_IE113.dita" class="- map/topicref " navtitle="IE113"/>
+                <topicref href="ifrs17/IFRS17_gIE114-IE119.dita" class="- map/topicref " navtitle="Assumptions">
+                    <topicref href="ifrs17/IFRS17_IE114.dita" class="- map/topicref " navtitle="IE114"/>
+                    <topicref href="ifrs17/IFRS17_IE115.dita" class="- map/topicref " navtitle="IE115"/>
+                    <topicref href="ifrs17/IFRS17_IE116.dita" class="- map/topicref " navtitle="IE116"/>
+                    <topicref href="ifrs17/IFRS17_IE117.dita" class="- map/topicref " navtitle="IE117"/>
+                    <topicref href="ifrs17/IFRS17_IE118.dita" class="- map/topicref " navtitle="IE118"/>
+                    <topicref href="ifrs17/IFRS17_IE119.dita" class="- map/topicref " navtitle="IE119"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gIE120-IE123.dita" class="- map/topicref " navtitle="Analysis">
+                    <topicref href="ifrs17/IFRS17_IE120.dita" class="- map/topicref " navtitle="IE120"/>
+                    <topicref href="ifrs17/IFRS17_IE121.dita" class="- map/topicref " navtitle="IE121"/>
+                    <topicref href="ifrs17/IFRS17_IE122.dita" class="- map/topicref " navtitle="IE122"/>
+                    <topicref href="ifrs17/IFRS17_IE123.dita" class="- map/topicref " navtitle="IE123"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gIE124-IE138.dita" class="- map/topicref " navtitle="Measurement of groups of reinsurance contracts held">
+            <topicref href="ifrs17/IFRS17_gIE124-IE129.dita" class="- map/topicref " navtitle="Example 11—Measurement on initial recognition of groups of reinsurance contracts held (paragraphs 63–65A)">
+                <topicref href="ifrs17/IFRS17_IE124.dita" class="- map/topicref " navtitle="IE124"/>
+                <topicref href="ifrs17/IFRS17_gIE125-IE128.dita" class="- map/topicref " navtitle="Assumptions">
+                    <topicref href="ifrs17/IFRS17_IE125.dita" class="- map/topicref " navtitle="IE125"/>
+                    <topicref href="ifrs17/IFRS17_IE126.dita" class="- map/topicref " navtitle="IE126"/>
+                    <topicref href="ifrs17/IFRS17_IE127.dita" class="- map/topicref " navtitle="IE127"/>
+                    <topicref href="ifrs17/IFRS17_IE128.dita" class="- map/topicref " navtitle="IE128"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gIE129-IE129.dita" class="- map/topicref " navtitle="Analysis">
+                    <topicref href="ifrs17/IFRS17_IE129.dita" class="- map/topicref " navtitle="IE129"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_gIE130-IE138.dita" class="- map/topicref " navtitle="Examples 12A and 12B—Measurement subsequent to initial recognition of groups of reinsurance contracts held (paragraph 66)">
+                <topicref href="ifrs17/IFRS17_IE130.dita" class="- map/topicref " navtitle="IE130"/>
+                <topicref href="ifrs17/IFRS17_IE131.dita" class="- map/topicref " navtitle="IE131"/>
+                <topicref href="ifrs17/IFRS17_gIE132-IE136.dita" class="- map/topicref " navtitle="Assumptions">
+                    <topicref href="ifrs17/IFRS17_IE132.dita" class="- map/topicref " navtitle="IE132"/>
+                    <topicref href="ifrs17/IFRS17_IE133.dita" class="- map/topicref " navtitle="IE133"/>
+                    <topicref href="ifrs17/IFRS17_IE134.dita" class="- map/topicref " navtitle="IE134"/>
+                    <topicref href="ifrs17/IFRS17_IE135.dita" class="- map/topicref " navtitle="IE135"/>
+                    <topicref href="ifrs17/IFRS17_IE136.dita" class="- map/topicref " navtitle="IE136"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gIE137-IE138.dita" class="- map/topicref " navtitle="Analysis">
+                    <topicref href="ifrs17/IFRS17_gIE137-IE137.dita" class="- map/topicref " navtitle="Example 12A—Underlying group of insurance contracts is not onerous">
+                        <topicref href="ifrs17/IFRS17_IE137.dita" class="- map/topicref " navtitle="IE137"/>
+                    </topicref>
+                    <topicref href="ifrs17/IFRS17_gIE138-IE138.dita" class="- map/topicref " navtitle="Example 12B—Underlying group of insurance contracts is onerous">
+                        <topicref href="ifrs17/IFRS17_IE138.dita" class="- map/topicref " navtitle="IE138"/>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_gIE138A-IE138O.dita" base="IFRS2020-3" class="- map/topicref " navtitle="Example 12C—Measurement of a group     of reinsurance contracts held that provides coverage for groups of underlying insurance     contracts, including an onerous group (paragraphs 66A–66B and B119C–B119F)">
+                <topicref href="ifrs17/IFRS17_IE138A.dita" class="- map/topicref " navtitle="IE138A"/>
+                <topicref href="ifrs17/IFRS17_gIE138B-IE138J.dita" class="- map/topicref " navtitle="Assumptions">
+                    <topicref href="ifrs17/IFRS17_IE138B.dita" class="- map/topicref " navtitle="IE138B"/>
+                    <topicref href="ifrs17/IFRS17_IE138C.dita" class="- map/topicref " navtitle="IE138C"/>
+                    <topicref href="ifrs17/IFRS17_IE138D.dita" class="- map/topicref " navtitle="IE138D"/>
+                    <topicref href="ifrs17/IFRS17_IE138E.dita" class="- map/topicref " navtitle="IE138E"/>
+                    <topicref href="ifrs17/IFRS17_IE138F.dita" class="- map/topicref " navtitle="IE138F"/>
+                    <topicref href="ifrs17/IFRS17_IE138G.dita" class="- map/topicref " navtitle="IE138G"/>
+                    <topicref href="ifrs17/IFRS17_IE138H.dita" class="- map/topicref " navtitle="IE138H"/>
+                    <topicref href="ifrs17/IFRS17_IE138I.dita" class="- map/topicref " navtitle="IE138I"/>
+                    <topicref href="ifrs17/IFRS17_IE138J.dita" class="- map/topicref " navtitle="IE138J"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gIE138K-IE138O.dita" class="- map/topicref " navtitle="Analysis">
+                    <topicref href="ifrs17/IFRS17_IE138K.dita" class="- map/topicref " navtitle="IE138K"/>
+                    <topicref href="ifrs17/IFRS17_IE138L.dita" class="- map/topicref " navtitle="IE138L"/>
+                    <topicref href="ifrs17/IFRS17_IE138M.dita" class="- map/topicref " navtitle="IE138M"/>
+                    <topicref href="ifrs17/IFRS17_IE138N.dita" class="- map/topicref " navtitle="IE138N"/>
+                    <topicref href="ifrs17/IFRS17_IE138O.dita" class="- map/topicref " navtitle="IE138O"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gIE139-IE151.dita" class="- map/topicref " navtitle="Measurement of insurance contracts acquired (paragraphs 38 and B94–B95A)">
+            <topicref href="ifrs17/IFRS17_gIE139-IE145.dita" class="- map/topicref " navtitle="Example 13—Measurement on initial recognition of insurance contracts acquired in a transfer from another entity">
+                <topicref href="ifrs17/IFRS17_IE139.dita" class="- map/topicref " navtitle="IE139"/>
+                <topicref href="ifrs17/IFRS17_gIE140-IE144.dita" class="- map/topicref " navtitle="Assumptions">
+                    <topicref href="ifrs17/IFRS17_IE140.dita" class="- map/topicref " navtitle="IE140"/>
+                    <topicref href="ifrs17/IFRS17_IE141.dita" class="- map/topicref " navtitle="IE141"/>
+                    <topicref href="ifrs17/IFRS17_IE142.dita" class="- map/topicref " navtitle="IE142"/>
+                    <topicref href="ifrs17/IFRS17_IE143.dita" class="- map/topicref " navtitle="IE143"/>
+                    <topicref href="ifrs17/IFRS17_IE144.dita" class="- map/topicref " navtitle="IE144"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gIE145-IE145.dita" class="- map/topicref " navtitle="Analysis">
+                    <topicref href="ifrs17/IFRS17_IE145.dita" class="- map/topicref " navtitle="IE145"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_gIE146-IE151.dita" class="- map/topicref " navtitle="Example 14—Measurement on initial recognition of insurance contracts acquired in a business combination">
+                <topicref href="ifrs17/IFRS17_IE146.dita" class="- map/topicref " navtitle="IE146"/>
+                <topicref href="ifrs17/IFRS17_gIE147-IE150.dita" class="- map/topicref " navtitle="Assumptions">
+                    <topicref href="ifrs17/IFRS17_IE147.dita" class="- map/topicref " navtitle="IE147"/>
+                    <topicref href="ifrs17/IFRS17_IE148.dita" class="- map/topicref " navtitle="IE148"/>
+                    <topicref href="ifrs17/IFRS17_IE149.dita" class="- map/topicref " navtitle="IE149"/>
+                    <topicref href="ifrs17/IFRS17_IE150.dita" class="- map/topicref " navtitle="IE150"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gIE151-IE151.dita" class="- map/topicref " navtitle="Analysis">
+                    <topicref href="ifrs17/IFRS17_IE151.dita" class="- map/topicref " navtitle="IE151"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gIE152-IE185.dita" class="- map/topicref " navtitle="Insurance finance income or expenses">
+            <topicref href="ifrs17/IFRS17_gIE152-IE172.dita" class="- map/topicref " navtitle="Example 15—Systematic allocation of the expected total insurance finance income or expenses (paragraphs B130 and B132(a))">
+                <topicref href="ifrs17/IFRS17_IE152.dita" class="- map/topicref " navtitle="IE152"/>
+                <topicref href="ifrs17/IFRS17_IE153.dita" class="- map/topicref " navtitle="IE153"/>
+                <topicref href="ifrs17/IFRS17_gIE154-IE158.dita" class="- map/topicref " navtitle="Assumptions">
+                    <topicref href="ifrs17/IFRS17_IE154.dita" class="- map/topicref " navtitle="IE154"/>
+                    <topicref href="ifrs17/IFRS17_IE155.dita" class="- map/topicref " navtitle="IE155"/>
+                    <topicref href="ifrs17/IFRS17_IE156.dita" class="- map/topicref " navtitle="IE156"/>
+                    <topicref href="ifrs17/IFRS17_IE157.dita" class="- map/topicref " navtitle="IE157"/>
+                    <topicref href="ifrs17/IFRS17_IE158.dita" class="- map/topicref " navtitle="IE158"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gIE159-IE172.dita" class="- map/topicref " navtitle="Analysis">
+                    <topicref href="ifrs17/IFRS17_gIE159-IE164.dita" class="- map/topicref " navtitle="Example 15A—Effective yield approach">
+                        <topicref href="ifrs17/IFRS17_IE159.dita" class="- map/topicref " navtitle="IE159"/>
+                        <topicref href="ifrs17/IFRS17_IE160.dita" class="- map/topicref " navtitle="IE160"/>
+                        <topicref href="ifrs17/IFRS17_IE161.dita" class="- map/topicref " navtitle="IE161"/>
+                        <topicref href="ifrs17/IFRS17_IE162.dita" class="- map/topicref " navtitle="IE162"/>
+                        <topicref href="ifrs17/IFRS17_IE163.dita" class="- map/topicref " navtitle="IE163"/>
+                        <topicref href="ifrs17/IFRS17_IE164.dita" class="- map/topicref " navtitle="IE164"/>
+                    </topicref>
+                    <topicref href="ifrs17/IFRS17_gIE165-IE172.dita" class="- map/topicref " navtitle="Example 15B—Projected crediting rate approach">
+                        <topicref href="ifrs17/IFRS17_IE165.dita" class="- map/topicref " navtitle="IE165"/>
+                        <topicref href="ifrs17/IFRS17_IE166.dita" class="- map/topicref " navtitle="IE166"/>
+                        <topicref href="ifrs17/IFRS17_IE167.dita" class="- map/topicref " navtitle="IE167"/>
+                        <topicref href="ifrs17/IFRS17_IE168.dita" class="- map/topicref " navtitle="IE168"/>
+                        <topicref href="ifrs17/IFRS17_IE169.dita" class="- map/topicref " navtitle="IE169"/>
+                        <topicref href="ifrs17/IFRS17_IE170.dita" class="- map/topicref " navtitle="IE170"/>
+                        <topicref href="ifrs17/IFRS17_IE171.dita" class="- map/topicref " navtitle="IE171"/>
+                        <topicref href="ifrs17/IFRS17_IE172.dita" class="- map/topicref " navtitle="IE172"/>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_gIE173-IE185.dita" class="- map/topicref " navtitle="Example 16—Amount that eliminates accounting mismatches with finance income or expenses arising on underlying items held (paragraphs 89–90 and B134)">
+                <topicref href="ifrs17/IFRS17_IE173.dita" class="- map/topicref " navtitle="IE173"/>
+                <topicref href="ifrs17/IFRS17_gIE174-IE181.dita" class="- map/topicref " navtitle="Assumptions">
+                    <topicref href="ifrs17/IFRS17_IE174.dita" class="- map/topicref " navtitle="IE174"/>
+                    <topicref href="ifrs17/IFRS17_IE175.dita" class="- map/topicref " navtitle="IE175"/>
+                    <topicref href="ifrs17/IFRS17_IE176.dita" class="- map/topicref " navtitle="IE176"/>
+                    <topicref href="ifrs17/IFRS17_IE177.dita" class="- map/topicref " navtitle="IE177"/>
+                    <topicref href="ifrs17/IFRS17_IE178.dita" class="- map/topicref " navtitle="IE178"/>
+                    <topicref href="ifrs17/IFRS17_IE179.dita" class="- map/topicref " navtitle="IE179"/>
+                    <topicref href="ifrs17/IFRS17_IE180.dita" class="- map/topicref " navtitle="IE180"/>
+                    <topicref href="ifrs17/IFRS17_IE181.dita" class="- map/topicref " navtitle="IE181"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gIE182-IE185.dita" class="- map/topicref " navtitle="Analysis">
+                    <topicref href="ifrs17/IFRS17_IE182.dita" class="- map/topicref " navtitle="IE182"/>
+                    <topicref href="ifrs17/IFRS17_IE183.dita" class="- map/topicref " navtitle="IE183"/>
+                    <topicref href="ifrs17/IFRS17_IE184.dita" class="- map/topicref " navtitle="IE184"/>
+                    <topicref href="ifrs17/IFRS17_IE185.dita" class="- map/topicref " navtitle="IE185"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gIE186-IE199.dita" class="- map/topicref " navtitle="Transition">
+            <topicref href="ifrs17/IFRS17_gIE186-IE191.dita" class="- map/topicref " navtitle="Example 17—Measurement of groups of insurance contracts without direct participation features applying the modified retrospective approach (paragraphs C11–C15)">
+                <topicref href="ifrs17/IFRS17_IE186.dita" class="- map/topicref " navtitle="IE186"/>
+                <topicref href="ifrs17/IFRS17_gIE187-IE188.dita" class="- map/topicref " navtitle="Assumptions">
+                    <topicref href="ifrs17/IFRS17_IE187.dita" class="- map/topicref " navtitle="IE187"/>
+                    <topicref href="ifrs17/IFRS17_IE188.dita" class="- map/topicref " navtitle="IE188"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gIE189-IE191.dita" class="- map/topicref " navtitle="Analysis">
+                    <topicref href="ifrs17/IFRS17_IE189.dita" class="- map/topicref " navtitle="IE189"/>
+                    <topicref href="ifrs17/IFRS17_IE190.dita" class="- map/topicref " navtitle="IE190"/>
+                    <topicref href="ifrs17/IFRS17_IE191.dita" class="- map/topicref " navtitle="IE191"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_gIE192-IE199.dita" class="- map/topicref " navtitle="Example 18—Measurement of groups of insurance contracts with direct participation features applying the modified retrospective approach (paragraph C17)">
+                <topicref href="ifrs17/IFRS17_IE192.dita" class="- map/topicref " navtitle="IE192"/>
+                <topicref href="ifrs17/IFRS17_gIE193-IE197.dita" class="- map/topicref " navtitle="Assumptions">
+                    <topicref href="ifrs17/IFRS17_IE193.dita" class="- map/topicref " navtitle="IE193"/>
+                    <topicref href="ifrs17/IFRS17_IE194.dita" class="- map/topicref " navtitle="IE194"/>
+                    <topicref href="ifrs17/IFRS17_IE195.dita" class="- map/topicref " navtitle="IE195"/>
+                    <topicref href="ifrs17/IFRS17_IE196.dita" class="- map/topicref " navtitle="IE196"/>
+                    <topicref href="ifrs17/IFRS17_IE197.dita" class="- map/topicref " navtitle="IE197"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gIE198-IE199.dita" class="- map/topicref " navtitle="Analysis">
+                    <topicref href="ifrs17/IFRS17_IE198.dita" class="- map/topicref " navtitle="IE198"/>
+                    <topicref href="ifrs17/IFRS17_IE199.dita" class="- map/topicref " navtitle="IE199"/>
+                </topicref>
+            </topicref>
+        </topicref>
+    <topicref chunk="to-content" class="- map/topicref " navtitle="Appendices">
+        <topicref href="ifrs17/IFRS17_IE_APP.dita" class="- map/topicref " navtitle="Appendix Amendments to other IFRS Standards">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="IE" class="- topic/data "/>
+            </topicmeta>
+        </topicref>
+    </topicref></chapter>
+    
+</bookmap>

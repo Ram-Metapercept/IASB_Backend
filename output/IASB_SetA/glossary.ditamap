@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Glossary</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Glossary</category>
+        <document_type value="Glossary" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="1970-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="1970-01-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+    </bookmeta>
+    <frontmatter toc="no" chunk="to-content" id="glossary_CHK_FM" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="glossary/GLOSSARY_footnotes.dita" keys="glossary_footnotes" processing-role="normal" class="+ map/topicref mapgroup-d/keydef "/>
+        <topicref href="glossary/GLOSSARY_intro.dita" class="- map/topicref " navtitle="Glossary">
+            <topicmeta class="- map/topicmeta "/>
+        </topicref>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <glossarylist class="- map/topicref bookmap/glossarylist ">
+                <topicref href="glossary/GLOSSARY_12monthexpectedcreditlosses.dita" keys="GLOSSARY_DI0001" class="- map/topicref " navtitle="12‑month expected credit losses"/>
+                <topicref href="glossary/GLOSSARY_accountingestimates.dita" keys="GLOSSARY_accountingestimates" base="IAS2021-1" class="- map/topicref " navtitle="accounting estimates"/>
+                <topicref href="glossary/GLOSSARY_accountingpolicies.dita" keys="GLOSSARY_DI0002" class="- map/topicref " navtitle="accounting policies"/>
+                <topicref href="glossary/GLOSSARY_accountingprofit.dita" keys="GLOSSARY_DI0003" class="- map/topicref " navtitle="accounting profit"/>
+                <topicref href="glossary/GLOSSARY_acquiree.dita" keys="GLOSSARY_DI0004" class="- map/topicref " navtitle="acquiree"/>
+                <topicref href="glossary/GLOSSARY_acquirer.dita" keys="GLOSSARY_DI0005" class="- map/topicref " navtitle="acquirer"/>
+                <topicref href="glossary/GLOSSARY_acquisitiondate.dita" keys="GLOSSARY_DI0006" class="- map/topicref " navtitle="acquisition date"/>
+                <topicref href="glossary/GLOSSARY_activemarket.dita" keys="GLOSSARY_DI0007" class="- map/topicref " navtitle="active market"/>
+                <topicref href="glossary/GLOSSARY_actuarialgainsandlosses.dita" keys="GLOSSARY_DI0008" class="- map/topicref " navtitle="actuarial gains and losses"/>
+                <topicref href="glossary/GLOSSARY_actuarialpresentvalueofpromisedretirementbenefits.dita" keys="GLOSSARY_DI0009" class="- map/topicref " navtitle="actuarial present value of promised retirement benefits"/>
+                <topicref href="glossary/GLOSSARY_aggregation.dita" keys="GLOSSARY_aggregation" class="- map/topicref " navtitle="aggregation">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_agriculturalactivity.dita" keys="GLOSSARY_DI0010" class="- map/topicref " navtitle="agricultural activity"/>
+                <topicref href="glossary/GLOSSARY_agriculturalproduce.dita" keys="GLOSSARY_DI0011" class="- map/topicref " navtitle="agricultural produce">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_amortisation.dita" keys="GLOSSARY_DI0012" class="- map/topicref " navtitle="amortisation (depreciation)"/>
+                <topicref href="glossary/GLOSSARY_amortisedcostofafinancialassetorfinancialliability.dita" keys="GLOSSARY_DI0013" class="- map/topicref " navtitle="amortised cost of a financial asset or financial liability">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_antidilution.dita" keys="GLOSSARY_DI0014" class="- map/topicref " navtitle="antidilution"/>
+                <topicref href="glossary/GLOSSARY_asset-1.dita" keys="GLOSSARY_DI0015" class="- map/topicref " navtitle="asset"/>
+                <topicref href="glossary/GLOSSARY_asset-2.dita" keys="GLOSSARY_asset" class="- map/topicref " navtitle="asset">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_assetceiling.dita" keys="GLOSSARY_DI0016" class="- map/topicref " navtitle="asset ceiling"/>
+                <topicref href="glossary/GLOSSARY_assetsheldbyalongtermemployeebenefitfund.dita" keys="GLOSSARY_DI0017" class="- map/topicref " navtitle="assets held by a long‑term employee benefit fund"/>
+                <topicref href="glossary/GLOSSARY_associate.dita" keys="GLOSSARY_DI0018" class="- map/topicref " navtitle="associate "/>
+                <topicref href="glossary/GLOSSARY_bearerplant.dita" keys="GLOSSARY_DI0020" class="- map/topicref " navtitle="bearer plant"/>
+                <topicref href="glossary/GLOSSARY_biologicalasset.dita" keys="GLOSSARY_DI0021" class="- map/topicref " navtitle="biological asset"/>
+                <topicref href="glossary/GLOSSARY_biologicaltransformation.dita" keys="GLOSSARY_DI0022" class="- map/topicref " navtitle="biological transformation"/>
+                <topicref href="glossary/GLOSSARY_borrowingcosts.dita" keys="GLOSSARY_DI0023" class="- map/topicref " navtitle="borrowing costs"/>
+                <topicref href="glossary/GLOSSARY_business.dita" keys="GLOSSARY_DI0024" class="- map/topicref " navtitle="business"/>
+                <topicref href="glossary/GLOSSARY_businesscombination.dita" keys="GLOSSARY_DI0025" class="- map/topicref " navtitle="business combination "/>
+                <topicref href="glossary/GLOSSARY_carryingamount-1.dita" keys="GLOSSARY_DI0026" class="- map/topicref " navtitle="carrying amount "/>
+                <topicref href="glossary/GLOSSARY_carryingamount-2.dita" keys="GLOSSARY_DI0027" class="- map/topicref " navtitle="carrying amount"/>
+                <topicref href="glossary/GLOSSARY_carryingamount-3.dita" keys="GLOSSARY_carryingamount" class="- map/topicref " navtitle="carrying amount">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_cash.dita" keys="GLOSSARY_DI0028" class="- map/topicref " navtitle="cash"/>
+                <topicref href="glossary/GLOSSARY_cashequivalents.dita" keys="GLOSSARY_DI0029" class="- map/topicref " navtitle="cash equivalents"/>
+                <topicref href="glossary/GLOSSARY_cashflows.dita" keys="GLOSSARY_DI0030" class="- map/topicref " navtitle="cash flows"/>
+                <topicref href="glossary/GLOSSARY_cashgeneratingunit.dita" keys="GLOSSARY_DI0031" class="- map/topicref " navtitle="cash‑generating unit"/>
+                <topicref href="glossary/GLOSSARY_cashsettledsharebasedpaymenttransaction.dita" keys="GLOSSARY_DI0032" class="- map/topicref " navtitle="cash‑settled share‑based payment transaction"/>
+                <topicref href="glossary/GLOSSARY_classification.dita" keys="GLOSSARY_classification" class="- map/topicref " navtitle="classification">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_closemembersofthefamilyofaperson.dita" keys="GLOSSARY_DI0035" class="- map/topicref " navtitle="close members of the family of a person"/>
+                <topicref href="glossary/GLOSSARY_closingrate.dita" keys="GLOSSARY_DI0036" class="- map/topicref " navtitle="closing rate"/>
+                <topicref href="glossary/GLOSSARY_combinedfinancialstatements.dita" keys="GLOSSARY_combinedfinancialstatements" class="- map/topicref " navtitle="combined financial statements">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_commencementdateofthelease.dita" keys="GLOSSARY_DI0037" class="- map/topicref " navtitle="commencement date of the lease (commencement date)"/>
+                <topicref href="glossary/GLOSSARY_compensation.dita" keys="GLOSSARY_DI0038" class="- map/topicref " navtitle="compensation"/>
+                <topicref href="glossary/GLOSSARY_componentofanentity.dita" keys="GLOSSARY_DI0039" class="- map/topicref " navtitle="component of an entity"/>
+                <topicref href="glossary/GLOSSARY_consolidatedfinancialstatements-1.dita" keys="GLOSSARY_DI0040" class="- map/topicref " navtitle="consolidated financial statements"/>
+                <topicref href="glossary/GLOSSARY_consolidatedfinancialstatements-2.dita" keys="GLOSSARY_consolidatedfinancialstatements" class="- map/topicref " navtitle="consolidated financial statements">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_constructiveobligation.dita" keys="GLOSSARY_DI0042" class="- map/topicref " navtitle="constructive obligation"/>
+                <topicref href="glossary/GLOSSARY_contingentasset.dita" keys="GLOSSARY_DI0043" class="- map/topicref " navtitle="contingent asset"/>
+                <topicref href="glossary/GLOSSARY_contingentconsideration.dita" keys="GLOSSARY_DI0044" class="- map/topicref " navtitle="contingent consideration"/>
+                <topicref href="glossary/GLOSSARY_contingentliability.dita" keys="GLOSSARY_DI0045" class="- map/topicref " navtitle="contingent liability"/>
+                <topicref href="glossary/GLOSSARY_contingentshareagreement.dita" keys="GLOSSARY_DI0047" class="- map/topicref " navtitle="contingent share agreement"/>
+                <topicref href="glossary/GLOSSARY_contingentlyissuableordinaryshares.dita" keys="GLOSSARY_DI0048" class="- map/topicref " navtitle="contingently issuable ordinary shares"/>
+                <topicref href="glossary/GLOSSARY_contract.dita" keys="GLOSSARY_DI0049" class="- map/topicref " navtitle="contract">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_contractasset.dita" keys="GLOSSARY_DI0050" class="- map/topicref " navtitle="contract asset">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_contractliability.dita" keys="GLOSSARY_DI0051" class="- map/topicref " navtitle="contract liability"/>
+                <topicref href="glossary/GLOSSARY_contractualservicemargin.dita" keys="GLOSSARY_DI0052" class="- map/topicref " navtitle="contractual service margin "/>
+                <topicref href="glossary/GLOSSARY_controlofaneconomicresource.dita" keys="GLOSSARY_controlofaneconomicresource" class="- map/topicref " navtitle="control of an economic resource">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_controlofaninvestee.dita" keys="GLOSSARY_DI0053" class="- map/topicref " navtitle="control of an investee"/>
+                <topicref href="glossary/GLOSSARY_corporateassets.dita" keys="GLOSSARY_DI0054" class="- map/topicref " navtitle="corporate assets"/>
+                <topicref href="glossary/GLOSSARY_cost.dita" keys="GLOSSARY_DI0055" class="- map/topicref " navtitle="cost"/>
+                <topicref href="glossary/GLOSSARY_costapproach.dita" keys="GLOSSARY_DI0056" class="- map/topicref " navtitle="cost approach"/>
+                <topicref href="glossary/GLOSSARY_costsofdisposal.dita" keys="GLOSSARY_DI0058" class="- map/topicref " navtitle="costs of disposal"/>
+                <topicref href="glossary/GLOSSARY_coststosell.dita" keys="GLOSSARY_DI0059" class="- map/topicref " navtitle="costs to sell"/>
+                <topicref href="glossary/GLOSSARY_coverageperiod.dita" keys="GLOSSARY_DI0060" class="- map/topicref " navtitle="coverage period "/>
+                <topicref href="glossary/GLOSSARY_creditadjustedeffectiveinterestrate.dita" keys="GLOSSARY_DI0061" class="- map/topicref " navtitle="credit‑adjusted effective interest rate"/>
+                <topicref href="glossary/GLOSSARY_creditimpairedfinancialasset.dita" keys="GLOSSARY_DI0062" class="- map/topicref " navtitle="credit-impaired financial asset"/>
+                <topicref href="glossary/GLOSSARY_creditloss.dita" keys="GLOSSARY_DI0063" class="- map/topicref " navtitle="credit loss"/>
+                <topicref href="glossary/GLOSSARY_creditrisk.dita" keys="GLOSSARY_DI0064" class="- map/topicref " navtitle="credit risk"/>
+                <topicref href="glossary/GLOSSARY_creditriskratinggrades.dita" keys="GLOSSARY_DI0065" class="- map/topicref " navtitle="credit risk rating grades"/>
+                <topicref href="glossary/GLOSSARY_currencyrisk.dita" keys="GLOSSARY_DI0066" class="- map/topicref " navtitle="currency risk"/>
+                <topicref href="glossary/GLOSSARY_currentasset.dita" keys="GLOSSARY_DI0067" class="- map/topicref " navtitle="current asset"/>
+                <topicref href="glossary/GLOSSARY_currentservicecost.dita" keys="GLOSSARY_DI0068" class="- map/topicref " navtitle="current service cost"/>
+                <topicref href="glossary/GLOSSARY_currenttax.dita" keys="GLOSSARY_DI0069" class="- map/topicref " navtitle="current tax"/>
+                <topicref href="glossary/GLOSSARY_customer.dita" keys="GLOSSARY_customer" class="- map/topicref " navtitle="customer">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_dateoftransitiontoIFRSs.dita" keys="GLOSSARY_DI0071" class="- map/topicref " navtitle="date of transition to IFRSs"/>
+                <topicref href="glossary/GLOSSARY_decisionmaker.dita" keys="GLOSSARY_DI0072" class="- map/topicref " navtitle="decision maker"/>
+                <topicref href="glossary/GLOSSARY_deductibletemporarydifferences.dita" keys="GLOSSARY_DI0073" class="- map/topicref " navtitle="deductible temporary differences"/>
+                <topicref href="glossary/GLOSSARY_deemedcost.dita" keys="GLOSSARY_DI0074" class="- map/topicref " navtitle="deemed cost"/>
+                <topicref href="glossary/GLOSSARY_deferredtaxassets.dita" keys="GLOSSARY_DI0075" class="- map/topicref " navtitle="deferred tax assets"/>
+                <topicref href="glossary/GLOSSARY_deferredtaxliabilities.dita" keys="GLOSSARY_DI0076" class="- map/topicref " navtitle="deferred tax liabilities"/>
+                <topicref href="glossary/GLOSSARY_deficitorsurplus.dita" keys="GLOSSARY_DI0077" class="- map/topicref " navtitle="deficit or surplus (of defined benefit liability (asset))"/>
+                <topicref href="glossary/GLOSSARY_definedbenefitplans-1.dita" keys="GLOSSARY_DI0078" class="- map/topicref " navtitle="defined benefit plans"/>
+                <topicref href="glossary/GLOSSARY_definedbenefitplans-2.dita" keys="GLOSSARY_DI0079" class="- map/topicref " navtitle="defined benefit plans"/>
+                <topicref href="glossary/GLOSSARY_definedcontributionplans-1.dita" keys="GLOSSARY_DI0080" class="- map/topicref " navtitle="defined contribution plans"/>
+                <topicref href="glossary/GLOSSARY_definedcontributionplans-2.dita" keys="GLOSSARY_DI0081" class="- map/topicref " navtitle="defined contribution plans"/>
+                <topicref href="glossary/GLOSSARY_depreciableamount.dita" keys="GLOSSARY_DI0083" class="- map/topicref " navtitle="depreciable amount "/>
+                <topicref href="glossary/GLOSSARY_depreciation.dita" keys="GLOSSARY_DI0084" class="- map/topicref " navtitle="depreciation (amortisation)"/>
+                <topicref href="glossary/GLOSSARY_derecognition-1.dita" keys="GLOSSARY_DI0085" class="- map/topicref " navtitle="derecognition ">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_derecognition-2.dita" keys="GLOSSARY_derecognition" class="- map/topicref " navtitle="derecognition">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_derivative.dita" keys="GLOSSARY_DI0086" class="- map/topicref " navtitle="derivative">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_development.dita" keys="GLOSSARY_DI0087" class="- map/topicref " navtitle="development"/>
+                <topicref href="glossary/GLOSSARY_dilution.dita" keys="GLOSSARY_DI0088" class="- map/topicref " navtitle="dilution"/>
+                <topicref href="glossary/GLOSSARY_discontinuedoperation.dita" keys="GLOSSARY_DI0090" class="- map/topicref " navtitle="discontinued operation "/>
+                <topicref href="glossary/GLOSSARY_disposalgroup.dita" keys="GLOSSARY_DI0092" class="- map/topicref " navtitle="disposal group"/>
+                <topicref href="glossary/GLOSSARY_dividends.dita" keys="GLOSSARY_DI0093" class="- map/topicref " navtitle="dividends">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_economiclife.dita" keys="GLOSSARY_DI0094" class="- map/topicref " navtitle="economic life">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_economicresource.dita" keys="GLOSSARY_economicresource" class="- map/topicref " navtitle="economic resource">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_effectivedateofthemodification.dita" keys="GLOSSARY_DI0095" class="- map/topicref " navtitle="effective date of the modification"/>
+                <topicref href="glossary/GLOSSARY_effectiveinterestmethod.dita" keys="GLOSSARY_DI0096" class="- map/topicref " navtitle="effective interest method">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_effectiveinterestrate.dita" keys="GLOSSARY_DI0097" class="- map/topicref " navtitle="effective interest rate">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_employeebenefits.dita" keys="GLOSSARY_DI0098" class="- map/topicref " navtitle="employee benefits"/>
+                <topicref href="glossary/GLOSSARY_employeesandothersprovidingsimilarservices.dita" keys="GLOSSARY_DI0099" class="- map/topicref " navtitle="employees and others providing similar services"/>
+                <topicref href="glossary/GLOSSARY_enhancingqualitativecharacteristic.dita" keys="GLOSSARY_enhancingqualitativecharacteristic" class="- map/topicref " navtitle="enhancing qualitative characteristic">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_entityspecificvalue.dita" keys="GLOSSARY_DI0100" class="- map/topicref " navtitle="entity‑specific value"/>
+                <topicref href="glossary/GLOSSARY_entryprice.dita" keys="GLOSSARY_DI0101" class="- map/topicref " navtitle="entry price"/>
+                <topicref href="glossary/GLOSSARY_equity.dita" keys="GLOSSARY_equity" class="- map/topicref " navtitle="equity">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_equityclaim.dita" keys="GLOSSARY_equityclaim" class="- map/topicref " navtitle="equity claim">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_equityinstrument.dita" keys="GLOSSARY_DI0102" class="- map/topicref " navtitle="equity instrument"/>
+                <topicref href="glossary/GLOSSARY_equityinstrumentgranted.dita" keys="GLOSSARY_DI0103" class="- map/topicref " navtitle="equity instrument granted"/>
+                <topicref href="glossary/GLOSSARY_equityinterests.dita" keys="GLOSSARY_DI0104" class="- map/topicref " navtitle="equity interests"/>
+                <topicref href="glossary/GLOSSARY_equitymethod.dita" keys="GLOSSARY_DI0105" class="- map/topicref " navtitle="equity method"/>
+                <topicref href="glossary/GLOSSARY_equitysettledsharebasedpaymenttransaction.dita" keys="GLOSSARY_DI0106" class="- map/topicref " navtitle="equity‑settled share‑based payment transaction"/>
+                <topicref href="glossary/GLOSSARY_eventsafterthereportingperiod.dita" keys="GLOSSARY_DI0107" class="- map/topicref " navtitle="events after the reporting period"/>
+                <topicref href="glossary/GLOSSARY_exchangedifference.dita" keys="GLOSSARY_DI0108" class="- map/topicref " navtitle="exchange difference"/>
+                <topicref href="glossary/GLOSSARY_exchangerate.dita" keys="GLOSSARY_DI0109" class="- map/topicref " navtitle="exchange rate"/>
+                <topicref href="glossary/GLOSSARY_executorycontract.dita" keys="GLOSSARY_executorycontract" class="- map/topicref " navtitle="executory contract">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_existenceuncertainty.dita" keys="GLOSSARY_existenceuncertainty" class="- map/topicref " navtitle="existence uncertainty">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_exitprice.dita" keys="GLOSSARY_DI0110" class="- map/topicref " navtitle="exit price"/>
+                <topicref href="glossary/GLOSSARY_expectedcashflows.dita" keys="GLOSSARY_DI0111" class="- map/topicref " navtitle="expected cash flows"/>
+                <topicref href="glossary/GLOSSARY_expectedcreditlosses.dita" keys="GLOSSARY_DI0112" class="- map/topicref " navtitle="expected credit losses"/>
+                <topicref href="glossary/GLOSSARY_expenses.dita" keys="GLOSSARY_expenses" class="- map/topicref " navtitle="expenses">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_experienceadjustment.dita" keys="GLOSSARY_DI0113" class="- map/topicref " navtitle="experience adjustment"/>
+                <topicref href="glossary/GLOSSARY_experienceadjustments.dita" keys="GLOSSARY_DI0114" class="- map/topicref " navtitle="experience adjustments"/>
+                <topicref href="glossary/GLOSSARY_explorationandevaluationassets.dita" keys="GLOSSARY_DI0115" class="- map/topicref " navtitle="exploration and evaluation assets"/>
+                <topicref href="glossary/GLOSSARY_explorationandevaluationexpenditures.dita" keys="GLOSSARY_DI0116" class="- map/topicref " navtitle="exploration and evaluation expenditures"/>
+                <topicref href="glossary/GLOSSARY_explorationforandevaluationofmineralresources.dita" keys="GLOSSARY_DI0117" class="- map/topicref " navtitle="exploration for and evaluation of mineral resources"/>
+                <topicref href="glossary/GLOSSARY_fairvalue-1.dita" keys="GLOSSARY_DI0118" class="- map/topicref " navtitle="fair value">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_fairvalue-2.dita" keys="GLOSSARY_DI0119" class="- map/topicref " navtitle="fair value"/>
+                <topicref href="glossary/GLOSSARY_fairvalue-3.dita" keys="GLOSSARY_DI0120" class="- map/topicref " navtitle="fair value"/>
+                <topicref href="glossary/GLOSSARY_financelease.dita" keys="GLOSSARY_DI0122" class="- map/topicref " navtitle="finance lease">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_financialasset.dita" keys="GLOSSARY_DI0123" class="- map/topicref " navtitle="financial asset">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_financialguaranteecontract.dita" keys="GLOSSARY_DI0125" class="- map/topicref " navtitle="financial guarantee contract">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_financialinstrument.dita" keys="GLOSSARY_DI0126" class="- map/topicref " navtitle="financial instrument"/>
+                <topicref href="glossary/GLOSSARY_financialliability.dita" keys="GLOSSARY_DI0127" class="- map/topicref " navtitle="financial liability"/>
+                <topicref href="glossary/GLOSSARY_financialliabilityatfairvaluethroughprofitorloss.dita" keys="GLOSSARY_DI0128" class="- map/topicref " navtitle="financial liability at fair value through profit or loss "/>
+                <topicref href="glossary/GLOSSARY_financialrisk.dita" keys="GLOSSARY_DI0129" class="- map/topicref " navtitle="financial risk">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_financingactivities.dita" keys="GLOSSARY_DI0130" class="- map/topicref " navtitle="financing activities"/>
+                <topicref href="glossary/GLOSSARY_firmcommitment.dita" keys="GLOSSARY_DI0131" class="- map/topicref " navtitle="firm commitment">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_firmpurchasecommitment.dita" keys="GLOSSARY_DI0132" class="- map/topicref " navtitle="firm purchase commitment"/>
+                <topicref href="glossary/GLOSSARY_firstIFRSfinancialstatements.dita" keys="GLOSSARY_DI0133" class="- map/topicref " navtitle="first IFRS financial statements">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_firstIFRSreportingperiod.dita" keys="GLOSSARY_DI0134" class="- map/topicref " navtitle="first IFRS reporting period"/>
+                <topicref href="glossary/GLOSSARY_firsttimeadopter.dita" keys="GLOSSARY_DI0135" class="- map/topicref " navtitle="first‑time adopter">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_fixedpayments.dita" keys="GLOSSARY_DI0136" class="- map/topicref " navtitle="fixed payments"/>
+                <topicref href="glossary/GLOSSARY_forecasttransaction.dita" keys="GLOSSARY_DI0138" class="- map/topicref " navtitle="forecast transaction">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_foreigncurrency.dita" keys="GLOSSARY_DI0139" class="- map/topicref " navtitle="foreign currency"/>
+                <topicref href="glossary/GLOSSARY_foreigncurrencytransaction.dita" keys="GLOSSARY_DI0140" class="- map/topicref " navtitle="foreign currency transaction"/>
+                <topicref href="glossary/GLOSSARY_foreignoperation.dita" keys="GLOSSARY_DI0141" class="- map/topicref " navtitle="foreign operation"/>
+                <topicref href="glossary/GLOSSARY_forgivableloans.dita" keys="GLOSSARY_forgivableloans" class="- map/topicref " navtitle="forgivable loans">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_fulfilmentcashflows.dita" keys="GLOSSARY_DI0143" class="- map/topicref " navtitle="fulfilment cash flows"/>
+                <topicref href="glossary/GLOSSARY_functionalcurrency.dita" keys="GLOSSARY_DI0144" class="- map/topicref " navtitle="functional currency "/>
+                <topicref href="glossary/GLOSSARY_fundamentalqualitativecharacteristic.dita" keys="GLOSSARY_fundamentalqualitativecharacteristic" class="- map/topicref " navtitle="fundamental qualitative characteristic">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_funding.dita" keys="GLOSSARY_DI0145" class="- map/topicref " navtitle="funding (of retirement benefits)"/>
+                <topicref href="glossary/GLOSSARY_generalpurposefinancialreport.dita" keys="GLOSSARY_generalpurposefinancialreport" class="- map/topicref " navtitle="general purpose financial report">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_generalpurposefinancialstatements-1.dita" keys="GLOSSARY_DI0146" class="- map/topicref " navtitle="general purpose financial statements"/>
+                <topicref href="glossary/GLOSSARY_generalpurposefinancialstatements-2.dita" keys="GLOSSARY_generalpurposefinancialstatements" class="- map/topicref " navtitle="general purpose financial statements">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_goodwill.dita" keys="GLOSSARY_DI0147" class="- map/topicref " navtitle="goodwill"/>
+                <topicref href="glossary/GLOSSARY_government.dita" keys="GLOSSARY_DI0148" class="- map/topicref " navtitle="government"/>
+                <topicref href="glossary/GLOSSARY_governmentassistance.dita" keys="GLOSSARY_DI0149" class="- map/topicref " navtitle="government assistance"/>
+                <topicref href="glossary/GLOSSARY_governmentgrants.dita" keys="GLOSSARY_DI0150" class="- map/topicref " navtitle="government grants"/>
+                <topicref href="glossary/GLOSSARY_governmentrelatedentity.dita" keys="GLOSSARY_DI0151" class="- map/topicref " navtitle="government‑related entity"/>
+                <topicref href="glossary/GLOSSARY_grantdate.dita" keys="GLOSSARY_DI0152" class="- map/topicref " navtitle="grant date"/>
+                <topicref href="glossary/GLOSSARY_grantsrelatedtoassets.dita" keys="GLOSSARY_DI0153" class="- map/topicref " navtitle="grants related to assets"/>
+                <topicref href="glossary/GLOSSARY_grantsrelatedtoincome.dita" keys="GLOSSARY_DI0154" class="- map/topicref " navtitle="grants related to income"/>
+                <topicref href="glossary/GLOSSARY_grosscarryingamountofafinancialasset.dita" keys="GLOSSARY_DI0155" class="- map/topicref " navtitle="gross carrying amount of a financial asset"/>
+                <topicref href="glossary/GLOSSARY_grossinvestmentinthelease.dita" keys="GLOSSARY_DI0156" class="- map/topicref " navtitle="gross investment in the lease">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_group.dita" keys="GLOSSARY_DI0157" class="- map/topicref " navtitle="group"/>
+                <topicref href="glossary/GLOSSARY_groupofbiologicalassets.dita" keys="GLOSSARY_DI0158" class="- map/topicref " navtitle="group of biological assets"/>
+                <topicref href="glossary/GLOSSARY_groupofinsurancecontracts.dita" keys="GLOSSARY_DI0159" class="- map/topicref " navtitle="group of insurance contracts"/>
+                <topicref href="glossary/GLOSSARY_harvest.dita" keys="GLOSSARY_DI0163" class="- map/topicref " navtitle="harvest"/>
+                <topicref href="glossary/GLOSSARY_hedgeeffectiveness.dita" keys="GLOSSARY_DI0164" class="- map/topicref " navtitle="hedge effectiveness">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_hedgeratio.dita" keys="GLOSSARY_DI0165" class="- map/topicref " navtitle="hedge ratio"/>
+                <topicref href="glossary/GLOSSARY_hedgeditem.dita" keys="GLOSSARY_DI0166" class="- map/topicref " navtitle="hedged item"/>
+                <topicref href="glossary/GLOSSARY_hedginginstrument.dita" keys="GLOSSARY_DI0167" class="- map/topicref " navtitle="hedging instrument"/>
+                <topicref href="glossary/GLOSSARY_heldfortrading.dita" keys="GLOSSARY_DI0168" class="- map/topicref " navtitle="held for trading"/>
+                <topicref href="glossary/GLOSSARY_highestandbestuse.dita" keys="GLOSSARY_DI0170" class="- map/topicref " navtitle="highest and best use"/>
+                <topicref href="glossary/GLOSSARY_highlyprobable.dita" keys="GLOSSARY_DI0171" class="- map/topicref " navtitle="highly probable"/>
+                <topicref href="glossary/GLOSSARY_hyperinflation.dita" keys="GLOSSARY_DI0173" class="- map/topicref " navtitle="hyperinflation"/>
+                <topicref href="glossary/GLOSSARY_identifiable.dita" keys="GLOSSARY_DI0174" class="- map/topicref " navtitle="identifiable"/>
+                <topicref href="glossary/GLOSSARY_impairmentgainorloss.dita" keys="GLOSSARY_DI0175" class="- map/topicref " navtitle="impairment gain or loss"/>
+                <topicref href="glossary/GLOSSARY_impairmentloss.dita" keys="GLOSSARY_DI0176" class="- map/topicref " navtitle="impairment loss"/>
+                <topicref href="glossary/GLOSSARY_impracticable.dita" keys="GLOSSARY_DI0177" class="- map/topicref " navtitle="impracticable"/>
+                <topicref href="glossary/GLOSSARY_inceptiondateofthelease.dita" keys="GLOSSARY_DI0178" class="- map/topicref " navtitle="inception date of the lease (inception date)"/>
+                <topicref href="glossary/GLOSSARY_income-1.dita" keys="GLOSSARY_DI0179" class="- map/topicref " navtitle="income"/>
+                <topicref href="glossary/GLOSSARY_income-2.dita" keys="GLOSSARY_income" class="- map/topicref " navtitle="income">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_incomeapproach.dita" keys="GLOSSARY_DI0180" class="- map/topicref " navtitle="income approach"/>
+                <topicref href="glossary/GLOSSARY_incomefromastructuredentity.dita" keys="GLOSSARY_DI0181" class="- map/topicref " navtitle="income from a structured entity"/>
+                <topicref href="glossary/GLOSSARY_initialdirectcosts.dita" keys="GLOSSARY_DI0182" class="- map/topicref " navtitle="initial direct costs">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_inputs.dita" keys="GLOSSARY_DI0183" class="- map/topicref " navtitle="inputs"/>
+                <topicref href="glossary/GLOSSARY_insuranceacquisitioncashflows.dita" keys="GLOSSARY_DI0184" class="- map/topicref " navtitle="insurance acquisition cash flows"/>
+                <topicref href="glossary/GLOSSARY_insurancecontract.dita" keys="GLOSSARY_DI0186" class="- map/topicref " navtitle="insurance contract">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_insurancecontractservices.dita" keys="GLOSSARY_insurancecontractservices" base="IFRS2020-3" class="- map/topicref " navtitle="insurance contract services">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_insurancecontractwithdirectparticipationfeatures.dita" keys="GLOSSARY_DI0187" class="- map/topicref " navtitle="insurance contract with direct participation features"/>
+                <topicref href="glossary/GLOSSARY_insurancecontractwithoutdirectparticipationfeatures.dita" keys="GLOSSARY_DI0188" class="- map/topicref " navtitle="insurance contract without direct participation features"/>
+                <topicref href="glossary/GLOSSARY_insurancerisk.dita" keys="GLOSSARY_DI0190" class="- map/topicref " navtitle="insurance risk">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_insuredevent.dita" keys="GLOSSARY_DI0191" class="- map/topicref " navtitle="insured event">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_intangibleasset.dita" keys="GLOSSARY_DI0193" class="- map/topicref " navtitle="intangible asset"/>
+                <topicref href="glossary/GLOSSARY_interestinanotherentity.dita" keys="GLOSSARY_DI0194" class="- map/topicref " navtitle="interest in another entity"/>
+                <topicref href="glossary/GLOSSARY_interestrateimplicitinthelease.dita" keys="GLOSSARY_DI0195" class="- map/topicref " navtitle="interest rate implicit in the lease">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_interestraterisk.dita" keys="GLOSSARY_DI0196" class="- map/topicref " navtitle="interest rate risk"/>
+                <topicref href="glossary/GLOSSARY_interimfinancialreport.dita" keys="GLOSSARY_DI0197" class="- map/topicref " navtitle="interim financial report"/>
+                <topicref href="glossary/GLOSSARY_interimperiod.dita" keys="GLOSSARY_DI0198" class="- map/topicref " navtitle="interim period"/>
+                <topicref href="glossary/GLOSSARY_IFRSs.dita" keys="GLOSSARY_DI0199" class="- map/topicref " navtitle="International Financial Reporting Standards (IFRSs)"/>
+                <topicref href="glossary/GLOSSARY_intrinsicvalue.dita" keys="GLOSSARY_DI0200" class="- map/topicref " navtitle="intrinsic value"/>
+                <topicref href="glossary/GLOSSARY_inventories.dita" keys="GLOSSARY_DI0201" class="- map/topicref " navtitle="inventories">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_investingactivities.dita" keys="GLOSSARY_DI0202" class="- map/topicref " navtitle="investing activities"/>
+                <topicref href="glossary/GLOSSARY_investmentcomponent.dita" keys="GLOSSARY_DI0203" class="- map/topicref " navtitle="investment component"/>
+                <topicref href="glossary/GLOSSARY_investmentcontractwithdiscretionaryparticipationfeatures.dita" keys="GLOSSARY_DI0204" class="- map/topicref " navtitle="investment contract with discretionary participation features"/>
+                <topicref href="glossary/GLOSSARY_investmententity.dita" keys="GLOSSARY_DI0205" class="- map/topicref " navtitle="investment entity"/>
+                <topicref href="glossary/GLOSSARY_investmentproperty.dita" keys="GLOSSARY_DI0206" class="- map/topicref " navtitle="investment property">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_jointarrangement.dita" keys="GLOSSARY_DI0207" class="- map/topicref " navtitle="joint arrangement"/>
+                <topicref href="glossary/GLOSSARY_jointcontrol.dita" keys="GLOSSARY_DI0208" class="- map/topicref " navtitle="joint control"/>
+                <topicref href="glossary/GLOSSARY_jointoperation.dita" keys="GLOSSARY_DI0209" class="- map/topicref " navtitle="joint operation"/>
+                <topicref href="glossary/GLOSSARY_jointoperator.dita" keys="GLOSSARY_DI0210" class="- map/topicref " navtitle="joint operator"/>
+                <topicref href="glossary/GLOSSARY_jointventure.dita" keys="GLOSSARY_DI0211" class="- map/topicref " navtitle="joint venture"/>
+                <topicref href="glossary/GLOSSARY_jointventurer.dita" keys="GLOSSARY_DI0212" class="- map/topicref " navtitle="joint venturer"/>
+                <topicref href="glossary/GLOSSARY_keymanagementpersonnel.dita" keys="GLOSSARY_DI0213" class="- map/topicref " navtitle="key management personnel"/>
+                <topicref href="glossary/GLOSSARY_lease.dita" keys="GLOSSARY_DI0214" class="- map/topicref " navtitle="lease">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_leaseincentives.dita" keys="GLOSSARY_DI0215" class="- map/topicref " navtitle="lease incentives"/>
+                <topicref href="glossary/GLOSSARY_leasemodification.dita" keys="GLOSSARY_DI0216" class="- map/topicref " navtitle="lease modification"/>
+                <topicref href="glossary/GLOSSARY_leasepayments.dita" keys="GLOSSARY_DI0217" class="- map/topicref " navtitle="lease payments"/>
+                <topicref href="glossary/GLOSSARY_leaseterm.dita" keys="GLOSSARY_DI0218" class="- map/topicref " navtitle="lease term">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_legalobligation.dita" keys="GLOSSARY_DI0219" class="- map/topicref " navtitle="legal obligation"/>
+                <topicref href="glossary/GLOSSARY_lessee.dita" keys="GLOSSARY_DI0220" class="- map/topicref " navtitle="lessee"/>
+                <topicref href="glossary/GLOSSARY_lesseesincrementalborrowingrate.dita" keys="GLOSSARY_DI0221" class="- map/topicref " navtitle="lessee’s incremental borrowing rate"/>
+                <topicref href="glossary/GLOSSARY_lessor.dita" keys="GLOSSARY_DI0222" class="- map/topicref " navtitle="lessor"/>
+                <topicref href="glossary/GLOSSARY_level1inputs.dita" keys="GLOSSARY_DI0223" class="- map/topicref " navtitle="Level 1 inputs"/>
+                <topicref href="glossary/GLOSSARY_level2inputs.dita" keys="GLOSSARY_DI0224" class="- map/topicref " navtitle="Level 2 inputs"/>
+                <topicref href="glossary/GLOSSARY_level3inputs.dita" keys="GLOSSARY_DI0225" class="- map/topicref " navtitle="Level 3 inputs"/>
+                <topicref href="glossary/GLOSSARY_liability-1.dita" keys="GLOSSARY_DI0226" class="- map/topicref " navtitle="liability"/>
+                <topicref href="glossary/GLOSSARY_liability-2.dita" keys="GLOSSARY_liability" class="- map/topicref " navtitle="liability">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_liabilityforincurredclaims.dita" keys="GLOSSARY_DI0227" class="- map/topicref " navtitle="liability for incurred claims"/>
+                <topicref href="glossary/GLOSSARY_liabilityforremainingcoverage.dita" keys="GLOSSARY_DI0228" class="- map/topicref " navtitle="liability for remaining coverage"/>
+                <topicref href="glossary/GLOSSARY_lifetimeexpectedcreditlosses.dita" keys="GLOSSARY_DI0230" class="- map/topicref " navtitle="lifetime expected credit losses"/>
+                <topicref href="glossary/GLOSSARY_liquidityrisk.dita" keys="GLOSSARY_DI0231" class="- map/topicref " navtitle="liquidity risk"/>
+                <topicref href="glossary/GLOSSARY_loanspayable.dita" keys="GLOSSARY_DI0233" class="- map/topicref " navtitle="loans payable"/>
+                <topicref href="glossary/GLOSSARY_lossallowance.dita" keys="GLOSSARY_DI0234" class="- map/topicref " navtitle="loss allowance"/>
+                <topicref href="glossary/GLOSSARY_marketapproach.dita" keys="GLOSSARY_DI0235" class="- map/topicref " navtitle="market approach"/>
+                <topicref href="glossary/GLOSSARY_marketcondition.dita" keys="GLOSSARY_DI0236" class="- map/topicref " navtitle="market condition">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_marketcorroboratedinputs.dita" keys="GLOSSARY_DI0237" class="- map/topicref " navtitle="market‑corroborated inputs"/>
+                <topicref href="glossary/GLOSSARY_marketparticipant.dita" keys="GLOSSARY_DI0238" class="- map/topicref " navtitle="market participant"/>
+                <topicref href="glossary/GLOSSARY_marketrisk.dita" keys="GLOSSARY_DI0239" class="- map/topicref " navtitle="market risk"/>
+                <topicref href="glossary/GLOSSARY_material.dita" keys="GLOSSARY_DI0240" class="- map/topicref " navtitle="material"/>
+                <topicref href="glossary/GLOSSARY_materialinformation.dita" keys="GLOSSARY_materialinformation" class="- map/topicref " navtitle="material information">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_measure.dita" keys="GLOSSARY_measure" class="- map/topicref " navtitle="measure">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_measurementbasis.dita" keys="GLOSSARY_measurementbasis" class="- map/topicref " navtitle="measurement basis">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_measurementdate.dita" keys="GLOSSARY_DI0242" class="- map/topicref " navtitle="measurement date"/>
+                <topicref href="glossary/GLOSSARY_measurementuncertainty.dita" keys="GLOSSARY_measurementuncertainty" class="- map/topicref " navtitle="measurement uncertainty">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_minorityinterest.dita" keys="GLOSSARY_DI0244" class="- map/topicref " navtitle="minority interest"/>
+                <topicref href="glossary/GLOSSARY_modificationgainorloss.dita" keys="GLOSSARY_DI0245" class="- map/topicref " navtitle="modification gain or loss"/>
+                <topicref href="glossary/GLOSSARY_monetaryassets.dita" keys="GLOSSARY_monetaryassets" class="- map/topicref " navtitle="monetary assets">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_monetaryitems-1.dita" keys="GLOSSARY_DI0247" class="- map/topicref " navtitle="monetary items"/>
+                <topicref href="glossary/GLOSSARY_monetaryitems-2.dita" keys="GLOSSARY_DI0248" class="- map/topicref " navtitle="monetary items"/>
+                <topicref href="glossary/GLOSSARY_mostadvantageousmarket.dita" keys="GLOSSARY_DI0249" class="- map/topicref " navtitle="most advantageous market"/>
+                <topicref href="glossary/GLOSSARY_multiemployerbenefitplans.dita" keys="GLOSSARY_DI0250" class="- map/topicref " navtitle="multi‑employer (benefit) plans"/>
+                <topicref href="glossary/GLOSSARY_mutualentity.dita" keys="GLOSSARY_DI0251" class="- map/topicref " navtitle="mutual entity"/>
+                <topicref href="glossary/GLOSSARY_netassetsavailableforbenefits.dita" keys="GLOSSARY_DI0252" class="- map/topicref " navtitle="net assets available for benefits"/>
+                <topicref href="glossary/GLOSSARY_netdefinedbenefitliability.dita" keys="GLOSSARY_DI0253" class="- map/topicref " navtitle="net defined benefit liability (asset)"/>
+                <topicref href="glossary/GLOSSARY_netinterestonthenetdefinedbenefitliability.dita" keys="GLOSSARY_DI0254" class="- map/topicref " navtitle="net interest on the net defined benefit liability (asset)"/>
+                <topicref href="glossary/GLOSSARY_netinvestmentinaforeignoperation.dita" keys="GLOSSARY_DI0255" class="- map/topicref " navtitle="net investment in a foreign operation"/>
+                <topicref href="glossary/GLOSSARY_netinvestmentinthelease.dita" keys="GLOSSARY_DI0256" class="- map/topicref " navtitle="net investment in the lease">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_netrealisablevalue.dita" keys="GLOSSARY_DI0257" class="- map/topicref " navtitle="net realisable value"/>
+                <topicref href="glossary/GLOSSARY_nonadjustingeventsafterthereportingperiod.dita" keys="GLOSSARY_DI0258" class="- map/topicref " navtitle="non‑adjusting events after the reporting period"/>
+                <topicref href="glossary/GLOSSARY_noncontrollinginterest.dita" keys="GLOSSARY_DI0260" class="- map/topicref " navtitle="non‑controlling interest"/>
+                <topicref href="glossary/GLOSSARY_noncurrentasset.dita" keys="GLOSSARY_DI0261" class="- map/topicref " navtitle="non‑current asset"/>
+                <topicref href="glossary/GLOSSARY_nonperformancerisk.dita" keys="GLOSSARY_DI0262" class="- map/topicref " navtitle="non-performance risk"/>
+                <topicref href="glossary/GLOSSARY_notes.dita" keys="GLOSSARY_DI0263" class="- map/topicref " navtitle="notes"/>
+                <topicref href="glossary/GLOSSARY_obligatingevent.dita" keys="GLOSSARY_DI0264" class="- map/topicref " navtitle="obligating event"/>
+                <topicref href="glossary/GLOSSARY_observableinputs.dita" keys="GLOSSARY_DI0265" class="- map/topicref " navtitle="observable inputs"/>
+                <topicref href="glossary/GLOSSARY_offsetting.dita" keys="GLOSSARY_offsetting" class="- map/topicref " navtitle="offsetting">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_onerouscontract.dita" keys="GLOSSARY_DI0266" class="- map/topicref " navtitle="onerous contract"/>
+                <topicref href="glossary/GLOSSARY_openingIFRSstatementoffinancialposition.dita" keys="GLOSSARY_DI0267" class="- map/topicref " navtitle="opening IFRS statement of financial position"/>
+                <topicref href="glossary/GLOSSARY_operatingactivities.dita" keys="GLOSSARY_DI0268" class="- map/topicref " navtitle="operating activities"/>
+                <topicref href="glossary/GLOSSARY_operatinglease.dita" keys="GLOSSARY_DI0269" class="- map/topicref " navtitle="operating lease">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_optionalleasepayments.dita" keys="GLOSSARY_DI0270" class="- map/topicref " navtitle="optional lease payments"/>
+                <topicref href="glossary/GLOSSARY_operatingsegment.dita" keys="GLOSSARY_DI0271" class="- map/topicref " navtitle="operating segment"/>
+                <topicref href="glossary/GLOSSARY_optionswarrantsandtheirequivalents.dita" keys="GLOSSARY_DI0272" class="- map/topicref " navtitle="options, warrants and their equivalents"/>
+                <topicref href="glossary/GLOSSARY_orderlytransaction.dita" keys="GLOSSARY_DI0273" class="- map/topicref " navtitle="orderly transaction"/>
+                <topicref href="glossary/GLOSSARY_ordinaryequityholders.dita" keys="GLOSSARY_DI0274" class="- map/topicref " navtitle="ordinary equity holders"/>
+                <topicref href="glossary/GLOSSARY_ordinaryshare.dita" keys="GLOSSARY_DI0275" class="- map/topicref " navtitle="ordinary share"/>
+                <topicref href="glossary/GLOSSARY_othercomprehensiveincome.dita" keys="GLOSSARY_DI0276" class="- map/topicref " navtitle="other comprehensive income"/>
+                <topicref href="glossary/GLOSSARY_otherlongtermemployeebenefits.dita" keys="GLOSSARY_DI0277" class="- map/topicref " navtitle="other long‑term employee benefits"/>
+                <topicref href="glossary/GLOSSARY_otherpricerisk.dita" keys="GLOSSARY_DI0278" class="- map/topicref " navtitle="other price risk"/>
+                <topicref href="glossary/GLOSSARY_outcomeuncertainty.dita" keys="GLOSSARY_outcomeuncertainty" class="- map/topicref " navtitle="outcome uncertainty">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_owneroccupiedproperty.dita" keys="GLOSSARY_DI0279" class="- map/topicref " navtitle="owner‑occupied property">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_owners-1.dita" keys="GLOSSARY_DI0280" class="- map/topicref " navtitle="owners"/>
+                <topicref href="glossary/GLOSSARY_owners-2.dita" keys="GLOSSARY_DI0281" class="- map/topicref " navtitle="owners"/>
+                <topicref href="glossary/GLOSSARY_parent.dita" keys="GLOSSARY_DI0282" class="- map/topicref " navtitle="parent "/>
+                <topicref href="glossary/GLOSSARY_participants.dita" keys="GLOSSARY_DI0283" class="- map/topicref " navtitle="participants"/>
+                <topicref href="glossary/GLOSSARY_partytoajointarrangement.dita" keys="GLOSSARY_DI0284" class="- map/topicref " navtitle="party to a joint arrangement"/>
+                <topicref href="glossary/GLOSSARY_pastdue.dita" keys="GLOSSARY_DI0285" class="- map/topicref " navtitle="past due">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_pastservicecost.dita" keys="GLOSSARY_DI0286" class="- map/topicref " navtitle="past service cost"/>
+                <topicref href="glossary/GLOSSARY_performancecondition.dita" keys="GLOSSARY_DI0287" class="- map/topicref " navtitle="performance condition"/>
+                <topicref href="glossary/GLOSSARY_performanceobligation.dita" keys="GLOSSARY_DI0288" class="- map/topicref " navtitle="performance obligation"/>
+                <topicref href="glossary/GLOSSARY_periodofuse.dita" keys="GLOSSARY_DI0289" class="- map/topicref " navtitle="period of use"/>
+                <topicref href="glossary/GLOSSARY_planassets.dita" keys="GLOSSARY_DI0290" class="- map/topicref " navtitle="plan assets (of an employee benefit plan)"/>
+                <topicref href="glossary/GLOSSARY_policyholder.dita" keys="GLOSSARY_DI0291" class="- map/topicref " navtitle="policyholder">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_portfolioofinsurancecontracts.dita" keys="GLOSSARY_DI0294" class="- map/topicref " navtitle="portfolio of insurance contracts"/>
+                <topicref href="glossary/GLOSSARY_postemploymentbenefits.dita" keys="GLOSSARY_DI0292" class="- map/topicref " navtitle="post‑employment benefits"/>
+                <topicref href="glossary/GLOSSARY_postemploymentbenefitplans.dita" keys="GLOSSARY_DI0293" class="- map/topicref " navtitle="post‑employment benefit plans"/>
+                <topicref href="glossary/GLOSSARY_potentialordinaryshare.dita" keys="GLOSSARY_DI0295" class="- map/topicref " navtitle="potential ordinary share"/>
+                <topicref href="glossary/GLOSSARY_potentialtoproduceeconomicbenefits.dita" keys="GLOSSARY_potentialtoproduceeconomicbenefits" class="- map/topicref " navtitle="potential to produce economic benefits">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_power.dita" keys="GLOSSARY_DI0296" class="- map/topicref " navtitle="power"/>
+                <topicref href="glossary/GLOSSARY_presentationcurrency.dita" keys="GLOSSARY_DI0297" class="- map/topicref " navtitle="presentation currency"/>
+                <topicref href="glossary/GLOSSARY_presentvalueofadefinedbenefitobligation.dita" keys="GLOSSARY_DI0298" class="- map/topicref " navtitle="present value of a defined benefit obligation"/>
+                <topicref href="glossary/GLOSSARY_previousGAAP.dita" keys="GLOSSARY_DI0299" class="- map/topicref " navtitle="previous GAAP">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_primaryusers.dita" keys="GLOSSARY_primaryusers" class="- map/topicref " navtitle="primary users (of general purpose financial reports)">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_principalmarket.dita" keys="GLOSSARY_DI0300" class="- map/topicref " navtitle="principal market"/>
+                <topicref href="glossary/GLOSSARY_priorperioderrors.dita" keys="GLOSSARY_DI0301" class="- map/topicref " navtitle="prior period errors"/>
+                <topicref href="glossary/GLOSSARY_probable.dita" keys="GLOSSARY_DI0302" class="- map/topicref " navtitle="probable"/>
+                <topicref href="glossary/GLOSSARY_profitorloss.dita" keys="GLOSSARY_DI0303" class="- map/topicref " navtitle="profit or loss"/>
+                <topicref href="glossary/GLOSSARY_propertyplantandequipment.dita" keys="GLOSSARY_DI0304" class="- map/topicref " navtitle="property, plant and equipment"/>
+                <topicref href="glossary/GLOSSARY_prospectiveapplication.dita" keys="GLOSSARY_DI0305" class="- map/topicref " navtitle="prospective application"/>
+                <topicref href="glossary/GLOSSARY_protectiverights.dita" keys="GLOSSARY_DI0306" class="- map/topicref " navtitle="protective rights"/>
+                <topicref href="glossary/GLOSSARY_provision.dita" keys="GLOSSARY_DI0307" class="- map/topicref " navtitle="provision"/>
+                <topicref href="glossary/GLOSSARY_prudence.dita" keys="GLOSSARY_prudence" class="- map/topicref " navtitle="prudence">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_purchasedororiginatedcreditimpairedfinancialasset.dita" keys="GLOSSARY_DI0308" class="- map/topicref " navtitle="purchased or originated credit-impaired financial asset"/>
+                <topicref href="glossary/GLOSSARY_putoptions.dita" keys="GLOSSARY_DI0309" class="- map/topicref " navtitle="put options (on ordinary shares)"/>
+                <topicref href="glossary/GLOSSARY_puttableinstrument.dita" keys="GLOSSARY_DI0310" class="- map/topicref " navtitle="puttable instrument"/>
+                <topicref href="glossary/GLOSSARY_qualifyingasset.dita" keys="GLOSSARY_DI0311" class="- map/topicref " navtitle="qualifying asset"/>
+                <topicref href="glossary/GLOSSARY_qualifyinginsurancepolicy.dita" keys="GLOSSARY_DI0312" class="- map/topicref " navtitle="qualifying insurance policy"/>
+                <topicref href="glossary/GLOSSARY_rateregulatedactivities.dita" keys="GLOSSARY_DI0313" class="- map/topicref " navtitle="rate-regulated activities"/>
+                <topicref href="glossary/GLOSSARY_rateregulation.dita" keys="GLOSSARY_DI0314" class="- map/topicref " navtitle="rate regulation"/>
+                <topicref href="glossary/GLOSSARY_rateregulator.dita" keys="GLOSSARY_DI0315" class="- map/topicref " navtitle="rate regulator"/>
+                <topicref href="glossary/GLOSSARY_reclassificationadjustments.dita" keys="GLOSSARY_DI0317" class="- map/topicref " navtitle="reclassification adjustments"/>
+                <topicref href="glossary/GLOSSARY_reclassificationdate.dita" keys="GLOSSARY_DI0318" class="- map/topicref " navtitle="reclassification date"/>
+                <topicref href="glossary/GLOSSARY_recoverableamount.dita" keys="GLOSSARY_DI0319" class="- map/topicref " navtitle="recoverable amount"/>
+                <topicref href="glossary/GLOSSARY_recognition.dita" keys="GLOSSARY_recognition" class="- map/topicref " navtitle="recognition">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_regularwaypurchaseorsale.dita" keys="GLOSSARY_DI0320" class="- map/topicref " navtitle="regular way purchase or sale ">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_regulatorydeferralaccountbalance.dita" keys="GLOSSARY_DI0321" class="- map/topicref " navtitle="regulatory deferral account balance"/>
+                <topicref href="glossary/GLOSSARY_reinsurancecontract.dita" keys="GLOSSARY_DI0323" class="- map/topicref " navtitle="reinsurance contract">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_relatedparty.dita" keys="GLOSSARY_DI0325" class="- map/topicref " navtitle="related party"/>
+                <topicref href="glossary/GLOSSARY_relatedpartytransaction.dita" keys="GLOSSARY_DI0326" class="- map/topicref " navtitle="related party transaction"/>
+                <topicref href="glossary/GLOSSARY_relevantactivities.dita" keys="GLOSSARY_DI0327" class="- map/topicref " navtitle="relevant activities"/>
+                <topicref href="glossary/GLOSSARY_reloadfeature.dita" keys="GLOSSARY_DI0328" class="- map/topicref " navtitle="reload feature"/>
+                <topicref href="glossary/GLOSSARY_reloadoption.dita" keys="GLOSSARY_DI0329" class="- map/topicref " navtitle="reload option"/>
+                <topicref href="glossary/GLOSSARY_remeasurementofthenetdefinedbenefitliability.dita" keys="GLOSSARY_DI0330" class="- map/topicref " navtitle="remeasurement of the net defined benefit liability (asset)"/>
+                <topicref href="glossary/GLOSSARY_removalrights.dita" keys="GLOSSARY_DI0331" class="- map/topicref " navtitle="removal rights"/>
+                <topicref href="glossary/GLOSSARY_reportablesegment.dita" keys="GLOSSARY_DI0332" class="- map/topicref " navtitle="reportable segment"/>
+                <topicref href="glossary/GLOSSARY_reportingentity.dita" keys="GLOSSARY_reportingentity" class="- map/topicref " navtitle="reporting entity">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_research.dita" keys="GLOSSARY_DI0333" class="- map/topicref " navtitle="research"/>
+                <topicref href="glossary/GLOSSARY_residualvalueguarantee.dita" keys="GLOSSARY_DI0334" class="- map/topicref " navtitle="residual value guarantee"/>
+                <topicref href="glossary/GLOSSARY_residualvalue.dita" keys="GLOSSARY_DI0335" class="- map/topicref " navtitle="residual value (of an asset)"/>
+                <topicref href="glossary/GLOSSARY_restructuring.dita" keys="GLOSSARY_DI0336" class="- map/topicref " navtitle="restructuring"/>
+                <topicref href="glossary/GLOSSARY_retirementbenefitplans.dita" keys="GLOSSARY_DI0337" class="- map/topicref " navtitle="retirement benefit plans"/>
+                <topicref href="glossary/GLOSSARY_retrospectiveapplication.dita" keys="GLOSSARY_DI0338" class="- map/topicref " navtitle="retrospective application"/>
+                <topicref href="glossary/GLOSSARY_retrospectiverestatement.dita" keys="GLOSSARY_DI0339" class="- map/topicref " navtitle="retrospective restatement"/>
+                <topicref href="glossary/GLOSSARY_returnonplanassets.dita" keys="GLOSSARY_DI0340" class="- map/topicref " navtitle="return on plan assets (of an employee benefit plan)"/>
+                <topicref href="glossary/GLOSSARY_revenue.dita" keys="GLOSSARY_DI0341" class="- map/topicref " navtitle="revenue">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_rightofuseasset.dita" keys="GLOSSARY_DI0342" class="- map/topicref " navtitle="right-of-use asset"/>
+                <topicref href="glossary/GLOSSARY_riskadjustmentfornonfinancialrisk.dita" keys="GLOSSARY_DI0343" class="- map/topicref " navtitle="risk adjustment for non-financial risk"/>
+                <topicref href="glossary/GLOSSARY_riskpremium.dita" keys="GLOSSARY_DI0344" class="- map/topicref " navtitle="risk premium"/>
+                <topicref href="glossary/GLOSSARY_separatefinancialstatements.dita" keys="GLOSSARY_DI0345" class="- map/topicref " navtitle="separate financial statements">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_separatevehicle.dita" keys="GLOSSARY_DI0346" class="- map/topicref " navtitle="separate vehicle"/>
+                <topicref href="glossary/GLOSSARY_servicecondition.dita" keys="GLOSSARY_DI0347" class="- map/topicref " navtitle="service condition"/>
+                <topicref href="glossary/GLOSSARY_servicecost.dita" keys="GLOSSARY_DI0348" class="- map/topicref " navtitle="service cost"/>
+                <topicref href="glossary/GLOSSARY_settlement.dita" keys="GLOSSARY_DI0349" class="- map/topicref " navtitle="settlement (of employee benefit obligations) "/>
+                <topicref href="glossary/GLOSSARY_sharebasedpaymentarrangement.dita" keys="GLOSSARY_DI0350" class="- map/topicref " navtitle="share‑based payment arrangement"/>
+                <topicref href="glossary/GLOSSARY_sharebasedpaymenttransaction.dita" keys="GLOSSARY_DI0351" class="- map/topicref " navtitle="share‑based payment transaction"/>
+                <topicref href="glossary/GLOSSARY_shareoption.dita" keys="GLOSSARY_DI0352" class="- map/topicref " navtitle="share option"/>
+                <topicref href="glossary/GLOSSARY_shorttermemployeebenefits.dita" keys="GLOSSARY_DI0353" class="- map/topicref " navtitle="short‑term employee benefits"/>
+                <topicref href="glossary/GLOSSARY_shorttermlease.dita" keys="GLOSSARY_DI0354" class="- map/topicref " navtitle="short-term lease"/>
+                <topicref href="glossary/GLOSSARY_significantinfluence.dita" keys="GLOSSARY_DI0355" class="- map/topicref " navtitle="significant influence"/>
+                <topicref href="glossary/GLOSSARY_spotexchangerate.dita" keys="GLOSSARY_DI0356" class="- map/topicref " navtitle="spot exchange rate"/>
+                <topicref href="glossary/GLOSSARY_standalonesellingprice.dita" keys="GLOSSARY_DI0357" class="- map/topicref " navtitle="stand-alone selling price (of a good or service)"/>
+                <topicref href="glossary/GLOSSARY_structuredentity.dita" keys="GLOSSARY_DI0358" class="- map/topicref " navtitle="structured entity"/>
+                <topicref href="glossary/GLOSSARY_sublease.dita" keys="GLOSSARY_DI0359" class="- map/topicref " navtitle="sublease"/>
+                <topicref href="glossary/GLOSSARY_subsidiary.dita" keys="GLOSSARY_DI0360" class="- map/topicref " navtitle="subsidiary"/>
+                <topicref href="glossary/GLOSSARY_taxbaseofanassetorliability.dita" keys="GLOSSARY_DI0361" class="- map/topicref " navtitle="tax base of an asset or liability"/>
+                <topicref href="glossary/GLOSSARY_taxexpense.dita" keys="GLOSSARY_DI0362" class="- map/topicref " navtitle="tax expense (tax income)"/>
+                <topicref href="glossary/GLOSSARY_taxableprofit.dita" keys="GLOSSARY_DI0363" class="- map/topicref " navtitle="taxable profit (tax loss)"/>
+                <topicref href="glossary/GLOSSARY_taxabletemporarydifferences.dita" keys="GLOSSARY_DI0364" class="- map/topicref " navtitle="taxable temporary differences"/>
+                <topicref href="glossary/GLOSSARY_temporarydifferences.dita" keys="GLOSSARY_DI0365" class="- map/topicref " navtitle="temporary differences"/>
+                <topicref href="glossary/GLOSSARY_terminationbenefits.dita" keys="GLOSSARY_DI0366" class="- map/topicref " navtitle="termination benefits"/>
+                <topicref href="glossary/GLOSSARY_totalcomprehensiveincome.dita" keys="GLOSSARY_DI0367" class="- map/topicref " navtitle="total comprehensive income"/>
+                <topicref href="glossary/GLOSSARY_transactioncosts-1.dita" keys="GLOSSARY_DI0368" class="- map/topicref " navtitle="transaction costs"/>
+                <topicref href="glossary/GLOSSARY_transactioncosts-2.dita" keys="GLOSSARY_DI0369" class="- map/topicref " navtitle="transaction costs (financial instruments)">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_transactionprice.dita" keys="GLOSSARY_DI0370" class="- map/topicref " navtitle="transaction price  (for a contract with a customer)"/>
+                <topicref href="glossary/GLOSSARY_transportcosts.dita" keys="GLOSSARY_DI0371" class="- map/topicref " navtitle="transport costs"/>
+                <topicref href="glossary/GLOSSARY_unconsolidatedfinancialstatements.dita" keys="GLOSSARY_unconsolidatedfinancialstatements.dita" class="- map/topicref " navtitle="unconsolidated financial statements">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_underlyingasset.dita" keys="GLOSSARY_DI0373" class="- map/topicref " navtitle="underlying asset"/>
+                <topicref href="glossary/GLOSSARY_underlyingitems.dita" keys="GLOSSARY_DI0374" class="- map/topicref " navtitle="underlying items"/>
+                <topicref href="glossary/GLOSSARY_unearnedfinanceincome.dita" keys="GLOSSARY_DI0375" class="- map/topicref " navtitle="unearned finance income">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_unguaranteedresidualvalue.dita" keys="GLOSSARY_DI0376" class="- map/topicref " navtitle="unguaranteed residual value">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_unitofaccount-1.dita" keys="GLOSSARY_DI0377" class="- map/topicref " navtitle="unit of account"/>
+                <topicref href="glossary/GLOSSARY_unitofaccount-2.dita" keys="GLOSSARY_unitofaccount" class="- map/topicref " navtitle="unit of account">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_unobservableinputs.dita" keys="GLOSSARY_DI0378" class="- map/topicref " navtitle="unobservable inputs"/>
+                <topicref href="glossary/GLOSSARY_usefulfinancialinformationdita.dita" keys="GLOSSARY_usefulfinancialinformation" class="- map/topicref " navtitle="useful financial information">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_usefullife-2.dita" keys="GLOSSARY_DI0380" class="- map/topicref " navtitle="useful life">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_users.dita" keys="GLOSSARY_users" class="- map/topicref " navtitle="users (of general purpose financial reports)">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_valueinuse-1.dita" keys="GLOSSARY_DI0381" class="- map/topicref " navtitle="value in use"/>
+                <topicref href="glossary/GLOSSARY_valueinuse-2.dita" keys="GLOSSARY_DI0382" class="- map/topicref " navtitle="value in use"/>
+                <topicref href="glossary/GLOSSARY_variableleasepayments.dita" keys="GLOSSARY_DI0383" class="- map/topicref " navtitle="variable lease payments"/>
+                <topicref href="glossary/GLOSSARY_vest.dita" keys="GLOSSARY_DI0384" class="- map/topicref " navtitle="vest"/>
+                <topicref href="glossary/GLOSSARY_vestedbenefits.dita" keys="GLOSSARY_DI0385" class="- map/topicref " navtitle="vested benefits"/>
+                <topicref href="glossary/GLOSSARY_vestingconditions.dita" keys="GLOSSARY_DI0386" class="- map/topicref " navtitle="vesting conditions">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="glossary/GLOSSARY_vestingperiod.dita" keys="GLOSSARY_DI0387" class="- map/topicref " navtitle="vesting period"/>
+                <topicref href="glossary/GLOSSARY_weightedaverage.dita" keys="GLOSSARY_DI0388" class="- map/topicref " navtitle="weighted average number of ordinary shares outstanding during the period"/>
+            </glossarylist>
+        </booklists>
+    </frontmatter>
+</bookmap>

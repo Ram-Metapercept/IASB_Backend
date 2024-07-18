@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" chunk="to-content" id="IAS16_BC_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Property, Plant and
+            Equipment</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Basis For Conclusions</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IAS 16</booknumber>
+        </bookid>
+        <document_type value="IAS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2005-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2003-12-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ias-16-property-plant-and-equipment" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="basis-for-conclusion" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ias16/IAS16_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias16/IAS16_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias16/IAS16_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ias16/IAS16_PartB.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ias16/IAS16_BC_TOC.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+    </frontmatter>
+    <chapter href="ias16/IAS16_TI0030.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Basis for Conclusions on IAS 16 Property, Plant and Equipment">
+        <topicref href="ias16/IAS16_gBC1-BC3.dita" class="- map/topicref " navtitle="Introduction">
+            <topicref href="ias16/IAS16_BC1.dita" class="- map/topicref " navtitle="BC1"/>
+            <topicref href="ias16/IAS16_BC2.dita" class="- map/topicref " navtitle="BC2"/>
+            <topicref href="ias16/IAS16_BC2A.dita" class="- map/topicref " navtitle="BC2A"/>
+            <topicref href="ias16/IAS16_BC3.dita" class="- map/topicref " navtitle="BC3"/>
+        </topicref>
+        <topicref href="ias16/IAS16_gBC4-BC4.dita" class="- map/topicref " navtitle="Scope">
+            <topicref href="ias16/IAS16_BC4.dita" class="- map/topicref " navtitle="BC4"/>
+        </topicref>
+        <topicref href="ias16/IAS16_gBC5-BC12A.dita" class="- map/topicref " navtitle="Recognition">
+            <topicref href="ias16/IAS16_BC5.dita" class="- map/topicref " navtitle="BC5"/>
+            <topicref href="ias16/IAS16_BC6.dita" class="- map/topicref " navtitle="BC6"/>
+            <topicref href="ias16/IAS16_BC7.dita" class="- map/topicref " navtitle="BC7"/>
+            <topicref href="ias16/IAS16_BC8.dita" class="- map/topicref " navtitle="BC8"/>
+            <topicref href="ias16/IAS16_BC9.dita" class="- map/topicref " navtitle="BC9"/>
+            <topicref href="ias16/IAS16_BC10.dita" class="- map/topicref " navtitle="BC10"/>
+            <topicref href="ias16/IAS16_BC11.dita" class="- map/topicref " navtitle="BC11"/>
+            <topicref href="ias16/IAS16_BC12.dita" class="- map/topicref " navtitle="BC12"/>
+            <topicref href="ias16/IAS16_gBC12A-BC12A.dita" class="- map/topicref " navtitle="Classification of servicing equipment">
+                <topicref href="ias16/IAS16_BC12A.dita" class="- map/topicref " navtitle="BC12A"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias16/IAS16_gBC13-BC24.dita" class="- map/topicref " navtitle="Measurement at recognition">
+            <topicref href="ias16/IAS16_gBC13-BC16.dita" class="- map/topicref " navtitle="Asset dismantlement, removal and restoration costs">
+                <topicref href="ias16/IAS16_BC13.dita" class="- map/topicref " navtitle="BC13"/>
+                <topicref href="ias16/IAS16_BC14.dita" class="- map/topicref " navtitle="BC14"/>
+                <topicref href="ias16/IAS16_BC15.dita" class="- map/topicref " navtitle="BC15"/>
+                <topicref href="ias16/IAS16_BC16.dita" class="- map/topicref " navtitle="BC16"/>
+            </topicref>
+            <topicref href="ias16/IAS16_gBC16A-BC16R.dita" base="IAS2020-2" class="- map/topicref " navtitle="Property, Plant           and Equipment—Proceeds before Intended Use (2020 amendments)">
+                <topicref href="ias16/IAS16_gBC16A-BC16B.dita" class="- map/topicref " navtitle="Background">
+                    <topicref href="ias16/IAS16_BC16A.dita" class="- map/topicref " navtitle="BC16A"/>
+                    <topicref href="ias16/IAS16_BC16B.dita" class="- map/topicref " navtitle="BC16B"/>
+                </topicref>
+                <topicref href="ias16/IAS16_gBC16C-BC16G.dita" class="- map/topicref " navtitle="Recognising proceeds and related cost in profit or loss">
+                    <topicref href="ias16/IAS16_BC16C.dita" class="- map/topicref " navtitle="BC16C"/>
+                    <topicref href="ias16/IAS16_BC16D.dita" class="- map/topicref " navtitle="BC16D"/>
+                    <topicref href="ias16/IAS16_BC16E.dita" class="- map/topicref " navtitle="BC16E"/>
+                    <topicref href="ias16/IAS16_BC16F.dita" class="- map/topicref " navtitle="BC16F"/>
+                    <topicref href="ias16/IAS16_BC16G.dita" class="- map/topicref " navtitle="BC16G"/>
+                </topicref>
+                <topicref href="ias16/IAS16_gBC16H-BC16K.dita" class="- map/topicref " navtitle="Measuring the cost of items produced">
+                    <topicref href="ias16/IAS16_BC16H.dita" class="- map/topicref " navtitle="BC16H"/>
+                    <topicref href="ias16/IAS16_BC16I.dita" class="- map/topicref " navtitle="BC16I"/>
+                    <topicref href="ias16/IAS16_BC16J.dita" class="- map/topicref " navtitle="BC16J"/>
+                    <topicref href="ias16/IAS16_BC16K.dita" class="- map/topicref " navtitle="BC16K"/>
+                </topicref>
+                <topicref href="ias16/IAS16_gBC16L-BC16O.dita" class="- map/topicref " navtitle="Presentation and disclosure">
+                    <topicref href="ias16/IAS16_BC16L.dita" class="- map/topicref " navtitle="BC16L"/>
+                    <topicref href="ias16/IAS16_BC16M.dita" class="- map/topicref " navtitle="BC16M"/>
+                    <topicref href="ias16/IAS16_BC16N.dita" class="- map/topicref " navtitle="BC16N"/>
+                    <topicref href="ias16/IAS16_BC16O.dita" class="- map/topicref " navtitle="BC16O"/>
+                </topicref>
+                <topicref href="ias16/IAS16_gBC16P-BC16R.dita" class="- map/topicref " navtitle="Available for use and the meaning of ‘testing’">
+                    <topicref href="ias16/IAS16_BC16P.dita" class="- map/topicref " navtitle="BC16P"/>
+                    <topicref href="ias16/IAS16_BC16Q.dita" class="- map/topicref " navtitle="BC16Q"/>
+                    <topicref href="ias16/IAS16_BC16R.dita" class="- map/topicref " navtitle="BC16R"/>
+                </topicref>
+            </topicref>
+            <topicref href="ias16/IAS16_gBC17-BC24.dita" class="- map/topicref " navtitle="Asset exchange transactions">
+                <topicref href="ias16/IAS16_BC17.dita" class="- map/topicref " navtitle="BC17"/>
+                <topicref href="ias16/IAS16_BC18.dita" class="- map/topicref " navtitle="BC18"/>
+                <topicref href="ias16/IAS16_BC19.dita" class="- map/topicref " navtitle="BC19"/>
+                <topicref href="ias16/IAS16_BC20.dita" class="- map/topicref " navtitle="BC20"/>
+                <topicref href="ias16/IAS16_BC21.dita" class="- map/topicref " navtitle="BC21"/>
+                <topicref href="ias16/IAS16_BC22.dita" class="- map/topicref " navtitle="BC22"/>
+                <topicref href="ias16/IAS16_BC23.dita" class="- map/topicref " navtitle="BC23"/>
+                <topicref href="ias16/IAS16_BC24.dita" class="- map/topicref " navtitle="BC24"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias16/IAS16_gBC25-BC33H.dita" class="- map/topicref " navtitle="Measurement after recognition">
+            <topicref href="ias16/IAS16_gBC25-BC25.dita" class="- map/topicref " navtitle="Revaluation model">
+                <topicref href="ias16/IAS16_BC25.dita" class="- map/topicref " navtitle="BC25"/>
+            </topicref>
+            <topicref href="ias16/IAS16_gBC25A-BC25J_V1.dita" class="- map/topicref " navtitle="Revaluation method–proportionate restatement of accumulated depreciation when an item of property, plant and equipment is revalued">
+                <topicref href="ias16/IAS16_BC25A.dita" class="- map/topicref " navtitle="BC25A"/>
+                <topicref href="ias16/IAS16_BC25B.dita" class="- map/topicref " navtitle="BC25B"/>
+                <topicref href="ias16/IAS16_BC25C.dita" class="- map/topicref " navtitle="BC25C"/>
+                <topicref href="ias16/IAS16_BC25D.dita" class="- map/topicref " navtitle="BC25D"/>
+                <topicref href="ias16/IAS16_BC25E.dita" class="- map/topicref " navtitle="BC25E"/>
+                <topicref href="ias16/IAS16_BC25F.dita" class="- map/topicref " navtitle="BC25F"/>
+                <topicref href="ias16/IAS16_BC25G.dita" class="- map/topicref " navtitle="BC25G"/>
+                <topicref href="ias16/IAS16_BC25H.dita" class="- map/topicref " navtitle="BC25H"/>
+                <topicref href="ias16/IAS16_BC25I.dita" class="- map/topicref " navtitle="BC25I"/>
+                <topicref href="ias16/IAS16_BC25J.dita" class="- map/topicref " navtitle="BC25J"/>
+            </topicref>
+            <topicref href="ias16/IAS16_gBC26-BC27.dita" class="- map/topicref " navtitle="Depreciation: unit of measure">
+                <topicref href="ias16/IAS16_BC26.dita" class="- map/topicref " navtitle="BC26"/>
+                <topicref href="ias16/IAS16_BC27.dita" class="- map/topicref " navtitle="BC27"/>
+            </topicref>
+            <topicref href="ias16/IAS16_gBC28-BC29.dita" class="- map/topicref " navtitle="Depreciation: depreciable amount">
+                <topicref href="ias16/IAS16_BC28.dita" class="- map/topicref " navtitle="BC28"/>
+                <topicref href="ias16/IAS16_BC29.dita" class="- map/topicref " navtitle="BC29"/>
+            </topicref>
+            <topicref href="ias16/IAS16_gBC30-BC32.dita" class="- map/topicref " navtitle="Depreciation: depreciation period">
+                <topicref href="ias16/IAS16_BC30.dita" class="- map/topicref " navtitle="BC30"/>
+                <topicref href="ias16/IAS16_BC31.dita" class="- map/topicref " navtitle="BC31"/>
+                <topicref href="ias16/IAS16_BC32.dita" class="- map/topicref " navtitle="BC32"/>
+            </topicref>
+            <topicref href="ias16/IAS16_gBC33-BC33H.dita" class="- map/topicref " navtitle="Depreciation: depreciation method">
+                <topicref href="ias16/IAS16_BC33.dita" class="- map/topicref " navtitle="BC33"/>
+                <topicref href="ias16/IAS16_BC33A.dita" keys="IAS16_BC33A-BC33G_V1" class="- map/topicref " navtitle="BC33A"/>
+                <topicref href="ias16/IAS16_BC33B.dita" class="- map/topicref " navtitle="BC33B"/>
+                <topicref href="ias16/IAS16_BC33C.dita" class="- map/topicref " navtitle="BC33C"/>
+                <topicref href="ias16/IAS16_BC33D.dita" class="- map/topicref " navtitle="BC33D"/>
+                <topicref href="ias16/IAS16_BC33E.dita" class="- map/topicref " navtitle="BC33E"/>
+                <topicref href="ias16/IAS16_BC33F.dita" class="- map/topicref " navtitle="BC33F"/>
+                <topicref href="ias16/IAS16_BC33G.dita" class="- map/topicref " navtitle="BC33G"/>
+                <topicref href="ias16/IAS16_gBC33H-BC33H_V2.dita" class="- map/topicref " navtitle="Exemption for owner-occupied property">
+                    <topicref href="ias16/IAS16_BC33H.dita" class="- map/topicref " navtitle="BC33H"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ias16/IAS16_gBC34-BC34.dita" class="- map/topicref " navtitle="Derecognition">
+            <topicref href="ias16/IAS16_sgBC34-BC34.dita" class="- map/topicref " navtitle="Derecognition date">
+                <topicref href="ias16/IAS16_BC34.dita" class="- map/topicref " navtitle="BC34"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias16/IAS16_gBC35-BC35.dita" class="- map/topicref " navtitle="Gain classification">
+            <topicref href="ias16/IAS16_BC35.dita" class="- map/topicref " navtitle="BC35"/>
+        </topicref>
+        <topicref href="ias16/IAS16_gBC35A-BC35F.dita" class="- map/topicref " navtitle="Assets held for rental to others">
+            <topicref href="ias16/IAS16_BC35A.dita" class="- map/topicref " navtitle="BC35A"/>
+            <topicref href="ias16/IAS16_BC35B.dita" class="- map/topicref " navtitle="BC35B"/>
+            <topicref href="ias16/IAS16_BC35C.dita" class="- map/topicref " navtitle="BC35C"/>
+            <topicref href="ias16/IAS16_BC35D.dita" class="- map/topicref " navtitle="BC35D"/>
+            <topicref href="ias16/IAS16_BC35E.dita" class="- map/topicref " navtitle="BC35E"/>
+            <topicref href="ias16/IAS16_BC35F.dita" class="- map/topicref " navtitle="BC35F"/>
+        </topicref>
+        <topicref href="ias16/IAS16_gBC36-BC36A.dita" class="- map/topicref " navtitle="Transitional provisions">
+            <topicref href="ias16/IAS16_BC36.dita" class="- map/topicref " navtitle="BC36"/>
+            <topicref href="ias16/IAS16_BC36A.dita" class="- map/topicref " navtitle="BC36A"/>
+            <topicref href="ias16/IAS16_gBC36B-BC36D.dita" base="IAS2020-2" class="- map/topicref " navtitle="Property, Plant           and Equipment—Proceeds before Intended Use (2020 amendments)">
+                <topicref href="ias16/IAS16_BC36B.dita" class="- map/topicref " navtitle="BC36B"/>
+                <topicref href="ias16/IAS16_BC36C.dita" class="- map/topicref " navtitle="BC36C"/>
+                <topicref href="ias16/IAS16_BC36D.dita" class="- map/topicref " navtitle="BC36D"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias16/IAS16_gBC37-BC37.dita" class="- map/topicref " navtitle="Summary of changes from the Exposure Draft">
+            <topicref href="ias16/IAS16_BC37.dita" class="- map/topicref " navtitle="BC37"/>
+        </topicref>
+        <topicref href="ias16/IAS16_gBC38-BC45.dita" class="- map/topicref " navtitle="Accounting for bearer plants (2014 amendments)">
+            <topicref href="ias16/IAS16_gBC38-BC38.dita" class="- map/topicref " navtitle="Overview">
+                <topicref href="ias16/IAS16_BC38.dita" class="- map/topicref " navtitle="BC38"/>
+            </topicref>
+            <topicref href="ias16/IAS16_gBC39-BC45.dita" class="- map/topicref " navtitle="Background">
+                <topicref href="ias16/IAS16_BC39.dita" class="- map/topicref " navtitle="BC39"/>
+                <topicref href="ias16/IAS16_BC40.dita" class="- map/topicref " navtitle="BC40"/>
+                <topicref href="ias16/IAS16_BC41.dita" class="- map/topicref " navtitle="BC41"/>
+                <topicref href="ias16/IAS16_BC42.dita" class="- map/topicref " navtitle="BC42"/>
+                <topicref href="ias16/IAS16_BC43.dita" class="- map/topicref " navtitle="BC43"/>
+                <topicref href="ias16/IAS16_BC44.dita" class="- map/topicref " navtitle="BC44"/>
+                <topicref href="ias16/IAS16_BC45.dita" class="- map/topicref " navtitle="BC45"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias16/IAS16_gBC46-BC47_V1.dita" class="- map/topicref " navtitle="Changes to the proposals in the ED">
+            <topicref href="ias16/IAS16_BC46.dita" class="- map/topicref " navtitle="BC46"/>
+            <topicref href="ias16/IAS16_BC47.dita" class="- map/topicref " navtitle="BC47"/>
+        </topicref>
+        <topicref href="ias16/IAS16_gBC48-BC62_V1.dita" class="- map/topicref " navtitle="Scope of the amendments">
+            <topicref href="ias16/IAS16_BC48.dita" class="- map/topicref " navtitle="BC48"/>
+            <topicref href="ias16/IAS16_BC49.dita" class="- map/topicref " navtitle="BC49"/>
+            <topicref href="ias16/IAS16_BC50.dita" class="- map/topicref " navtitle="BC50"/>
+            <topicref href="ias16/IAS16_BC51.dita" class="- map/topicref " navtitle="BC51"/>
+            <topicref href="ias16/IAS16_BC52.dita" class="- map/topicref " navtitle="BC52"/>
+            <topicref href="ias16/IAS16_BC53.dita" class="- map/topicref " navtitle="BC53"/>
+            <topicref href="ias16/IAS16_BC54.dita" class="- map/topicref " navtitle="BC54"/>
+            <topicref href="ias16/IAS16_BC55.dita" class="- map/topicref " navtitle="BC55"/>
+            <topicref href="ias16/IAS16_BC56.dita" class="- map/topicref " navtitle="BC56"/>
+            <topicref href="ias16/IAS16_BC57.dita" class="- map/topicref " navtitle="BC57"/>
+            <topicref href="ias16/IAS16_BC58.dita" class="- map/topicref " navtitle="BC58"/>
+            <topicref href="ias16/IAS16_BC59.dita" class="- map/topicref " navtitle="BC59"/>
+            <topicref href="ias16/IAS16_BC60.dita" class="- map/topicref " navtitle="BC60"/>
+            <topicref href="ias16/IAS16_BC61.dita" class="- map/topicref " navtitle="BC61"/>
+            <topicref href="ias16/IAS16_BC62.dita" class="- map/topicref " navtitle="BC62"/>
+        </topicref>
+        <topicref href="ias16/IAS16_gBC63-BC68_V1.dita" class="- map/topicref " navtitle="Basis for accounting for bearer plants in IAS 16">
+            <topicref href="ias16/IAS16_BC63.dita" class="- map/topicref " navtitle="BC63"/>
+            <topicref href="ias16/IAS16_gBC64-BC67.dita" class="- map/topicref " navtitle="Support for the use of IAS 16">
+                <topicref href="ias16/IAS16_BC64.dita" class="- map/topicref " navtitle="BC64"/>
+                <topicref href="ias16/IAS16_BC65.dita" class="- map/topicref " navtitle="BC65"/>
+                <topicref href="ias16/IAS16_BC66.dita" class="- map/topicref " navtitle="BC66"/>
+                <topicref href="ias16/IAS16_BC67.dita" class="- map/topicref " navtitle="BC67"/>
+            </topicref>
+            <topicref href="ias16/IAS16_gBC68-BC68.dita" class="- map/topicref " navtitle="Cost-benefit considerations">
+                <topicref href="ias16/IAS16_BC68.dita" class="- map/topicref " navtitle="BC68"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias16/IAS16_gBC69-BC79_V1.dita" class="- map/topicref " navtitle="Biological transformation">
+            <topicref href="ias16/IAS16_BC69.dita" class="- map/topicref " navtitle="BC69"/>
+            <topicref href="ias16/IAS16_gBC70-BC72.dita" class="- map/topicref " navtitle="Accounting for bearer plants before they mature">
+                <topicref href="ias16/IAS16_BC70.dita" class="- map/topicref " navtitle="BC70"/>
+                <topicref href="ias16/IAS16_BC71.dita" class="- map/topicref " navtitle="BC71"/>
+                <topicref href="ias16/IAS16_BC72.dita" class="- map/topicref " navtitle="BC72"/>
+            </topicref>
+            <topicref href="ias16/IAS16_gBC73-BC79.dita" class="- map/topicref " navtitle="Accounting for produce growing on a bearer plant">
+                <topicref href="ias16/IAS16_BC73.dita" class="- map/topicref " navtitle="BC73"/>
+                <topicref href="ias16/IAS16_BC74.dita" class="- map/topicref " navtitle="BC74"/>
+                <topicref href="ias16/IAS16_BC75.dita" class="- map/topicref " navtitle="BC75"/>
+                <topicref href="ias16/IAS16_BC76.dita" class="- map/topicref " navtitle="BC76"/>
+                <topicref href="ias16/IAS16_BC77.dita" class="- map/topicref " navtitle="BC77"/>
+                <topicref href="ias16/IAS16_BC78.dita" class="- map/topicref " navtitle="BC78"/>
+                <topicref href="ias16/IAS16_BC79.dita" class="- map/topicref " navtitle="BC79"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias16/IAS16_gBC80-BC94_V1.dita" class="- map/topicref " navtitle="Application of the IAS 16 requirements to bearer plants">
+            <topicref href="ias16/IAS16_gBC80-BC81.dita" class="- map/topicref " navtitle="Unit of measure">
+                <topicref href="ias16/IAS16_BC80.dita" class="- map/topicref " navtitle="BC80"/>
+                <topicref href="ias16/IAS16_BC81.dita" class="- map/topicref " navtitle="BC81"/>
+            </topicref>
+            <topicref href="ias16/IAS16_gBC82-BC82.dita" class="- map/topicref " navtitle="Point of maturity">
+                <topicref href="ias16/IAS16_BC82.dita" class="- map/topicref " navtitle="BC82"/>
+            </topicref>
+            <topicref href="ias16/IAS16_gBC83-BC85.dita" class="- map/topicref " navtitle="Other recognition and measurement requirements of the cost model">
+                <topicref href="ias16/IAS16_BC83.dita" class="- map/topicref " navtitle="BC83"/>
+                <topicref href="ias16/IAS16_BC84.dita" class="- map/topicref " navtitle="BC84"/>
+                <topicref href="ias16/IAS16_BC85.dita" class="- map/topicref " navtitle="BC85"/>
+            </topicref>
+            <topicref href="ias16/IAS16_gBC86-BC91.dita" class="- map/topicref " navtitle="Disclosure requirements of the cost model">
+                <topicref href="ias16/IAS16_BC86.dita" class="- map/topicref " navtitle="BC86"/>
+                <topicref href="ias16/IAS16_BC87.dita" class="- map/topicref " navtitle="BC87"/>
+                <topicref href="ias16/IAS16_BC88.dita" class="- map/topicref " navtitle="BC88"/>
+                <topicref href="ias16/IAS16_BC89.dita" class="- map/topicref " navtitle="BC89"/>
+                <topicref href="ias16/IAS16_BC90.dita" class="- map/topicref " navtitle="BC90"/>
+                <topicref href="ias16/IAS16_BC91.dita" class="- map/topicref " navtitle="BC91"/>
+            </topicref>
+            <topicref href="ias16/IAS16_gBC92-BC93.dita" class="- map/topicref " navtitle="Revaluation model">
+                <topicref href="ias16/IAS16_BC92.dita" class="- map/topicref " navtitle="BC92"/>
+                <topicref href="ias16/IAS16_BC93.dita" class="- map/topicref " navtitle="BC93"/>
+            </topicref>
+            <topicref href="ias16/IAS16_gBC94-BC94.dita" class="- map/topicref " navtitle="Positioning of requirements">
+                <topicref href="ias16/IAS16_BC94.dita" class="- map/topicref " navtitle="BC94"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias16/IAS16_gBC95-BC98_V1.dita" class="- map/topicref " navtitle="Transition requirements">
+            <topicref href="ias16/IAS16_gBC95-BC97.dita" class="- map/topicref " navtitle="Current IFRS preparers">
+                <topicref href="ias16/IAS16_BC95.dita" class="- map/topicref " navtitle="BC95"/>
+                <topicref href="ias16/IAS16_BC96.dita" class="- map/topicref " navtitle="BC96"/>
+                <topicref href="ias16/IAS16_BC97.dita" class="- map/topicref " navtitle="BC97"/>
+            </topicref>
+            <topicref href="ias16/IAS16_gBC98-BC98.dita" class="- map/topicref " navtitle="First-time adoption of IFRS">
+                <topicref href="ias16/IAS16_BC98.dita" class="- map/topicref " navtitle="BC98"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias16/IAS16_gBC99-BC117_V1.dita" class="- map/topicref " navtitle="Analysis of the likely effects of the amendments">
+            <topicref href="ias16/IAS16_BC99.dita" class="- map/topicref " navtitle="BC99"/>
+            <topicref href="ias16/IAS16_BC100.dita" class="- map/topicref " navtitle="BC100"/>
+            <topicref href="ias16/IAS16_BC101.dita" class="- map/topicref " navtitle="BC101"/>
+            <topicref href="ias16/IAS16_BC102.dita" class="- map/topicref " navtitle="BC102"/>
+            <topicref href="ias16/IAS16_BC103.dita" class="- map/topicref " navtitle="BC103"/>
+            <topicref href="ias16/IAS16_BC104.dita" class="- map/topicref " navtitle="BC104"/>
+            <topicref href="ias16/IAS16_BC105.dita" class="- map/topicref " navtitle="BC105"/>
+            <topicref href="ias16/IAS16_gBC106-BC107.dita" class="- map/topicref " navtitle="How the amendments are likely to affect how activities are reported">
+                <topicref href="ias16/IAS16_BC106.dita" class="- map/topicref " navtitle="BC106"/>
+                <topicref href="ias16/IAS16_BC107.dita" class="- map/topicref " navtitle="BC107"/>
+            </topicref>
+            <topicref href="ias16/IAS16_gBC108-BC110.dita" class="- map/topicref " navtitle="How the amendments affect the comparability of financial statements">
+                <topicref href="ias16/IAS16_gBC108-BC108.dita" class="- map/topicref " navtitle="Comparability between entities">
+                    <topicref href="ias16/IAS16_BC108.dita" class="- map/topicref " navtitle="BC108"/>
+                </topicref>
+                <topicref href="ias16/IAS16_gBC109-BC110.dita" class="- map/topicref " navtitle="Comparability between reporting periods for an individual entity">
+                    <topicref href="ias16/IAS16_BC109.dita" class="- map/topicref " navtitle="BC109"/>
+                    <topicref href="ias16/IAS16_BC110.dita" class="- map/topicref " navtitle="BC110"/>
+                </topicref>
+            </topicref>
+            <topicref href="ias16/IAS16_gBC111-BC113.dita" class="- map/topicref " navtitle="How the amendments will improve a user’s ability to assess future cash flows">
+                <topicref href="ias16/IAS16_BC111.dita" class="- map/topicref " navtitle="BC111"/>
+                <topicref href="ias16/IAS16_BC112.dita" class="- map/topicref " navtitle="BC112"/>
+                <topicref href="ias16/IAS16_BC113.dita" class="- map/topicref " navtitle="BC113"/>
+            </topicref>
+            <topicref href="ias16/IAS16_gBC114-BC115.dita" class="- map/topicref " navtitle="How the amendments will affect economic decision-making and the costs of analysis for users of financial statements">
+                <topicref href="ias16/IAS16_BC114.dita" class="- map/topicref " navtitle="BC114"/>
+                <topicref href="ias16/IAS16_BC115.dita" class="- map/topicref " navtitle="BC115"/>
+            </topicref>
+            <topicref href="ias16/IAS16_gBC116-BC117.dita" class="- map/topicref " navtitle="Effect on the compliance costs for preparers">
+                <topicref href="ias16/IAS16_BC116.dita" class="- map/topicref " navtitle="BC116"/>
+                <topicref href="ias16/IAS16_BC117.dita" class="- map/topicref " navtitle="BC117"/>
+            </topicref>
+        </topicref>
+    
+        <topicref href="ias16/IAS16_BC_DO0001_V1.dita" class="- map/topicref " navtitle="Dissenting opinions">
+            <topicref href="ias16/IAS16_gDO1-DO1.dita" class="- map/topicref " navtitle="Dissent of Mary Tokar from Clarification of Acceptable Methods of Depreciation and Amortisation (Amendments to IAS 16 and IAS 38) as issued in May 2014">
+                <topicref href="ias16/IAS16_DO1.dita" class="- map/topicref " navtitle="DO1"/>
+            </topicref>
+            <topicref href="ias16/IAS16_gDO1-DO13.dita" outputclass="new_page" class="- map/topicref " navtitle="Dissent of Patrick Finnegan and Patricia McConnell from Agriculture: Bearer Plants (Amendments to IAS 16 and IAS 41) June 2014">
+                <topicref href="ias16/IAS16_DO1_a.dita" class="- map/topicref " navtitle="DO1"/>
+                <topicref href="ias16/IAS16_DO2.dita" class="- map/topicref " navtitle="DO2"/>
+                <topicref href="ias16/IAS16_DO3.dita" class="- map/topicref " navtitle="DO3"/>
+                <topicref href="ias16/IAS16_gDO4-DO6.dita" class="- map/topicref " navtitle="The importance of fair value information for biological assets">
+                    <topicref href="ias16/IAS16_DO4.dita" class="- map/topicref " navtitle="DO4"/>
+                    <topicref href="ias16/IAS16_DO5.dita" class="- map/topicref " navtitle="DO5"/>
+                    <topicref href="ias16/IAS16_DO6.dita" class="- map/topicref " navtitle="DO6"/>
+                </topicref>
+                <topicref href="ias16/IAS16_gDO7-DO9.dita" class="- map/topicref " navtitle="Effects of the use of fair value measurement">
+                    <topicref href="ias16/IAS16_DO7.dita" class="- map/topicref " navtitle="DO7"/>
+                    <topicref href="ias16/IAS16_DO8.dita" class="- map/topicref " navtitle="DO8"/>
+                    <topicref href="ias16/IAS16_DO9.dita" class="- map/topicref " navtitle="DO9"/>
+                </topicref>
+                <topicref href="ias16/IAS16_gDO10-DO13.dita" class="- map/topicref " navtitle="Current proposals are not improvements to IFRS">
+                    <topicref href="ias16/IAS16_DO10.dita" class="- map/topicref " navtitle="DO10"/>
+                    <topicref href="ias16/IAS16_DO11.dita" class="- map/topicref " navtitle="DO11"/>
+                    <topicref href="ias16/IAS16_DO12.dita" class="- map/topicref " navtitle="DO12"/>
+                    <topicref href="ias16/IAS16_DO13.dita" class="- map/topicref " navtitle="DO13"/>
+                </topicref>
+            </topicref>
+        </topicref>
+    </chapter>
+    
+</bookmap>

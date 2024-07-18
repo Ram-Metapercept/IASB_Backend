@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IFRS16_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <booklibrary class="- topic/ph bookmap/booklibrary ">IFRS 16</booklibrary>
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Leases</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Standard</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IFRS 16</booknumber>
+        </bookid>
+        <document_type value="IFRS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2019-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2016-01-14" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ifrs-16-leases" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="standard" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" id="IFRS16_CHK_FM" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ifrs16/IFRS16_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs16/IFRS16_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs16/IFRS16_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ifrs16/IFRS16_PRE.dita" chunk="to-content" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ifrs16/IFRS16_TOC.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+        <preface href="ifrs16/IFRS16_rubric.dita" class="- map/topicref bookmap/preface "/>
+    </frontmatter>
+    <chapter href="ifrs16/IFRS16_TI.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="IFRS 16 Leases"><topicref href="ifrs16/IFRS16_rubric.dita" class="- map/topicref " navtitle="Rubric"/>
+        <topicref href="ifrs16/IFRS16_g1-2.dita" class="- map/topicref " navtitle="Objective">
+            <topicref href="ifrs16/IFRS16_1.dita" class="- map/topicref " navtitle="1"/>
+            <topicref href="ifrs16/IFRS16_2.dita" class="- map/topicref " navtitle="2"/>
+        </topicref>
+        <topicref href="ifrs16/IFRS16_g3-4.dita" class="- map/topicref " navtitle="Scope">
+            <topicref href="ifrs16/IFRS16_3.dita" class="- map/topicref " navtitle="3"/>
+            <topicref href="ifrs16/IFRS16_4.dita" class="- map/topicref " navtitle="4"/>
+        </topicref>
+        <topicref href="ifrs16/IFRS16_g5-8.dita" class="- map/topicref " navtitle="Recognition exemptions (paragraphs B3–B8)">
+            <topicref href="ifrs16/IFRS16_5.dita" class="- map/topicref " navtitle="5"/>
+            <topicref href="ifrs16/IFRS16_6.dita" class="- map/topicref " navtitle="6"/>
+            <topicref href="ifrs16/IFRS16_7.dita" class="- map/topicref " navtitle="7"/>
+            <topicref href="ifrs16/IFRS16_8.dita" class="- map/topicref " navtitle="8"/>
+        </topicref>
+        <topicref href="ifrs16/IFRS16_g9-17.dita" class="- map/topicref " navtitle="Identifying a lease (paragraphs B9–B33)">
+            <topicref href="ifrs16/IFRS16_9.dita" class="- map/topicref " navtitle="9"/>
+            <topicref href="ifrs16/IFRS16_10.dita" class="- map/topicref " navtitle="10"/>
+            <topicref href="ifrs16/IFRS16_11.dita" class="- map/topicref " navtitle="11"/>
+            <topicref href="ifrs16/IFRS16_g12-17.dita" class="- map/topicref " navtitle="Separating components of a contract">
+                <topicref href="ifrs16/IFRS16_12.dita" class="- map/topicref " navtitle="12"/>
+                <topicref href="ifrs16/IFRS16_g13-16.dita" class="- map/topicref " navtitle="Lessee">
+                    <topicref href="ifrs16/IFRS16_13.dita" class="- map/topicref " navtitle="13"/>
+                    <topicref href="ifrs16/IFRS16_14.dita" class="- map/topicref " navtitle="14"/>
+                    <topicref href="ifrs16/IFRS16_15.dita" class="- map/topicref " navtitle="15"/>
+                    <topicref href="ifrs16/IFRS16_16.dita" class="- map/topicref " navtitle="16"/>
+                </topicref>
+                <topicref href="ifrs16/IFRS16_g17-17.dita" class="- map/topicref " navtitle="Lessor">
+                    <topicref href="ifrs16/IFRS16_17.dita" class="- map/topicref " navtitle="17"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs16/IFRS16_g18-21.dita" class="- map/topicref " navtitle="Lease term (paragraphs B34–B41)">
+            <topicref href="ifrs16/IFRS16_18.dita" class="- map/topicref " navtitle="18"/>
+            <topicref href="ifrs16/IFRS16_19.dita" class="- map/topicref " navtitle="19"/>
+            <topicref href="ifrs16/IFRS16_20.dita" class="- map/topicref " navtitle="20"/>
+            <topicref href="ifrs16/IFRS16_21.dita" class="- map/topicref " navtitle="21"/>
+        </topicref>
+        <topicref href="ifrs16/IFRS16_g22-60.dita" class="- map/topicref " navtitle="Lessee">
+            <topicref href="ifrs16/IFRS16_g22-22.dita" class="- map/topicref " navtitle="Recognition">
+                <topicref href="ifrs16/IFRS16_22.dita" class="- map/topicref " navtitle="22"/>
+            </topicref>
+            <topicref href="ifrs16/IFRS16_g23-46.dita" class="- map/topicref " navtitle="Measurement">
+                <topicref href="ifrs16/IFRS16_g23-28.dita" class="- map/topicref " navtitle="Initial measurement">
+                    <topicref href="ifrs16/IFRS16_g23-25.dita" class="- map/topicref " navtitle="Initial measurement of the right-of-use asset">
+                        <topicref href="ifrs16/IFRS16_23.dita" class="- map/topicref " navtitle="23"/>
+                        <topicref href="ifrs16/IFRS16_24.dita" class="- map/topicref " navtitle="24"/>
+                        <topicref href="ifrs16/IFRS16_25.dita" class="- map/topicref " navtitle="25"/>
+                    </topicref>
+                    <topicref href="ifrs16/IFRS16_g26-28.dita" class="- map/topicref " navtitle="Initial measurement of the lease liability">
+                        <topicref href="ifrs16/IFRS16_26.dita" class="- map/topicref " navtitle="26"/>
+                        <topicref href="ifrs16/IFRS16_27.dita" class="- map/topicref " navtitle="27"/>
+                        <topicref href="ifrs16/IFRS16_28.dita" class="- map/topicref " navtitle="28"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifrs16/IFRS16_g29-46.dita" class="- map/topicref " navtitle="Subsequent measurement">
+                    <topicref href="ifrs16/IFRS16_g29-35.dita" class="- map/topicref " navtitle="Subsequent measurement of the right-of-use asset">
+                        <topicref href="ifrs16/IFRS16_29.dita" class="- map/topicref " navtitle="29"/>
+                        <topicref href="ifrs16/IFRS16_g30-33.dita" class="- map/topicref " navtitle="Cost model">
+                            <topicref href="ifrs16/IFRS16_30.dita" class="- map/topicref " navtitle="30"/>
+                            <topicref href="ifrs16/IFRS16_31.dita" class="- map/topicref " navtitle="31"/>
+                            <topicref href="ifrs16/IFRS16_32.dita" class="- map/topicref " navtitle="32"/>
+                            <topicref href="ifrs16/IFRS16_33.dita" class="- map/topicref " navtitle="33"/>
+                        </topicref>
+                        <topicref href="ifrs16/IFRS16_g34-35.dita" class="- map/topicref " navtitle="Other measurement models">
+                            <topicref href="ifrs16/IFRS16_34.dita" class="- map/topicref " navtitle="34"/>
+                            <topicref href="ifrs16/IFRS16_35.dita" class="- map/topicref " navtitle="35"/>
+                        </topicref>
+                    </topicref>
+                    <topicref href="ifrs16/IFRS16_g36-43.dita" class="- map/topicref " navtitle="Subsequent measurement of the lease liability">
+                        <topicref href="ifrs16/IFRS16_36.dita" class="- map/topicref " navtitle="36"/>
+                        <topicref href="ifrs16/IFRS16_37.dita" class="- map/topicref " navtitle="37"/>
+                        <topicref href="ifrs16/IFRS16_38.dita" class="- map/topicref " navtitle="38"/>
+                        <topicref href="ifrs16/IFRS16_g39-43.dita" class="- map/topicref " navtitle="Reassessment of the lease liability">
+                            <topicref href="ifrs16/IFRS16_39.dita" class="- map/topicref " navtitle="39"/>
+                            <topicref href="ifrs16/IFRS16_40.dita" class="- map/topicref " navtitle="40"/>
+                            <topicref href="ifrs16/IFRS16_41.dita" class="- map/topicref " navtitle="41"/>
+                            <topicref href="ifrs16/IFRS16_42.dita" class="- map/topicref " navtitle="42"/>
+                            <topicref href="ifrs16/IFRS16_43.dita" class="- map/topicref " navtitle="43"/>
+                        </topicref>
+                    </topicref>
+                    <topicref href="ifrs16/IFRS16_g44-46.dita" class="- map/topicref " navtitle="Lease modifications">
+                        <topicref href="ifrs16/IFRS16_44.dita" class="- map/topicref " navtitle="44"/>
+                        <topicref href="ifrs16/IFRS16_45.dita" class="- map/topicref " navtitle="45"/>
+                        <topicref href="ifrs16/IFRS16_46.dita" class="- map/topicref " navtitle="46"/>
+                        <topicref href="ifrs16/IFRS16_46A.dita" base="IFRS2020-2" class="- map/topicref " navtitle="46A"/>
+                        <topicref href="ifrs16/IFRS16_46B.dita" base="IFRS2020-2" class="- map/topicref " navtitle="46B"/>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs16/IFRS16_g47-50.dita" class="- map/topicref " navtitle="Presentation">
+                <topicref href="ifrs16/IFRS16_47.dita" class="- map/topicref " navtitle="47"/>
+                <topicref href="ifrs16/IFRS16_48.dita" class="- map/topicref " navtitle="48"/>
+                <topicref href="ifrs16/IFRS16_49.dita" class="- map/topicref " navtitle="49"/>
+                <topicref href="ifrs16/IFRS16_50.dita" class="- map/topicref " navtitle="50"/>
+            </topicref>
+            <topicref href="ifrs16/IFRS16_g51-60.dita" class="- map/topicref " navtitle="Disclosure">
+                <topicref href="ifrs16/IFRS16_51.dita" class="- map/topicref " navtitle="51"/>
+                <topicref href="ifrs16/IFRS16_52.dita" class="- map/topicref " navtitle="52"/>
+                <topicref href="ifrs16/IFRS16_53.dita" class="- map/topicref " navtitle="53"/>
+                <topicref href="ifrs16/IFRS16_54.dita" class="- map/topicref " navtitle="54"/>
+                <topicref href="ifrs16/IFRS16_55.dita" class="- map/topicref " navtitle="55"/>
+                <topicref href="ifrs16/IFRS16_56.dita" class="- map/topicref " navtitle="56"/>
+                <topicref href="ifrs16/IFRS16_57.dita" class="- map/topicref " navtitle="57"/>
+                <topicref href="ifrs16/IFRS16_58.dita" class="- map/topicref " navtitle="58"/>
+                <topicref href="ifrs16/IFRS16_59.dita" class="- map/topicref " navtitle="59"/>
+                <topicref href="ifrs16/IFRS16_60.dita" class="- map/topicref " navtitle="60"/>
+                <topicref href="ifrs16/IFRS16_60A.dita" base="IFRS2020-2" class="- map/topicref " navtitle="60A"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs16/IFRS16_g61-97.dita" class="- map/topicref " navtitle="Lessor">
+            <topicref href="ifrs16/IFRS16_g61-66.dita" class="- map/topicref " navtitle="Classification of leases (paragraphs B53–B58)">
+                <topicref href="ifrs16/IFRS16_61.dita" class="- map/topicref " navtitle="61"/>
+                <topicref href="ifrs16/IFRS16_62.dita" class="- map/topicref " navtitle="62"/>
+                <topicref href="ifrs16/IFRS16_63.dita" class="- map/topicref " navtitle="63"/>
+                <topicref href="ifrs16/IFRS16_64.dita" class="- map/topicref " navtitle="64"/>
+                <topicref href="ifrs16/IFRS16_65.dita" class="- map/topicref " navtitle="65"/>
+                <topicref href="ifrs16/IFRS16_66.dita" class="- map/topicref " navtitle="66"/>
+            </topicref>
+            <topicref href="ifrs16/IFRS16_g67-80.dita" class="- map/topicref " navtitle="Finance leases">
+                <topicref href="ifrs16/IFRS16_sg67-80.dita" class="- map/topicref " navtitle="Recognition and measurement">
+                    <topicref href="ifrs16/IFRS16_67.dita" class="- map/topicref " navtitle="67"/>
+                    <topicref href="ifrs16/IFRS16_g68-74.dita" class="- map/topicref " navtitle="Initial measurement">
+                        <topicref href="ifrs16/IFRS16_68.dita" class="- map/topicref " navtitle="68"/>
+                        <topicref href="ifrs16/IFRS16_69.dita" class="- map/topicref " navtitle="69"/>
+                        <topicref href="ifrs16/IFRS16_g70-70.dita" class="- map/topicref " navtitle="Initial measurement of the lease payments included in the net investment in the lease">
+                            <topicref href="ifrs16/IFRS16_70.dita" class="- map/topicref " navtitle="70"/>
+                        </topicref>
+                        <topicref href="ifrs16/IFRS16_g71-74.dita" class="- map/topicref " navtitle="Manufacturer or dealer lessors">
+                            <topicref href="ifrs16/IFRS16_71.dita" class="- map/topicref " navtitle="71"/>
+                            <topicref href="ifrs16/IFRS16_72.dita" class="- map/topicref " navtitle="72"/>
+                            <topicref href="ifrs16/IFRS16_73.dita" class="- map/topicref " navtitle="73"/>
+                            <topicref href="ifrs16/IFRS16_74.dita" class="- map/topicref " navtitle="74"/>
+                        </topicref>
+                    </topicref>
+                    <topicref href="ifrs16/IFRS16_g75-80.dita" class="- map/topicref " navtitle="Subsequent measurement">
+                        <topicref href="ifrs16/IFRS16_75.dita" class="- map/topicref " navtitle="75"/>
+                        <topicref href="ifrs16/IFRS16_76.dita" class="- map/topicref " navtitle="76"/>
+                        <topicref href="ifrs16/IFRS16_77.dita" class="- map/topicref " navtitle="77"/>
+                        <topicref href="ifrs16/IFRS16_78.dita" class="- map/topicref " navtitle="78"/>
+                        <topicref href="ifrs16/IFRS16_g79-80.dita" class="- map/topicref " navtitle="Lease modifications">
+                            <topicref href="ifrs16/IFRS16_79.dita" class="- map/topicref " navtitle="79"/>
+                            <topicref href="ifrs16/IFRS16_80.dita" class="- map/topicref " navtitle="80"/>
+                        </topicref>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs16/IFRS16_g81-88.dita" class="- map/topicref " navtitle="Operating leases">
+                <topicref href="ifrs16/IFRS16_g81-87.dita" class="- map/topicref " navtitle="Recognition and measurement">
+                    <topicref href="ifrs16/IFRS16_81.dita" class="- map/topicref " navtitle="81"/>
+                    <topicref href="ifrs16/IFRS16_82.dita" class="- map/topicref " navtitle="82"/>
+                    <topicref href="ifrs16/IFRS16_83.dita" class="- map/topicref " navtitle="83"/>
+                    <topicref href="ifrs16/IFRS16_84.dita" class="- map/topicref " navtitle="84"/>
+                    <topicref href="ifrs16/IFRS16_85.dita" class="- map/topicref " navtitle="85"/>
+                    <topicref href="ifrs16/IFRS16_86.dita" class="- map/topicref " navtitle="86"/>
+                    <topicref href="ifrs16/IFRS16_g87-87.dita" class="- map/topicref " navtitle="Lease modifications">
+                        <topicref href="ifrs16/IFRS16_87.dita" class="- map/topicref " navtitle="87"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifrs16/IFRS16_g88-88.dita" class="- map/topicref " navtitle="Presentation">
+                    <topicref href="ifrs16/IFRS16_88.dita" class="- map/topicref " navtitle="88"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs16/IFRS16_g89-97.dita" class="- map/topicref " navtitle="Disclosure">
+                <topicref href="ifrs16/IFRS16_89.dita" class="- map/topicref " navtitle="89"/>
+                <topicref href="ifrs16/IFRS16_90.dita" class="- map/topicref " navtitle="90"/>
+                <topicref href="ifrs16/IFRS16_91.dita" class="- map/topicref " navtitle="91"/>
+                <topicref href="ifrs16/IFRS16_92.dita" class="- map/topicref " navtitle="92"/>
+                <topicref href="ifrs16/IFRS16_g93-94.dita" class="- map/topicref " navtitle="Finance leases">
+                    <topicref href="ifrs16/IFRS16_93.dita" class="- map/topicref " navtitle="93"/>
+                    <topicref href="ifrs16/IFRS16_94.dita" class="- map/topicref " navtitle="94"/>
+                </topicref>
+                <topicref href="ifrs16/IFRS16_g95-97.dita" class="- map/topicref " navtitle="Operating leases">
+                    <topicref href="ifrs16/IFRS16_95.dita" class="- map/topicref " navtitle="95"/>
+                    <topicref href="ifrs16/IFRS16_96.dita" class="- map/topicref " navtitle="96"/>
+                    <topicref href="ifrs16/IFRS16_97.dita" class="- map/topicref " navtitle="97"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs16/IFRS16_g98-103.dita" class="- map/topicref " navtitle="Sale and leaseback transactions">
+            <topicref href="ifrs16/IFRS16_98.dita" class="- map/topicref " navtitle="98"/>
+            <topicref href="ifrs16/IFRS16_g99-103.dita" class="- map/topicref " navtitle="Assessing whether the transfer of the asset is a sale">
+                <topicref href="ifrs16/IFRS16_99.dita" class="- map/topicref " navtitle="99"/>
+                <topicref href="ifrs16/IFRS16_g100-102.dita" class="- map/topicref " navtitle="Transfer of the asset is a sale">
+                    <topicref href="ifrs16/IFRS16_100.dita" class="- map/topicref " navtitle="100"/>
+                    <topicref href="ifrs16/IFRS16_101.dita" class="- map/topicref " navtitle="101"/>
+                    <topicref href="ifrs16/IFRS16_102.dita" class="- map/topicref " navtitle="102"/>
+                    <topicref href="ifrs16/IFRS16_102A_MARKER.dita" base="IASB-IFRS2022-1" class="- map/topicref " navtitle="102A"/>
+                </topicref>
+                <topicref href="ifrs16/IFRS16_g103-103.dita" class="- map/topicref " navtitle="Transfer of the asset is not a sale">
+                    <topicref href="ifrs16/IFRS16_103.dita" class="- map/topicref " navtitle="103"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs16/IFRS16_g104-106.dita" base="IFRS2020-5" class="- map/topicref " navtitle="Temporary exception arising from interest rate benchmark reform">
+            <topicref href="ifrs16/IFRS16_104.dita" class="- map/topicref " navtitle="104"/>
+            <topicref href="ifrs16/IFRS16_105.dita" class="- map/topicref " navtitle="105"/>
+            <topicref href="ifrs16/IFRS16_106.dita" class="- map/topicref " navtitle="106"/>
+        </topicref>
+    <topicref chunk="to-content" class="- map/topicref " navtitle="Appendices">
+        <topicref href="ifrs16/IFRS16_APPA.dita" class="- map/topicref " navtitle="Appendix A Defined terms">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="A" class="- topic/data "/>
+            </topicmeta>
+            <topicref href="ifrs16/IFRS16_0001.dita" class="- map/topicref " navtitle="Terms defined in other Standards and used in this Standard with the same meaning"/>
+        </topicref>
+        <topicref href="ifrs16/IFRS16_APPB.dita" class="- map/topicref " navtitle="Appendix B Application guidance">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="B" class="- topic/data "/>
+            </topicmeta>
+            <topicref href="ifrs16/IFRS16_gB1-B1.dita" class="- map/topicref " navtitle="Portfolio application">
+                <topicref href="ifrs16/IFRS16_B1.dita" class="- map/topicref " navtitle="B1"/>
+            </topicref>
+            <topicref href="ifrs16/IFRS16_gB2-B2.dita" class="- map/topicref " navtitle="Combination of contracts">
+                <topicref href="ifrs16/IFRS16_B2.dita" class="- map/topicref " navtitle="B2"/>
+            </topicref>
+            <topicref href="ifrs16/IFRS16_gB3-B8.dita" class="- map/topicref " navtitle="Recognition exemption: leases for which the underlying asset is of low value (paragraphs 5–8)">
+                <topicref href="ifrs16/IFRS16_B3.dita" class="- map/topicref " navtitle="B3"/>
+                <topicref href="ifrs16/IFRS16_B4.dita" class="- map/topicref " navtitle="B4"/>
+                <topicref href="ifrs16/IFRS16_B5.dita" class="- map/topicref " navtitle="B5"/>
+                <topicref href="ifrs16/IFRS16_B6.dita" class="- map/topicref " navtitle="B6"/>
+                <topicref href="ifrs16/IFRS16_B7.dita" class="- map/topicref " navtitle="B7"/>
+                <topicref href="ifrs16/IFRS16_B8.dita" class="- map/topicref " navtitle="B8"/>
+            </topicref>
+            <topicref href="ifrs16/IFRS16_gB9-B31.dita" class="- map/topicref " navtitle="Identifying a lease (paragraphs         9–11)">
+                <topicref href="ifrs16/IFRS16_B9.dita" class="- map/topicref " navtitle="B9"/>
+                <topicref href="ifrs16/IFRS16_B10.dita" class="- map/topicref " navtitle="B10"/>
+                <topicref href="ifrs16/IFRS16_B11.dita" class="- map/topicref " navtitle="B11"/>
+                <topicref href="ifrs16/IFRS16_B12.dita" class="- map/topicref " navtitle="B12"/>
+                <topicref href="ifrs16/IFRS16_gB13-B20.dita" class="- map/topicref " navtitle="Identified asset">
+                    <topicref href="ifrs16/IFRS16_B13.dita" class="- map/topicref " navtitle="B13"/>
+                    <topicref href="ifrs16/IFRS16_gB14-B19.dita" class="- map/topicref " navtitle="Substantive substitution rights">
+                        <topicref href="ifrs16/IFRS16_B14.dita" class="- map/topicref " navtitle="B14"/>
+                        <topicref href="ifrs16/IFRS16_B15.dita" class="- map/topicref " navtitle="B15"/>
+                        <topicref href="ifrs16/IFRS16_B16.dita" class="- map/topicref " navtitle="B16"/>
+                        <topicref href="ifrs16/IFRS16_B17.dita" class="- map/topicref " navtitle="B17"/>
+                        <topicref href="ifrs16/IFRS16_B18.dita" class="- map/topicref " navtitle="B18"/>
+                        <topicref href="ifrs16/IFRS16_B19.dita" class="- map/topicref " navtitle="B19"/>
+                    </topicref>
+                    <topicref href="ifrs16/IFRS16_gB20-B20.dita" class="- map/topicref " navtitle="Portions of assets">
+                        <topicref href="ifrs16/IFRS16_B20.dita" class="- map/topicref " navtitle="B20"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifrs16/IFRS16_gB21-B23.dita" class="- map/topicref " navtitle="Right to obtain economic benefits from use">
+                    <topicref href="ifrs16/IFRS16_B21.dita" class="- map/topicref " navtitle="B21"/>
+                    <topicref href="ifrs16/IFRS16_B22.dita" class="- map/topicref " navtitle="B22"/>
+                    <topicref href="ifrs16/IFRS16_B23.dita" class="- map/topicref " navtitle="B23"/>
+                </topicref>
+                <topicref href="ifrs16/IFRS16_gB24-B31.dita" class="- map/topicref " navtitle="Right to direct the     use">
+                    <topicref href="ifrs16/IFRS16_B24.dita" class="- map/topicref " navtitle="B24"/>
+                    <topicref href="ifrs16/IFRS16_gB25-B31.dita" class="- map/topicref " navtitle="How and for what purpose     the asset is used">
+                        <topicref href="ifrs16/IFRS16_B25.dita" class="- map/topicref " navtitle="B25"/>
+                        <topicref href="ifrs16/IFRS16_B26.dita" class="- map/topicref " navtitle="B26"/>
+                        <topicref href="ifrs16/IFRS16_B27.dita" class="- map/topicref " navtitle="B27"/>
+                        <topicref href="ifrs16/IFRS16_gB28-B29.dita" class="- map/topicref " navtitle="Decisions determined during and before the period of use">
+                            <topicref href="ifrs16/IFRS16_B28.dita" class="- map/topicref " navtitle="B28"/>
+                            <topicref href="ifrs16/IFRS16_B29.dita" class="- map/topicref " navtitle="B29"/>
+                        </topicref>
+                        <topicref href="ifrs16/IFRS16_gB30-B31.dita" class="- map/topicref " navtitle="Protective rights">
+                            <topicref href="ifrs16/IFRS16_B30.dita" class="- map/topicref " navtitle="B30"/>
+                            <topicref href="ifrs16/IFRS16_B31.dita" class="- map/topicref " navtitle="B31"/>
+                        </topicref>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs16/IFRS16_gB32-B33.dita" class="- map/topicref " navtitle="Separating components of a contract (paragraphs 12–17)">
+                <topicref href="ifrs16/IFRS16_B32.dita" class="- map/topicref " navtitle="B32"/>
+                <topicref href="ifrs16/IFRS16_B33.dita" class="- map/topicref " navtitle="B33"/>
+            </topicref>
+            <topicref href="ifrs16/IFRS16_gB34-B41.dita" class="- map/topicref " navtitle="Lease term (paragraphs 18–21)">
+                <topicref href="ifrs16/IFRS16_B34.dita" class="- map/topicref " navtitle="B34"/>
+                <topicref href="ifrs16/IFRS16_B35.dita" class="- map/topicref " navtitle="B35"/>
+                <topicref href="ifrs16/IFRS16_B36.dita" class="- map/topicref " navtitle="B36"/>
+                <topicref href="ifrs16/IFRS16_B37.dita" class="- map/topicref " navtitle="B37"/>
+                <topicref href="ifrs16/IFRS16_B38.dita" class="- map/topicref " navtitle="B38"/>
+                <topicref href="ifrs16/IFRS16_B39.dita" class="- map/topicref " navtitle="B39"/>
+                <topicref href="ifrs16/IFRS16_B40.dita" class="- map/topicref " navtitle="B40"/>
+                <topicref href="ifrs16/IFRS16_B41.dita" class="- map/topicref " navtitle="B41"/>
+            </topicref>
+            <topicref href="ifrs16/IFRS16_gB42-B42.dita" class="- map/topicref " navtitle="In-substance fixed lease payments (paragraphs 27(a), 36(c) and 70(a))">
+                <topicref href="ifrs16/IFRS16_B42.dita" class="- map/topicref " navtitle="B42"/>
+            </topicref>
+            <topicref href="ifrs16/IFRS16_gB43-B47.dita" class="- map/topicref " navtitle="Lessee involvement with the underlying asset before the commencement date">
+                <topicref href="ifrs16/IFRS16_gB43-B44.dita" class="- map/topicref " navtitle="Costs of the lessee relating to the construction or design of the underlying asset">
+                    <topicref href="ifrs16/IFRS16_B43.dita" class="- map/topicref " navtitle="B43"/>
+                    <topicref href="ifrs16/IFRS16_B44.dita" class="- map/topicref " navtitle="B44"/>
+                </topicref>
+                <topicref href="ifrs16/IFRS16_gB45-B47.dita" class="- map/topicref " navtitle="Legal title to the underlying asset">
+                    <topicref href="ifrs16/IFRS16_B45.dita" class="- map/topicref " navtitle="B45"/>
+                    <topicref href="ifrs16/IFRS16_B46.dita" class="- map/topicref " navtitle="B46"/>
+                    <topicref href="ifrs16/IFRS16_B47.dita" class="- map/topicref " navtitle="B47"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs16/IFRS16_gB48-B52.dita" class="- map/topicref " navtitle="Lessee disclosures (paragraph 59)">
+                <topicref href="ifrs16/IFRS16_B48.dita" class="- map/topicref " navtitle="B48"/>
+                <topicref href="ifrs16/IFRS16_B49.dita" class="- map/topicref " navtitle="B49"/>
+                <topicref href="ifrs16/IFRS16_B50.dita" class="- map/topicref " navtitle="B50"/>
+                <topicref href="ifrs16/IFRS16_B51.dita" class="- map/topicref " navtitle="B51"/>
+                <topicref href="ifrs16/IFRS16_B52.dita" class="- map/topicref " navtitle="B52"/>
+            </topicref>
+            <topicref href="ifrs16/IFRS16_gB53-B58.dita" class="- map/topicref " navtitle="Lessor lease classification (paragraphs 61–66)">
+                <topicref href="ifrs16/IFRS16_B53.dita" class="- map/topicref " navtitle="B53"/>
+                <topicref href="ifrs16/IFRS16_B54.dita" class="- map/topicref " navtitle="B54"/>
+                <topicref href="ifrs16/IFRS16_B55.dita" class="- map/topicref " navtitle="B55"/>
+                <topicref href="ifrs16/IFRS16_B56.dita" class="- map/topicref " navtitle="B56"/>
+                <topicref href="ifrs16/IFRS16_B57.dita" class="- map/topicref " navtitle="B57"/>
+                <topicref href="ifrs16/IFRS16_gB58-B58.dita" class="- map/topicref " navtitle="Sublease classification">
+                    <topicref href="ifrs16/IFRS16_B58.dita" class="- map/topicref " navtitle="B58"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs16/IFRS16_APPC.dita" class="- map/topicref " navtitle="Appendix C Effective date and transition">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="C" class="- topic/data "/>
+            </topicmeta>
+            <topicref href="ifrs16/IFRS16_gC1-C1.dita" class="- map/topicref " navtitle="Effective date">
+                <topicref href="ifrs16/IFRS16_C1.dita" class="- map/topicref " navtitle="C1"/>
+                <topicref href="ifrs16/IFRS16_C1A.dita" base="IFRS2020-2" class="- map/topicref " navtitle="C1A"/>
+                <topicref href="ifrs16/IFRS16_C1B.dita" base="IFRS2020-5" class="- map/topicref " navtitle="C1B"/>
+                <topicref href="ifrs16/IFRS16_C1C.dita" base="IFRS2021-1" class="- map/topicref " navtitle="C1C"/>
+                <topicref href="ifrs16/IFRS16_C1D_MARKER.dita" base="IASB-IFRS2022-1" class="- map/topicref " navtitle="C1D"/>
+            </topicref>
+            <topicref href="ifrs16/IFRS16_gC2-C20.dita" class="- map/topicref " navtitle="Transition">
+                <topicref href="ifrs16/IFRS16_C2.dita" class="- map/topicref " navtitle="C2"/>
+                <topicref href="ifrs16/IFRS16_gC3-C4.dita" class="- map/topicref " navtitle="Definition of a lease">
+                    <topicref href="ifrs16/IFRS16_C3.dita" class="- map/topicref " navtitle="C3"/>
+                    <topicref href="ifrs16/IFRS16_C4.dita" class="- map/topicref " navtitle="C4"/>
+                </topicref>
+                <topicref href="ifrs16/IFRS16_gC5-C13.dita" class="- map/topicref " navtitle="Lessees">
+                    <topicref href="ifrs16/IFRS16_C5.dita" class="- map/topicref " navtitle="C5"/>
+                    <topicref href="ifrs16/IFRS16_C6.dita" class="- map/topicref " navtitle="C6"/>
+                    <topicref href="ifrs16/IFRS16_C7.dita" class="- map/topicref " navtitle="C7"/>
+                    <topicref href="ifrs16/IFRS16_gC8-C10.dita" class="- map/topicref " navtitle="Leases previously classified as operating leases">
+                        <topicref href="ifrs16/IFRS16_C8.dita" class="- map/topicref " navtitle="C8"/>
+                        <topicref href="ifrs16/IFRS16_C9.dita" class="- map/topicref " navtitle="C9"/>
+                        <topicref href="ifrs16/IFRS16_C10.dita" class="- map/topicref " navtitle="C10"/>
+                    </topicref>
+                    <topicref href="ifrs16/IFRS16_gC11-C11.dita" class="- map/topicref " navtitle="Leases previously classified as finance leases">
+                        <topicref href="ifrs16/IFRS16_C11.dita" class="- map/topicref " navtitle="C11"/>
+                    </topicref>
+                    <topicref href="ifrs16/IFRS16_gC12-C13.dita" class="- map/topicref " navtitle="Disclosure">
+                        <topicref href="ifrs16/IFRS16_C12.dita" class="- map/topicref " navtitle="C12"/>
+                        <topicref href="ifrs16/IFRS16_C13.dita" class="- map/topicref " navtitle="C13"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifrs16/IFRS16_gC14-C15.dita" class="- map/topicref " navtitle="Lessors">
+                    <topicref href="ifrs16/IFRS16_C14.dita" class="- map/topicref " navtitle="C14"/>
+                    <topicref href="ifrs16/IFRS16_C15.dita" class="- map/topicref " navtitle="C15"/>
+                </topicref>
+                <topicref href="ifrs16/IFRS16_gC16-C18.dita" class="- map/topicref " navtitle="Sale and leaseback transactions before the date of initial application">
+                    <topicref href="ifrs16/IFRS16_C16.dita" class="- map/topicref " navtitle="C16"/>
+                    <topicref href="ifrs16/IFRS16_C17.dita" class="- map/topicref " navtitle="C17"/>
+                    <topicref href="ifrs16/IFRS16_C18.dita" class="- map/topicref " navtitle="C18"/>
+                </topicref>
+                <topicref href="ifrs16/IFRS16_gC19-C19.dita" class="- map/topicref " navtitle="Amounts previously recognised in respect of business combinations">
+                    <topicref href="ifrs16/IFRS16_C19.dita" class="- map/topicref " navtitle="C19"/>
+                </topicref>
+                <topicref href="ifrs16/IFRS16_gC20-C20.dita" class="- map/topicref " navtitle="References to IFRS 9">
+                    <topicref href="ifrs16/IFRS16_C20.dita" class="- map/topicref " navtitle="C20"/>
+                </topicref>
+                <topicref href="ifrs16/IFRS16_gC20A-C20B.dita" base="IFRS2020-2" class="- map/topicref " navtitle="Covid-19-related rent concessions for lessees">
+                    <topicref href="ifrs16/IFRS16_C20A.dita" class="- map/topicref " navtitle="C20A"/>
+                    <topicref href="ifrs16/IFRS16_C20B.dita" class="- map/topicref " navtitle="C20B"/>
+                    <topicref href="ifrs16/IFRS16_C20BA.dita" base="IFRS2021-1" class="- map/topicref " navtitle="C20BA"/>
+                    <topicref href="ifrs16/IFRS16_C20BB.dita" base="IFRS2021-1" class="- map/topicref " navtitle="C20BB"/>
+                    <topicref href="ifrs16/IFRS16_C20BC.dita" base="IFRS2021-1" class="- map/topicref " navtitle="C20BC"/>
+                </topicref>
+                <topicref href="ifrs16/IFRS16_gC20C-C20D.dita" base="IFRS2020-5" class="- map/topicref " navtitle="Interest Rate Benchmark Reform—Phase 2">
+                    <topicref href="ifrs16/IFRS16_C20C.dita" class="- map/topicref " navtitle="C20C"/>
+                    <topicref href="ifrs16/IFRS16_C20D.dita" class="- map/topicref " navtitle="C20D"/>
+                </topicref>
+                <topicref href="ifrs16/IFRS16_C20E_MARKER.dita" base="IASB-IFRS2022-1" class="- map/topicref " navtitle="C20E"/>
+            </topicref>
+            <topicref href="ifrs16/IFRS16_gC21-C21.dita" class="- map/topicref " navtitle="Withdrawal of other Standards">
+                <topicref href="ifrs16/IFRS16_C21.dita" class="- map/topicref " navtitle="C21"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs16/IFRS16_APPD.dita" class="- map/topicref " navtitle="Appendix D Amendments to other Standards">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="D" class="- topic/data "/>
+            </topicmeta>
+        </topicref>
+    </topicref>
+        <topicref href="ifrs16/IFRS16_BAJan2016.dita" class="- map/topicref " navtitle="Approval by the Board of IFRS 16 Leases issued in January 2016"/>
+        <topicref href="ifrs16/IFRS16_BAMay2020.dita" base="IFRS2020-2" class="- map/topicref " navtitle="Approval by the Board of Covid-19-Related Rent       Concessions issued in May 2020"/>
+        <topicref href="ifrs16/IFRS16_BAAug2020.dita" base="IFRS2020-5" class="- map/topicref " navtitle="Approval by the Board of Interest Rate Benchmark       Reform—Phase 2 issued in August 2020"/>
+        <topicref href="ifrs16/IFRS16_BAMar2021.dita" base="IFRS2021-1" class="- map/topicref " navtitle="Approval by the Board of Covid-19-Related Rent Concessions beyond 30 June 2021 issued in March 2021"/>
+    </chapter>
+    
+    
+</bookmap>

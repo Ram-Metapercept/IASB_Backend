@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" chunk="to-content" id="IAS27_BC_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle "><ph otherprops="print" class="- topic/ph ">Separate Financial Statements</ph></mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Basis For Conclusions</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IAS 27</booknumber>
+        </bookid>
+        <document_type value="IAS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2013-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2011-05-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ias-27-separate-financial-statements" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="basis-for-conclusion" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ias27/IAS27_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias27/IAS27_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias27/IAS27_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ias27/IAS27_PartC.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+    </frontmatter>
+    <chapter href="ias27/IAS27_TI0018.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Basis for Conclusions on IAS 27 Separate Financial Statements">
+        <topicref href="ias27/IAS27_gBC1-BC6.dita" class="- map/topicref " navtitle="Introduction">
+            <topicref href="ias27/IAS27_BC1.dita" class="- map/topicref " navtitle="BC1"/>
+            <topicref href="ias27/IAS27_BC2.dita" class="- map/topicref " navtitle="BC2"/>
+            <topicref href="ias27/IAS27_BC3.dita" class="- map/topicref " navtitle="BC3"/>
+            <topicref href="ias27/IAS27_BC4.dita" class="- map/topicref " navtitle="BC4"/>
+            <topicref href="ias27/IAS27_BC5.dita" class="- map/topicref " navtitle="BC5"/>
+            <topicref href="ias27/IAS27_BC6.dita" class="- map/topicref " navtitle="BC6"/>
+        </topicref>
+        <topicref href="ias27/IAS27_gBC7-BC8.dita" class="- map/topicref " navtitle="Consolidation exemption available for non‑public entities">
+            <topicref href="ias27/IAS27_BC7.dita" class="- map/topicref " navtitle="BC7"/>
+            <topicref href="ias27/IAS27_BC8.dita" class="- map/topicref " navtitle="BC8"/>
+        </topicref>
+        <topicref href="ias27/IAS27_gBC8A-BC8A_V2.dita" class="- map/topicref " navtitle="Investment entities">
+            <topicref href="ias27/IAS27_BC8A_a.dita" keys="IAS27_BC8A" class="- map/topicref " navtitle="BC8A"/>
+        </topicref>
+        <topicref href="ias27/IAS27_gBC9-BC27.dita" class="- map/topicref " navtitle="Measurement of investments in subsidiaries, joint ventures and associates in separate financial statements">
+            <topicref href="ias27/IAS27_gBC9-BC10.dita" class="- map/topicref " navtitle="2003 revision">
+                <topicmeta class="- map/topicmeta "/>
+                <topicref href="ias27/IAS27_BC9.dita" class="- map/topicref " navtitle="BC9">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="ias27/IAS27_BC10.dita" class="- map/topicref " navtitle="BC10">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+            </topicref>
+            <topicref href="ias27/IAS27_gBC10A-BC10H_V2.dita" class="- map/topicref " navtitle="Equity method in separate financial statements (amendments issued in 2014)">
+                <topicref href="ias27/IAS27_BC10A.dita" class="- map/topicref " navtitle="BC10A"/>
+                <topicref href="ias27/IAS27_BC10B.dita" class="- map/topicref " navtitle="BC10B"/>
+                <topicref href="ias27/IAS27_gBC10C-BC10E.dita" class="- map/topicref " navtitle="Definition of separate financial statements">
+                    <topicref href="ias27/IAS27_BC10C.dita" class="- map/topicref " navtitle="BC10C"/>
+                    <topicref href="ias27/IAS27_BC10D.dita" class="- map/topicref " navtitle="BC10D"/>
+                    <topicref href="ias27/IAS27_BC10E.dita" class="- map/topicref " navtitle="BC10E"/>
+                </topicref>
+                <topicref href="ias27/IAS27_gBC10F-BC10H.dita" class="- map/topicref " navtitle="Application of the equity method">
+                    <topicref href="ias27/IAS27_BC10F.dita" class="- map/topicref " navtitle="BC10F"/>
+                    <topicref href="ias27/IAS27_BC10G.dita" class="- map/topicref " navtitle="BC10G"/>
+                    <topicref href="ias27/IAS27_BC10H.dita" class="- map/topicref " navtitle="BC10H"/>
+                </topicref>
+            </topicref>
+            <topicref href="ias27/IAS27_gBC11-BC13_V2.dita" class="- map/topicref " navtitle="2008 amendments">
+                <topicref href="ias27/IAS27_BC11.dita" class="- map/topicref " navtitle="BC11">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="ias27/IAS27_BC12.dita" class="- map/topicref " navtitle="BC12">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="ias27/IAS27_BC13.dita" class="- map/topicref " navtitle="BC13">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+            </topicref>
+            <topicref href="ias27/IAS27_gBC14-BC20.dita" class="- map/topicref " navtitle="Dividend received from a subsidiary, a joint venture or an associate">
+                <topicref href="ias27/IAS27_BC14.dita" class="- map/topicref " navtitle="BC14"/>
+                <topicref href="ias27/IAS27_BC15.dita" class="- map/topicref " navtitle="BC15"/>
+                <topicref href="ias27/IAS27_BC16.dita" class="- map/topicref " navtitle="BC16"/>
+                <topicref href="ias27/IAS27_BC17.dita" class="- map/topicref " navtitle="BC17"/>
+                <topicref href="ias27/IAS27_BC18.dita" class="- map/topicref " navtitle="BC18"/>
+                <topicref href="ias27/IAS27_BC19.dita" class="- map/topicref " navtitle="BC19"/>
+                <topicref href="ias27/IAS27_BC20.dita" class="- map/topicref " navtitle="BC20"/>
+            </topicref>
+            <topicref href="ias27/IAS27_gBC21-BC27.dita" class="- map/topicref " navtitle="Measurement of cost in the separate financial statements of a new parent">
+                <topicref href="ias27/IAS27_BC21.dita" class="- map/topicref " navtitle="BC21"/>
+                <topicref href="ias27/IAS27_BC22.dita" class="- map/topicref " navtitle="BC22"/>
+                <topicref href="ias27/IAS27_BC23.dita" class="- map/topicref " navtitle="BC23"/>
+                <topicref href="ias27/IAS27_BC24.dita" class="- map/topicref " navtitle="BC24"/>
+                <topicref href="ias27/IAS27_BC25.dita" class="- map/topicref " navtitle="BC25"/>
+                <topicref href="ias27/IAS27_BC26.dita" class="- map/topicref " navtitle="BC26"/>
+                <topicref href="ias27/IAS27_BC27.dita" class="- map/topicref " navtitle="BC27"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias27/IAS27_gBC28-BC28.dita" class="- map/topicref " navtitle="Disclosure (2011 amendments)">
+            <topicref href="ias27/IAS27_BC28.dita" class="- map/topicref " navtitle="BC28"/>
+        </topicref>
+        <topicref href="ias27/IAS27_gBC29-BC33.dita" class="- map/topicref " navtitle="Effective date (2011 amendments)">
+            <topicref href="ias27/IAS27_BC29.dita" class="- map/topicref " navtitle="BC29"/>
+            <topicref href="ias27/IAS27_BC30.dita" class="- map/topicref " navtitle="BC30"/>
+            <topicref href="ias27/IAS27_BC31.dita" class="- map/topicref " navtitle="BC31"/>
+            <topicref href="ias27/IAS27_BC32.dita" class="- map/topicref " navtitle="BC32"/>
+        </topicref>
+        <topicref href="ias27/IAS27_gBC33-BC33_V1.dita" class="- map/topicref " navtitle="Transition requirements (2014 amendments)">
+            <topicref href="ias27/IAS27_BC33.dita" class="- map/topicref " navtitle="BC33"/>
+        </topicref>
+    
+        <topicref href="ias27/IAS27_BC_DO0001.dita" class="- map/topicref " navtitle="Dissenting Opinion">
+            <topicref href="ias27/IAS27_sgDO1-DO6.dita" class="- map/topicref " navtitle="Dissent of Mary E Barth and Philippe Danjou from Cost of an Investment in a Subsidiary, Jointly Controlled Entity or Associate (Amendments to IFRS 1 and IAS 27) issued in May 2008">
+                <topicref href="ias27/IAS27_DO1.dita" class="- map/topicref " navtitle="DO1"/>
+                <topicref href="ias27/IAS27_DO2.dita" class="- map/topicref " navtitle="DO2"/>
+                <topicref href="ias27/IAS27_DO3.dita" class="- map/topicref " navtitle="DO3"/>
+                <topicref href="ias27/IAS27_DO4.dita" class="- map/topicref " navtitle="DO4"/>
+                <topicref href="ias27/IAS27_DO5.dita" class="- map/topicref " navtitle="DO5"/>
+                <topicref href="ias27/IAS27_DO6.dita" class="- map/topicref " navtitle="DO6"/>
+            </topicref>
+        </topicref>
+    </chapter>
+    
+</bookmap>

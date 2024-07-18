@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" chunk="to-content" id="IFRS02_IG_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Share-based Payment</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Implementation Guidance</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IFRS 2</booknumber>
+        </bookid>
+        <document_type value="IFRS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2005-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2004-02-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ifrs-2-share-based-payment" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="implementation-guidance" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ifrs02/IFRS02_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs02/IFRS02_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs02/IFRS02_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ifrs02/IFRS02_PartB.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ifrs02/IFRS02_IG_TOC.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+    </frontmatter>
+    <chapter href="ifrs02/IFRS02_IG_TI.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Guidance on implementing IFRS 2 Share‑based Payment">
+        <topicref href="ifrs02/IFRS02_gIG1-IG4.dita" class="- map/topicref " navtitle="Definition of grant date">
+            <topicref href="ifrs02/IFRS02_IG1.dita" class="- map/topicref " navtitle="IG1"/>
+            <topicref href="ifrs02/IFRS02_IG2.dita" class="- map/topicref " navtitle="IG2"/>
+            <topicref href="ifrs02/IFRS02_IG3.dita" class="- map/topicref " navtitle="IG3"/>
+            <topicref href="ifrs02/IFRS02_IG4.dita" class="- map/topicref " navtitle="IG4"/>
+        </topicref>
+        <topicref href="ifrs02/IFRS02_gIG4A-IG4A.dita" class="- map/topicref " navtitle="Definition of vesting conditions">
+            <topicref href="ifrs02/IFRS02_IG4A.dita" class="- map/topicref " navtitle="IG4A"/>
+        </topicref>
+        <topicref href="ifrs02/IFRS02_gIG5-IG7.dita" class="- map/topicref " navtitle="Transactions with parties other than employees">
+            <topicref href="ifrs02/IFRS02_IG5.dita" class="- map/topicref " navtitle="IG5"/>
+            <topicref href="ifrs02/IFRS02_gIG5A-IG5D.dita" class="- map/topicref " navtitle="Transaction in which the entity cannot identify specifically some or all of the goods or services received">
+                <topicref href="ifrs02/IFRS02_IG5A.dita" class="- map/topicref " navtitle="IG5A"/>
+                <topicref href="ifrs02/IFRS02_IG5B.dita" class="- map/topicref " navtitle="IG5B"/>
+                <topicref href="ifrs02/IFRS02_IG5C.dita" class="- map/topicref " navtitle="IG5C"/>
+                <topicref href="ifrs02/IFRS02_IG5D.dita" class="- map/topicref " navtitle="IG5D"/>
+            </topicref>
+            <topicref href="ifrs02/IFRS02_gIG6-IG7.dita" class="- map/topicref " navtitle="Measurement date for transactions with parties other than employees">
+                <topicref href="ifrs02/IFRS02_IG6.dita" class="- map/topicref " navtitle="IG6"/>
+                <topicref href="ifrs02/IFRS02_IG7.dita" class="- map/topicref " navtitle="IG7"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs02/IFRS02_gIG8-IG8.dita" class="- map/topicref " navtitle="Transitional arrangements">
+            <topicref href="ifrs02/IFRS02_IG8.dita" class="- map/topicref " navtitle="IG8"/>
+        </topicref>
+        <topicref href="ifrs02/IFRS02_gIG9-IG17.dita" class="- map/topicref " navtitle="Equity‑settled share‑based payment transactions">
+            <topicref href="ifrs02/IFRS02_IG9.dita" class="- map/topicref " navtitle="IG9"/>
+            <topicref href="ifrs02/IFRS02_IG10.dita" class="- map/topicref " navtitle="IG10"/>
+            <topicref href="ifrs02/IFRS02_IG11.dita" class="- map/topicref " navtitle="IG11"/>
+            <topicref href="ifrs02/IFRS02_IG12.dita" class="- map/topicref " navtitle="IG12"/>
+            <topicref href="ifrs02/IFRS02_IG13.dita" class="- map/topicref " navtitle="IG13"/>
+            <topicref href="ifrs02/IFRS02_IG14.dita" class="- map/topicref " navtitle="IG14"/>
+            <topicref href="ifrs02/IFRS02_IG15.dita" class="- map/topicref " navtitle="IG15"/>
+            <topicref href="ifrs02/IFRS02_IG15A.dita" class="- map/topicref " navtitle="IG15A"/>
+            <topicref href="ifrs02/IFRS02_IG16.dita" class="- map/topicref " navtitle="IG16"/>
+            <topicref href="ifrs02/IFRS02_IG17.dita" class="- map/topicref " navtitle="IG17"/>
+        </topicref>
+        <topicref href="ifrs02/IFRS02_gIG18-IG19.dita" class="- map/topicref " navtitle="Cash‑settled share‑based payment transactions">
+            <topicref href="ifrs02/IFRS02_IG18.dita" class="- map/topicref " navtitle="IG18"/>
+            <topicref href="ifrs02/IFRS02_IG19.dita" class="- map/topicref " navtitle="IG19"/>
+        </topicref>
+        <topicref href="ifrs02/IFRS02_gIG19A-IG19A.dita" class="- map/topicref " navtitle="Share-based payment transactions with a net settlement feature for withholding tax obligations">
+            <topicref href="ifrs02/IFRS02_IG19A.dita" class="- map/topicref " navtitle="IG19A"/>
+        </topicref>
+        <topicref href="ifrs02/IFRS02_gIG19B-IG19B.dita" class="- map/topicref " navtitle="Accounting for a modification of a share-based payment transaction that changes its classification from cash-settled to equity-settled">
+            <topicref href="ifrs02/IFRS02_IG19B.dita" class="- map/topicref " navtitle="IG19B"/>
+        </topicref>
+        <topicref href="ifrs02/IFRS02_gIG20-IG22.dita" class="- map/topicref " navtitle="Share‑based payment arrangements with cash alternatives">
+            <topicref href="ifrs02/IFRS02_IG20.dita" class="- map/topicref " navtitle="IG20"/>
+            <topicref href="ifrs02/IFRS02_IG21.dita" class="- map/topicref " navtitle="IG21"/>
+            <topicref href="ifrs02/IFRS02_IG22.dita" class="- map/topicref " navtitle="IG22"/>
+        </topicref>
+        <topicref href="ifrs02/IFRS02_gIG22A-IG22A.dita" class="- map/topicref " navtitle="Share‑based payment transactions among group entities">
+            <topicref href="ifrs02/IFRS02_IG22A.dita" class="- map/topicref " navtitle="IG22A"/>
+        </topicref>
+        <topicref href="ifrs02/IFRS02_gIG23-IG23.dita" class="- map/topicref " navtitle="Illustrative disclosures">
+            <topicref href="ifrs02/IFRS02_IG23.dita" class="- map/topicref " navtitle="IG23"/>
+        </topicref>
+        <topicref href="ifrs02/IFRS02_gIG24-IG24.dita" class="- map/topicref " navtitle="Summary of conditions for a counterparty to receive an equity instrument granted and of accounting treatments">
+            <topicref href="ifrs02/IFRS02_IG24.dita" class="- map/topicref " navtitle="IG24"/>
+        </topicref>
+    </chapter>
+    
+</bookmap>

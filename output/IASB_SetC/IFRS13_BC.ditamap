@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IFRS13_BC_CHK_ALL" chunk="to-content" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Fair Value
+            Measurement</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Basis For Conclusions</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IFRS 13</booknumber>
+        </bookid>
+        <document_type value="IFRS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2013-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2011-05-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ifrs-13-fair-value-measurement" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="basis-for-conclusion" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ifrs13/IFRS13_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs13/IFRS13_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs13/IFRS13_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ifrs13/IFRS13_PartC.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ifrs13/IFRS13_BC_TOC.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+    </frontmatter>
+    <chapter href="ifrs13/IFRS13_BC_TI.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Basis for Conclusions on IFRS 13 Fair Value Measurement">
+        <topicref href="ifrs13/IFRS13_gBC1-BC18.dita" class="- map/topicref " navtitle="Introduction">
+            <topicref href="ifrs13/IFRS13_BC1.dita" class="- map/topicref " navtitle="BC1"/>
+            <topicref href="ifrs13/IFRS13_BC2.dita" class="- map/topicref " navtitle="BC2"/>
+            <topicref href="ifrs13/IFRS13_BC3.dita" class="- map/topicref " navtitle="BC3"/>
+            <topicref href="ifrs13/IFRS13_gBC4-BC8.dita" class="- map/topicref " navtitle="Overview">
+                <topicref href="ifrs13/IFRS13_BC4.dita" class="- map/topicref " navtitle="BC4"/>
+                <topicref href="ifrs13/IFRS13_BC5.dita" class="- map/topicref " navtitle="BC5"/>
+                <topicref href="ifrs13/IFRS13_BC6.dita" class="- map/topicref " navtitle="BC6"/>
+                <topicref href="ifrs13/IFRS13_BC7.dita" class="- map/topicref " navtitle="BC7"/>
+                <topicref href="ifrs13/IFRS13_BC8.dita" class="- map/topicref " navtitle="BC8"/>
+            </topicref>
+            <topicref href="ifrs13/IFRS13_gBC9-BC18.dita" class="- map/topicref " navtitle="Background">
+                <topicref href="ifrs13/IFRS13_BC9.dita" class="- map/topicref " navtitle="BC9"/>
+                <topicref href="ifrs13/IFRS13_BC10.dita" class="- map/topicref " navtitle="BC10"/>
+                <topicref href="ifrs13/IFRS13_BC11.dita" class="- map/topicref " navtitle="BC11"/>
+                <topicref href="ifrs13/IFRS13_BC12.dita" class="- map/topicref " navtitle="BC12"/>
+                <topicref href="ifrs13/IFRS13_BC13.dita" class="- map/topicref " navtitle="BC13"/>
+                <topicref href="ifrs13/IFRS13_BC14.dita" class="- map/topicref " navtitle="BC14"/>
+                <topicref href="ifrs13/IFRS13_BC15.dita" class="- map/topicref " navtitle="BC15"/>
+                <topicref href="ifrs13/IFRS13_BC16.dita" class="- map/topicref " navtitle="BC16"/>
+                <topicref href="ifrs13/IFRS13_BC17.dita" class="- map/topicref " navtitle="BC17"/>
+                <topicref href="ifrs13/IFRS13_BC18.dita" class="- map/topicref " navtitle="BC18"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs13/IFRS13_gBC19-BC26.dita" class="- map/topicref " navtitle="Scope">
+            <topicref href="ifrs13/IFRS13_BC19.dita" class="- map/topicref " navtitle="BC19"/>
+            <topicref href="ifrs13/IFRS13_BC20.dita" class="- map/topicref " navtitle="BC20"/>
+            <topicref href="ifrs13/IFRS13_BC21.dita" class="- map/topicref " navtitle="BC21"/>
+            <topicref href="ifrs13/IFRS13_BC22.dita" class="- map/topicref " navtitle="BC22"/>
+            <topicref href="ifrs13/IFRS13_BC23.dita" class="- map/topicref " navtitle="BC23"/>
+            <topicref href="ifrs13/IFRS13_BC24.dita" class="- map/topicref " navtitle="BC24"/>
+            <topicref href="ifrs13/IFRS13_BC25.dita" class="- map/topicref " navtitle="BC25"/>
+            <topicref href="ifrs13/IFRS13_BC26.dita" class="- map/topicref " navtitle="BC26"/>
+        </topicref>
+        <topicref href="ifrs13/IFRS13_gBC27-BC182.dita" class="- map/topicref " navtitle="Measurement">
+            <topicref href="ifrs13/IFRS13_gBC27-BC45.dita" class="- map/topicref " navtitle="Definition of fair value">
+                <topicref href="ifrs13/IFRS13_gBC27-BC35.dita" class="- map/topicref " navtitle="Clarifying the measurement objective">
+                    <topicref href="ifrs13/IFRS13_BC27.dita" class="- map/topicref " navtitle="BC27"/>
+                    <topicref href="ifrs13/IFRS13_BC28.dita" class="- map/topicref " navtitle="BC28"/>
+                    <topicref href="ifrs13/IFRS13_BC29.dita" class="- map/topicref " navtitle="BC29"/>
+                    <topicref href="ifrs13/IFRS13_BC30.dita" class="- map/topicref " navtitle="BC30"/>
+                    <topicref href="ifrs13/IFRS13_BC31.dita" class="- map/topicref " navtitle="BC31"/>
+                    <topicref href="ifrs13/IFRS13_BC32.dita" class="- map/topicref " navtitle="BC32"/>
+                    <topicref href="ifrs13/IFRS13_BC33.dita" class="- map/topicref " navtitle="BC33"/>
+                    <topicref href="ifrs13/IFRS13_BC34.dita" class="- map/topicref " navtitle="BC34"/>
+                    <topicref href="ifrs13/IFRS13_BC35.dita" class="- map/topicref " navtitle="BC35"/>
+                </topicref>
+                <topicref href="ifrs13/IFRS13_gBC36-BC45.dita" class="- map/topicref " navtitle="Fair value as a current exit price">
+                    <topicref href="ifrs13/IFRS13_BC36.dita" class="- map/topicref " navtitle="BC36"/>
+                    <topicref href="ifrs13/IFRS13_BC37.dita" class="- map/topicref " navtitle="BC37"/>
+                    <topicref href="ifrs13/IFRS13_BC38.dita" class="- map/topicref " navtitle="BC38"/>
+                    <topicref href="ifrs13/IFRS13_BC39.dita" class="- map/topicref " navtitle="BC39"/>
+                    <topicref href="ifrs13/IFRS13_BC40.dita" class="- map/topicref " navtitle="BC40"/>
+                    <topicref href="ifrs13/IFRS13_BC41.dita" class="- map/topicref " navtitle="BC41"/>
+                    <topicref href="ifrs13/IFRS13_BC42.dita" class="- map/topicref " navtitle="BC42"/>
+                    <topicref href="ifrs13/IFRS13_BC43.dita" class="- map/topicref " navtitle="BC43"/>
+                    <topicref href="ifrs13/IFRS13_BC44.dita" class="- map/topicref " navtitle="BC44"/>
+                    <topicref href="ifrs13/IFRS13_BC45.dita" class="- map/topicref " navtitle="BC45"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs13/IFRS13_gBC46-BC47.dita" class="- map/topicref " navtitle="The asset or liability">
+                <topicref href="ifrs13/IFRS13_BC46.dita" class="- map/topicref " navtitle="BC46"/>
+                <topicref href="ifrs13/IFRS13_BC47.dita" class="- map/topicref " navtitle="BC47"/>
+            </topicref>
+            <topicref href="ifrs13/IFRS13_gBC48-BC54.dita" class="- map/topicref " navtitle="The transaction">
+                <topicref href="ifrs13/IFRS13_BC48.dita" class="- map/topicref " navtitle="BC48"/>
+                <topicref href="ifrs13/IFRS13_BC49.dita" class="- map/topicref " navtitle="BC49"/>
+                <topicref href="ifrs13/IFRS13_BC50.dita" class="- map/topicref " navtitle="BC50"/>
+                <topicref href="ifrs13/IFRS13_BC51.dita" class="- map/topicref " navtitle="BC51"/>
+                <topicref href="ifrs13/IFRS13_BC52.dita" class="- map/topicref " navtitle="BC52"/>
+                <topicref href="ifrs13/IFRS13_BC53.dita" class="- map/topicref " navtitle="BC53"/>
+                <topicref href="ifrs13/IFRS13_BC54.dita" class="- map/topicref " navtitle="BC54"/>
+            </topicref>
+            <topicref href="ifrs13/IFRS13_gBC55-BC59.dita" class="- map/topicref " navtitle="Market participants">
+                <topicref href="ifrs13/IFRS13_BC55.dita" class="- map/topicref " navtitle="BC55"/>
+                <topicref href="ifrs13/IFRS13_BC56.dita" class="- map/topicref " navtitle="BC56"/>
+                <topicref href="ifrs13/IFRS13_gBC57-BC57.dita" class="- map/topicref " navtitle="Independence">
+                    <topicref href="ifrs13/IFRS13_BC57.dita" class="- map/topicref " navtitle="BC57"/>
+                </topicref>
+                <topicref href="ifrs13/IFRS13_gBC58-BC59.dita" class="- map/topicref " navtitle="Knowledge">
+                    <topicref href="ifrs13/IFRS13_BC58.dita" class="- map/topicref " navtitle="BC58"/>
+                    <topicref href="ifrs13/IFRS13_BC59.dita" class="- map/topicref " navtitle="BC59"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs13/IFRS13_gBC60-BC62.dita" class="- map/topicref " navtitle="The price">
+                <topicref href="ifrs13/IFRS13_BC60.dita" class="- map/topicref " navtitle="BC60"/>
+                <topicref href="ifrs13/IFRS13_BC61.dita" class="- map/topicref " navtitle="BC61"/>
+                <topicref href="ifrs13/IFRS13_BC62.dita" class="- map/topicref " navtitle="BC62"/>
+            </topicref>
+            <topicref href="ifrs13/IFRS13_gBC63-BC79.dita" class="- map/topicref " navtitle="Application to non‑financial assets">
+                <topicref href="ifrs13/IFRS13_gBC63-BC67.dita" class="- map/topicref " navtitle="Distinguishing between financial assets, non-financial assets and liabilities">
+                    <topicref href="ifrs13/IFRS13_BC63.dita" class="- map/topicref " navtitle="BC63"/>
+                    <topicref href="ifrs13/IFRS13_BC64.dita" class="- map/topicref " navtitle="BC64"/>
+                    <topicref href="ifrs13/IFRS13_BC65.dita" class="- map/topicref " navtitle="BC65"/>
+                    <topicref href="ifrs13/IFRS13_BC66.dita" class="- map/topicref " navtitle="BC66"/>
+                    <topicref href="ifrs13/IFRS13_BC67.dita" class="- map/topicref " navtitle="BC67"/>
+                </topicref>
+                <topicref href="ifrs13/IFRS13_gBC68-BC73.dita" class="- map/topicref " navtitle="Highest and best use">
+                    <topicref href="ifrs13/IFRS13_BC68.dita" class="- map/topicref " navtitle="BC68"/>
+                    <topicref href="ifrs13/IFRS13_BC69.dita" class="- map/topicref " navtitle="BC69"/>
+                    <topicref href="ifrs13/IFRS13_BC70.dita" class="- map/topicref " navtitle="BC70"/>
+                    <topicref href="ifrs13/IFRS13_BC71.dita" class="- map/topicref " navtitle="BC71"/>
+                    <topicref href="ifrs13/IFRS13_BC72.dita" class="- map/topicref " navtitle="BC72"/>
+                    <topicref href="ifrs13/IFRS13_BC73.dita" class="- map/topicref " navtitle="BC73"/>
+                </topicref>
+                <topicref href="ifrs13/IFRS13_gBC74-BC79.dita" class="- map/topicref " navtitle="Valuation premise">
+                    <topicref href="ifrs13/IFRS13_gBC74-BC76.dita" class="- map/topicref " navtitle="Terminology">
+                        <topicref href="ifrs13/IFRS13_BC74.dita" class="- map/topicref " navtitle="BC74"/>
+                        <topicref href="ifrs13/IFRS13_BC75.dita" class="- map/topicref " navtitle="BC75"/>
+                        <topicref href="ifrs13/IFRS13_BC76.dita" class="- map/topicref " navtitle="BC76"/>
+                    </topicref>
+                    <topicref href="ifrs13/IFRS13_gBC77-BC77.dita" class="- map/topicref " navtitle="Valuation premise for a single non‑financial asset">
+                        <topicref href="ifrs13/IFRS13_BC77.dita" class="- map/topicref " navtitle="BC77"/>
+                    </topicref>
+                    <topicref href="ifrs13/IFRS13_gBC78-BC79.dita" class="- map/topicref " navtitle="Valuation premise for specialised non-financial assets">
+                        <topicref href="ifrs13/IFRS13_BC78.dita" class="- map/topicref " navtitle="BC78"/>
+                        <topicref href="ifrs13/IFRS13_BC79.dita" class="- map/topicref " navtitle="BC79"/>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs13/IFRS13_gBC80-BCZ103.dita" class="- map/topicref " navtitle="Application to liabilities">
+                <topicref href="ifrs13/IFRS13_gBC80-BC80.dita" class="- map/topicref " navtitle="General principles">
+                    <topicref href="ifrs13/IFRS13_BC80.dita" class="- map/topicref " navtitle="BC80"/>
+                </topicref>
+                <topicref href="ifrs13/IFRS13_BC81.dita" class="- map/topicref " navtitle="BC81"/>
+                <topicref href="ifrs13/IFRS13_BC82.dita" class="- map/topicref " navtitle="BC82"/>
+                <topicref href="ifrs13/IFRS13_BC83.dita" class="- map/topicref " navtitle="BC83"/>
+                <topicref href="ifrs13/IFRS13_BC84.dita" class="- map/topicref " navtitle="BC84"/>
+                <topicref href="ifrs13/IFRS13_BC85.dita" class="- map/topicref " navtitle="BC85"/>
+                <topicref href="ifrs13/IFRS13_BC86.dita" class="- map/topicref " navtitle="BC86"/>
+                <topicref href="ifrs13/IFRS13_BC87.dita" class="- map/topicref " navtitle="BC87"/>
+                <topicref href="ifrs13/IFRS13_BC88.dita" class="- map/topicref " navtitle="BC88"/>
+                <topicref href="ifrs13/IFRS13_BC89.dita" class="- map/topicref " navtitle="BC89"/>
+                <topicref href="ifrs13/IFRS13_BC90.dita" class="- map/topicref " navtitle="BC90"/>
+                <topicref href="ifrs13/IFRS13_BC91.dita" class="- map/topicref " navtitle="BC91"/>
+                <topicref href="ifrs13/IFRS13_gBC92-BC98.dita" class="- map/topicref " navtitle="Non-performance risk">
+                    <topicref href="ifrs13/IFRS13_BC92.dita" class="- map/topicref " navtitle="BC92"/>
+                    <topicref href="ifrs13/IFRS13_BC93.dita" class="- map/topicref " navtitle="BC93"/>
+                    <topicref href="ifrs13/IFRS13_BC94.dita" class="- map/topicref " navtitle="BC94"/>
+                    <topicref href="ifrs13/IFRS13_BC95.dita" class="- map/topicref " navtitle="BC95"/>
+                    <topicref href="ifrs13/IFRS13_gBC96-BC98.dita" class="- map/topicref " navtitle="Liabilities issued with third-party credit enhancements">
+                        <topicref href="ifrs13/IFRS13_BC96.dita" class="- map/topicref " navtitle="BC96"/>
+                        <topicref href="ifrs13/IFRS13_BC97.dita" class="- map/topicref " navtitle="BC97"/>
+                        <topicref href="ifrs13/IFRS13_BC98.dita" class="- map/topicref " navtitle="BC98"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifrs13/IFRS13_gBC99-BC100.dita" class="- map/topicref " navtitle="Restrictions preventing transfer">
+                    <topicref href="ifrs13/IFRS13_BC99.dita" class="- map/topicref " navtitle="BC99"/>
+                    <topicref href="ifrs13/IFRS13_BC100.dita" class="- map/topicref " navtitle="BC100"/>
+                </topicref>
+                <topicref href="ifrs13/IFRS13_gBC101-BCZ103.dita" class="- map/topicref " navtitle="Measurement of financial liabilities with a demand feature ">
+                    <topicref href="ifrs13/IFRS13_BC101.dita" class="- map/topicref " navtitle="BC101"/>
+                    <topicref href="ifrs13/IFRS13_BCZ102.dita" class="- map/topicref " navtitle="BCZ102"/>
+                    <topicref href="ifrs13/IFRS13_BCZ103.dita" class="- map/topicref " navtitle="BCZ103"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs13/IFRS13_gBC104-BC107.dita" class="- map/topicref " navtitle="Application to an entity’s own equity instruments">
+                <topicref href="ifrs13/IFRS13_BC104.dita" class="- map/topicref " navtitle="BC104"/>
+                <topicref href="ifrs13/IFRS13_BC105.dita" class="- map/topicref " navtitle="BC105"/>
+                <topicref href="ifrs13/IFRS13_BC106.dita" class="- map/topicref " navtitle="BC106"/>
+                <topicref href="ifrs13/IFRS13_BC107.dita" class="- map/topicref " navtitle="BC107"/>
+            </topicref>
+            <topicref href="ifrs13/IFRS13_gBC108-BC131.dita" class="- map/topicref " navtitle="Application to financial assets and financial liabilities with offsetting positions in market risks or counterparty credit risk">
+                <topicref href="ifrs13/IFRS13_BC108.dita" class="- map/topicref " navtitle="BC108"/>
+                <topicref href="ifrs13/IFRS13_BC109.dita" class="- map/topicref " navtitle="BC109"/>
+                <topicref href="ifrs13/IFRS13_BC110.dita" class="- map/topicref " navtitle="BC110"/>
+                <topicref href="ifrs13/IFRS13_BC111.dita" class="- map/topicref " navtitle="BC111"/>
+                <topicref href="ifrs13/IFRS13_BC112.dita" class="- map/topicref " navtitle="BC112"/>
+                <topicref href="ifrs13/IFRS13_BC113.dita" class="- map/topicref " navtitle="BC113"/>
+                <topicref href="ifrs13/IFRS13_BC114.dita" class="- map/topicref " navtitle="BC114"/>
+                <topicref href="ifrs13/IFRS13_BC115.dita" class="- map/topicref " navtitle="BC115"/>
+                <topicref href="ifrs13/IFRS13_BC116.dita" class="- map/topicref " navtitle="BC116"/>
+                <topicref href="ifrs13/IFRS13_BC117.dita" class="- map/topicref " navtitle="BC117"/>
+                <topicref href="ifrs13/IFRS13_BC118.dita" class="- map/topicref " navtitle="BC118"/>
+                <topicref href="ifrs13/IFRS13_BC119.dita" class="- map/topicref " navtitle="BC119"/>
+                <topicref href="ifrs13/IFRS13_gBC119A-BC119B_V1.dita" class="- map/topicref " navtitle="Scope of paragraph 52">
+                    <topicref href="ifrs13/IFRS13_BC119A.dita" class="- map/topicref " navtitle="BC119A"/>
+                    <topicref href="ifrs13/IFRS13_BC119B.dita" class="- map/topicref " navtitle="BC119B"/>
+                </topicref>
+                <topicref href="ifrs13/IFRS13_gBC120-BC121.dita" class="- map/topicref " navtitle="Evidence of managing financial instruments on the basis of the net risk exposure">
+                    <topicref href="ifrs13/IFRS13_BC120.dita" class="- map/topicref " navtitle="BC120"/>
+                    <topicref href="ifrs13/IFRS13_BC121.dita" class="- map/topicref " navtitle="BC121"/>
+                </topicref>
+                <topicref href="ifrs13/IFRS13_gBC122-BC123.dita" class="- map/topicref " navtitle="Exposure to market risks">
+                    <topicref href="ifrs13/IFRS13_BC122.dita" class="- map/topicref " navtitle="BC122"/>
+                    <topicref href="ifrs13/IFRS13_BC123.dita" class="- map/topicref " navtitle="BC123"/>
+                </topicref>
+                <topicref href="ifrs13/IFRS13_gBC124-BC127.dita" class="- map/topicref " navtitle="Exposure to the credit risk of a particular counterparty">
+                    <topicref href="ifrs13/IFRS13_BC124.dita" class="- map/topicref " navtitle="BC124"/>
+                    <topicref href="ifrs13/IFRS13_BC125.dita" class="- map/topicref " navtitle="BC125"/>
+                    <topicref href="ifrs13/IFRS13_BC126.dita" class="- map/topicref " navtitle="BC126"/>
+                    <topicref href="ifrs13/IFRS13_BC127.dita" class="- map/topicref " navtitle="BC127"/>
+                </topicref>
+                <topicref href="ifrs13/IFRS13_gBC128-BC131.dita" class="- map/topicref " navtitle="Relationship between measurement and presentation">
+                    <topicref href="ifrs13/IFRS13_BC128.dita" class="- map/topicref " navtitle="BC128"/>
+                    <topicref href="ifrs13/IFRS13_BC129.dita" class="- map/topicref " navtitle="BC129"/>
+                    <topicref href="ifrs13/IFRS13_BC130.dita" class="- map/topicref " navtitle="BC130"/>
+                    <topicref href="ifrs13/IFRS13_BC131.dita" class="- map/topicref " navtitle="BC131"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs13/IFRS13_gBC132-BC138.dita" class="- map/topicref " navtitle="Fair value at initial recognition">
+                <topicref href="ifrs13/IFRS13_BC132.dita" class="- map/topicref " navtitle="BC132"/>
+                <topicref href="ifrs13/IFRS13_BC133.dita" class="- map/topicref " navtitle="BC133"/>
+                <topicref href="ifrs13/IFRS13_BC134.dita" class="- map/topicref " navtitle="BC134"/>
+                <topicref href="ifrs13/IFRS13_BC135.dita" class="- map/topicref " navtitle="BC135"/>
+                <topicref href="ifrs13/IFRS13_BC136.dita" class="- map/topicref " navtitle="BC136"/>
+                <topicref href="ifrs13/IFRS13_BC137.dita" class="- map/topicref " navtitle="BC137"/>
+                <topicref href="ifrs13/IFRS13_BC138.dita" class="- map/topicref " navtitle="BC138"/>
+            </topicref>
+            <topicref href="ifrs13/IFRS13_gBC138A-BC138A_V1.dita" class="- map/topicref " navtitle="Short-term receivables and payables">
+                <topicref href="ifrs13/IFRS13_BC138A.dita" class="- map/topicref " navtitle="BC138A"/>
+            </topicref>
+            <topicref href="ifrs13/IFRS13_gBC139-BC148.dita" class="- map/topicref " navtitle="Valuation techniques">
+                <topicref href="ifrs13/IFRS13_BC139.dita" class="- map/topicref " navtitle="BC139"/>
+                <topicref href="ifrs13/IFRS13_BC140.dita" class="- map/topicref " navtitle="BC140"/>
+                <topicref href="ifrs13/IFRS13_BC141.dita" class="- map/topicref " navtitle="BC141"/>
+                <topicref href="ifrs13/IFRS13_gBC142-BC142.dita" class="- map/topicref " navtitle="Single versus multiple valuation techniques">
+                    <topicref href="ifrs13/IFRS13_BC142.dita" class="- map/topicref " navtitle="BC142"/>
+                </topicref>
+                <topicref href="ifrs13/IFRS13_gBC143-BC146.dita" class="- map/topicref " navtitle="Valuation adjustments">
+                    <topicref href="ifrs13/IFRS13_BC143.dita" class="- map/topicref " navtitle="BC143"/>
+                    <topicref href="ifrs13/IFRS13_BC144.dita" class="- map/topicref " navtitle="BC144"/>
+                    <topicref href="ifrs13/IFRS13_BC145.dita" class="- map/topicref " navtitle="BC145"/>
+                    <topicref href="ifrs13/IFRS13_BC146.dita" class="- map/topicref " navtitle="BC146"/>
+                </topicref>
+                <topicref href="ifrs13/IFRS13_gBC147-BC148.dita" class="- map/topicref " navtitle="Consistency constraint">
+                    <topicref href="ifrs13/IFRS13_BC147.dita" class="- map/topicref " navtitle="BC147"/>
+                    <topicref href="ifrs13/IFRS13_BC148.dita" class="- map/topicref " navtitle="BC148"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs13/IFRS13_gBC149-BC165.dita" class="- map/topicref " navtitle="Inputs to valuation techniques">
+                <topicref href="ifrs13/IFRS13_gBC149-BC150.dita" class="- map/topicref " navtitle="Assumptions about risk">
+                    <topicref href="ifrs13/IFRS13_BC149.dita" class="- map/topicref " navtitle="BC149"/>
+                    <topicref href="ifrs13/IFRS13_BC150.dita" class="- map/topicref " navtitle="BC150"/>
+                </topicref>
+                <topicref href="ifrs13/IFRS13_gBC151-BC151.dita" class="- map/topicref " navtitle="Observable and unobservable inputs">
+                    <topicref href="ifrs13/IFRS13_BC151.dita" class="- map/topicref " navtitle="BC151"/>
+                </topicref>
+                <topicref href="ifrs13/IFRS13_gBC152-BC159.dita" class="- map/topicref " navtitle="Application of premiums and discounts in a fair value measurement">
+                    <topicref href="ifrs13/IFRS13_BC152.dita" class="- map/topicref " navtitle="BC152"/>
+                    <topicref href="ifrs13/IFRS13_BC153.dita" class="- map/topicref " navtitle="BC153"/>
+                    <topicref href="ifrs13/IFRS13_BC154.dita" class="- map/topicref " navtitle="BC154"/>
+                    <topicref href="ifrs13/IFRS13_BC155.dita" class="- map/topicref " navtitle="BC155"/>
+                    <topicref href="ifrs13/IFRS13_BC156.dita" class="- map/topicref " navtitle="BC156"/>
+                    <topicref href="ifrs13/IFRS13_BC157.dita" class="- map/topicref " navtitle="BC157"/>
+                    <topicref href="ifrs13/IFRS13_BC158.dita" class="- map/topicref " navtitle="BC158"/>
+                    <topicref href="ifrs13/IFRS13_BC159.dita" class="- map/topicref " navtitle="BC159"/>
+                </topicref>
+                <topicref href="ifrs13/IFRS13_gBC160-BC165.dita" class="- map/topicref " navtitle="Inputs based on bid and ask prices">
+                    <topicref href="ifrs13/IFRS13_BC160.dita" class="- map/topicref " navtitle="BC160"/>
+                    <topicref href="ifrs13/IFRS13_BC161.dita" class="- map/topicref " navtitle="BC161"/>
+                    <topicref href="ifrs13/IFRS13_BC162.dita" class="- map/topicref " navtitle="BC162"/>
+                    <topicref href="ifrs13/IFRS13_BC163.dita" class="- map/topicref " navtitle="BC163"/>
+                    <topicref href="ifrs13/IFRS13_BC164.dita" class="- map/topicref " navtitle="BC164"/>
+                    <topicref href="ifrs13/IFRS13_BC165.dita" class="- map/topicref " navtitle="BC165"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs13/IFRS13_gBC166-BC182.dita" class="- map/topicref " navtitle="Fair value hierarchy">
+                <topicref href="ifrs13/IFRS13_BC166.dita" class="- map/topicref " navtitle="BC166"/>
+                <topicref href="ifrs13/IFRS13_BC167.dita" class="- map/topicref " navtitle="BC167"/>
+                <topicref href="ifrs13/IFRS13_gBC168-BC170.dita" class="- map/topicref " navtitle="Level 1 inputs">
+                    <topicref href="ifrs13/IFRS13_BC168.dita" class="- map/topicref " navtitle="BC168"/>
+                    <topicref href="ifrs13/IFRS13_BC169.dita" class="- map/topicref " navtitle="BC169"/>
+                    <topicref href="ifrs13/IFRS13_BC170.dita" class="- map/topicref " navtitle="BC170"/>
+                </topicref>
+                <topicref href="ifrs13/IFRS13_gBC171-BC171.dita" class="- map/topicref " navtitle="Level 2 inputs">
+                    <topicref href="ifrs13/IFRS13_BC171.dita" class="- map/topicref " navtitle="BC171"/>
+                </topicref>
+                <topicref href="ifrs13/IFRS13_gBC172-BC175.dita" class="- map/topicref " navtitle="Level 3 inputs">
+                    <topicref href="ifrs13/IFRS13_BC172.dita" class="- map/topicref " navtitle="BC172"/>
+                    <topicref href="ifrs13/IFRS13_BC173.dita" class="- map/topicref " navtitle="BC173"/>
+                    <topicref href="ifrs13/IFRS13_BC174.dita" class="- map/topicref " navtitle="BC174"/>
+                    <topicref href="ifrs13/IFRS13_BC175.dita" class="- map/topicref " navtitle="BC175"/>
+                </topicref>
+                <topicref href="ifrs13/IFRS13_gBC176-BC182.dita" class="- map/topicref " navtitle="Measuring fair value when the volume or level of activity for an asset or a liability has significantly decreased">
+                    <topicref href="ifrs13/IFRS13_BC176.dita" class="- map/topicref " navtitle="BC176"/>
+                    <topicref href="ifrs13/IFRS13_BC177.dita" class="- map/topicref " navtitle="BC177"/>
+                    <topicref href="ifrs13/IFRS13_BC178.dita" class="- map/topicref " navtitle="BC178"/>
+                    <topicref href="ifrs13/IFRS13_BC179.dita" class="- map/topicref " navtitle="BC179"/>
+                    <topicref href="ifrs13/IFRS13_BC180.dita" class="- map/topicref " navtitle="BC180"/>
+                    <topicref href="ifrs13/IFRS13_BC181.dita" class="- map/topicref " navtitle="BC181"/>
+                    <topicref href="ifrs13/IFRS13_BC182.dita" class="- map/topicref " navtitle="BC182"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs13/IFRS13_gBC183-BC224.dita" class="- map/topicref " navtitle="Disclosure">
+            <topicref href="ifrs13/IFRS13_BC183.dita" class="- map/topicref " navtitle="BC183"/>
+            <topicref href="ifrs13/IFRS13_BC184.dita" class="- map/topicref " navtitle="BC184"/>
+            <topicref href="ifrs13/IFRS13_BC185.dita" class="- map/topicref " navtitle="BC185"/>
+            <topicref href="ifrs13/IFRS13_gBC186-BC186.dita" class="- map/topicref " navtitle="Distinguishing between recurring and non-recurring fair value measurements">
+                <topicref href="ifrs13/IFRS13_BC186.dita" class="- map/topicref " navtitle="BC186"/>
+            </topicref>
+            <topicref href="ifrs13/IFRS13_gBC187-BC210.dita" class="- map/topicref " navtitle="Information about fair value measurements categorised within Level 3 of the fair value hierarchy">
+                <topicref href="ifrs13/IFRS13_BC187.dita" class="- map/topicref " navtitle="BC187"/>
+                <topicref href="ifrs13/IFRS13_gBC188-BC195.dita" class="- map/topicref " navtitle="Quantitative information">
+                    <topicref href="ifrs13/IFRS13_BC188.dita" class="- map/topicref " navtitle="BC188"/>
+                    <topicref href="ifrs13/IFRS13_BC189.dita" class="- map/topicref " navtitle="BC189"/>
+                    <topicref href="ifrs13/IFRS13_BC190.dita" class="- map/topicref " navtitle="BC190"/>
+                    <topicref href="ifrs13/IFRS13_BC191.dita" class="- map/topicref " navtitle="BC191"/>
+                    <topicref href="ifrs13/IFRS13_BC192.dita" class="- map/topicref " navtitle="BC192"/>
+                    <topicref href="ifrs13/IFRS13_BC193.dita" class="- map/topicref " navtitle="BC193"/>
+                    <topicref href="ifrs13/IFRS13_BC194.dita" class="- map/topicref " navtitle="BC194"/>
+                    <topicref href="ifrs13/IFRS13_BC195.dita" class="- map/topicref " navtitle="BC195"/>
+                </topicref>
+                <topicref href="ifrs13/IFRS13_gBC196-BC199.dita" class="- map/topicref " navtitle="Level 3 reconciliation for recurring fair value measurements">
+                    <topicref href="ifrs13/IFRS13_BC196.dita" class="- map/topicref " navtitle="BC196"/>
+                    <topicref href="ifrs13/IFRS13_BC197.dita" class="- map/topicref " navtitle="BC197"/>
+                    <topicref href="ifrs13/IFRS13_BC198.dita" class="- map/topicref " navtitle="BC198"/>
+                    <topicref href="ifrs13/IFRS13_BC199.dita" class="- map/topicref " navtitle="BC199"/>
+                </topicref>
+                <topicref href="ifrs13/IFRS13_gBC200-BC201.dita" class="- map/topicref " navtitle="Valuation processes">
+                    <topicref href="ifrs13/IFRS13_BC200.dita" class="- map/topicref " navtitle="BC200"/>
+                    <topicref href="ifrs13/IFRS13_BC201.dita" class="- map/topicref " navtitle="BC201"/>
+                </topicref>
+                <topicref href="ifrs13/IFRS13_gBC202-BC210.dita" class="- map/topicref " navtitle="Sensitivity to changes in unobservable inputs">
+                    <topicref href="ifrs13/IFRS13_BC202.dita" class="- map/topicref " navtitle="BC202"/>
+                    <topicref href="ifrs13/IFRS13_BC203.dita" class="- map/topicref " navtitle="BC203"/>
+                    <topicref href="ifrs13/IFRS13_BC204.dita" class="- map/topicref " navtitle="BC204"/>
+                    <topicref href="ifrs13/IFRS13_BC205.dita" class="- map/topicref " navtitle="BC205"/>
+                    <topicref href="ifrs13/IFRS13_BC206.dita" class="- map/topicref " navtitle="BC206"/>
+                    <topicref href="ifrs13/IFRS13_BC207.dita" class="- map/topicref " navtitle="BC207"/>
+                    <topicref href="ifrs13/IFRS13_BC208.dita" class="- map/topicref " navtitle="BC208"/>
+                    <topicref href="ifrs13/IFRS13_BC209.dita" class="- map/topicref " navtitle="BC209"/>
+                    <topicref href="ifrs13/IFRS13_BC210.dita" class="- map/topicref " navtitle="BC210"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs13/IFRS13_gBC211-BC212.dita" class="- map/topicref " navtitle="Transfers between Levels 1 and 2 of the fair value hierarchy">
+                <topicref href="ifrs13/IFRS13_BC211.dita" class="- map/topicref " navtitle="BC211"/>
+                <topicref href="ifrs13/IFRS13_BC212.dita" class="- map/topicref " navtitle="BC212"/>
+            </topicref>
+            <topicref href="ifrs13/IFRS13_gBC213-BC214.dita" class="- map/topicref " navtitle="When an entity uses a non-financial asset in a way that differs from its highest and best use">
+                <topicref href="ifrs13/IFRS13_BC213.dita" class="- map/topicref " navtitle="BC213"/>
+                <topicref href="ifrs13/IFRS13_BC214.dita" class="- map/topicref " navtitle="BC214"/>
+            </topicref>
+            <topicref href="ifrs13/IFRS13_gBC215-BC217.dita" class="- map/topicref " navtitle="The categorisation within the level of the fair value hierarchy for items that are not measured at fair value in the statement of financial position">
+                <topicref href="ifrs13/IFRS13_BC215.dita" class="- map/topicref " navtitle="BC215"/>
+                <topicref href="ifrs13/IFRS13_BC216.dita" class="- map/topicref " navtitle="BC216"/>
+                <topicref href="ifrs13/IFRS13_BC217.dita" class="- map/topicref " navtitle="BC217"/>
+            </topicref>
+            <topicref href="ifrs13/IFRS13_gBC218-BC221.dita" class="- map/topicref " navtitle="Assets with a recoverable amount that is fair value less costs of disposal">
+                <topicref href="ifrs13/IFRS13_BC218.dita" class="- map/topicref " navtitle="BC218"/>
+                <topicref href="ifrs13/IFRS13_BC219.dita" class="- map/topicref " navtitle="BC219"/>
+                <topicref href="ifrs13/IFRS13_BC220.dita" class="- map/topicref " navtitle="BC220"/>
+                <topicref href="ifrs13/IFRS13_BC221.dita" class="- map/topicref " navtitle="BC221"/>
+            </topicref>
+            <topicref href="ifrs13/IFRS13_gBC222-BC224.dita" class="- map/topicref " navtitle="Interim financial reporting">
+                <topicref href="ifrs13/IFRS13_BC222.dita" class="- map/topicref " navtitle="BC222"/>
+                <topicref href="ifrs13/IFRS13_BC223.dita" class="- map/topicref " navtitle="BC223"/>
+                <topicref href="ifrs13/IFRS13_BC224.dita" class="- map/topicref " navtitle="BC224"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs13/IFRS13_gBC225-BC230A.dita" class="- map/topicref " navtitle="Effective date and transition">
+            <topicref href="ifrs13/IFRS13_BC225.dita" class="- map/topicref " navtitle="BC225"/>
+            <topicref href="ifrs13/IFRS13_BC226.dita" class="- map/topicref " navtitle="BC226"/>
+            <topicref href="ifrs13/IFRS13_BC227.dita" class="- map/topicref " navtitle="BC227"/>
+            <topicref href="ifrs13/IFRS13_BC228.dita" class="- map/topicref " navtitle="BC228"/>
+            <topicref href="ifrs13/IFRS13_BC229.dita" class="- map/topicref " navtitle="BC229"/>
+            <topicref href="ifrs13/IFRS13_BC230.dita" class="- map/topicref " navtitle="BC230"/>
+            <topicref href="ifrs13/IFRS13_BC230A.dita" class="- map/topicref " navtitle="BC230A"/>
+        </topicref>
+        <topicref href="ifrs13/IFRS13_gBC231-BC235.dita" class="- map/topicref " navtitle="Application in emerging and transition economies">
+            <topicref href="ifrs13/IFRS13_BC231.dita" class="- map/topicref " navtitle="BC231"/>
+            <topicref href="ifrs13/IFRS13_BC232.dita" class="- map/topicref " navtitle="BC232"/>
+            <topicref href="ifrs13/IFRS13_BC233.dita" class="- map/topicref " navtitle="BC233"/>
+            <topicref href="ifrs13/IFRS13_BC234.dita" class="- map/topicref " navtitle="BC234"/>
+            <topicref href="ifrs13/IFRS13_BC235.dita" class="- map/topicref " navtitle="BC235"/>
+        </topicref>
+        <topicref href="ifrs13/IFRS13_gBC236-BC238.dita" class="- map/topicref " navtitle="Convergence with US GAAP">
+            <topicref href="ifrs13/IFRS13_BC236.dita" class="- map/topicref " navtitle="BC236"/>
+            <topicref href="ifrs13/IFRS13_BC237.dita" class="- map/topicref " navtitle="BC237"/>
+            <topicref href="ifrs13/IFRS13_BC238.dita" class="- map/topicref " navtitle="BC238"/>
+        </topicref>
+        <topicref href="ifrs13/IFRS13_gBC239-BC243.dita" class="- map/topicref " navtitle="Cost-benefit considerations">
+            <topicref href="ifrs13/IFRS13_BC239.dita" class="- map/topicref " navtitle="BC239"/>
+            <topicref href="ifrs13/IFRS13_BC240.dita" class="- map/topicref " navtitle="BC240"/>
+            <topicref href="ifrs13/IFRS13_BC241.dita" class="- map/topicref " navtitle="BC241"/>
+            <topicref href="ifrs13/IFRS13_BC242.dita" class="- map/topicref " navtitle="BC242"/>
+            <topicref href="ifrs13/IFRS13_BC243.dita" class="- map/topicref " navtitle="BC243"/>
+        </topicref>
+        <topicref href="ifrs13/IFRS13_gBC244-BC244.dita" class="- map/topicref " navtitle="Summary of main changes from the exposure draft">
+            <topicref href="ifrs13/IFRS13_BC244.dita" class="- map/topicref " navtitle="BC244"/>
+        </topicref>
+    <topicref chunk="to-content" class="- map/topicref " navtitle="Appendices">
+        <topicref href="ifrs13/IFRS13_BC_APP.dita" class="- map/topicref " navtitle="Appendix Amendments to the Basis for Conclusions on other IFRSs">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="BC" class="- topic/data "/>
+            </topicmeta>
+        </topicref>
+    </topicref></chapter>
+    
+</bookmap>

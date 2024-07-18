@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" chunk="to-content" id="IAS34_BC_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle "><ph otherprops="print" class="- topic/ph ">Interim Financial Reporting</ph></mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Basis For Conclusions</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IAS 34</booknumber>
+        </bookid>
+        <document_type value="IAS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="1999-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="1999-01-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ias-34-interim-financial-reporting" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="basis-for-conclusion" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ias34/IAS34_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias34/IAS34_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias34/IAS34_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ias34/IAS34_PartC.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+    </frontmatter>
+    <chapter href="ias34/IAS34_TI0053.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Basis for Conclusions on IAS 34 Interim Financial Reporting">
+        <topicref href="ias34/IAS34_BC1.dita" class="- map/topicref " navtitle="BC1"/>
+        <topicref href="ias34/IAS34_BC2.dita" class="- map/topicref " navtitle="BC2"/>
+        <topicref href="ias34/IAS34_gBC3-BC4.dita" class="- map/topicref " navtitle="Significant events and transactions">
+            <topicref href="ias34/IAS34_BC3.dita" class="- map/topicref " navtitle="BC3"/>
+            <topicref href="ias34/IAS34_BC4.dita" class="- map/topicref " navtitle="BC4"/>
+        </topicref>
+        <topicref href="ias34/IAS34_gBC5-BC5.dita" class="- map/topicref " navtitle="Content of an interim financial report">
+            <topicref href="ias34/IAS34_BC5.dita" class="- map/topicref " navtitle="BC5"/>
+        </topicref>
+        <topicref href="ias34/IAS34_gBC6-BC10.dita" class="- map/topicref " navtitle="Selected explanatory notes">
+            <topicref href="ias34/IAS34_BC6.dita" class="- map/topicref " navtitle="BC6"/>
+            <topicref href="ias34/IAS34_gBC7-BC10.dita" class="- map/topicref " navtitle="Other disclosures incorporated by cross-reference to information outside the interim financial statements">
+                <topicref href="ias34/IAS34_BC7.dita" class="- map/topicref " navtitle="BC7"/>
+                <topicref href="ias34/IAS34_BC8.dita" class="- map/topicref " navtitle="BC8"/>
+                <topicref href="ias34/IAS34_BC9.dita" class="- map/topicref " navtitle="BC9"/>
+                <topicref href="ias34/IAS34_BC10.dita" class="- map/topicref " navtitle="BC10"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias34/IAS34_gBC11-BC12.dita" class="- map/topicref " navtitle="Amended references to the Conceptual Framework">
+            <topicref href="ias34/IAS34_BC11.dita" class="- map/topicref " navtitle="BC11"/>
+            <topicref href="ias34/IAS34_BC12.dita" class="- map/topicref " navtitle="BC12"/>
+        </topicref>
+    </chapter>
+</bookmap>

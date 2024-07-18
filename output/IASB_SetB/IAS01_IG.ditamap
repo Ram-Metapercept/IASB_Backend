@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" chunk="to-content" id="IAS01_IG_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle "><ph otherprops="print" class="- topic/ph ">Presentation of Financial Statements</ph></mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Implementation Guidance</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IAS 1</booknumber>
+        </bookid>
+        <document_type value="IAS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2009-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2007-09-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ias-1-presentation-of-financial-statements" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="implementation-guidance" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ias01/IAS01_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias01/IAS01_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias01/IAS01_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ias01/IAS01_PartB.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+    </frontmatter>
+    <chapter href="ias01/IAS01_TI0055.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Guidance on implementing IAS 1 Presentation of Financial Statements">
+        <topicref href="ias01/IAS01_gIG1-IG6.dita" class="- map/topicref " navtitle="Illustrative financial statement structure">
+            <topicref href="ias01/IAS01_IG1.dita" class="- map/topicref " navtitle="IG1"/>
+            <topicref href="ias01/IAS01_IG2.dita" class="- map/topicref " navtitle="IG2"/>
+            <topicref href="ias01/IAS01_IG3.dita" class="- map/topicref " navtitle="IG3"/>
+            <topicref href="ias01/IAS01_IG4.dita" class="- map/topicref " navtitle="IG4"/>
+            <topicref href="ias01/IAS01_IG5.dita" class="- map/topicref " navtitle="IG5"/>
+            <topicref href="ias01/IAS01_IG5A.dita" class="- map/topicref " navtitle="IG5A"/>
+            <topicref href="ias01/IAS01_IG6.dita" class="- map/topicref " navtitle="IG6"/>
+        </topicref>
+        <topicref href="ias01/IAS01_0002.dita" class="- map/topicref " navtitle="Part I: Illustrative presentation of financial statements"/>
+        <topicref href="ias01/IAS01_IG7-IG9_DELETED.dita" class="- map/topicref " navtitle="IG7–IG9"/>
+        <topicref href="ias01/IAS01_gIG10-IG11.dita" class="- map/topicref " navtitle="Part III: Illustrative examples of capital disclosures (paragraphs 134–136)">
+            <topicref href="ias01/IAS01_gIG10-IG10.dita" class="- map/topicref " navtitle="     An entity that is not a regulated financial institution">
+                <topicref href="ias01/IAS01_IG10.dita" class="- map/topicref " navtitle="IG10"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gIG11-IG11.dita" class="- map/topicref " navtitle="An entity that has not complied with externally imposed capital requirements">
+                <topicref href="ias01/IAS01_IG11.dita" class="- map/topicref " navtitle="IG11"/>
+            </topicref>
+        </topicref>
+    <topicref chunk="to-content" class="- map/topicref " navtitle="Appendices">
+        <topicref href="ias01/IAS01_IG_APP.dita" class="- map/topicref " navtitle="Appendix Amendments to guidance on other IFRSs"/>
+    </topicref>
+        <topicref href="ias01/IAS01_IG_concordance.dita" class="- map/topicref " navtitle="Table of Concordance"/>
+    </chapter>
+    
+    
+</bookmap>

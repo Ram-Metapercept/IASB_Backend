@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IFRS17_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <booklibrary class="- topic/ph bookmap/booklibrary "/>
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Insurance Contracts</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Standard</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IFRS 17</booknumber>
+        </bookid>
+        <document_type value="IFRS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2021-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2017-05-25" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ifrs-17-insurance-contracts" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="standard" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" id="IFRS17_CHK_FM" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ifrs17/IFRS17_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs17/IFRS17_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs17/IFRS17_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ifrs17/IFRS17_PRE.dita" chunk="to-content" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ifrs17/IFRS17_TOC.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+        <preface href="ifrs17/IFRS17_rubric.dita" class="- map/topicref bookmap/preface "/>
+    </frontmatter>
+    <chapter href="ifrs17/IFRS17_TI.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="IFRS 17 Insurance Contracts"><topicref href="ifrs17/IFRS17_rubric.dita" class="- map/topicref " navtitle="Rubric"/>
+        <topicref href="ifrs17/IFRS17_g1-2.dita" class="- map/topicref " navtitle="Objective">
+            <topicref href="ifrs17/IFRS17_1.dita" class="- map/topicref " navtitle="1"/>
+            <topicref href="ifrs17/IFRS17_2.dita" class="- map/topicref " navtitle="2"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_g3-13.dita" class="- map/topicref " navtitle="Scope">
+            <topicref href="ifrs17/IFRS17_3.dita" class="- map/topicref " navtitle="3"/>
+            <topicref href="ifrs17/IFRS17_4.dita" class="- map/topicref " navtitle="4"/>
+            <topicref href="ifrs17/IFRS17_5.dita" class="- map/topicref " navtitle="5"/>
+            <topicref href="ifrs17/IFRS17_6.dita" class="- map/topicref " navtitle="6"/>
+            <topicref href="ifrs17/IFRS17_7.dita" class="- map/topicref " navtitle="7"/>
+            <topicref href="ifrs17/IFRS17_8.dita" class="- map/topicref " navtitle="8"/>
+            <topicref base="IFRS2020-3" href="ifrs17/IFRS17_8A.dita" class="- map/topicref " navtitle="8A"/>
+            <topicref href="ifrs17/IFRS17_g9-9.dita" class="- map/topicref " navtitle="Combination of insurance contracts">
+                <topicref href="ifrs17/IFRS17_9.dita" class="- map/topicref " navtitle="9"/>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_g10-13.dita" class="- map/topicref " navtitle="Separating components from an insurance contract (paragraphs B31–B35)">
+                <topicref href="ifrs17/IFRS17_10.dita" class="- map/topicref " navtitle="10"/>
+                <topicref href="ifrs17/IFRS17_11.dita" class="- map/topicref " navtitle="11"/>
+                <topicref href="ifrs17/IFRS17_12.dita" class="- map/topicref " navtitle="12"/>
+                <topicref href="ifrs17/IFRS17_13.dita" class="- map/topicref " navtitle="13"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_g14-24.dita" class="- map/topicref " navtitle="Level of aggregation of insurance contracts">
+            <topicref href="ifrs17/IFRS17_14.dita" class="- map/topicref " navtitle="14"/>
+            <topicref href="ifrs17/IFRS17_15.dita" class="- map/topicref " navtitle="15"/>
+            <topicref href="ifrs17/IFRS17_16.dita" class="- map/topicref " navtitle="16"/>
+            <topicref href="ifrs17/IFRS17_17.dita" class="- map/topicref " navtitle="17"/>
+            <topicref href="ifrs17/IFRS17_18.dita" class="- map/topicref " navtitle="18"/>
+            <topicref href="ifrs17/IFRS17_19.dita" class="- map/topicref " navtitle="19"/>
+            <topicref href="ifrs17/IFRS17_20.dita" class="- map/topicref " navtitle="20"/>
+            <topicref href="ifrs17/IFRS17_21.dita" class="- map/topicref " navtitle="21"/>
+            <topicref href="ifrs17/IFRS17_22.dita" class="- map/topicref " navtitle="22"/>
+            <topicref href="ifrs17/IFRS17_23.dita" class="- map/topicref " navtitle="23"/>
+            <topicref href="ifrs17/IFRS17_24.dita" class="- map/topicref " navtitle="24"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_g25-28.dita" class="- map/topicref " navtitle="Recognition">
+            <topicref href="ifrs17/IFRS17_25.dita" class="- map/topicref " navtitle="25"/>
+            <topicref href="ifrs17/IFRS17_26.dita" class="- map/topicref " navtitle="26"/>
+            <topicref href="ifrs17/IFRS17_27_DELETED.dita" class="- map/topicref " navtitle="27"/>
+            <topicref href="ifrs17/IFRS17_28.dita" class="- map/topicref " navtitle="28"/>
+            <topicref base="IFRS2020-3" href="ifrs17/IFRS17_g28A-28F.dita" class="- map/topicref " navtitle="Insurance acquisition cash flows (paragraphs B35A‒B35D)">
+                <topicref href="ifrs17/IFRS17_28A.dita" class="- map/topicref " navtitle="28A"/>
+                <topicref href="ifrs17/IFRS17_28B.dita" class="- map/topicref " navtitle="28B"/>
+                <topicref href="ifrs17/IFRS17_28C.dita" class="- map/topicref " navtitle="28C"/>
+                <topicref href="ifrs17/IFRS17_28D.dita" class="- map/topicref " navtitle="28D"/>
+                <topicref href="ifrs17/IFRS17_28E.dita" class="- map/topicref " navtitle="28E"/>
+                <topicref href="ifrs17/IFRS17_28F.dita" class="- map/topicref " navtitle="28F"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_g29-71.dita" class="- map/topicref " navtitle="   Measurement (paragraphs B36–B119F)">
+            <topicref href="ifrs17/IFRS17_29.dita" class="- map/topicref " navtitle="29"/>
+            <topicref href="ifrs17/IFRS17_30.dita" class="- map/topicref " navtitle="30"/>
+            <topicref href="ifrs17/IFRS17_31.dita" class="- map/topicref " navtitle="31"/>
+            <topicref href="ifrs17/IFRS17_g32-39.dita" class="- map/topicref " navtitle="   Measurement on initial recognition (paragraphs B36–B95F)">
+                <topicref href="ifrs17/IFRS17_32.dita" class="- map/topicref " navtitle="32"/>
+                <topicref href="ifrs17/IFRS17_g33-35.dita" class="- map/topicref " navtitle="Estimates of future cash flows (paragraphs B36–B71)">
+                    <topicref href="ifrs17/IFRS17_33.dita" class="- map/topicref " navtitle="33"/>
+                    <topicref href="ifrs17/IFRS17_34.dita" class="- map/topicref " navtitle="34"/>
+                    <topicref href="ifrs17/IFRS17_35.dita" class="- map/topicref " navtitle="35"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_g36-36.dita" class="- map/topicref " navtitle="Discount rates (paragraphs B72–B85)">
+                    <topicref href="ifrs17/IFRS17_36.dita" class="- map/topicref " navtitle="36"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_g37-37.dita" class="- map/topicref " navtitle="Risk adjustment for non-financial risk (paragraphs B86–B92)">
+                    <topicref href="ifrs17/IFRS17_37.dita" class="- map/topicref " navtitle="37"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_g38-39.dita" class="- map/topicref " navtitle="Contractual service margin">
+                    <topicref href="ifrs17/IFRS17_38.dita" class="- map/topicref " navtitle="38"/>
+                    <topicref href="ifrs17/IFRS17_39.dita" class="- map/topicref " navtitle="39"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_g40-46.dita" class="- map/topicref " navtitle="Subsequent measurement">
+                <topicref href="ifrs17/IFRS17_40.dita" class="- map/topicref " navtitle="40"/>
+                <topicref href="ifrs17/IFRS17_41.dita" class="- map/topicref " navtitle="41"/>
+                <topicref href="ifrs17/IFRS17_42.dita" class="- map/topicref " navtitle="42"/>
+                <topicref href="ifrs17/IFRS17_g43-46.dita" class="- map/topicref " navtitle=" Contractual service margin (paragraphs B96–B119B)">
+                    <topicref href="ifrs17/IFRS17_43.dita" class="- map/topicref " navtitle="43"/>
+                    <topicref href="ifrs17/IFRS17_44.dita" class="- map/topicref " navtitle="44"/>
+                    <topicref href="ifrs17/IFRS17_45.dita" class="- map/topicref " navtitle="45"/>
+                    <topicref href="ifrs17/IFRS17_46.dita" class="- map/topicref " navtitle="46"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_g47-52.dita" class="- map/topicref " navtitle="Onerous contracts">
+                <topicref href="ifrs17/IFRS17_47.dita" class="- map/topicref " navtitle="47"/>
+                <topicref href="ifrs17/IFRS17_48.dita" class="- map/topicref " navtitle="48"/>
+                <topicref href="ifrs17/IFRS17_49.dita" class="- map/topicref " navtitle="49"/>
+                <topicref href="ifrs17/IFRS17_50.dita" class="- map/topicref " navtitle="50"/>
+                <topicref href="ifrs17/IFRS17_51.dita" class="- map/topicref " navtitle="51"/>
+                <topicref href="ifrs17/IFRS17_52.dita" class="- map/topicref " navtitle="52"/>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_g53-59.dita" class="- map/topicref " navtitle="Premium allocation approach">
+                <topicref href="ifrs17/IFRS17_53.dita" class="- map/topicref " navtitle="53"/>
+                <topicref href="ifrs17/IFRS17_54.dita" class="- map/topicref " navtitle="54"/>
+                <topicref href="ifrs17/IFRS17_55.dita" class="- map/topicref " navtitle="55"/>
+                <topicref href="ifrs17/IFRS17_56.dita" class="- map/topicref " navtitle="56"/>
+                <topicref href="ifrs17/IFRS17_57.dita" class="- map/topicref " navtitle="57"/>
+                <topicref href="ifrs17/IFRS17_58.dita" class="- map/topicref " navtitle="58"/>
+                <topicref href="ifrs17/IFRS17_59.dita" class="- map/topicref " navtitle="59"/>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_g60-70.dita" class="- map/topicref " navtitle="Reinsurance contracts held">
+                <topicref href="ifrs17/IFRS17_60.dita" class="- map/topicref " navtitle="60"/>
+                <topicref href="ifrs17/IFRS17_61.dita" class="- map/topicref " navtitle="61"/>
+                <topicref href="ifrs17/IFRS17_g62-62.dita" class="- map/topicref " navtitle="Recognition">
+                    <topicref href="ifrs17/IFRS17_62.dita" class="- map/topicref " navtitle="62"/>
+                    <topicref base="IFRS2020-3" href="ifrs17/IFRS17_62A.dita" class="- map/topicref " navtitle="62A"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_g63-68.dita" class="- map/topicref " navtitle="Measurement">
+                    <topicref href="ifrs17/IFRS17_63.dita" class="- map/topicref " navtitle="63"/>
+                    <topicref href="ifrs17/IFRS17_64.dita" class="- map/topicref " navtitle="64"/>
+                    <topicref href="ifrs17/IFRS17_65.dita" class="- map/topicref " navtitle="65"/>
+                    <topicref base="IFRS2020-3" href="ifrs17/IFRS17_65A.dita" class="- map/topicref " navtitle="65A"/>
+                    <topicref href="ifrs17/IFRS17_66.dita" class="- map/topicref " navtitle="66"/>
+                    <topicref base="IFRS2020-3" href="ifrs17/IFRS17_66A.dita" class="- map/topicref " navtitle="66A"/>
+                    <topicref base="IFRS2020-3" href="ifrs17/IFRS17_66B.dita" class="- map/topicref " navtitle="66B"/>
+                    <topicref href="ifrs17/IFRS17_67.dita" class="- map/topicref " navtitle="67"/>
+                    <topicref href="ifrs17/IFRS17_68.dita" class="- map/topicref " navtitle="68"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_g69-70.dita" class="- map/topicref " navtitle="Premium allocation approach for reinsurance contracts held">
+                    <topicref href="ifrs17/IFRS17_69.dita" class="- map/topicref " navtitle="69"/>
+                    <topicref href="ifrs17/IFRS17_70.dita" class="- map/topicref " navtitle="70"/>
+                    <topicref base="IFRS2020-3" href="ifrs17/IFRS17_70A.dita" class="- map/topicref " navtitle="70A"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_g71-71.dita" class="- map/topicref " navtitle="Investment contracts with discretionary participation features">
+                <topicref href="ifrs17/IFRS17_71.dita" class="- map/topicref " navtitle="71"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_g72-77.dita" class="- map/topicref " navtitle="Modification and derecognition">
+            <topicref href="ifrs17/IFRS17_g72-73.dita" class="- map/topicref " navtitle="Modification of an insurance contract">
+                <topicref href="ifrs17/IFRS17_72.dita" class="- map/topicref " navtitle="72"/>
+                <topicref href="ifrs17/IFRS17_73.dita" class="- map/topicref " navtitle="73"/>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_g74-77.dita" class="- map/topicref " navtitle="Derecognition">
+                <topicref href="ifrs17/IFRS17_74.dita" class="- map/topicref " navtitle="74"/>
+                <topicref href="ifrs17/IFRS17_75.dita" class="- map/topicref " navtitle="75"/>
+                <topicref href="ifrs17/IFRS17_76.dita" class="- map/topicref " navtitle="76"/>
+                <topicref href="ifrs17/IFRS17_77.dita" class="- map/topicref " navtitle="77"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_g78-79.dita" class="- map/topicref " navtitle="Presentation in the statement of financial position">
+            <topicref href="ifrs17/IFRS17_78.dita" class="- map/topicref " navtitle="78"/>
+            <topicref href="ifrs17/IFRS17_79.dita" class="- map/topicref " navtitle="79"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_g80-92.dita" class="- map/topicref " navtitle="Recognition and presentation in the statement(s) of financial performance (paragraphs B120–B136)">
+            <topicref href="ifrs17/IFRS17_80.dita" class="- map/topicref " navtitle="80"/>
+            <topicref href="ifrs17/IFRS17_81.dita" class="- map/topicref " navtitle="81"/>
+            <topicref href="ifrs17/IFRS17_82.dita" class="- map/topicref " navtitle="82"/>
+            <topicref href="ifrs17/IFRS17_g83-86.dita" class="- map/topicref " navtitle="Insurance service result">
+                <topicref href="ifrs17/IFRS17_83.dita" class="- map/topicref " navtitle="83"/>
+                <topicref href="ifrs17/IFRS17_84.dita" class="- map/topicref " navtitle="84"/>
+                <topicref href="ifrs17/IFRS17_85.dita" class="- map/topicref " navtitle="85"/>
+                <topicref href="ifrs17/IFRS17_86.dita" class="- map/topicref " navtitle="86"/>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_g87-92.dita" class="- map/topicref " navtitle="Insurance finance income or expenses (see paragraphs B128–B136)">
+                <topicref href="ifrs17/IFRS17_87.dita" class="- map/topicref " navtitle="87"/>
+                <topicref base="IFRS2020-3" href="ifrs17/IFRS17_87A.dita" class="- map/topicref " navtitle="87A"/>
+                <topicref href="ifrs17/IFRS17_88.dita" class="- map/topicref " navtitle="88"/>
+                <topicref href="ifrs17/IFRS17_89.dita" class="- map/topicref " navtitle="89"/>
+                <topicref href="ifrs17/IFRS17_90.dita" class="- map/topicref " navtitle="90"/>
+                <topicref href="ifrs17/IFRS17_91.dita" class="- map/topicref " navtitle="91"/>
+                <topicref href="ifrs17/IFRS17_92.dita" class="- map/topicref " navtitle="92"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_g93-132.dita" class="- map/topicref " navtitle="Disclosure">
+            <topicref href="ifrs17/IFRS17_93.dita" class="- map/topicref " navtitle="93"/>
+            <topicref href="ifrs17/IFRS17_94.dita" class="- map/topicref " navtitle="94"/>
+            <topicref href="ifrs17/IFRS17_95.dita" class="- map/topicref " navtitle="95"/>
+            <topicref href="ifrs17/IFRS17_96.dita" class="- map/topicref " navtitle="96"/>
+            <topicref href="ifrs17/IFRS17_g97-116.dita" class="- map/topicref " navtitle="Explanation of recognised amounts">
+                <topicref href="ifrs17/IFRS17_97.dita" class="- map/topicref " navtitle="97"/>
+                <topicref href="ifrs17/IFRS17_98.dita" class="- map/topicref " navtitle="98"/>
+                <topicref href="ifrs17/IFRS17_99.dita" class="- map/topicref " navtitle="99"/>
+                <topicref href="ifrs17/IFRS17_100.dita" class="- map/topicref " navtitle="100"/>
+                <topicref href="ifrs17/IFRS17_101.dita" class="- map/topicref " navtitle="101"/>
+                <topicref href="ifrs17/IFRS17_102.dita" class="- map/topicref " navtitle="102"/>
+                <topicref href="ifrs17/IFRS17_103.dita" class="- map/topicref " navtitle="103"/>
+                <topicref href="ifrs17/IFRS17_104.dita" class="- map/topicref " navtitle="104"/>
+                <topicref href="ifrs17/IFRS17_105.dita" class="- map/topicref " navtitle="105"/>
+                <topicref base="IFRS2020-3" href="ifrs17/IFRS17_105A.dita" class="- map/topicref " navtitle="105A"/>
+                <topicref base="IFRS2020-3" href="ifrs17/IFRS17_105B.dita" class="- map/topicref " navtitle="105B"/>
+                <topicref href="ifrs17/IFRS17_106.dita" class="- map/topicref " navtitle="106"/>
+                <topicref href="ifrs17/IFRS17_107.dita" class="- map/topicref " navtitle="107"/>
+                <topicref href="ifrs17/IFRS17_108.dita" class="- map/topicref " navtitle="108"/>
+                <topicref href="ifrs17/IFRS17_109.dita" class="- map/topicref " navtitle="109"/>
+                <topicref base="IFRS2020-3" href="ifrs17/IFRS17_109A.dita" class="- map/topicref " navtitle="109A"/>
+                <topicref href="ifrs17/IFRS17_g110-113.dita" class="- map/topicref " navtitle="Insurance finance income or expenses">
+                    <topicref href="ifrs17/IFRS17_110.dita" class="- map/topicref " navtitle="110"/>
+                    <topicref href="ifrs17/IFRS17_111.dita" class="- map/topicref " navtitle="111"/>
+                    <topicref href="ifrs17/IFRS17_112.dita" class="- map/topicref " navtitle="112"/>
+                    <topicref href="ifrs17/IFRS17_113.dita" class="- map/topicref " navtitle="113"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_g114-116.dita" class="- map/topicref " navtitle="Transition amounts">
+                    <topicref href="ifrs17/IFRS17_114.dita" class="- map/topicref " navtitle="114"/>
+                    <topicref href="ifrs17/IFRS17_115.dita" class="- map/topicref " navtitle="115"/>
+                    <topicref href="ifrs17/IFRS17_116.dita" class="- map/topicref " navtitle="116"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_g117-120.dita" class="- map/topicref " navtitle="Significant judgements in applying IFRS 17">
+                <topicref href="ifrs17/IFRS17_117.dita" class="- map/topicref " navtitle="117"/>
+                <topicref href="ifrs17/IFRS17_118.dita" class="- map/topicref " navtitle="118"/>
+                <topicref href="ifrs17/IFRS17_119.dita" class="- map/topicref " navtitle="119"/>
+                <topicref href="ifrs17/IFRS17_120.dita" class="- map/topicref " navtitle="120"/>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_g121-132.dita" class="- map/topicref " navtitle="Nature and extent of risks that arise from contracts within the scope of IFRS 17">
+                <topicref href="ifrs17/IFRS17_121.dita" class="- map/topicref " navtitle="121"/>
+                <topicref href="ifrs17/IFRS17_122.dita" class="- map/topicref " navtitle="122"/>
+                <topicref href="ifrs17/IFRS17_123.dita" class="- map/topicref " navtitle="123"/>
+                <topicref href="ifrs17/IFRS17_124.dita" class="- map/topicref " navtitle="124"/>
+                <topicref href="ifrs17/IFRS17_125.dita" class="- map/topicref " navtitle="125"/>
+                <topicref href="ifrs17/IFRS17_126.dita" class="- map/topicref " navtitle="126"/>
+                <topicref href="ifrs17/IFRS17_g127-127.dita" class="- map/topicref " navtitle="All types of risk—concentrations of risk">
+                    <topicref href="ifrs17/IFRS17_127.dita" class="- map/topicref " navtitle="127"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_g128-129.dita" class="- map/topicref " navtitle="Insurance and market risks—sensitivity analysis">
+                    <topicref href="ifrs17/IFRS17_128.dita" class="- map/topicref " navtitle="128"/>
+                    <topicref href="ifrs17/IFRS17_129.dita" class="- map/topicref " navtitle="129"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_g130-130.dita" class="- map/topicref " navtitle="Insurance risk—claims development">
+                    <topicref href="ifrs17/IFRS17_130.dita" class="- map/topicref " navtitle="130"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_g131-131.dita" class="- map/topicref " navtitle="Credit risk—other information">
+                    <topicref href="ifrs17/IFRS17_131.dita" class="- map/topicref " navtitle="131"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_g132-132.dita" class="- map/topicref " navtitle="Liquidity risk—other information">
+                    <topicref href="ifrs17/IFRS17_132.dita" class="- map/topicref " navtitle="132"/>
+                </topicref>
+            </topicref>
+        </topicref>
+    <topicref chunk="to-content" class="- map/topicref " navtitle="Appendices">
+        <topicref href="ifrs17/IFRS17_APPA.dita" class="- map/topicref " navtitle="Appendix A Defined terms"/>
+        <topicref href="ifrs17/IFRS17_APPB.dita" class="- map/topicref " navtitle="Appendix B Application guidance">
+            <topicref href="ifrs17/IFRS17_B1.dita" class="- map/topicref " navtitle="B1"/>
+            <topicref href="ifrs17/IFRS17_gB2-B30.dita" class="- map/topicref " navtitle="Definition of an insurance contract (Appendix A)">
+                <topicref href="ifrs17/IFRS17_B2.dita" class="- map/topicref " navtitle="B2"/>
+                <topicref href="ifrs17/IFRS17_gB3-B5.dita" class="- map/topicref " navtitle="Uncertain future event">
+                    <topicref href="ifrs17/IFRS17_B3.dita" class="- map/topicref " navtitle="B3"/>
+                    <topicref href="ifrs17/IFRS17_B4.dita" class="- map/topicref " navtitle="B4"/>
+                    <topicref href="ifrs17/IFRS17_B5.dita" class="- map/topicref " navtitle="B5"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gB6-B6.dita" class="- map/topicref " navtitle="Payments in kind">
+                    <topicref href="ifrs17/IFRS17_B6.dita" class="- map/topicref " navtitle="B6"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gB7-B16.dita" class="- map/topicref " navtitle="The distinction between insurance risk and other risks">
+                    <topicref href="ifrs17/IFRS17_B7.dita" class="- map/topicref " navtitle="B7"/>
+                    <topicref href="ifrs17/IFRS17_B8.dita" class="- map/topicref " navtitle="B8"/>
+                    <topicref href="ifrs17/IFRS17_B9.dita" class="- map/topicref " navtitle="B9"/>
+                    <topicref href="ifrs17/IFRS17_B10.dita" class="- map/topicref " navtitle="B10"/>
+                    <topicref href="ifrs17/IFRS17_B11.dita" class="- map/topicref " navtitle="B11"/>
+                    <topicref href="ifrs17/IFRS17_B12.dita" class="- map/topicref " navtitle="B12"/>
+                    <topicref href="ifrs17/IFRS17_B13.dita" class="- map/topicref " navtitle="B13"/>
+                    <topicref href="ifrs17/IFRS17_B14.dita" class="- map/topicref " navtitle="B14"/>
+                    <topicref href="ifrs17/IFRS17_B15.dita" class="- map/topicref " navtitle="B15"/>
+                    <topicref href="ifrs17/IFRS17_B16.dita" class="- map/topicref " navtitle="B16"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gB17-B23.dita" class="- map/topicref " navtitle="Significant insurance risk">
+                    <topicref href="ifrs17/IFRS17_B17.dita" class="- map/topicref " navtitle="B17"/>
+                    <topicref href="ifrs17/IFRS17_B18.dita" class="- map/topicref " navtitle="B18"/>
+                    <topicref href="ifrs17/IFRS17_B19.dita" class="- map/topicref " navtitle="B19"/>
+                    <topicref href="ifrs17/IFRS17_B20.dita" class="- map/topicref " navtitle="B20"/>
+                    <topicref href="ifrs17/IFRS17_B21.dita" class="- map/topicref " navtitle="B21"/>
+                    <topicref href="ifrs17/IFRS17_B22.dita" class="- map/topicref " navtitle="B22"/>
+                    <topicref href="ifrs17/IFRS17_B23.dita" class="- map/topicref " navtitle="B23"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gB24-B25.dita" class="- map/topicref " navtitle="Changes in the level of insurance risk">
+                    <topicref href="ifrs17/IFRS17_B24.dita" class="- map/topicref " navtitle="B24"/>
+                    <topicref href="ifrs17/IFRS17_B25.dita" class="- map/topicref " navtitle="B25"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gB26-B30.dita" class="- map/topicref " navtitle="Examples of insurance contracts">
+                    <topicref href="ifrs17/IFRS17_B26.dita" class="- map/topicref " navtitle="B26"/>
+                    <topicref href="ifrs17/IFRS17_B27.dita" class="- map/topicref " navtitle="B27"/>
+                    <topicref href="ifrs17/IFRS17_B28.dita" class="- map/topicref " navtitle="B28"/>
+                    <topicref href="ifrs17/IFRS17_B29.dita" class="- map/topicref " navtitle="B29"/>
+                    <topicref href="ifrs17/IFRS17_B30.dita" class="- map/topicref " navtitle="B30"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_gB31-B35.dita" class="- map/topicref " navtitle="Separating components from an insurance contract (paragraphs 10–13)">
+                <topicref href="ifrs17/IFRS17_gB31-B32.dita" class="- map/topicref " navtitle="Investment components (paragraph 11(b))">
+                    <topicref href="ifrs17/IFRS17_B31.dita" class="- map/topicref " navtitle="B31"/>
+                    <topicref href="ifrs17/IFRS17_B32.dita" class="- map/topicref " navtitle="B32"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gB33-B35.dita" class="- map/topicref " navtitle="Promises to transfer distinct goods or services other than insurance contract services (paragraph 12)">
+                    <topicref href="ifrs17/IFRS17_B33.dita" class="- map/topicref " navtitle="B33"/>
+                    <topicref href="ifrs17/IFRS17_B34.dita" class="- map/topicref " navtitle="B34"/>
+                    <topicref href="ifrs17/IFRS17_B35.dita" class="- map/topicref " navtitle="B35"/>
+                </topicref>
+            </topicref>
+            <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gB35A-B35D.dita" class="- map/topicref " navtitle="Insurance acquisition cash flows (paragraphs 28A‒28F)">
+                <topicref href="ifrs17/IFRS17_B35A.dita" class="- map/topicref " navtitle="B35A"/>
+                <topicref href="ifrs17/IFRS17_B35B.dita" class="- map/topicref " navtitle="B35B"/>
+                <topicref href="ifrs17/IFRS17_B35C.dita" class="- map/topicref " navtitle="B35C"/>
+                <topicref href="ifrs17/IFRS17_B35D.dita" class="- map/topicref " navtitle="B35D"/>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_gB36-B119.dita" class="- map/topicref " navtitle="Measurement (paragraphs 29–71)">
+                <topicref href="ifrs17/IFRS17_gB36-B71.dita" class="- map/topicref " navtitle="Estimates of future cash flows (paragraphs 33–35)">
+                    <topicref href="ifrs17/IFRS17_B36.dita" class="- map/topicref " navtitle="B36"/>
+                    <topicref href="ifrs17/IFRS17_gB37-B41.dita" class="- map/topicref " navtitle="Unbiased use of all reasonable and supportable information available without undue cost or effort (paragraph 33(a))">
+                        <topicref href="ifrs17/IFRS17_B37.dita" class="- map/topicref " navtitle="B37"/>
+                        <topicref href="ifrs17/IFRS17_B38.dita" class="- map/topicref " navtitle="B38"/>
+                        <topicref href="ifrs17/IFRS17_B39.dita" class="- map/topicref " navtitle="B39"/>
+                        <topicref href="ifrs17/IFRS17_B40.dita" class="- map/topicref " navtitle="B40"/>
+                        <topicref href="ifrs17/IFRS17_B41.dita" class="- map/topicref " navtitle="B41"/>
+                    </topicref>
+                    <topicref href="ifrs17/IFRS17_gB42-B53.dita" class="- map/topicref " navtitle="Market variables and non-market variables">
+                        <topicref href="ifrs17/IFRS17_B42.dita" class="- map/topicref " navtitle="B42"/>
+                        <topicref href="ifrs17/IFRS17_B43.dita" class="- map/topicref " navtitle="B43"/>
+                        <topicref href="ifrs17/IFRS17_gB44-B48.dita" class="- map/topicref " navtitle="Market variables (paragraph 33(b))">
+                            <topicref href="ifrs17/IFRS17_B44.dita" class="- map/topicref " navtitle="B44"/>
+                            <topicref href="ifrs17/IFRS17_B45.dita" class="- map/topicref " navtitle="B45"/>
+                            <topicref href="ifrs17/IFRS17_B46.dita" class="- map/topicref " navtitle="B46"/>
+                            <topicref href="ifrs17/IFRS17_B47.dita" class="- map/topicref " navtitle="B47"/>
+                            <topicref href="ifrs17/IFRS17_B48.dita" class="- map/topicref " navtitle="B48"/>
+                        </topicref>
+                        <topicref href="ifrs17/IFRS17_gB49-B53.dita" class="- map/topicref " navtitle="Non-market variables">
+                            <topicref href="ifrs17/IFRS17_B49.dita" class="- map/topicref " navtitle="B49"/>
+                            <topicref href="ifrs17/IFRS17_B50.dita" class="- map/topicref " navtitle="B50"/>
+                            <topicref href="ifrs17/IFRS17_B51.dita" class="- map/topicref " navtitle="B51"/>
+                            <topicref href="ifrs17/IFRS17_B52.dita" class="- map/topicref " navtitle="B52"/>
+                            <topicref href="ifrs17/IFRS17_B53.dita" class="- map/topicref " navtitle="B53"/>
+                        </topicref>
+                    </topicref>
+                    <topicref href="ifrs17/IFRS17_gB54-B60.dita" class="- map/topicref " navtitle="Using current estimates (paragraph 33(c))">
+                        <topicref href="ifrs17/IFRS17_B54.dita" class="- map/topicref " navtitle="B54"/>
+                        <topicref href="ifrs17/IFRS17_B55.dita" class="- map/topicref " navtitle="B55"/>
+                        <topicref href="ifrs17/IFRS17_B56.dita" class="- map/topicref " navtitle="B56"/>
+                        <topicref href="ifrs17/IFRS17_B57.dita" class="- map/topicref " navtitle="B57"/>
+                        <topicref href="ifrs17/IFRS17_B58.dita" class="- map/topicref " navtitle="B58"/>
+                        <topicref href="ifrs17/IFRS17_B59.dita" class="- map/topicref " navtitle="B59"/>
+                        <topicref href="ifrs17/IFRS17_B60.dita" class="- map/topicref " navtitle="B60"/>
+                    </topicref>
+                    <topicref href="ifrs17/IFRS17_gB61-B71.dita" class="- map/topicref " navtitle="Cash flows within the contract boundary (paragraph 34)">
+                        <topicref href="ifrs17/IFRS17_B61.dita" class="- map/topicref " navtitle="B61"/>
+                        <topicref href="ifrs17/IFRS17_B62.dita" class="- map/topicref " navtitle="B62"/>
+                        <topicref href="ifrs17/IFRS17_B63.dita" class="- map/topicref " navtitle="B63"/>
+                        <topicref href="ifrs17/IFRS17_B64.dita" class="- map/topicref " navtitle="B64"/>
+                        <topicref href="ifrs17/IFRS17_B65.dita" class="- map/topicref " navtitle="B65"/>
+                        <topicref href="ifrs17/IFRS17_B66.dita" class="- map/topicref " navtitle="B66"/>
+                        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_B66A.dita" class="- map/topicref " navtitle="B66A"/>
+                        <topicref href="ifrs17/IFRS17_gB67-B71.dita" class="- map/topicref " navtitle="Contracts with cash flows that affect or are affected by cash flows to policyholders of other contracts">
+                            <topicref href="ifrs17/IFRS17_B67.dita" class="- map/topicref " navtitle="B67"/>
+                            <topicref href="ifrs17/IFRS17_B68.dita" class="- map/topicref " navtitle="B68"/>
+                            <topicref href="ifrs17/IFRS17_B69.dita" class="- map/topicref " navtitle="B69"/>
+                            <topicref href="ifrs17/IFRS17_B70.dita" class="- map/topicref " navtitle="B70"/>
+                            <topicref href="ifrs17/IFRS17_B71.dita" class="- map/topicref " navtitle="B71"/>
+                        </topicref>
+                    </topicref>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gB72-B85.dita" class="- map/topicref " navtitle="Discount rates (paragraph 36)">
+                    <topicref href="ifrs17/IFRS17_B72.dita" class="- map/topicref " navtitle="B72"/>
+                    <topicref href="ifrs17/IFRS17_B73.dita" class="- map/topicref " navtitle="B73"/>
+                    <topicref href="ifrs17/IFRS17_B74.dita" class="- map/topicref " navtitle="B74"/>
+                    <topicref href="ifrs17/IFRS17_B75.dita" class="- map/topicref " navtitle="B75"/>
+                    <topicref href="ifrs17/IFRS17_B76.dita" class="- map/topicref " navtitle="B76"/>
+                    <topicref href="ifrs17/IFRS17_B77.dita" class="- map/topicref " navtitle="B77"/>
+                    <topicref href="ifrs17/IFRS17_B78.dita" class="- map/topicref " navtitle="B78"/>
+                    <topicref href="ifrs17/IFRS17_B79.dita" class="- map/topicref " navtitle="B79"/>
+                    <topicref href="ifrs17/IFRS17_B80.dita" class="- map/topicref " navtitle="B80"/>
+                    <topicref href="ifrs17/IFRS17_B81.dita" class="- map/topicref " navtitle="B81"/>
+                    <topicref href="ifrs17/IFRS17_B82.dita" class="- map/topicref " navtitle="B82"/>
+                    <topicref href="ifrs17/IFRS17_B83.dita" class="- map/topicref " navtitle="B83"/>
+                    <topicref href="ifrs17/IFRS17_B84.dita" class="- map/topicref " navtitle="B84"/>
+                    <topicref href="ifrs17/IFRS17_B85.dita" class="- map/topicref " navtitle="B85"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gB86-B92.dita" class="- map/topicref " navtitle="Risk adjustment for non-financial risk (paragraph 37)">
+                    <topicref href="ifrs17/IFRS17_B86.dita" class="- map/topicref " navtitle="B86"/>
+                    <topicref href="ifrs17/IFRS17_B87.dita" class="- map/topicref " navtitle="B87"/>
+                    <topicref href="ifrs17/IFRS17_B88.dita" class="- map/topicref " navtitle="B88"/>
+                    <topicref href="ifrs17/IFRS17_B89.dita" class="- map/topicref " navtitle="B89"/>
+                    <topicref href="ifrs17/IFRS17_B90.dita" class="- map/topicref " navtitle="B90"/>
+                    <topicref href="ifrs17/IFRS17_B91.dita" class="- map/topicref " navtitle="B91"/>
+                    <topicref href="ifrs17/IFRS17_B92.dita" class="- map/topicref " navtitle="B92"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gB93-B95.dita" class="- map/topicref " navtitle="Initial recognition of transfers of insurance contracts and business combinations (paragraph 39)">
+                    <topicref href="ifrs17/IFRS17_B93.dita" class="- map/topicref " navtitle="B93"/>
+                    <topicref href="ifrs17/IFRS17_B94.dita" class="- map/topicref " navtitle="B94"/>
+                    <topicref href="ifrs17/IFRS17_B95.dita" class="- map/topicref " navtitle="B95"/>
+                    <topicref base="IFRS2020-3" href="ifrs17/IFRS17_B95A.dita" class="- map/topicref " navtitle="B95A"/>
+                    <topicref base="IFRS2020-3" href="ifrs17/IFRS17_B95B.dita" class="- map/topicref " navtitle="B95B"/>
+                    <topicref base="IFRS2020-3" href="ifrs17/IFRS17_B95C.dita" class="- map/topicref " navtitle="B95C"/>
+                    <topicref base="IFRS2020-3" href="ifrs17/IFRS17_B95D.dita" class="- map/topicref " navtitle="B95D"/>
+                    <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gB95E-B95F.dita" class="- map/topicref " navtitle="Asset for insurance acquisition cash     flows">
+                        <topicref href="ifrs17/IFRS17_B95E.dita" class="- map/topicref " navtitle="B95E"/>
+                        <topicref href="ifrs17/IFRS17_B95F.dita" class="- map/topicref " navtitle="B95F"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gB96-B100.dita" class="- map/topicref " navtitle="Changes in the carrying amount of the contractual service margin for insurance contracts without direct participation features (paragraph 44)">
+                    <topicref href="ifrs17/IFRS17_B96.dita" class="- map/topicref " navtitle="B96"/>
+                    <topicref href="ifrs17/IFRS17_B97.dita" class="- map/topicref " navtitle="B97"/>
+                    <topicref href="ifrs17/IFRS17_B98.dita" class="- map/topicref " navtitle="B98"/>
+                    <topicref href="ifrs17/IFRS17_B99.dita" class="- map/topicref " navtitle="B99"/>
+                    <topicref href="ifrs17/IFRS17_B100.dita" class="- map/topicref " navtitle="B100"/>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gB101-B118.dita" class="- map/topicref " navtitle="Changes in the carrying amount of the contractual service margin for insurance contracts with direct participation features (paragraph 45)">
+                    <topicref href="ifrs17/IFRS17_B101.dita" class="- map/topicref " navtitle="B101"/>
+                    <topicref href="ifrs17/IFRS17_B102.dita" class="- map/topicref " navtitle="B102"/>
+                    <topicref href="ifrs17/IFRS17_B103.dita" class="- map/topicref " navtitle="B103"/>
+                    <topicref href="ifrs17/IFRS17_B104.dita" class="- map/topicref " navtitle="B104"/>
+                    <topicref href="ifrs17/IFRS17_B105.dita" class="- map/topicref " navtitle="B105"/>
+                    <topicref href="ifrs17/IFRS17_B106.dita" class="- map/topicref " navtitle="B106"/>
+                    <topicref href="ifrs17/IFRS17_B107.dita" class="- map/topicref " navtitle="B107"/>
+                    <topicref href="ifrs17/IFRS17_B108.dita" class="- map/topicref " navtitle="B108"/>
+                    <topicref href="ifrs17/IFRS17_B109.dita" class="- map/topicref " navtitle="B109"/>
+                    <topicref href="ifrs17/IFRS17_B110.dita" class="- map/topicref " navtitle="B110"/>
+                    <topicref href="ifrs17/IFRS17_B111.dita" class="- map/topicref " navtitle="B111"/>
+                    <topicref href="ifrs17/IFRS17_B112.dita" class="- map/topicref " navtitle="B112"/>
+                    <topicref href="ifrs17/IFRS17_B113.dita" class="- map/topicref " navtitle="B113"/>
+                    <topicref href="ifrs17/IFRS17_B114.dita" class="- map/topicref " navtitle="B114"/>
+                    <topicref href="ifrs17/IFRS17_gB115-B118.dita" class="- map/topicref " navtitle="Risk mitigation">
+                        <topicref href="ifrs17/IFRS17_B115.dita" class="- map/topicref " navtitle="B115"/>
+                        <topicref href="ifrs17/IFRS17_B116.dita" class="- map/topicref " navtitle="B116"/>
+                        <topicref href="ifrs17/IFRS17_B117.dita" class="- map/topicref " navtitle="B117"/>
+                        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_B117A.dita" class="- map/topicref " navtitle="B117A"/>
+                        <topicref href="ifrs17/IFRS17_B118.dita" class="- map/topicref " navtitle="B118"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gB119-B119B.dita" class="- map/topicref " navtitle="Recognition of the contractual service margin in profit or loss">
+                    <topicref href="ifrs17/IFRS17_B119.dita" class="- map/topicref " navtitle="B119"/>
+                    <topicref base="IFRS2020-3" href="ifrs17/IFRS17_B119A.dita" class="- map/topicref " navtitle="B119A"/>
+                    <topicref base="IFRS2020-3" href="ifrs17/IFRS17_B119B.dita" class="- map/topicref " navtitle="B119B"/>
+                </topicref>
+                <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gB119C-B119F.dita" class="- map/topicref " navtitle="Reinsurance contracts held—recognition of recovery of losses on underlying insurance contracts (paragraphs 66A−66B)">
+                    <topicref href="ifrs17/IFRS17_B119C.dita" class="- map/topicref " navtitle="B119C"/>
+                    <topicref href="ifrs17/IFRS17_B119D.dita" class="- map/topicref " navtitle="B119D"/>
+                    <topicref href="ifrs17/IFRS17_B119E.dita" class="- map/topicref " navtitle="B119E"/>
+                    <topicref href="ifrs17/IFRS17_B119F.dita" class="- map/topicref " navtitle="B119F"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_gB120-B127.dita" class="- map/topicref " navtitle="Insurance revenue (paragraphs 83 and 85)">
+                <topicref href="ifrs17/IFRS17_B120.dita" class="- map/topicref " navtitle="B120"/>
+                <topicref href="ifrs17/IFRS17_B121.dita" class="- map/topicref " navtitle="B121"/>
+                <topicref href="ifrs17/IFRS17_B122.dita" class="- map/topicref " navtitle="B122"/>
+                <topicref href="ifrs17/IFRS17_B123.dita" class="- map/topicref " navtitle="B123"/>
+                <topicref base="IFRS2020-3" href="ifrs17/IFRS17_B123A.dita" class="- map/topicref " navtitle="B123A"/>
+                <topicref href="ifrs17/IFRS17_B124.dita" class="- map/topicref " navtitle="B124"/>
+                <topicref href="ifrs17/IFRS17_B125.dita" class="- map/topicref " navtitle="B125"/>
+                <topicref href="ifrs17/IFRS17_B126.dita" class="- map/topicref " navtitle="B126"/>
+                <topicref href="ifrs17/IFRS17_B127.dita" class="- map/topicref " navtitle="B127"/>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_gB128-B136.dita" class="- map/topicref " navtitle="Insurance finance income or expenses (paragraphs 87–92)">
+                <topicref href="ifrs17/IFRS17_B128.dita" class="- map/topicref " navtitle="B128"/>
+                <topicref href="ifrs17/IFRS17_B129.dita" class="- map/topicref " navtitle="B129"/>
+                <topicref href="ifrs17/IFRS17_B130.dita" class="- map/topicref " navtitle="B130"/>
+                <topicref href="ifrs17/IFRS17_B131.dita" class="- map/topicref " navtitle="B131"/>
+                <topicref href="ifrs17/IFRS17_B132.dita" class="- map/topicref " navtitle="B132"/>
+                <topicref href="ifrs17/IFRS17_B133.dita" class="- map/topicref " navtitle="B133"/>
+                <topicref href="ifrs17/IFRS17_B134.dita" class="- map/topicref " navtitle="B134"/>
+                <topicref href="ifrs17/IFRS17_B135.dita" class="- map/topicref " navtitle="B135"/>
+                <topicref href="ifrs17/IFRS17_B136.dita" class="- map/topicref " navtitle="B136"/>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_gB137-B137.dita" class="- map/topicref " navtitle="   The effect of accounting estimates made in interim financial statements">
+                <topicref href="ifrs17/IFRS17_B137.dita" class="- map/topicref " navtitle="B137"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_APPC.dita" class="- map/topicref " navtitle="Appendix C Effective date and transition">
+            <topicref href="ifrs17/IFRS17_gC1-C2.dita" class="- map/topicref " navtitle="Effective date">
+                <topicref href="ifrs17/IFRS17_C1.dita" class="- map/topicref " navtitle="C1"/>
+                <topicref href="ifrs17/IFRS17_C2.dita" class="- map/topicref " navtitle="C2"/>
+                <topicref href="ifrs17/IFRS17_C2A.dita" base="IFRS2021-2" class="- map/topicref " navtitle="C2A"/>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_gC3-C33.dita" class="- map/topicref " navtitle="Transition">
+                <topicref href="ifrs17/IFRS17_C3.dita" class="- map/topicref " navtitle="C3"/>
+                <topicref href="ifrs17/IFRS17_C4.dita" class="- map/topicref " navtitle="C4"/>
+                <topicref href="ifrs17/IFRS17_C5.dita" class="- map/topicref " navtitle="C5"/>
+                <topicref base="IFRS2020-3" href="ifrs17/IFRS17_C5A.dita" class="- map/topicref " navtitle="C5A"/>
+                <topicref base="IFRS2020-3" href="ifrs17/IFRS17_C5B.dita" class="- map/topicref " navtitle="C5B"/>
+                <topicref href="ifrs17/IFRS17_gC6-C19.dita" class="- map/topicref " navtitle="Modified retrospective approach">
+                    <topicref href="ifrs17/IFRS17_C6.dita" class="- map/topicref " navtitle="C6"/>
+                    <topicref href="ifrs17/IFRS17_C7.dita" class="- map/topicref " navtitle="C7"/>
+                    <topicref href="ifrs17/IFRS17_C8.dita" class="- map/topicref " navtitle="C8"/>
+                    <topicref href="ifrs17/IFRS17_gC9-C10.dita" class="- map/topicref " navtitle="Assessments at inception or initial recognition">
+                        <topicref href="ifrs17/IFRS17_C9.dita" class="- map/topicref " navtitle="C9"/>
+                        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_C9A.dita" class="- map/topicref " navtitle="C9A"/>
+                        <topicref href="ifrs17/IFRS17_C10.dita" class="- map/topicref " navtitle="C10"/>
+                    </topicref>
+                    <topicref href="ifrs17/IFRS17_gC11-C16.dita" class="- map/topicref " navtitle="Determining the contractual service margin or loss component for groups of insurance contracts without direct participation features">
+                        <topicref href="ifrs17/IFRS17_C11.dita" class="- map/topicref " navtitle="C11"/>
+                        <topicref href="ifrs17/IFRS17_C12.dita" class="- map/topicref " navtitle="C12"/>
+                        <topicref href="ifrs17/IFRS17_C13.dita" class="- map/topicref " navtitle="C13"/>
+                        <topicref href="ifrs17/IFRS17_C14.dita" class="- map/topicref " navtitle="C14"/>
+                        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_C14A.dita" class="- map/topicref " navtitle="C14A"/>
+                        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_C14B.dita" class="- map/topicref " navtitle="C14B"/>
+                        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_C14C.dita" class="- map/topicref " navtitle="C14C"/>
+                        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_C14D.dita" class="- map/topicref " navtitle="C14D"/>
+                        <topicref href="ifrs17/IFRS17_C15.dita" class="- map/topicref " navtitle="C15"/>
+                        <topicref href="ifrs17/IFRS17_C16.dita" class="- map/topicref " navtitle="C16"/>
+                        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_C16A.dita" class="- map/topicref " navtitle="C16A"/>
+                        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_C16B.dita" class="- map/topicref " navtitle="C16B"/>
+                        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_C16C.dita" class="- map/topicref " navtitle="C16C"/>
+                    </topicref>
+                    <topicref href="ifrs17/IFRS17_gC17-C17.dita" class="- map/topicref " navtitle="Determining the contractual service margin or loss component for groups of insurance contracts with direct participation features">
+                        <topicref href="ifrs17/IFRS17_C17.dita" class="- map/topicref " navtitle="C17"/>
+                        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_C17A.dita" class="- map/topicref " navtitle="C17A"/>
+                    </topicref>
+                    <topicref href="ifrs17/IFRS17_gC18-C19.dita" class="- map/topicref " navtitle="Insurance finance income or expenses">
+                        <topicref href="ifrs17/IFRS17_C18.dita" class="- map/topicref " navtitle="C18"/>
+                        <topicref href="ifrs17/IFRS17_C19.dita" class="- map/topicref " navtitle="C19"/>
+                        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_C19A.dita" class="- map/topicref " navtitle="C19A"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gC20-C24.dita" class="- map/topicref " navtitle="Fair value approach">
+                    <topicref href="ifrs17/IFRS17_C20.dita" class="- map/topicref " navtitle="C20"/>
+                    <topicref base="IFRS2020-3" href="ifrs17/IFRS17_C20A.dita" class="- map/topicref " navtitle="C20A"/>
+                    <topicref base="IFRS2020-3" href="ifrs17/IFRS17_C20B.dita" class="- map/topicref " navtitle="C20B"/>
+                    <topicref href="ifrs17/IFRS17_C21.dita" class="- map/topicref " navtitle="C21"/>
+                    <topicref href="ifrs17/IFRS17_C22.dita" class="- map/topicref " navtitle="C22"/>
+                    <topicref base="IFRS2020-3" href="ifrs17/IFRS17_C22A.dita" class="- map/topicref " navtitle="C22A"/>
+                    <topicref href="ifrs17/IFRS17_C23.dita" class="- map/topicref " navtitle="C23"/>
+                    <topicref href="ifrs17/IFRS17_C24.dita" class="- map/topicref " navtitle="C24"/>
+                    <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gC24A-C24B.dita" class="- map/topicref " navtitle="Asset for insurance acquisition cash flows">
+                        <topicref href="ifrs17/IFRS17_C24A.dita" class="- map/topicref " navtitle="C24A"/>
+                        <topicref href="ifrs17/IFRS17_C24B.dita" class="- map/topicref " navtitle="C24B"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gC25-C28.dita" class="- map/topicref " navtitle="Comparative information">
+                    <topicref href="ifrs17/IFRS17_C25.dita" class="- map/topicref " navtitle="C25"/>
+                    <topicref href="ifrs17/IFRS17_C26.dita" class="- map/topicref " navtitle="C26"/>
+                    <topicref href="ifrs17/IFRS17_C27.dita" class="- map/topicref " navtitle="C27"/>
+                    <topicref href="ifrs17/IFRS17_C28.dita" class="- map/topicref " navtitle="C28"/>
+                    <topicref base="IFRS2021-2" href="ifrs17/IFRS17_gC28A-C28E.dita" class="- map/topicref " navtitle="Entities that first apply IFRS 17 and IFRS 9 at the same time">
+                        <topicref href="ifrs17/IFRS17_C28A.dita" class="- map/topicref " navtitle="C28A"/>
+                        <topicref href="ifrs17/IFRS17_C28B.dita" class="- map/topicref " navtitle="C28B"/>
+                        <topicref href="ifrs17/IFRS17_C28C.dita" class="- map/topicref " navtitle="C28C"/>
+                        <topicref href="ifrs17/IFRS17_C28D.dita" class="- map/topicref " navtitle="C28D"/>
+                        <topicref href="ifrs17/IFRS17_C28E.dita" class="- map/topicref " navtitle="C28E"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifrs17/IFRS17_gC29-C33.dita" class="- map/topicref " navtitle="Redesignation of financial assets">
+                    <topicref href="ifrs17/IFRS17_C29.dita" class="- map/topicref " navtitle="C29"/>
+                    <topicref href="ifrs17/IFRS17_C30.dita" class="- map/topicref " navtitle="C30"/>
+                    <topicref href="ifrs17/IFRS17_C31.dita" class="- map/topicref " navtitle="C31"/>
+                    <topicref href="ifrs17/IFRS17_C32.dita" class="- map/topicref " navtitle="C32"/>
+                    <topicref href="ifrs17/IFRS17_C33.dita" class="- map/topicref " navtitle="C33"/>
+                    <topicref base="IFRS2021-2" href="ifrs17/IFRS17_C33A.dita" class="- map/topicref " navtitle="C33A"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs17/IFRS17_gC34-C34.dita" class="- map/topicref " navtitle="Withdrawal of other IFRS Standards">
+                <topicref href="ifrs17/IFRS17_C34.dita" class="- map/topicref " navtitle="C34"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_APPD.dita" class="- map/topicref " navtitle="Appendix D Amendments to other IFRS Standards"/>
+    </topicref>
+        <topicref href="ifrs17/IFRS17_BAMay2017.dita" class="- map/topicref " navtitle="Approval by the International Accounting Standards Board of IFRS 17 Insurance Contracts issued in May 2017"/>
+        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_BAJun2020.dita" class="- map/topicref " navtitle="Approval by the International Accounting Standards Board     of        Amendments to IFRS 17 issued in June     2020"/>
+        <topicref base="IFRS2021-2" href="ifrs17/IFRS17_BADec2021.dita" class="- map/topicref " navtitle="Approval by the Board of Initial Application of IFRS 17 and IFRS 9—Comparative Information issued in December 2021"/>
+    </chapter>
+    
+    
+</bookmap>

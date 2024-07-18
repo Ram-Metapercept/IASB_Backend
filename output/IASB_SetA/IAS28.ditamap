@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IAS28_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <booklibrary class="- topic/ph bookmap/booklibrary ">IAS
+            28</booklibrary>
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Investments in Associates and Joint
+            Ventures</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Standard</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IAS 28</booknumber>
+        </bookid>
+        <document_type value="IAS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2013-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2011-05-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ias-28-investments-in-associates-and-joint-ventures" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="standard" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" id="IAS28_CHK_FM" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ias28/IAS28_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias28/IAS28_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias28/IAS28_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ias28/IAS28_PRE.dita" chunk="to-content" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ias28/IAS28_TOC.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+        <preface href="ias28/IAS28_rubric.dita" class="- map/topicref bookmap/preface "/>
+    </frontmatter>
+    <chapter href="ias28/IAS28_TI.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="IAS 28 Investments in Associates and Joint Ventures"><topicref href="ias28/IAS28_rubric.dita" class="- map/topicref " navtitle="Rubric"/>
+        <topicref href="ias28/IAS28_g1-1.dita" class="- map/topicref " navtitle="Objective">
+            <topicref href="ias28/IAS28_1.dita" class="- map/topicref " navtitle="1"/>
+        </topicref>
+        <topicref href="ias28/IAS28_g2-2.dita" class="- map/topicref " navtitle="Scope">
+            <topicref href="ias28/IAS28_2.dita" class="- map/topicref " navtitle="2"/>
+        </topicref>
+        <topicref href="ias28/IAS28_g3-4.dita" class="- map/topicref " navtitle="Definitions">
+            <topicref href="ias28/IAS28_3.dita" class="- map/topicref " navtitle="3"/>
+            <topicref href="ias28/IAS28_4.dita" class="- map/topicref " navtitle="4"/>
+        </topicref>
+        <topicref href="ias28/IAS28_g5-9.dita" class="- map/topicref " navtitle="Significant influence">
+            <topicref href="ias28/IAS28_5.dita" class="- map/topicref " navtitle="5"/>
+            <topicref href="ias28/IAS28_6.dita" class="- map/topicref " navtitle="6"/>
+            <topicref href="ias28/IAS28_7.dita" class="- map/topicref " navtitle="7"/>
+            <topicref href="ias28/IAS28_8.dita" class="- map/topicref " navtitle="8"/>
+            <topicref href="ias28/IAS28_9.dita" class="- map/topicref " navtitle="9"/>
+        </topicref>
+        <topicref href="ias28/IAS28_g10-15.dita" class="- map/topicref " navtitle="Equity method">
+            <topicref href="ias28/IAS28_10.dita" class="- map/topicref " navtitle="10"/>
+            <topicref href="ias28/IAS28_11.dita" class="- map/topicref " navtitle="11"/>
+            <topicref href="ias28/IAS28_12.dita" class="- map/topicref " navtitle="12"/>
+            <topicref href="ias28/IAS28_13.dita" class="- map/topicref " navtitle="13"/>
+            <topicref href="ias28/IAS28_14.dita" class="- map/topicref " navtitle="14"/>
+            <topicref href="ias28/IAS28_14A.dita" class="- map/topicref " navtitle="14A"/>
+            <topicref href="ias28/IAS28_15.dita" class="- map/topicref " navtitle="15"/>
+        </topicref>
+        <topicref href="ias28/IAS28_g16-43.dita" class="- map/topicref " navtitle="Application of the equity method">
+            <topicref href="ias28/IAS28_16.dita" class="- map/topicref " navtitle="16"/>
+            <topicref href="ias28/IAS28_g17-19.dita" class="- map/topicref " navtitle="Exemptions from applying the equity method">
+                <topicref href="ias28/IAS28_17.dita" class="- map/topicref " navtitle="17"/>
+                <topicref href="ias28/IAS28_18.dita" class="- map/topicref " navtitle="18"/>
+                <topicref href="ias28/IAS28_19.dita" class="- map/topicref " navtitle="19"/>
+            </topicref>
+            <topicref href="ias28/IAS28_g20-21.dita" class="- map/topicref " navtitle="Classification as held for sale">
+                <topicref href="ias28/IAS28_20.dita" class="- map/topicref " navtitle="20"/>
+                <topicref href="ias28/IAS28_21.dita" class="- map/topicref " navtitle="21"/>
+            </topicref>
+            <topicref href="ias28/IAS28_g22-24.dita" class="- map/topicref " navtitle="Discontinuing the use of the equity method">
+                <topicref href="ias28/IAS28_22.dita" class="- map/topicref " navtitle="22"/>
+                <topicref href="ias28/IAS28_23.dita" class="- map/topicref " navtitle="23"/>
+                <topicref href="ias28/IAS28_24.dita" class="- map/topicref " navtitle="24"/>
+            </topicref>
+            <topicref href="ias28/IAS28_g25-25.dita" class="- map/topicref " navtitle="Changes in ownership interest">
+                <topicref href="ias28/IAS28_25.dita" class="- map/topicref " navtitle="25"/>
+            </topicref>
+            <topicref href="ias28/IAS28_g26-39.dita" class="- map/topicref " navtitle="Equity method procedures">
+                <topicref href="ias28/IAS28_26.dita" class="- map/topicref " navtitle="26"/>
+                <topicref href="ias28/IAS28_27.dita" class="- map/topicref " navtitle="27"/>
+                <topicref href="ias28/IAS28_28.dita" class="- map/topicref " navtitle="28"/>
+                <topicref href="ias28/IAS28_29.dita" class="- map/topicref " navtitle="29"/>
+                <topicref href="ias28/IAS28_30.dita" class="- map/topicref " navtitle="30"/>
+                <topicref href="ias28/IAS28_31.dita" class="- map/topicref " navtitle="31"/>
+                <topicref href="ias28/IAS28_31A-31B_MARKER.dita" class="- map/topicref " navtitle="31A–31B"/>
+                <topicref href="ias28/IAS28_32.dita" class="- map/topicref " navtitle="32"/>
+                <topicref href="ias28/IAS28_33.dita" class="- map/topicref " navtitle="33"/>
+                <topicref href="ias28/IAS28_34.dita" class="- map/topicref " navtitle="34"/>
+                <topicref href="ias28/IAS28_35.dita" class="- map/topicref " navtitle="35"/>
+                <topicref href="ias28/IAS28_36.dita" class="- map/topicref " navtitle="36"/>
+                <topicref href="ias28/IAS28_36A.dita" class="- map/topicref " navtitle="36A"/>
+                <topicref href="ias28/IAS28_37.dita" class="- map/topicref " navtitle="37"/>
+                <topicref href="ias28/IAS28_38.dita" class="- map/topicref " navtitle="38"/>
+                <topicref href="ias28/IAS28_39.dita" class="- map/topicref " navtitle="39"/>
+            </topicref>
+            <topicref href="ias28/IAS28_g40-43.dita" class="- map/topicref " navtitle="Impairment losses">
+                <topicref href="ias28/IAS28_40.dita" class="- map/topicref " navtitle="40"/>
+                <topicref href="ias28/IAS28_41_DELETED.dita" class="- map/topicref " navtitle="41"/>
+                <topicref href="ias28/IAS28_41A.dita" class="- map/topicref " navtitle="41A"/>
+                <topicref href="ias28/IAS28_41B.dita" class="- map/topicref " navtitle="41B"/>
+                <topicref href="ias28/IAS28_41C.dita" class="- map/topicref " navtitle="41C"/>
+                <topicref href="ias28/IAS28_42.dita" class="- map/topicref " navtitle="42"/>
+                <topicref href="ias28/IAS28_43.dita" class="- map/topicref " navtitle="43"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias28/IAS28_g44-44.dita" class="- map/topicref " navtitle="Separate financial statements">
+            <topicref href="ias28/IAS28_44.dita" class="- map/topicref " navtitle="44"/>
+        </topicref>
+        <topicref href="ias28/IAS28_g45-46.dita" class="- map/topicref " navtitle="Effective date and transition">
+            <topicref href="ias28/IAS28_45.dita" class="- map/topicref " navtitle="45"/>
+            <topicref href="ias28/IAS28_45A.dita" class="- map/topicref " navtitle="45A"/>
+            <topicref href="ias28/IAS28_45B.dita" class="- map/topicref " navtitle="45B"/>
+            <topicref href="ias28/IAS28_45C_MARKER.dita" class="- map/topicref " navtitle="45C"/>
+            <topicref href="ias28/IAS28_45D.dita" class="- map/topicref " navtitle="45D"/>
+            <topicref href="ias28/IAS28_45E.dita" class="- map/topicref " navtitle="45E"/>
+            <topicref href="ias28/IAS28_45F.dita" class="- map/topicref " navtitle="45F"/>
+            <topicref href="ias28/IAS28_45G.dita" class="- map/topicref " navtitle="45G"/>
+            <topicref href="ias28/IAS28_45H.dita" class="- map/topicref " navtitle="45H"/>
+            <topicref href="ias28/IAS28_45I.dita" class="- map/topicref " navtitle="45I"/>
+            <topicref href="ias28/IAS28_45J.dita" class="- map/topicref " navtitle="45J"/>
+            <topicref href="ias28/IAS28_45K.dita" class="- map/topicref " navtitle="45K"/>
+            <topicref href="ias28/IAS28_g46-46.dita" class="- map/topicref " navtitle="References to IFRS 9">
+                <topicref href="ias28/IAS28_46.dita" class="- map/topicref " navtitle="46"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias28/IAS28_g47-47.dita" class="- map/topicref " navtitle="Withdrawal of IAS 28 (2003)">
+            <topicref href="ias28/IAS28_47.dita" class="- map/topicref " navtitle="47"/>
+        </topicref>
+    
+        <topicref href="ias28/IAS28_BADec2003.dita" class="- map/topicref " navtitle="Approval by the Board of IAS 28 issued in December 2003"/>
+        <topicref href="ias28/IAS28_BADec2014.dita" class="- map/topicref " navtitle="Approval by the Board of Investment Entities: Applying the Consolidation Exception (Amendments to IFRS 10, IFRS 12 and IAS 28) issued in December 2014"/>
+        <topicref href="ias28/IAS28_BAOct2017.dita" class="- map/topicref " navtitle="Approval by the Board of Long-term Interests in Associates and Joint Ventures (Amendments to IAS 28) issued in October 2017"/>
+    </chapter>
+    
+</bookmap>

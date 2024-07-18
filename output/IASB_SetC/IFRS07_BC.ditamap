@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IFRS07_BC_CHK_ALL" chunk="to-content" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Financial Instruments:
+            Disclosures</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Basis For Conclusions</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IFRS 7</booknumber>
+        </bookid>
+        <document_type value="IFRS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2007-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2005-08-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ifrs-7-financial-instruments-disclosures" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="basis-for-conclusion" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ifrs07/IFRS07_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs07/IFRS07_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs07/IFRS07_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ifrs07/IFRS07_PartC.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ifrs07/IFRS07_BC_TOC.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+    </frontmatter>
+    <chapter href="ifrs07/IFRS07_BC_TI.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Basis for Conclusions on IFRS 7 Financial Instruments: Disclosures">
+        <topicmeta class="- map/topicmeta "/>
+        <topicref href="ifrs07/IFRS07_gBC1-BC5B.dita" class="- map/topicref " navtitle="Introduction">
+            <topicref href="ifrs07/IFRS07_BC1.dita" class="- map/topicref " navtitle="BC1"/>
+            <topicref href="ifrs07/IFRS07_BC2.dita" class="- map/topicref " navtitle="BC2"/>
+            <topicref href="ifrs07/IFRS07_BC3.dita" class="- map/topicref " navtitle="BC3"/>
+            <topicref href="ifrs07/IFRS07_BC4.dita" class="- map/topicref " navtitle="BC4"/>
+            <topicref href="ifrs07/IFRS07_BC5.dita" class="- map/topicref " navtitle="BC5"/>
+            <topicref href="ifrs07/IFRS07_BC5A.dita" class="- map/topicref " navtitle="BC5A"/>
+            <topicref href="ifrs07/IFRS07_BC5B.dita" class="- map/topicref " navtitle="BC5B"/>
+        </topicref>
+        <topicref href="ifrs07/IFRS07_gBC6-BC11.dita" class="- map/topicref " navtitle="Scope (paragraphs 3–5)">
+            <topicref href="ifrs07/IFRS07_gBC6-BC8.dita" class="- map/topicref " navtitle="The entities to which the IFRS applies">
+                <topicref href="ifrs07/IFRS07_BC6.dita" class="- map/topicref " navtitle="BC6"/>
+                <topicref href="ifrs07/IFRS07_BC7.dita" class="- map/topicref " navtitle="BC7"/>
+                <topicref href="ifrs07/IFRS07_BC8.dita" class="- map/topicref " navtitle="BC8"/>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_gBC9-BC11.dita" class="- map/topicref " navtitle="Exemptions considered by the Board">
+                <topicref href="ifrs07/IFRS07_gBC9-BC9.dita" class="- map/topicref " navtitle="Insurers">
+                    <topicref href="ifrs07/IFRS07_BC9.dita" class="- map/topicref " navtitle="BC9"/>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC10-BC10.dita" class="- map/topicref " navtitle="Small and medium‑sized entities">
+                    <topicref href="ifrs07/IFRS07_BC10.dita" class="- map/topicref " navtitle="BC10"/>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC11-BC11.dita" class="- map/topicref " navtitle="Subsidiaries">
+                    <topicref href="ifrs07/IFRS07_BC11.dita" class="- map/topicref " navtitle="BC11"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs07/IFRS07_gBC12-BC39G.dita" class="- map/topicref " navtitle="Disclosures about the significance of financial instruments for financial position and performance (paragraphs 7–30, B4 and B5)">
+            <topicref href="ifrs07/IFRS07_BC12.dita" class="- map/topicref " navtitle="BC12"/>
+            <topicref href="ifrs07/IFRS07_gBC13-BC13.dita" class="- map/topicref " navtitle="The principle (paragraph 7)">
+                <topicref href="ifrs07/IFRS07_BC13.dita" class="- map/topicref " navtitle="BC13"/>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_gBC14-BC24.dita" class="- map/topicref " navtitle="Balance sheet disclosures (paragraphs 8–19 and B4)">
+                <topicref href="ifrs07/IFRS07_gBC14-BC15.dita" class="- map/topicref " navtitle="Categories of financial assets and financial liabilities (paragraph 8)">
+                    <topicref href="ifrs07/IFRS07_BC14.dita" class="- map/topicref " navtitle="BC14"/>
+                    <topicref href="ifrs07/IFRS07_BC15.dita" class="- map/topicref " navtitle="BC15"/>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC16-BC22.dita" class="- map/topicref " navtitle="Financial assets or financial liabilities at fair value through profit or loss (paragraphs 9–11, B4 and B5)">
+                    <topicref href="ifrs07/IFRS07_BC16.dita" class="- map/topicref " navtitle="BC16"/>
+                    <topicref href="ifrs07/IFRS07_BC17.dita" class="- map/topicref " navtitle="BC17"/>
+                    <topicref href="ifrs07/IFRS07_BC18.dita" class="- map/topicref " navtitle="BC18"/>
+                    <topicref href="ifrs07/IFRS07_BC19.dita" class="- map/topicref " navtitle="BC19"/>
+                    <topicref href="ifrs07/IFRS07_BC20.dita" class="- map/topicref " navtitle="BC20"/>
+                    <topicref href="ifrs07/IFRS07_BC21.dita" class="- map/topicref " navtitle="BC21"/>
+                    <topicref href="ifrs07/IFRS07_BC22.dita" class="- map/topicref " navtitle="BC22"/>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC23-BC24.dita" class="- map/topicref " navtitle="Reclassification (paragraphs 12B–12D)">
+                    <topicref href="ifrs07/IFRS07_BC23.dita" class="- map/topicref " navtitle="BC23"/>
+                    <topicref href="ifrs07/IFRS07_BC23A.dita" class="- map/topicref " navtitle="BC23A"/>
+                    <topicref href="ifrs07/IFRS07_BC23B.dita" class="- map/topicref " navtitle="BC23B"/>
+                    <topicref href="ifrs07/IFRS07_BC24_DELETED.dita" class="- map/topicref " navtitle="BC24"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_gBC24A-BC32.dita" class="- map/topicref " navtitle="Offsetting financial assets and financial liabilities">
+                <topicref href="ifrs07/IFRS07_gBC24A-BC24E.dita" class="- map/topicref " navtitle="Background">
+                    <topicref href="ifrs07/IFRS07_BC24A.dita" class="- map/topicref " navtitle="BC24A"/>
+                    <topicref href="ifrs07/IFRS07_BC24B.dita" class="- map/topicref " navtitle="BC24B"/>
+                    <topicref href="ifrs07/IFRS07_BC24C.dita" class="- map/topicref " navtitle="BC24C"/>
+                    <topicref href="ifrs07/IFRS07_BC24D.dita" class="- map/topicref " navtitle="BC24D"/>
+                    <topicref href="ifrs07/IFRS07_BC24E.dita" class="- map/topicref " navtitle="BC24E"/>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC24F-BC24N.dita" class="- map/topicref " navtitle="Scope (paragraph 13A)">
+                    <topicref href="ifrs07/IFRS07_BC24F.dita" class="- map/topicref " navtitle="BC24F"/>
+                    <topicref href="ifrs07/IFRS07_BC24G.dita" class="- map/topicref " navtitle="BC24G"/>
+                    <topicref href="ifrs07/IFRS07_BC24H.dita" class="- map/topicref " navtitle="BC24H"/>
+                    <topicref href="ifrs07/IFRS07_BC24I.dita" class="- map/topicref " navtitle="BC24I"/>
+                    <topicref href="ifrs07/IFRS07_BC24J.dita" class="- map/topicref " navtitle="BC24J"/>
+                    <topicref href="ifrs07/IFRS07_BC24K.dita" class="- map/topicref " navtitle="BC24K"/>
+                    <topicref href="ifrs07/IFRS07_BC24L.dita" class="- map/topicref " navtitle="BC24L"/>
+                    <topicref href="ifrs07/IFRS07_BC24M.dita" class="- map/topicref " navtitle="BC24M"/>
+                    <topicref href="ifrs07/IFRS07_BC24N.dita" class="- map/topicref " navtitle="BC24N"/>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC24O-BC24O.dita" class="- map/topicref " navtitle="Disclosure of quantitative information for recognised financial assets and recognised financial liabilities within the scope of paragraph 13A (paragraph 13C)">
+                    <topicref href="ifrs07/IFRS07_BC24O.dita" class="- map/topicref " navtitle="BC24O"/>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC24P-BC24P.dita" class="- map/topicref " navtitle="Disclosure of the net amounts presented in the statement of financial position (paragraph 13C(c))">
+                    <topicref href="ifrs07/IFRS07_BC24P.dita" class="- map/topicref " navtitle="BC24P"/>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC24Q-BC24R.dita" class="- map/topicref " navtitle="Disclosure of the amounts subject to an enforceable master netting arrangement or similar agreement that are not otherwise included in paragraph 13C(b) (paragraph 13C(d))">
+                    <topicref href="ifrs07/IFRS07_BC24Q.dita" class="- map/topicref " navtitle="BC24Q"/>
+                    <topicref href="ifrs07/IFRS07_BC24R.dita" class="- map/topicref " navtitle="BC24R"/>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC24S-BC24S.dita" class="- map/topicref " navtitle="Limits on the amounts disclosed in paragraph 13C(d) (paragraph 13D)">
+                    <topicref href="ifrs07/IFRS07_BC24S.dita" class="- map/topicref " navtitle="BC24S"/>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC24T-BC24W.dita" class="- map/topicref " navtitle="Disclosure by type of financial instrument or by counterparty">
+                    <topicref href="ifrs07/IFRS07_BC24T.dita" class="- map/topicref " navtitle="BC24T"/>
+                    <topicref href="ifrs07/IFRS07_BC24U.dita" class="- map/topicref " navtitle="BC24U"/>
+                    <topicref href="ifrs07/IFRS07_BC24V.dita" class="- map/topicref " navtitle="BC24V"/>
+                    <topicref href="ifrs07/IFRS07_BC24W.dita" class="- map/topicref " navtitle="BC24W"/>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC24X-BC24AL.dita" class="- map/topicref " navtitle="Other considerations">
+                    <topicref href="ifrs07/IFRS07_gBC24X-BC24Y.dita" class="- map/topicref " navtitle="Reconciliation between IFRSs and US GAAP">
+                        <topicref href="ifrs07/IFRS07_BC24X.dita" class="- map/topicref " navtitle="BC24X"/>
+                        <topicref href="ifrs07/IFRS07_BC24Y.dita" class="- map/topicref " navtitle="BC24Y"/>
+                    </topicref>
+                    <topicref href="ifrs07/IFRS07_gBC24Z-BC24Z.dita" class="- map/topicref " navtitle="Tabular information">
+                        <topicref href="ifrs07/IFRS07_BC24Z.dita" class="- map/topicref " navtitle="BC24Z"/>
+                    </topicref>
+                    <topicref href="ifrs07/IFRS07_gBC24AA-BC24AI.dita" class="- map/topicref " navtitle="Transition and effective date">
+                        <topicref href="ifrs07/IFRS07_BC24AA.dita" class="- map/topicref " navtitle="BC24AA"/>
+                        <topicref href="ifrs07/IFRS07_BC24AB.dita" class="- map/topicref " navtitle="BC24AB"/>
+                        <topicref href="ifrs07/IFRS07_BC24AC.dita" class="- map/topicref " navtitle="BC24AC"/>
+                        <topicref href="ifrs07/IFRS07_BC24AD.dita" class="- map/topicref " navtitle="BC24AD"/>
+                        <topicref href="ifrs07/IFRS07_BC24AE.dita" class="- map/topicref " navtitle="BC24AE"/>
+                        <topicref href="ifrs07/IFRS07_BC24AF.dita" class="- map/topicref " navtitle="BC24AF"/>
+                        <topicref href="ifrs07/IFRS07_BC24AG.dita" class="- map/topicref " navtitle="BC24AG"/>
+                        <topicref href="ifrs07/IFRS07_BC24AH.dita" class="- map/topicref " navtitle="BC24AH"/>
+                        <topicref href="ifrs07/IFRS07_BC24AI.dita" class="- map/topicref " navtitle="BC24AI"/>
+                    </topicref>
+                    <topicref href="ifrs07/IFRS07_gBC24AJ-BC24AL.dita" class="- map/topicref " navtitle="Cost‑benefit considerations">
+                        <topicref href="ifrs07/IFRS07_BC24AJ.dita" class="- map/topicref " navtitle="BC24AJ"/>
+                        <topicref href="ifrs07/IFRS07_BC24AK.dita" class="- map/topicref " navtitle="BC24AK"/>
+                        <topicref href="ifrs07/IFRS07_BC24AL.dita" class="- map/topicref " navtitle="BC24AL"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC25-BC25.dita" class="- map/topicref " navtitle="Collateral (paragraphs 14 and 15)">
+                    <topicref href="ifrs07/IFRS07_BC25.dita" class="- map/topicref " navtitle="BC25"/>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC26-BC27.dita" class="- map/topicref " navtitle="Allowance account for credit losses (paragraph 16)">
+                    <topicref href="ifrs07/IFRS07_BC26.dita" class="- map/topicref " navtitle="BC26"/>
+                    <topicref href="ifrs07/IFRS07_BC27.dita" class="- map/topicref " navtitle="BC27"/>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC28-BC31.dita" class="- map/topicref " navtitle="Compound financial instruments with multiple embedded derivatives (paragraph 17)">
+                    <topicref href="ifrs07/IFRS07_BC28.dita" class="- map/topicref " navtitle="BC28"/>
+                    <topicref href="ifrs07/IFRS07_BC29.dita" class="- map/topicref " navtitle="BC29"/>
+                    <topicref href="ifrs07/IFRS07_BC30.dita" class="- map/topicref " navtitle="BC30"/>
+                    <topicref href="ifrs07/IFRS07_BC31.dita" class="- map/topicref " navtitle="BC31"/>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC32-BC32.dita" class="- map/topicref " navtitle="Defaults and breaches (paragraphs 18 and 19)">
+                    <topicref href="ifrs07/IFRS07_BC32.dita" class="- map/topicref " navtitle="BC32"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_gBC33-BC35.dita" class="- map/topicref " navtitle="Income statement and equity (paragraph 20)">
+                <topicref href="ifrs07/IFRS07_gBC33-BC34.dita" class="- map/topicref " navtitle="Items of income, expenses, gains or losses (paragraph 20(a))">
+                    <topicref href="ifrs07/IFRS07_BC33.dita" class="- map/topicref " navtitle="BC33"/>
+                    <topicref href="ifrs07/IFRS07_BC34.dita" class="- map/topicref " navtitle="BC34"/>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC35-BC35.dita" class="- map/topicref " navtitle="Fee income and expense (paragraph 20(c))">
+                    <topicref href="ifrs07/IFRS07_BC35.dita" class="- map/topicref " navtitle="BC35"/>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC35ZA-BC35ZB.dita" base="IAS2021-2" class="- map/topicref " navtitle="Other Disclosures—Accounting Policies">
+                    <topicref href="ifrs07/IFRS07_sgBC35ZA-BC35ZB.dita" class="- map/topicref " navtitle="Amendments to IAS 1 (see paragraphs BC76H–BC76AB of IAS     1)">
+                        <topicref href="ifrs07/IFRS07_BC35ZA.dita" class="- map/topicref " navtitle="BC35ZA"/>
+                        <topicref href="ifrs07/IFRS07_BC35ZB.dita" class="- map/topicref " navtitle="BC35ZB"/>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_gBC35A-BC35SS.dita" class="- map/topicref " navtitle="Other Disclosures—Hedge Accounting">
+                <topicref href="ifrs07/IFRS07_BC35A.dita" class="- map/topicref " navtitle="BC35A"/>
+                <topicref href="ifrs07/IFRS07_BC35B.dita" class="- map/topicref " navtitle="BC35B"/>
+                <topicref href="ifrs07/IFRS07_BC35C.dita" class="- map/topicref " navtitle="BC35C"/>
+                <topicref href="ifrs07/IFRS07_BC35D.dita" class="- map/topicref " navtitle="BC35D"/>
+                <topicref href="ifrs07/IFRS07_BC35E.dita" class="- map/topicref " navtitle="BC35E"/>
+                <topicref href="ifrs07/IFRS07_gBC35F-BC35O.dita" class="- map/topicref " navtitle="General considerations">
+                    <topicref href="ifrs07/IFRS07_gBC35F-BC35K.dita" class="- map/topicref " navtitle="Scope of the hedge accounting disclosures">
+                        <topicref href="ifrs07/IFRS07_BC35F.dita" class="- map/topicref " navtitle="BC35F"/>
+                        <topicref href="ifrs07/IFRS07_BC35G.dita" class="- map/topicref " navtitle="BC35G"/>
+                        <topicref href="ifrs07/IFRS07_BC35H.dita" class="- map/topicref " navtitle="BC35H"/>
+                        <topicref href="ifrs07/IFRS07_BC35I.dita" class="- map/topicref " navtitle="BC35I"/>
+                        <topicref href="ifrs07/IFRS07_BC35J.dita" class="- map/topicref " navtitle="BC35J"/>
+                        <topicref href="ifrs07/IFRS07_BC35K.dita" class="- map/topicref " navtitle="BC35K"/>
+                    </topicref>
+                    <topicref href="ifrs07/IFRS07_gBC35L-BC35L.dita" class="- map/topicref " navtitle="Location of disclosures">
+                        <topicref href="ifrs07/IFRS07_BC35L.dita" class="- map/topicref " navtitle="BC35L"/>
+                    </topicref>
+                    <topicref href="ifrs07/IFRS07_gBC35M-BC35O.dita" class="- map/topicref " navtitle="Disclosures by risk category">
+                        <topicref href="ifrs07/IFRS07_BC35M.dita" class="- map/topicref " navtitle="BC35M"/>
+                        <topicref href="ifrs07/IFRS07_BC35N.dita" class="- map/topicref " navtitle="BC35N"/>
+                        <topicref href="ifrs07/IFRS07_BC35O.dita" class="- map/topicref " navtitle="BC35O"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC35P-BC35S.dita" class="- map/topicref " navtitle="The risk management strategy">
+                    <topicref href="ifrs07/IFRS07_BC35P.dita" class="- map/topicref " navtitle="BC35P"/>
+                    <topicref href="ifrs07/IFRS07_BC35Q.dita" class="- map/topicref " navtitle="BC35Q"/>
+                    <topicref href="ifrs07/IFRS07_BC35R.dita" class="- map/topicref " navtitle="BC35R"/>
+                    <topicref href="ifrs07/IFRS07_BC35S.dita" class="- map/topicref " navtitle="BC35S"/>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC35T-BC35CC.dita" class="- map/topicref " navtitle="The amount, timing and uncertainty of future cash flows">
+                    <topicref href="ifrs07/IFRS07_BC35T.dita" class="- map/topicref " navtitle="BC35T"/>
+                    <topicref href="ifrs07/IFRS07_BC35U.dita" class="- map/topicref " navtitle="BC35U"/>
+                    <topicref href="ifrs07/IFRS07_BC35V.dita" class="- map/topicref " navtitle="BC35V"/>
+                    <topicref href="ifrs07/IFRS07_BC35W.dita" class="- map/topicref " navtitle="BC35W"/>
+                    <topicref href="ifrs07/IFRS07_BC35X.dita" class="- map/topicref " navtitle="BC35X"/>
+                    <topicref href="ifrs07/IFRS07_BC35Y.dita" class="- map/topicref " navtitle="BC35Y"/>
+                    <topicref href="ifrs07/IFRS07_BC35Z.dita" class="- map/topicref " navtitle="BC35Z"/>
+                    <topicref href="ifrs07/IFRS07_BC35AA.dita" class="- map/topicref " navtitle="BC35AA"/>
+                    <topicref href="ifrs07/IFRS07_BC35BB.dita" class="- map/topicref " navtitle="BC35BB"/>
+                    <topicref href="ifrs07/IFRS07_BC35CC.dita" class="- map/topicref " navtitle="BC35CC"/>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC35DD-BC35MM.dita" class="- map/topicref " navtitle="The effects of hedge accounting on financial position and performance">
+                    <topicref href="ifrs07/IFRS07_BC35DD.dita" class="- map/topicref " navtitle="BC35DD"/>
+                    <topicref href="ifrs07/IFRS07_BC35EE.dita" class="- map/topicref " navtitle="BC35EE"/>
+                    <topicref href="ifrs07/IFRS07_BC35FF.dita" class="- map/topicref " navtitle="BC35FF"/>
+                    <topicref href="ifrs07/IFRS07_BC35GG.dita" class="- map/topicref " navtitle="BC35GG"/>
+                    <topicref href="ifrs07/IFRS07_BC35HH.dita" class="- map/topicref " navtitle="BC35HH"/>
+                    <topicref href="ifrs07/IFRS07_BC35II.dita" class="- map/topicref " navtitle="BC35II"/>
+                    <topicref href="ifrs07/IFRS07_BC35JJ.dita" class="- map/topicref " navtitle="BC35JJ"/>
+                    <topicref href="ifrs07/IFRS07_BC35KK.dita" class="- map/topicref " navtitle="BC35KK"/>
+                    <topicref href="ifrs07/IFRS07_BC35LL.dita" class="- map/topicref " navtitle="BC35LL"/>
+                    <topicref href="ifrs07/IFRS07_BC35MM.dita" class="- map/topicref " navtitle="BC35MM"/>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC35NN-BC35QQ.dita" class="- map/topicref " navtitle="Time value of options accumulated through other comprehensive income">
+                    <topicref href="ifrs07/IFRS07_BC35NN.dita" class="- map/topicref " navtitle="BC35NN"/>
+                    <topicref href="ifrs07/IFRS07_BC35OO.dita" class="- map/topicref " navtitle="BC35OO"/>
+                    <topicref href="ifrs07/IFRS07_BC35PP.dita" class="- map/topicref " navtitle="BC35PP"/>
+                    <topicref href="ifrs07/IFRS07_BC35QQ.dita" class="- map/topicref " navtitle="BC35QQ"/>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC35RR-BC35SS.dita" class="- map/topicref " navtitle="Hedging credit risk using credit derivatives">
+                    <topicref href="ifrs07/IFRS07_BC35RR.dita" class="- map/topicref " navtitle="BC35RR"/>
+                    <topicref href="ifrs07/IFRS07_BC35SS.dita" class="- map/topicref " navtitle="BC35SS"/>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC35TT-BC35CCC.dita" class="- map/topicref " navtitle="Uncertainty arising from interest rate benchmark reform">
+                    <topicref href="ifrs07/IFRS07_BC35TT.dita" class="- map/topicref " navtitle="BC35TT"/>
+                    <topicref href="ifrs07/IFRS07_BC35UU.dita" class="- map/topicref " navtitle="BC35UU"/>
+                    <topicref href="ifrs07/IFRS07_BC35VV.dita" class="- map/topicref " navtitle="BC35VV"/>
+                    <topicref href="ifrs07/IFRS07_BC35WW.dita" class="- map/topicref " navtitle="BC35WW"/>
+                    <topicref href="ifrs07/IFRS07_BC35XX.dita" class="- map/topicref " navtitle="BC35XX"/>
+                    <topicref href="ifrs07/IFRS07_BC35YY.dita" class="- map/topicref " navtitle="BC35YY"/>
+                    <topicref href="ifrs07/IFRS07_BC35ZZ.dita" class="- map/topicref " navtitle="BC35ZZ"/>
+                    <topicref href="ifrs07/IFRS07_BC35AAA.dita" class="- map/topicref " navtitle="BC35AAA"/>
+                    <topicref href="ifrs07/IFRS07_BC35BBB.dita" class="- map/topicref " navtitle="BC35BBB"/>
+                    <topicref href="ifrs07/IFRS07_BC35CCC.dita" class="- map/topicref " navtitle="BC35CCC"/>
+                </topicref>
+            </topicref>
+            <topicref base="IFRS2020-5" href="ifrs07/IFRS07_gBC35DDD-BC35OOO.dita" class="- map/topicref " navtitle="Other Disclosures―Additional disclosures related to interest rate benchmark reform">
+                <topicref href="ifrs07/IFRS07_BC35DDD.dita" class="- map/topicref " navtitle="BC35DDD"/>
+                <topicref href="ifrs07/IFRS07_BC35EEE.dita" class="- map/topicref " navtitle="BC35EEE"/>
+                <topicref href="ifrs07/IFRS07_BC35FFF.dita" class="- map/topicref " navtitle="BC35FFF"/>
+                <topicref href="ifrs07/IFRS07_BC35GGG.dita" class="- map/topicref " navtitle="BC35GGG"/>
+                <topicref href="ifrs07/IFRS07_BC35HHH.dita" class="- map/topicref " navtitle="BC35HHH"/>
+                <topicref href="ifrs07/IFRS07_BC35III.dita" class="- map/topicref " navtitle="BC35III"/>
+                <topicref href="ifrs07/IFRS07_BC35JJJ.dita" class="- map/topicref " navtitle="BC35JJJ"/>
+                <topicref href="ifrs07/IFRS07_BC35KKK.dita" class="- map/topicref " navtitle="BC35KKK"/>
+                <topicref href="ifrs07/IFRS07_BC35LLL.dita" class="- map/topicref " navtitle="BC35LLL"/>
+                <topicref href="ifrs07/IFRS07_BC35MMM.dita" class="- map/topicref " navtitle="BC35MMM"/>
+                <topicref href="ifrs07/IFRS07_BC35NNN.dita" class="- map/topicref " navtitle="BC35NNN"/>
+                <topicref href="ifrs07/IFRS07_BC35OOO.dita" class="- map/topicref " navtitle="BC35OOO"/>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_gBC36-BC39G.dita" class="- map/topicref " navtitle="Other disclosures—fair value (paragraphs 25–30)">
+                <topicref href="ifrs07/IFRS07_BC36.dita" class="- map/topicref " navtitle="BC36"/>
+                <topicref href="ifrs07/IFRS07_BC37.dita" class="- map/topicref " navtitle="BC37"/>
+                <topicref href="ifrs07/IFRS07_BC38.dita" class="- map/topicref " navtitle="BC38"/>
+                <topicref href="ifrs07/IFRS07_BC39.dita" class="- map/topicref " navtitle="BC39"/>
+                <topicref href="ifrs07/IFRS07_BC39A.dita" class="- map/topicref " navtitle="BC39A"/>
+                <topicref href="ifrs07/IFRS07_BC39B.dita" class="- map/topicref " navtitle="BC39B"/>
+                <topicref href="ifrs07/IFRS07_BC39C.dita" class="- map/topicref " navtitle="BC39C"/>
+                <topicref href="ifrs07/IFRS07_BC39D.dita" class="- map/topicref " navtitle="BC39D"/>
+                <topicref href="ifrs07/IFRS07_BC39E.dita" class="- map/topicref " navtitle="BC39E"/>
+                <topicref href="ifrs07/IFRS07_BC39F.dita" class="- map/topicref " navtitle="BC39F"/>
+                <topicref href="ifrs07/IFRS07_BC39G.dita" class="- map/topicref " navtitle="BC39G"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs07/IFRS07_gBC40-BC65.dita" class="- map/topicref " navtitle="Disclosures about the nature and extent of risks arising from financial instruments (paragraphs 31–42 and B6–B28)">
+            <topicref href="ifrs07/IFRS07_BC40.dita" class="- map/topicref " navtitle="BC40"/>
+            <topicref href="ifrs07/IFRS07_BC41.dita" class="- map/topicref " navtitle="BC41"/>
+            <topicref href="ifrs07/IFRS07_BC42.dita" class="- map/topicref " navtitle="BC42"/>
+            <topicref href="ifrs07/IFRS07_gBC42A-BC42A.dita" class="- map/topicref " navtitle="Interaction between qualitative and quantitative disclosures (paragraph 32A)">
+                <topicref href="ifrs07/IFRS07_BC42A.dita" class="- map/topicref " navtitle="BC42A"/>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_gBC43-BC46.dita" class="- map/topicref " navtitle="Location of disclosures of risks arising from financial instruments (paragraph B6)">
+                <topicref href="ifrs07/IFRS07_BC43.dita" class="- map/topicref " navtitle="BC43"/>
+                <topicref href="ifrs07/IFRS07_BC44.dita" class="- map/topicref " navtitle="BC44"/>
+                <topicref href="ifrs07/IFRS07_BC45.dita" class="- map/topicref " navtitle="BC45"/>
+                <topicref href="ifrs07/IFRS07_BC46.dita" class="- map/topicref " navtitle="BC46"/>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_gBC47-BC48.dita" class="- map/topicref " navtitle="Quantitative disclosures (paragraphs 34–42 and B7–B28)">
+                <topicref href="ifrs07/IFRS07_gBC47-BC47A.dita" class="- map/topicref " navtitle="Information based on how the entity manages risk (paragraphs 34 and B7)">
+                    <topicref href="ifrs07/IFRS07_BC47.dita" class="- map/topicref " navtitle="BC47"/>
+                    <topicref href="ifrs07/IFRS07_BC47A.dita" class="- map/topicref " navtitle="BC47A"/>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC48-BC48.dita" class="- map/topicref " navtitle="Information on averages">
+                    <topicref href="ifrs07/IFRS07_BC48.dita" class="- map/topicref " navtitle="BC48"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_gBC48A-BC48GG.dita" class="- map/topicref " navtitle="Credit risk (paragraphs 36–38, B9 and B10)">
+                <topicref href="ifrs07/IFRS07_gBC48A-BC48C.dita" class="- map/topicref " navtitle="Disclosure objectives">
+                    <topicref href="ifrs07/IFRS07_BC48A.dita" class="- map/topicref " navtitle="BC48A"/>
+                    <topicref href="ifrs07/IFRS07_BC48B.dita" class="- map/topicref " navtitle="BC48B"/>
+                    <topicref href="ifrs07/IFRS07_BC48C.dita" class="- map/topicref " navtitle="BC48C"/>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC48D-BC48O.dita" class="- map/topicref " navtitle="Credit risk management practices">
+                    <topicref href="ifrs07/IFRS07_BC48D.dita" class="- map/topicref " navtitle="BC48D"/>
+                    <topicref href="ifrs07/IFRS07_BC48E.dita" class="- map/topicref " navtitle="BC48E"/>
+                    <topicref href="ifrs07/IFRS07_BC48F.dita" class="- map/topicref " navtitle="BC48F"/>
+                    <topicref href="ifrs07/IFRS07_BC48G.dita" class="- map/topicref " navtitle="BC48G"/>
+                    <topicref href="ifrs07/IFRS07_BC48H.dita" class="- map/topicref " navtitle="BC48H"/>
+                    <topicref href="ifrs07/IFRS07_BC48I.dita" class="- map/topicref " navtitle="BC48I"/>
+                    <topicref href="ifrs07/IFRS07_BC48J.dita" class="- map/topicref " navtitle="BC48J"/>
+                    <topicref href="ifrs07/IFRS07_BC48K.dita" class="- map/topicref " navtitle="BC48K"/>
+                    <topicref href="ifrs07/IFRS07_gBC48L-BC48O.dita" class="- map/topicref " navtitle="Financial instruments evaluated on an individual basis">
+                        <topicref href="ifrs07/IFRS07_BC48L.dita" class="- map/topicref " navtitle="BC48L"/>
+                        <topicref href="ifrs07/IFRS07_BC48M.dita" class="- map/topicref " navtitle="BC48M"/>
+                        <topicref href="ifrs07/IFRS07_BC48N.dita" class="- map/topicref " navtitle="BC48N"/>
+                        <topicref href="ifrs07/IFRS07_BC48O.dita" class="- map/topicref " navtitle="BC48O"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC48P-BC48BB.dita" class="- map/topicref " navtitle="Amounts arising from expected credit losses">
+                    <topicref href="ifrs07/IFRS07_gBC48P-BC48S.dita" class="- map/topicref " navtitle="Reconciliation of the gross carrying amount and loss allowance">
+                        <topicref href="ifrs07/IFRS07_BC48P.dita" class="- map/topicref " navtitle="BC48P"/>
+                        <topicref href="ifrs07/IFRS07_BC48Q.dita" class="- map/topicref " navtitle="BC48Q"/>
+                        <topicref href="ifrs07/IFRS07_BC48R.dita" class="- map/topicref " navtitle="BC48R"/>
+                        <topicref href="ifrs07/IFRS07_BC48S.dita" class="- map/topicref " navtitle="BC48S"/>
+                    </topicref>
+                    <topicref href="ifrs07/IFRS07_gBC48T-BC48V.dita" class="- map/topicref " navtitle="Loan commitments and financial guarantee contracts">
+                        <topicref href="ifrs07/IFRS07_BC48T.dita" class="- map/topicref " navtitle="BC48T"/>
+                        <topicref href="ifrs07/IFRS07_BC48U.dita" class="- map/topicref " navtitle="BC48U"/>
+                        <topicref href="ifrs07/IFRS07_BC48V.dita" class="- map/topicref " navtitle="BC48V"/>
+                    </topicref>
+                    <topicref href="ifrs07/IFRS07_gBC48W-BC48W.dita" class="- map/topicref " navtitle="Purchased or originated credit-impaired assets">
+                        <topicref href="ifrs07/IFRS07_BC48W.dita" class="- map/topicref " navtitle="BC48W"/>
+                    </topicref>
+                    <topicref href="ifrs07/IFRS07_gBC48X-BC48Z.dita" class="- map/topicref " navtitle="Modifications">
+                        <topicref href="ifrs07/IFRS07_BC48X.dita" class="- map/topicref " navtitle="BC48X"/>
+                        <topicref href="ifrs07/IFRS07_BC48Y.dita" class="- map/topicref " navtitle="BC48Y"/>
+                        <topicref href="ifrs07/IFRS07_BC48Z.dita" class="- map/topicref " navtitle="BC48Z"/>
+                    </topicref>
+                    <topicref href="ifrs07/IFRS07_gBC48AA-BC48BB.dita" class="- map/topicref " navtitle="Collateral and credit risk mitigation disclosures">
+                        <topicref href="ifrs07/IFRS07_BC48AA.dita" class="- map/topicref " navtitle="BC48AA"/>
+                        <topicref href="ifrs07/IFRS07_BC48BB.dita" class="- map/topicref " navtitle="BC48BB"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC48CC-BC48GG.dita" class="- map/topicref " navtitle="Credit risk exposure">
+                    <topicref href="ifrs07/IFRS07_BC48CC.dita" class="- map/topicref " navtitle="BC48CC"/>
+                    <topicref href="ifrs07/IFRS07_BC48DD.dita" class="- map/topicref " navtitle="BC48DD"/>
+                    <topicref href="ifrs07/IFRS07_BC48EE.dita" class="- map/topicref " navtitle="BC48EE"/>
+                    <topicref href="ifrs07/IFRS07_BC48FF.dita" class="- map/topicref " navtitle="BC48FF"/>
+                    <topicref href="ifrs07/IFRS07_gBC48GG-BC48GG.dita" class="- map/topicref " navtitle="Simplified approach for trade receivables, contract assets and lease receivables">
+                        <topicref href="ifrs07/IFRS07_BC48GG.dita" class="- map/topicref " navtitle="BC48GG"/>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_gBC48A-BC54.dita" class="- map/topicref " navtitle="">
+                <topicref href="ifrs07/IFRS07_gBC49-BC50.dita" class="- map/topicref " navtitle="Maximum exposure to credit risk (paragraphs 36(a), B9 and B10)">
+                    <topicref href="ifrs07/IFRS07_BC49.dita" class="- map/topicref " navtitle="BC49"/>
+                    <topicref href="ifrs07/IFRS07_BC49A.dita" class="- map/topicref " navtitle="BC49A"/>
+                    <topicref href="ifrs07/IFRS07_BC50.dita" class="- map/topicref " navtitle="BC50"/>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC51-BC53.dita" class="- map/topicref " navtitle="Collateral held as security and other credit enhancements (paragraphs 36(b) and 37(c))">
+                    <topicref href="ifrs07/IFRS07_BC51.dita" class="- map/topicref " navtitle="BC51"/>
+                    <topicref href="ifrs07/IFRS07_BC52.dita" class="- map/topicref " navtitle="BC52"/>
+                    <topicref href="ifrs07/IFRS07_BC53.dita" class="- map/topicref " navtitle="BC53"/>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gBC54-BC54.dita" class="- map/topicref " navtitle="Credit quality of financial assets that are neither past due nor impaired (paragraph 36(c))">
+                    <topicref href="ifrs07/IFRS07_BC54.dita" class="- map/topicref " navtitle="BC54"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_gBC54A-BC54A.dita" class="- map/topicref " navtitle="Financial assets with renegotiated terms (paragraph 36(d))">
+                <topicref href="ifrs07/IFRS07_BC54A.dita" class="- map/topicref " navtitle="BC54A"/>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_gBC55-BC55A.dita" class="- map/topicref " navtitle="Financial assets that are either past due or impaired (paragraph 37)">
+                <topicref href="ifrs07/IFRS07_BC55.dita" class="- map/topicref " navtitle="BC55"/>
+                <topicref href="ifrs07/IFRS07_BC55A.dita" class="- map/topicref " navtitle="BC55A"/>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_gBC56-BC56A.dita" class="- map/topicref " navtitle="Collateral and other credit enhancements obtained (paragraph 38)">
+                <topicref href="ifrs07/IFRS07_BC56.dita" class="- map/topicref " navtitle="BC56"/>
+                <topicref href="ifrs07/IFRS07_BC56A.dita" class="- map/topicref " navtitle="BC56A"/>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_gBC57-BC58D.dita" class="- map/topicref " navtitle="Liquidity risk (paragraphs 34(a), 39, B10A and B11A–B11F)">
+                <topicref href="ifrs07/IFRS07_BC57.dita" class="- map/topicref " navtitle="BC57"/>
+                <topicref href="ifrs07/IFRS07_BC58.dita" class="- map/topicref " navtitle="BC58"/>
+                <topicref href="ifrs07/IFRS07_BC58A.dita" class="- map/topicref " navtitle="BC58A"/>
+                <topicref href="ifrs07/IFRS07_BC58B.dita" class="- map/topicref " navtitle="BC58B"/>
+                <topicref href="ifrs07/IFRS07_BC58C.dita" class="- map/topicref " navtitle="BC58C"/>
+                <topicref href="ifrs07/IFRS07_BC58D.dita" class="- map/topicref " navtitle="BC58D"/>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_gBC59-BC64.dita" class="- map/topicref " navtitle="Market risk (paragraphs 40–42 and B17–B28)">
+                <topicref href="ifrs07/IFRS07_BC59.dita" class="- map/topicref " navtitle="BC59"/>
+                <topicref href="ifrs07/IFRS07_BC60.dita" class="- map/topicref " navtitle="BC60"/>
+                <topicref href="ifrs07/IFRS07_BC61.dita" class="- map/topicref " navtitle="BC61"/>
+                <topicref href="ifrs07/IFRS07_BC62.dita" class="- map/topicref " navtitle="BC62"/>
+                <topicref href="ifrs07/IFRS07_BC63.dita" class="- map/topicref " navtitle="BC63"/>
+                <topicref href="ifrs07/IFRS07_BC64.dita" class="- map/topicref " navtitle="BC64"/>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_gBC65-BC65.dita" class="- map/topicref " navtitle="Operational risk">
+                <topicref href="ifrs07/IFRS07_BC65.dita" class="- map/topicref " navtitle="BC65"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs07/IFRS07_gBC65A-BC65S.dita" class="- map/topicref " navtitle="Disclosures relating to transfers of financial assets">
+            <topicref href="ifrs07/IFRS07_gBC65A-BC65D.dita" class="- map/topicref " navtitle="Background">
+                <topicref href="ifrs07/IFRS07_BC65A.dita" class="- map/topicref " navtitle="BC65A"/>
+                <topicref href="ifrs07/IFRS07_BC65B.dita" class="- map/topicref " navtitle="BC65B"/>
+                <topicref href="ifrs07/IFRS07_BC65C.dita" class="- map/topicref " navtitle="BC65C"/>
+                <topicref href="ifrs07/IFRS07_BC65D.dita" class="- map/topicref " navtitle="BC65D"/>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_gBC65E-BC65H.dita" class="- map/topicref " navtitle="Transferred financial assets that are not derecognised in their entirety">
+                <topicref href="ifrs07/IFRS07_BC65E.dita" class="- map/topicref " navtitle="BC65E"/>
+                <topicref href="ifrs07/IFRS07_BC65F.dita" class="- map/topicref " navtitle="BC65F"/>
+                <topicref href="ifrs07/IFRS07_BC65G.dita" class="- map/topicref " navtitle="BC65G"/>
+                <topicref href="ifrs07/IFRS07_BC65H.dita" class="- map/topicref " navtitle="BC65H"/>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_gBC65I-BC65S.dita" class="- map/topicref " navtitle="Transferred financial assets that are derecognised in their entirety">
+                <topicref href="ifrs07/IFRS07_BC65I.dita" class="- map/topicref " navtitle="BC65I"/>
+                <topicref href="ifrs07/IFRS07_BC65J.dita" class="- map/topicref " navtitle="BC65J"/>
+                <topicref href="ifrs07/IFRS07_BC65K.dita" class="- map/topicref " navtitle="BC65K"/>
+                <topicref href="ifrs07/IFRS07_BC65L.dita" class="- map/topicref " navtitle="BC65L"/>
+                <topicref href="ifrs07/IFRS07_BC65M.dita" class="- map/topicref " navtitle="BC65M"/>
+                <topicref href="ifrs07/IFRS07_BC65N.dita" class="- map/topicref " navtitle="BC65N"/>
+                <topicref href="ifrs07/IFRS07_gBC65O-BC65S.dita" class="- map/topicref " navtitle="Application of the disclosure requirements to a servicing contract">
+                    <topicref href="ifrs07/IFRS07_BC65O.dita" class="- map/topicref " navtitle="BC65O"/>
+                    <topicref href="ifrs07/IFRS07_BC65P.dita" class="- map/topicref " navtitle="BC65P"/>
+                    <topicref href="ifrs07/IFRS07_BC65Q.dita" class="- map/topicref " navtitle="BC65Q"/>
+                    <topicref href="ifrs07/IFRS07_BC65R.dita" class="- map/topicref " navtitle="BC65R"/>
+                    <topicref href="ifrs07/IFRS07_BC65S.dita" class="- map/topicref " navtitle="BC65S"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs07/IFRS07_gBC66-BC72A.dita" class="- map/topicref " navtitle="Effective date and transition (paragraphs 43–44A)">
+            <topicref href="ifrs07/IFRS07_BC66.dita" class="- map/topicref " navtitle="BC66"/>
+            <topicref href="ifrs07/IFRS07_BC67.dita" class="- map/topicref " navtitle="BC67"/>
+            <topicref href="ifrs07/IFRS07_BC68.dita" class="- map/topicref " navtitle="BC68"/>
+            <topicref href="ifrs07/IFRS07_BC69.dita" class="- map/topicref " navtitle="BC69"/>
+            <topicref href="ifrs07/IFRS07_BC70.dita" class="- map/topicref " navtitle="BC70"/>
+            <topicref href="ifrs07/IFRS07_BC71.dita" class="- map/topicref " navtitle="BC71"/>
+            <topicref href="ifrs07/IFRS07_BC72.dita" class="- map/topicref " navtitle="BC72"/>
+            <topicref href="ifrs07/IFRS07_BC72A.dita" class="- map/topicref " navtitle="BC72A"/>
+        </topicref>
+        <topicref href="ifrs07/IFRS07_gBC72B-BC72C.dita" class="- map/topicref " navtitle="Applicability of the offsetting amendments to IFRS 7 to condensed interim financial statements (paragraph 44R)">
+            <topicref href="ifrs07/IFRS07_BC72B.dita" class="- map/topicref " navtitle="BC72B"/>
+            <topicref href="ifrs07/IFRS07_BC72C.dita" class="- map/topicref " navtitle="BC72C"/>
+        </topicref>
+        <topicref href="ifrs07/IFRS07_gBC73-BC73.dita" class="- map/topicref " navtitle="Summary of main changes from the Exposure Draft">
+            <topicref href="ifrs07/IFRS07_BC73.dita" class="- map/topicref " navtitle="BC73"/>
+        </topicref>
+    <topicref chunk="to-content" class="- map/topicref " navtitle="Appendices">
+        <topicref href="ifrs07/IFRS07_BC_APP.dita" class="- map/topicref " navtitle="Appendix Amendments to Basis for Conclusions on other IFRSs">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="BC" class="- topic/data "/>
+            </topicmeta>
+        </topicref>
+    </topicref></chapter>
+    
+</bookmap>

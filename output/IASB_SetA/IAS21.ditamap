@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IAS21_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <booklibrary class="- topic/ph bookmap/booklibrary ">IAS
+            21</booklibrary>
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">The Effects of Changes in Foreign
+            Exchange Rates</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Standard</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IAS 21</booknumber>
+        </bookid>
+        <document_type value="IAS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2005-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2003-12-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ias-21-the-effects-of-changes-in-foreign-exchange-rates" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="standard" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" id="IAS21_CHK_FM" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ias21/IAS21_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias21/IAS21_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias21/IAS21_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ias21/IAS21_PRE.dita" chunk="to-content" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ias21/IAS21_TOC.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+        <preface href="ias21/IAS21_rubric.dita" class="- map/topicref bookmap/preface "/>
+    </frontmatter>
+    <chapter href="ias21/IAS21_TI.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="IAS 21 The Effects of Changes in Foreign Exchange Rates"><topicref href="ias21/IAS21_rubric.dita" class="- map/topicref " navtitle="Rubric"/>
+        <topicref href="ias21/IAS21_g1-2.dita" class="- map/topicref " navtitle="Objective">
+            <topicref href="ias21/IAS21_1.dita" class="- map/topicref " navtitle="1"/>
+            <topicref href="ias21/IAS21_2.dita" class="- map/topicref " navtitle="2"/>
+        </topicref>
+        <topicref href="ias21/IAS21_g3-7.dita" class="- map/topicref " navtitle="Scope">
+            <topicref href="ias21/IAS21_3.dita" class="- map/topicref " navtitle="3"/>
+            <topicref href="ias21/IAS21_4.dita" class="- map/topicref " navtitle="4"/>
+            <topicref href="ias21/IAS21_5.dita" class="- map/topicref " navtitle="5"/>
+            <topicref href="ias21/IAS21_6.dita" class="- map/topicref " navtitle="6"/>
+            <topicref href="ias21/IAS21_7.dita" class="- map/topicref " navtitle="7"/>
+        </topicref>
+        <topicref href="ias21/IAS21_g8-16.dita" class="- map/topicref " navtitle="Definitions">
+            <topicref href="ias21/IAS21_8.dita" class="- map/topicref " navtitle="8"/>
+            <topicref href="ias21/IAS21_g9-16.dita" class="- map/topicref " navtitle="Elaboration on the definitions">
+                <topicref href="ias21/IAS21_g9-14.dita" class="- map/topicref " navtitle="Functional currency">
+                    <topicref href="ias21/IAS21_9.dita" class="- map/topicref " navtitle="9"/>
+                    <topicref href="ias21/IAS21_10.dita" class="- map/topicref " navtitle="10"/>
+                    <topicref href="ias21/IAS21_11.dita" class="- map/topicref " navtitle="11"/>
+                    <topicref href="ias21/IAS21_12.dita" class="- map/topicref " navtitle="12"/>
+                    <topicref href="ias21/IAS21_13.dita" class="- map/topicref " navtitle="13"/>
+                    <topicref href="ias21/IAS21_14.dita" class="- map/topicref " navtitle="14"/>
+                </topicref>
+                <topicref href="ias21/IAS21_g15-15A.dita" class="- map/topicref " navtitle="Net investment in a foreign operation">
+                    <topicref href="ias21/IAS21_15.dita" class="- map/topicref " navtitle="15"/>
+                    <topicref href="ias21/IAS21_15A.dita" class="- map/topicref " navtitle="15A"/>
+                </topicref>
+                <topicref href="ias21/IAS21_g16-16.dita" class="- map/topicref " navtitle="Monetary items">
+                    <topicref href="ias21/IAS21_16.dita" class="- map/topicref " navtitle="16"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ias21/IAS21_g17-19.dita" class="- map/topicref " navtitle="Summary of the approach required by this Standard">
+            <topicref href="ias21/IAS21_17.dita" class="- map/topicref " navtitle="17"/>
+            <topicref href="ias21/IAS21_18.dita" class="- map/topicref " navtitle="18"/>
+            <topicref href="ias21/IAS21_19.dita" class="- map/topicref " navtitle="19"/>
+        </topicref>
+        <topicref href="ias21/IAS21_g20-37.dita" class="- map/topicref " navtitle="Reporting foreign currency transactions in the functional currency">
+            <topicref href="ias21/IAS21_g20-22.dita" class="- map/topicref " navtitle="Initial recognition">
+                <topicref href="ias21/IAS21_20.dita" class="- map/topicref " navtitle="20"/>
+                <topicref href="ias21/IAS21_21.dita" class="- map/topicref " navtitle="21"/>
+                <topicref href="ias21/IAS21_22.dita" class="- map/topicref " navtitle="22"/>
+            </topicref>
+            <topicref href="ias21/IAS21_g23-26.dita" class="- map/topicref " navtitle="Reporting at the ends of subsequent reporting periods">
+                <topicref href="ias21/IAS21_23.dita" class="- map/topicref " navtitle="23"/>
+                <topicref href="ias21/IAS21_24.dita" class="- map/topicref " navtitle="24"/>
+                <topicref href="ias21/IAS21_25.dita" class="- map/topicref " navtitle="25"/>
+                <topicref href="ias21/IAS21_26.dita" class="- map/topicref " navtitle="26"/>
+            </topicref>
+            <topicref href="ias21/IAS21_g27-34.dita" class="- map/topicref " navtitle="Recognition of exchange differences">
+                <topicref href="ias21/IAS21_27.dita" class="- map/topicref " navtitle="27"/>
+                <topicref href="ias21/IAS21_28.dita" class="- map/topicref " navtitle="28"/>
+                <topicref href="ias21/IAS21_29.dita" class="- map/topicref " navtitle="29"/>
+                <topicref href="ias21/IAS21_30.dita" class="- map/topicref " navtitle="30"/>
+                <topicref href="ias21/IAS21_31.dita" class="- map/topicref " navtitle="31"/>
+                <topicref href="ias21/IAS21_32.dita" class="- map/topicref " navtitle="32"/>
+                <topicref href="ias21/IAS21_33.dita" class="- map/topicref " navtitle="33"/>
+                <topicref href="ias21/IAS21_34.dita" class="- map/topicref " navtitle="34"/>
+            </topicref>
+            <topicref href="ias21/IAS21_g35-37.dita" class="- map/topicref " navtitle="Change in functional currency">
+                <topicref href="ias21/IAS21_35.dita" class="- map/topicref " navtitle="35"/>
+                <topicref href="ias21/IAS21_36.dita" class="- map/topicref " navtitle="36"/>
+                <topicref href="ias21/IAS21_37.dita" class="- map/topicref " navtitle="37"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias21/IAS21_g38-49.dita" class="- map/topicref " navtitle="Use of a presentation currency other than the functional currency">
+            <topicref href="ias21/IAS21_g38-43.dita" class="- map/topicref " navtitle="Translation to the presentation currency">
+                <topicref href="ias21/IAS21_38.dita" class="- map/topicref " navtitle="38"/>
+                <topicref href="ias21/IAS21_39.dita" class="- map/topicref " navtitle="39"/>
+                <topicref href="ias21/IAS21_40.dita" class="- map/topicref " navtitle="40"/>
+                <topicref href="ias21/IAS21_41.dita" class="- map/topicref " navtitle="41"/>
+                <topicref href="ias21/IAS21_42.dita" class="- map/topicref " navtitle="42"/>
+                <topicref href="ias21/IAS21_43.dita" class="- map/topicref " navtitle="43"/>
+            </topicref>
+            <topicref href="ias21/IAS21_g44-47.dita" class="- map/topicref " navtitle="Translation of a foreign operation">
+                <topicref href="ias21/IAS21_44.dita" class="- map/topicref " navtitle="44"/>
+                <topicref href="ias21/IAS21_45.dita" class="- map/topicref " navtitle="45"/>
+                <topicref href="ias21/IAS21_46.dita" class="- map/topicref " navtitle="46"/>
+                <topicref href="ias21/IAS21_47.dita" class="- map/topicref " navtitle="47"/>
+            </topicref>
+            <topicref href="ias21/IAS21_g48-49.dita" class="- map/topicref " navtitle="Disposal or partial disposal of a foreign operation">
+                <topicref href="ias21/IAS21_48.dita" class="- map/topicref " navtitle="48"/>
+                <topicref href="ias21/IAS21_48A.dita" class="- map/topicref " navtitle="48A"/>
+                <topicref href="ias21/IAS21_48B.dita" class="- map/topicref " navtitle="48B"/>
+                <topicref href="ias21/IAS21_48C.dita" class="- map/topicref " navtitle="48C"/>
+                <topicref href="ias21/IAS21_48D.dita" class="- map/topicref " navtitle="48D"/>
+                <topicref href="ias21/IAS21_49.dita" class="- map/topicref " navtitle="49"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias21/IAS21_g50-50.dita" class="- map/topicref " navtitle="Tax effects of all exchange differences">
+            <topicref href="ias21/IAS21_50.dita" class="- map/topicref " navtitle="50"/>
+        </topicref>
+        <topicref href="ias21/IAS21_g51-57.dita" class="- map/topicref " navtitle="Disclosure">
+            <topicref href="ias21/IAS21_51.dita" class="- map/topicref " navtitle="51"/>
+            <topicref href="ias21/IAS21_52.dita" class="- map/topicref " navtitle="52"/>
+            <topicref href="ias21/IAS21_53.dita" class="- map/topicref " navtitle="53"/>
+            <topicref href="ias21/IAS21_54.dita" class="- map/topicref " navtitle="54"/>
+            <topicref href="ias21/IAS21_55.dita" class="- map/topicref " navtitle="55"/>
+            <topicref href="ias21/IAS21_56.dita" class="- map/topicref " navtitle="56"/>
+            <topicref href="ias21/IAS21_57.dita" class="- map/topicref " navtitle="57"/>
+        </topicref>
+        <topicref href="ias21/IAS21_g58-60K.dita" class="- map/topicref " navtitle="Effective date and transition">
+            <topicref href="ias21/IAS21_58.dita" class="- map/topicref " navtitle="58"/>
+            <topicref href="ias21/IAS21_58A.dita" class="- map/topicref " navtitle="58A"/>
+            <topicref href="ias21/IAS21_59.dita" class="- map/topicref " navtitle="59"/>
+            <topicref href="ias21/IAS21_60.dita" class="- map/topicref " navtitle="60"/>
+            <topicref href="ias21/IAS21_60A.dita" class="- map/topicref " navtitle="60A"/>
+            <topicref href="ias21/IAS21_60B.dita" class="- map/topicref " navtitle="60B"/>
+            <topicref href="ias21/IAS21_60C_DELETED.dita" class="- map/topicref " navtitle="60C">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ias21/IAS21_60D.dita" class="- map/topicref " navtitle="60D"/>
+            <topicref href="ias21/IAS21_60E_DELETED.dita" class="- map/topicref " navtitle="60E">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ias21/IAS21_60F.dita" class="- map/topicref " navtitle="60F"/>
+            <topicref href="ias21/IAS21_60G.dita" class="- map/topicref " navtitle="60G"/>
+            <topicref href="ias21/IAS21_60H.dita" class="- map/topicref " navtitle="60H"/>
+            <topicref href="ias21/IAS21_60I_DELETED.dita" class="- map/topicref " navtitle="60I">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ias21/IAS21_60J.dita" class="- map/topicref " navtitle="60J">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ias21/IAS21_60K.dita" class="- map/topicref " navtitle="60K">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+        </topicref>
+        <topicref href="ias21/IAS21_g61-62.dita" class="- map/topicref " navtitle="Withdrawal of other pronouncements">
+            <topicref href="ias21/IAS21_61.dita" class="- map/topicref " navtitle="61"/>
+            <topicref href="ias21/IAS21_62.dita" class="- map/topicref " navtitle="62"/>
+        </topicref>
+    <topicref chunk="to-content" class="- map/topicref " navtitle="Appendices">
+        <topicref href="ias21/IAS21_APP.dita" class="- map/topicref " navtitle="Appendix Amendments to other pronouncements">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="APP" class="- topic/data "/>
+            </topicmeta>
+        </topicref>
+    </topicref>
+        <topicref href="ias21/IAS21_BADec2003.dita" class="- map/topicref " navtitle="Approval by the Board of IAS 21 issued in December 2003"/>
+        <topicref href="ias21/IAS21_BADec2005.dita" class="- map/topicref " navtitle="Approval by the Board of Net Investment in a Foreign Operation (Amendment to IAS 21) issued in December 2005"/>
+    </chapter>
+    
+    
+</bookmap>

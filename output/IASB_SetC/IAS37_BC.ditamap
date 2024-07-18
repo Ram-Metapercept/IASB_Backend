@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" chunk="to-content" id="IAS37_BC_CHK_ALL" base="IAS2020-3" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle "><ph otherprops="print" class="- topic/ph ">Provisions, Contingent Liabilities and Contingent
+            Assets</ph></mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Basis For Conclusions</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IAS 37</booknumber>
+        </bookid>
+        <document_type value="IAS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2022-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2020-05-14" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ias-37-provisions-contingent-liabilities-and-contingent-assets" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="basis-for-conclusion" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ias37/IAS37_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias37/IAS37_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias37/IAS37_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ias37/IAS37_PartC.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ias37/IAS37_BC_TOC.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+    </frontmatter>
+    <chapter href="ias37/IAS37_BC.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Basis for Conclusions on IAS 37 Provisions, Contingent Liabilities and Contingent Assets">
+        <topicref href="ias37/IAS37_gBC1-BC21.dita" class="- map/topicref " navtitle="Onerous Contracts—Cost of Fulfilling a Contract (paragraph 68A)">
+            <topicref href="ias37/IAS37_BC1.dita" class="- map/topicref " navtitle="BC1"/>
+            <topicref href="ias37/IAS37_gBC2-BC13.dita" class="- map/topicref " navtitle="The cost of fulfilling a contract">
+                <topicref href="ias37/IAS37_BC2.dita" class="- map/topicref " navtitle="BC2"/>
+                <topicref href="ias37/IAS37_BC3.dita" class="- map/topicref " navtitle="BC3"/>
+                <topicref href="ias37/IAS37_gBC4-BC7.dita" class="- map/topicref " navtitle="Useful information">
+                    <topicref href="ias37/IAS37_BC4.dita" class="- map/topicref " navtitle="BC4"/>
+                    <topicref href="ias37/IAS37_BC5.dita" class="- map/topicref " navtitle="BC5"/>
+                    <topicref href="ias37/IAS37_BC6.dita" class="- map/topicref " navtitle="BC6"/>
+                    <topicref href="ias37/IAS37_BC7.dita" class="- map/topicref " navtitle="BC7"/>
+                </topicref>
+                <topicref href="ias37/IAS37_gBC8-BC9.dita" class="- map/topicref " navtitle="Cost of applying the requirements">
+                    <topicref href="ias37/IAS37_BC8.dita" class="- map/topicref " navtitle="BC8"/>
+                    <topicref href="ias37/IAS37_BC9.dita" class="- map/topicref " navtitle="BC9"/>
+                </topicref>
+                <topicref href="ias37/IAS37_gBC10-BC13.dita" class="- map/topicref " navtitle="Consistency with other requirements in IAS 37 and requirements in other IFRS Standards">
+                    <topicref href="ias37/IAS37_BC10.dita" class="- map/topicref " navtitle="BC10"/>
+                    <topicref href="ias37/IAS37_BC11.dita" class="- map/topicref " navtitle="BC11"/>
+                    <topicref href="ias37/IAS37_BC12.dita" class="- map/topicref " navtitle="BC12"/>
+                    <topicref href="ias37/IAS37_BC13.dita" class="- map/topicref " navtitle="BC13"/>
+                </topicref>
+            </topicref>
+            <topicref href="ias37/IAS37_gBC14-BC16.dita" class="- map/topicref " navtitle="Examples">
+                <topicref href="ias37/IAS37_BC14.dita" class="- map/topicref " navtitle="BC14"/>
+                <topicref href="ias37/IAS37_BC15.dita" class="- map/topicref " navtitle="BC15"/>
+                <topicref href="ias37/IAS37_BC16.dita" class="- map/topicref " navtitle="BC16"/>
+            </topicref>
+            <topicref href="ias37/IAS37_gBC17-BC17.dita" class="- map/topicref " navtitle="Interaction with requirements for impaired assets">
+                <topicref href="ias37/IAS37_BC17.dita" class="- map/topicref " navtitle="BC17"/>
+            </topicref>
+            <topicref href="ias37/IAS37_gBC18-BC19.dita" class="- map/topicref " navtitle="Scope">
+                <topicref href="ias37/IAS37_BC18.dita" class="- map/topicref " navtitle="BC18"/>
+                <topicref href="ias37/IAS37_BC19.dita" class="- map/topicref " navtitle="BC19"/>
+            </topicref>
+            <topicref href="ias37/IAS37_gBC20-BC21.dita" class="- map/topicref " navtitle="Transitional provisions">
+                <topicref href="ias37/IAS37_BC20.dita" class="- map/topicref " navtitle="BC20"/>
+                <topicref href="ias37/IAS37_BC21.dita" class="- map/topicref " navtitle="BC21"/>
+            </topicref>
+        </topicref>
+    </chapter>
+</bookmap>

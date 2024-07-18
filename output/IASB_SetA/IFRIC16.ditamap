@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IFRIC16_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <booklibrary class="- topic/ph bookmap/booklibrary ">IFRIC 16</booklibrary>
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Hedges of a Net Investment in a
+            Foreign Operation</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Standard</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IFRIC 16</booknumber>
+        </bookid>
+        <document_type value="IFRIC" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2008-10-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2008-07-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ifric-16-hedges-of-a-net-investment-in-a-foreign-operation" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="standard" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" id="IFRIC16_CHK_FM" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ifric16/IFRIC16_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifric16/IFRIC16_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifric16/IFRIC16_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ifric16/IFRIC16_PRE.dita" chunk="to-content" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ifric16/IFRIC16_TOC0001.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+        <preface href="ifric16/IFRIC16_rubric.dita" class="- map/topicref bookmap/preface "/>
+    </frontmatter>
+    <chapter href="ifric16/IFRIC16_TI0002.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="IFRIC 16 Hedges of a Net Investment in a Foreign Operation"><topicref href="ifric16/IFRIC16_rubric.dita" class="- map/topicref " navtitle="Rubric"/>
+        <topicref href="ifric16/IFRIC16_0001.dita" class="- map/topicref " navtitle="References"/>
+        <topicref href="ifric16/IFRIC16_g1-6.dita" class="- map/topicref " navtitle="Background">
+            <topicref href="ifric16/IFRIC16_1.dita" class="- map/topicref " navtitle="1"/>
+            <topicref href="ifric16/IFRIC16_2.dita" class="- map/topicref " navtitle="2"/>
+            <topicref href="ifric16/IFRIC16_3.dita" class="- map/topicref " navtitle="3"/>
+            <topicref href="ifric16/IFRIC16_4.dita" class="- map/topicref " navtitle="4"/>
+            <topicref href="ifric16/IFRIC16_5.dita" class="- map/topicref " navtitle="5"/>
+            <topicref href="ifric16/IFRIC16_6.dita" class="- map/topicref " navtitle="6"/>
+        </topicref>
+        <topicref href="ifric16/IFRIC16_g7-8.dita" class="- map/topicref " navtitle="Scope">
+            <topicref href="ifric16/IFRIC16_7.dita" class="- map/topicref " navtitle="7"/>
+            <topicref href="ifric16/IFRIC16_8.dita" class="- map/topicref " navtitle="8"/>
+        </topicref>
+        <topicref href="ifric16/IFRIC16_g9-9.dita" class="- map/topicref " navtitle="Issues">
+            <topicref href="ifric16/IFRIC16_9.dita" class="- map/topicref " navtitle="9"/>
+        </topicref>
+        <topicref href="ifric16/IFRIC16_g10-17.dita" class="- map/topicref " navtitle="Consensus">
+            <topicref href="ifric16/IFRIC16_g10-13.dita" class="- map/topicref " navtitle="Nature of the hedged risk and amount of the hedged item for which a hedging relationship may be designated">
+                <topicref href="ifric16/IFRIC16_10.dita" class="- map/topicref " navtitle="10"/>
+                <topicref href="ifric16/IFRIC16_11.dita" class="- map/topicref " navtitle="11"/>
+                <topicref href="ifric16/IFRIC16_12.dita" class="- map/topicref " navtitle="12"/>
+                <topicref href="ifric16/IFRIC16_13.dita" class="- map/topicref " navtitle="13"/>
+            </topicref>
+            <topicref href="ifric16/IFRIC16_g14-15.dita" class="- map/topicref " navtitle="Where the hedging instrument can be held">
+                <topicref href="ifric16/IFRIC16_14.dita" class="- map/topicref " navtitle="14"/>
+                <topicref href="ifric16/IFRIC16_15.dita" class="- map/topicref " navtitle="15"/>
+            </topicref>
+            <topicref href="ifric16/IFRIC16_g16-17.dita" class="- map/topicref " navtitle="Disposal of a hedged foreign operation">
+                <topicref href="ifric16/IFRIC16_16.dita" class="- map/topicref " navtitle="16"/>
+                <topicref href="ifric16/IFRIC16_17.dita" class="- map/topicref " navtitle="17"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifric16/IFRIC16_g18-18B.dita" class="- map/topicref " navtitle="Effective date">
+            <topicref href="ifric16/IFRIC16_18.dita" class="- map/topicref " navtitle="18"/>
+            <topicref href="ifric16/IFRIC16_18A_DELETED.dita" class="- map/topicref " navtitle="18A">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ifric16/IFRIC16_18B.dita" class="- map/topicref " navtitle="18B"/>
+        </topicref>
+        <topicref href="ifric16/IFRIC16_g19-19.dita" class="- map/topicref " navtitle="Transition">
+            <topicref href="ifric16/IFRIC16_19.dita" class="- map/topicref " navtitle="19"/>
+        </topicref>
+    <topicref chunk="to-content" class="- map/topicref " navtitle="Appendices">
+        <topicref href="ifric16/IFRIC16_APP.dita" class="- map/topicref " navtitle="Appendix Application guidance">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="APP" class="- topic/data "/>
+            </topicmeta>
+            <topicref href="ifric16/IFRIC16_AG1.dita" class="- map/topicref " navtitle="AG1"/>
+            <topicref href="ifric16/IFRIC16_gAG2-AG2.dita" class="- map/topicref " navtitle="Nature of hedged risk for which a hedging relationship may be designated (paragraphs 10–13)">
+                <topicref href="ifric16/IFRIC16_AG2.dita" class="- map/topicref " navtitle="AG2"/>
+            </topicref>
+            <topicref href="ifric16/IFRIC16_gAG3-AG6.dita" class="- map/topicref " navtitle="Amount of hedged item for which a hedging relationship may be designated (paragraphs 10–13)">
+                <topicref href="ifric16/IFRIC16_AG3.dita" class="- map/topicref " navtitle="AG3"/>
+                <topicref href="ifric16/IFRIC16_AG4.dita" class="- map/topicref " navtitle="AG4"/>
+                <topicref href="ifric16/IFRIC16_AG5.dita" class="- map/topicref " navtitle="AG5"/>
+                <topicref href="ifric16/IFRIC16_AG6.dita" class="- map/topicref " navtitle="AG6"/>
+            </topicref>
+            <topicref href="ifric16/IFRIC16_gAG7-AG7.dita" class="- map/topicref " navtitle="Where in a group can the hedging instrument be held (paragraphs 14 and 15)?">
+                <topicref href="ifric16/IFRIC16_AG7.dita" class="- map/topicref " navtitle="AG7"/>
+            </topicref>
+            <topicref href="ifric16/IFRIC16_gAG8-AG8.dita" class="- map/topicref " navtitle="Amounts reclassified to profit or loss on disposal of a foreign operation (paragraphs 16 and 17)">
+                <topicref href="ifric16/IFRIC16_AG8.dita" class="- map/topicref " navtitle="AG8"/>
+            </topicref>
+            <topicref href="ifric16/IFRIC16_gAG9-AG15.dita" class="- map/topicref " navtitle="Hedging more than one foreign operation (paragraphs 11, 13 and 15)">
+                <topicref href="ifric16/IFRIC16_AG9.dita" class="- map/topicref " navtitle="AG9"/>
+                <topicref href="ifric16/IFRIC16_gAG10-AG12.dita" class="- map/topicref " navtitle="Parent holds both USD and GBP hedging instruments">
+                    <topicref href="ifric16/IFRIC16_AG10.dita" class="- map/topicref " navtitle="AG10"/>
+                    <topicref href="ifric16/IFRIC16_AG11.dita" class="- map/topicref " navtitle="AG11"/>
+                    <topicref href="ifric16/IFRIC16_AG12.dita" class="- map/topicref " navtitle="AG12"/>
+                </topicref>
+                <topicref href="ifric16/IFRIC16_gAG13-AG15.dita" class="- map/topicref " navtitle="Subsidiary B holds the USD hedging instrument">
+                    <topicref href="ifric16/IFRIC16_AG13.dita" class="- map/topicref " navtitle="AG13"/>
+                    <topicref href="ifric16/IFRIC16_AG14.dita" class="- map/topicref " navtitle="AG14"/>
+                    <topicref href="ifric16/IFRIC16_AG15.dita" class="- map/topicref " navtitle="AG15"/>
+                </topicref>
+            </topicref>
+        </topicref>
+    </topicref></chapter>
+    
+</bookmap>

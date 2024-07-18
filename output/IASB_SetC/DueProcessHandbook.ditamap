@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" chunk="to-content" id="dueprocesshandbook_CHK_CHAPTER" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Due Process
+            Handbook</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Handbook</category>
+        <document_type value="Handbook" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2013-02-04" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2006-03-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="dueprocesshandbook/DUEPROCESSHANDBOOK_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="dueprocesshandbook/DUEPROCESSHANDBOOK_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="dueprocesshandbook/DUEPROCESSHANDBOOK_PRE.dita" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="dueprocesshandbook/DUEPROCESSHANDBOOK_TOC.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+    </frontmatter>
+    <chapter class="- map/topicref bookmap/chapter " chunk="to-content">
+        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g1.1-1.7.dita" outputclass="new_page" class="- map/topicref " navtitle="1. Introduction">
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_1.1.dita" class="- map/topicref " navtitle="1.1"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_1.2.dita" class="- map/topicref " navtitle="1.2"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_1.3.dita" class="- map/topicref " navtitle="1.3"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_1.4.dita" class="- map/topicref " navtitle="1.4"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_1.5.dita" class="- map/topicref " navtitle="1.5"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_1.6.dita" class="- map/topicref " navtitle="1.6"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_1.7.dita" class="- map/topicref " navtitle="1.7"/>
+            <topicref base="DPH2020" href="dueprocesshandbook/DUEPROCESSHANDBOOK_1.8.dita" class="- map/topicref " navtitle="1.8"/>
+        </topicref>
+        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g2.1-2.15.dita" class="- map/topicref " navtitle="2. Oversight">
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g2.1-2.7.dita" class="- map/topicref " navtitle="Mission">
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_2.1.dita" class="- map/topicref " navtitle="2.1"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_2.2.dita" class="- map/topicref " navtitle="2.2"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_2.3.dita" class="- map/topicref " navtitle="2.3"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_2.4.dita" class="- map/topicref " navtitle="2.4"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_2.5.dita" class="- map/topicref " navtitle="2.5"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_2.6.dita" class="- map/topicref " navtitle="2.6"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_2.7.dita" class="- map/topicref " navtitle="2.7"/>
+            </topicref>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g2.8-2.8.dita" class="- map/topicref " navtitle="Areas of responsibility">
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_2.8.dita" class="- map/topicref " navtitle="2.8"/>
+            </topicref>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g2.9-2.14.dita" class="- map/topicref " navtitle="Process">
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_2.9.dita" class="- map/topicref " navtitle="2.9"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_2.10.dita" class="- map/topicref " navtitle="2.10"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_2.11.dita" class="- map/topicref " navtitle="2.11"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_2.12.dita" class="- map/topicref " navtitle="2.12"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_2.13.dita" class="- map/topicref " navtitle="2.13"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_2.14.dita" class="- map/topicref " navtitle="2.14"/>
+            </topicref>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g2.15-2.15.dita" class="- map/topicref " navtitle="Communication">
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_2.15.dita" class="- map/topicref " navtitle="2.15"/>
+            </topicref>
+        </topicref>
+        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.1-3.81.dita" class="- map/topicref " navtitle="3. Principles">
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.1.dita" class="- map/topicref " navtitle="3.1"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.2-3.40.dita" class="- map/topicref " navtitle="Transparency">
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.2-3.36.dita" class="- map/topicref " navtitle="Public meetings, voting and balloting">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.2-3.5.dita" class="- map/topicref " navtitle="Public       meetings">
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.2.dita" class="- map/topicref " navtitle="3.2"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.3.dita" class="- map/topicref " navtitle="3.3"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.4.dita" class="- map/topicref " navtitle="3.4"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.5.dita" class="- map/topicref " navtitle="3.5"/>
+                    </topicref>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.6-3.13.dita" class="- map/topicref " navtitle="Papers and observer access">
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.6.dita" class="- map/topicref " navtitle="3.6"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.7.dita" class="- map/topicref " navtitle="3.7"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.8.dita" class="- map/topicref " navtitle="3.8"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.9.dita" class="- map/topicref " navtitle="3.9"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.10.dita" class="- map/topicref " navtitle="3.10"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.11.dita" class="- map/topicref " navtitle="3.11"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.12.dita" class="- map/topicref " navtitle="3.12"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.13.dita" class="- map/topicref " navtitle="3.13"/>
+                    </topicref>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.14-3.16.dita" class="- map/topicref " navtitle="Publications, meetings and the ballot process">
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.14.dita" class="- map/topicref " navtitle="3.14"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.15.dita" class="- map/topicref " navtitle="3.15"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.16.dita" class="- map/topicref " navtitle="3.16"/>
+                    </topicref>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.17-3.21.dita" class="- map/topicref " navtitle="Meetings">
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.17.dita" class="- map/topicref " navtitle="3.17"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.18.dita" class="- map/topicref " navtitle="3.18"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.19.dita" class="- map/topicref " navtitle="3.19"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.20.dita" class="- map/topicref " navtitle="3.20"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.21.dita" class="- map/topicref " navtitle="3.21"/>
+                    </topicref>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.22-3.30.dita" class="- map/topicref " navtitle="Balloting">
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.22.dita" class="- map/topicref " navtitle="3.22"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.23.dita" class="- map/topicref " navtitle="3.23"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.24.dita" class="- map/topicref " navtitle="3.24"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.25.dita" class="- map/topicref " navtitle="3.25"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.26.dita" class="- map/topicref " navtitle="3.26"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.27.dita" class="- map/topicref " navtitle="3.27"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.28.dita" class="- map/topicref " navtitle="3.28"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.29.dita" class="- map/topicref " navtitle="3.29"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.30.dita" class="- map/topicref " navtitle="3.30"/>
+                    </topicref>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.31-3.33.dita" class="- map/topicref " navtitle="Drafts for editorial review">
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.31.dita" class="- map/topicref " navtitle="3.31"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.32.dita" class="- map/topicref " navtitle="3.32"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.33.dita" class="- map/topicref " navtitle="3.33"/>
+                    </topicref>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.34-3.36.dita" class="- map/topicref " navtitle="Information on the IFRS Foundation website">
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.34.dita" class="- map/topicref " navtitle="3.34"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.35.dita" class="- map/topicref " navtitle="3.35"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.36.dita" class="- map/topicref " navtitle="3.36"/>
+                        <topicref base="DPH2020" href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.37.dita" class="- map/topicref " navtitle="3.37"/>
+                    </topicref>
+                </topicref>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.37-3.40.dita" class="- map/topicref " navtitle="Education sessions, small group meetings and assigned Board members">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.37R3.38.dita" class="- map/topicref " navtitle="3.38"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.38-3.38.dita" class="- map/topicref " navtitle="Education sessions">
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.38R3.39.dita" class="- map/topicref " navtitle="3.39"/>
+                    </topicref>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.39-3.39.dita" class="- map/topicref " navtitle="Private and small group meetings">
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.39R3.40.dita" class="- map/topicref " navtitle="3.40"/>
+                    </topicref>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.40-3.40.dita" class="- map/topicref " navtitle="Board advisors">
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.40R3.41.dita" class="- map/topicref " navtitle="3.41"/>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.41-3.72.dita" class="- map/topicref " navtitle="Full and fair consultation">
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.41R3.42.dita" class="- map/topicref " navtitle="3.42"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.42-3.43.dita" class="- map/topicref " navtitle="Minimum safeguards">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.42R3.43.dita" class="- map/topicref " navtitle="3.43"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.43R3.44.dita" class="- map/topicref " navtitle="3.44"/>
+                </topicref>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.44-3.45.dita" class="- map/topicref " navtitle="‘Comply or explain’ steps">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.44R3.45.dita" class="- map/topicref " navtitle="3.45"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.45R3.46.dita" class="- map/topicref " navtitle="3.46"/>
+                </topicref>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.46-3.48.dita" class="- map/topicref " navtitle="Investors">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.46R3.47.dita" class="- map/topicref " navtitle="3.47"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.47R3.48.dita" class="- map/topicref " navtitle="3.48"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.48R3.49.dita" class="- map/topicref " navtitle="3.49"/>
+                </topicref>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.49-3.52.dita" class="- map/topicref " navtitle="A national and regional network">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.49R3.50.dita" class="- map/topicref " navtitle="3.50"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.50R3.51.dita" class="- map/topicref " navtitle="3.51"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.51R3.52.dita" class="- map/topicref " navtitle="3.52"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.52R3.53.dita" class="- map/topicref " navtitle="3.53"/>
+                </topicref>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.53-3.53.dita" class="- map/topicref " navtitle="IFRS Advisory Council">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.53R3.54.dita" class="- map/topicref " navtitle="3.54"/>
+                </topicref>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.54-3.57.dita" class="- map/topicref " navtitle="Securities and other regulators">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.54R3.55.dita" class="- map/topicref " navtitle="3.55"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.55R3.56.dita" class="- map/topicref " navtitle="3.56"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.56R3.57.dita" class="- map/topicref " navtitle="3.57"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.57R3.58.dita" class="- map/topicref " navtitle="3.58"/>
+                </topicref>
+                <topicref base="DPH2020" href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.58-3.63.dita" class="- map/topicref " navtitle="Consultative groups">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.58R3.59.dita" class="- map/topicref " navtitle="3.59"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.59R3.60.dita" class="- map/topicref " navtitle="3.60"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.59R3.61.dita" class="- map/topicref " navtitle="3.61"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.59R3.62.dita" class="- map/topicref " navtitle="3.62"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.60R3.63.dita" class="- map/topicref " navtitle="3.63"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.61R3.64.dita" class="- map/topicref " navtitle="3.64"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.62R3.65.dita" class="- map/topicref " navtitle="3.65"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.63R3.66.dita" class="- map/topicref " navtitle="3.66"/>
+                </topicref>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.64-3.66.dita" class="- map/topicref " navtitle="Comment letters">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.64R3.67.dita" class="- map/topicref " navtitle="3.67"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.65R3.68.dita" class="- map/topicref " navtitle="3.68"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.66R3.69.dita" class="- map/topicref " navtitle="3.69"/>
+                </topicref>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.67-3.71.dita" class="- map/topicref " navtitle="Fieldwork">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.67R3.70.dita" class="- map/topicref " navtitle="3.70"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.68R3.71.dita" class="- map/topicref " navtitle="3.71"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.69R3.72.dita" class="- map/topicref " navtitle="3.72"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.70R3.73.dita" class="- map/topicref " navtitle="3.73"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.71R3.74.dita" class="- map/topicref " navtitle="3.74"/>
+                </topicref>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.72-3.72.dita" class="- map/topicref " navtitle="Public hearings">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.72R3.75.dita" class="- map/topicref " navtitle="3.75"/>
+                </topicref>
+            </topicref>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.73-3.81.dita" class="- map/topicref " navtitle="Accountability">
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.73-3.76.dita" class="- map/topicref " navtitle="Effect analysis">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.73R3.76.dita" class="- map/topicref " navtitle="3.76"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.74R3.77.dita" class="- map/topicref " navtitle="3.77"/>
+                    <topicref base="DPH2020" href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.78.dita" class="- map/topicref " navtitle="3.78"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.75R3.79.dita" class="- map/topicref " navtitle="3.79"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.76R3.80.dita" class="- map/topicref " navtitle="3.80"/>
+                    <topicref base="DPH2020" href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.81-3.81.dita" class="- map/topicref " navtitle="Reporting the effects">
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.81.dita" class="- map/topicref " navtitle="3.81"/>
+                    </topicref>
+                </topicref>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g3.77-3.81.dita" class="- map/topicref " navtitle="Basis for conclusions and dissenting opinions">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.77R3.82.dita" class="- map/topicref " navtitle="3.82"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.78R3.83.dita" class="- map/topicref " navtitle="3.83"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.79R3.84.dita" class="- map/topicref " navtitle="3.84"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.80R3.85.dita" class="- map/topicref " navtitle="3.85"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_3.81R3.86.dita" class="- map/topicref " navtitle="3.86"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g4.1-4.23.dita" class="- map/topicref " navtitle="4. Technical work plan">
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_4.1.dita" class="- map/topicref " navtitle="4.1"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_4.2.dita" class="- map/topicref " navtitle="4.2"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g4.3-4.5.dita" class="- map/topicref " navtitle="Five-yearly consultation on the Board's work plan (technical agenda)">
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_4.3.dita" class="- map/topicref " navtitle="4.3"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_4.4.dita" class="- map/topicref " navtitle="4.4"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_4.5.dita" class="- map/topicref " navtitle="4.5"/>
+                <topicref base="DPH2020" href="dueprocesshandbook/DUEPROCESSHANDBOOK_4.6.dita" class="- map/topicref " navtitle="4.6"/>
+                <topicref base="DPH2020" href="dueprocesshandbook/DUEPROCESSHANDBOOK_4.7.dita" class="- map/topicref " navtitle="4.7"/>
+            </topicref>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g4.6-4.19.dita" class="- map/topicref " navtitle="Research programme">
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_4.6R4.8.dita" class="- map/topicref " navtitle="4.8"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_4.7R4.9.dita" class="- map/topicref " navtitle="4.9"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_4.8R4.10.dita" class="- map/topicref " navtitle="4.10"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_4.9R4.11.dita" class="- map/topicref " navtitle="4.11"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g4.12-4.19.dita" class="- map/topicref " navtitle="Research papers, discussion papers and requests for information">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_4.12.dita" class="- map/topicref " navtitle="4.12"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_4.13.dita" class="- map/topicref " navtitle="4.13"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_4.14.dita" class="- map/topicref " navtitle="4.14"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_4.15.dita" class="- map/topicref " navtitle="4.15"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g4.16-4.19.dita" class="- map/topicref " navtitle="Publication of discussion papers, requests for information and research papers">
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_4.16.dita" class="- map/topicref " navtitle="4.16"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_4.17.dita" class="- map/topicref " navtitle="4.17"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_4.18.dita" class="- map/topicref " navtitle="4.18"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_4.19.dita" class="- map/topicref " navtitle="4.19"/>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g4.20-4.23.dita" class="- map/topicref " navtitle="Conceptual Framework for Financial Reporting">
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_4.20.dita" class="- map/topicref " navtitle="4.20"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_4.21.dita" class="- map/topicref " navtitle="4.21"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_4.22.dita" class="- map/topicref " navtitle="4.22"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_4.23.dita" class="- map/topicref " navtitle="4.23"/>
+            </topicref>
+        </topicref>
+        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g5.1-5.22.dita" class="- map/topicref " navtitle="5. Standards-setting projects">
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_5.1.dita" class="- map/topicref " navtitle="5.1"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_5.2.dita" class="- map/topicref " navtitle="5.2"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_5.3.dita" class="- map/topicref " navtitle="5.3"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g5.4-5.13.dita" class="- map/topicref " navtitle="Criteria for new IFRS Standards or major amendments">
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_5.4.dita" class="- map/topicref " navtitle="5.4"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_5.5.dita" class="- map/topicref " navtitle="5.5"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_5.6.dita" class="- map/topicref " navtitle="5.6"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_5.7.dita" class="- map/topicref " navtitle="5.7"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g5.9-5.13.dita" class="- map/topicref " navtitle="Matters referred by the Monitoring Board">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_5.9R5.8.dita" class="- map/topicref " navtitle="5.8"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_5.10R5.9.dita" class="- map/topicref " navtitle="5.9"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_5.11R5.10.dita" class="- map/topicref " navtitle="5.10"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_5.12R5.11.dita" class="- map/topicref " navtitle="5.11"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_5.13R5.12.dita" class="- map/topicref " navtitle="5.12"/>
+                </topicref>
+            </topicref>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g5.14-5.22.dita" class="- map/topicref " navtitle="Maintenance and consistent application">
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_sg5.14-5.22.dita" class="- map/topicref " navtitle="Identification of matters">
+                    <topicref base="DPH2020" href="dueprocesshandbook/DUEPROCESSHANDBOOK_5.13.dita" class="- map/topicref " navtitle="5.13"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_5.14.dita" class="- map/topicref " navtitle="5.14"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_5.15.dita" class="- map/topicref " navtitle="5.15"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_5.16.dita" class="- map/topicref " navtitle="5.16"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_5.18R5.17.dita" class="- map/topicref " navtitle="5.17"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_5.19R5.18.dita" class="- map/topicref " navtitle="5.18"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_5.22R5.19.dita" class="- map/topicref " navtitle="5.19"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g6.1-6.34.dita" class="- map/topicref " navtitle="6. New or amended IFRS Standards">
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g6.1-6.18.dita" class="- map/topicref " navtitle="Exposure drafts">
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.1.dita" class="- map/topicref " navtitle="6.1"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.2.dita" class="- map/topicref " navtitle="6.2"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.3.dita" class="- map/topicref " navtitle="6.3"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g6.4-6.15.dita" class="- map/topicref " navtitle="Developing an exposure draft">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.4.dita" class="- map/topicref " navtitle="6.4"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.5.dita" class="- map/topicref " navtitle="6.5"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.6.dita" class="- map/topicref " navtitle="6.6"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.7.dita" class="- map/topicref " navtitle="6.7"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.8.dita" class="- map/topicref " navtitle="6.8"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.9.dita" class="- map/topicref " navtitle="6.9"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g6.10-6.15.dita" class="- map/topicref " navtitle="Exposing annual improvements">
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.10.dita" class="- map/topicref " navtitle="6.10"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.11.dita" class="- map/topicref " navtitle="6.11"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.12.dita" class="- map/topicref " navtitle="6.12"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.13.dita" class="- map/topicref " navtitle="6.13"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.14.dita" class="- map/topicref " navtitle="6.14"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.15.dita" class="- map/topicref " navtitle="6.15"/>
+                    </topicref>
+                </topicref>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g6.16-6.18.dita" class="- map/topicref " navtitle="Publication">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.16.dita" class="- map/topicref " navtitle="6.16"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.17.dita" class="- map/topicref " navtitle="6.17"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.18.dita" class="- map/topicref " navtitle="6.18"/>
+                </topicref>
+            </topicref>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g6.19-6.29.dita" class="- map/topicref " navtitle="Consideration of comments received and consultations">
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.19.dita" class="- map/topicref " navtitle="6.19"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.20.dita" class="- map/topicref " navtitle="6.20"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.21.dita" class="- map/topicref " navtitle="6.21"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g6.22-6.29.dita" class="- map/topicref " navtitle="Completion of the deliberations">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.22.dita" class="- map/topicref " navtitle="6.22"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.23.dita" class="- map/topicref " navtitle="6.23"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.24.dita" class="- map/topicref " navtitle="6.24"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g6.25-6.29.dita" class="- map/topicref " navtitle="Re-exposure criteria">
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.25.dita" class="- map/topicref " navtitle="6.25"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.26.dita" class="- map/topicref " navtitle="6.26"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.27.dita" class="- map/topicref " navtitle="6.27"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.28.dita" class="- map/topicref " navtitle="6.28"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.29.dita" class="- map/topicref " navtitle="6.29"/>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g6.30-6.34.dita" class="- map/topicref " navtitle="Finalising an IFRS Standard">
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.30.dita" class="- map/topicref " navtitle="6.30"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.31.dita" class="- map/topicref " navtitle="6.31"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.32.dita" class="- map/topicref " navtitle="6.32"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.33.dita" class="- map/topicref " navtitle="6.33"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.34.dita" class="- map/topicref " navtitle="6.34"/>
+            </topicref>
+        </topicref>
+        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_sg6.35-6.36.dita" class="- map/topicref " navtitle="Effective date and transition">
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.35.dita" class="- map/topicref " navtitle="6.35"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.36.dita" class="- map/topicref " navtitle="6.36"/>
+        </topicref>
+        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g6.37-6.51.dita" class="- map/topicref " navtitle="Publication">
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.37.dita" class="- map/topicref " navtitle="6.37"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.38.dita" class="- map/topicref " navtitle="6.38"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_sg6.39-6.39.dita" class="- map/topicref " navtitle="Practice guidance">
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.39.dita" class="- map/topicref " navtitle="6.39"/>
+            </topicref>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g6.40-6.51.dita" class="- map/topicref " navtitle="Post-publication procedures and maintenance">
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.40.dita" class="- map/topicref " navtitle="6.40"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.41.dita" class="- map/topicref " navtitle="6.41"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g6.46-6.50.dita" class="- map/topicref " navtitle="Translation">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.46R6.42.dita" class="- map/topicref " navtitle="6.42"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.47R6.43.dita" class="- map/topicref " navtitle="6.43"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.48R6.44.dita" class="- map/topicref " navtitle="6.44"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.49R6.45.dita" class="- map/topicref " navtitle="6.45"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.50R6.46.dita" class="- map/topicref " navtitle="6.46"/>
+                </topicref>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g6.51-6.51.dita" class="- map/topicref " navtitle="IFRS Taxonomy (see the Annex)">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.51R6.47.dita" class="- map/topicref " navtitle="6.47"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g6.52-6.54.dita" class="- map/topicref " navtitle="Post-implementation review">
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.52R6.48.dita" class="- map/topicref " navtitle="6.48"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.53R6.49.dita" class="- map/topicref " navtitle="6.49"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.54R6.50.dita" class="- map/topicref " navtitle="6.50"/>
+        </topicref>
+        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g6.55-6.63.dita" class="- map/topicref " navtitle="Initial assessment and public consultation">
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.55R6.51.dita" class="- map/topicref " navtitle="6.51"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.56R6.52.dita" class="- map/topicref " navtitle="6.52"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.57R6.53.dita" class="- map/topicref " navtitle="6.53"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.58R6.54.dita" class="- map/topicref " navtitle="6.54"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.59R6.55.dita" class="- map/topicref " navtitle="6.55"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g6.60-6.63.dita" class="- map/topicref " navtitle="Consideration of evidence and presentation of findings">
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.60.dita" class="- map/topicref " navtitle="6.56"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.61.dita" class="- map/topicref " navtitle="6.57"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.62.dita" class="- map/topicref " navtitle="6.58"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.63.dita" class="- map/topicref " navtitle="6.59"/>
+            </topicref>
+        </topicref>
+        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g7.1-7.27.dita" class="- map/topicref " navtitle="7. IFRIC Interpretations">
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_7.1.dita" class="- map/topicref " navtitle="7.1"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g7.3-7.13.dita" class="- map/topicref " navtitle="Draft IFRIC">
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_7.3R7.2.dita" class="- map/topicref " navtitle="7.2"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_7.4R7.3.dita" class="- map/topicref " navtitle="7.3"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_7.5R7.4.dita" class="- map/topicref " navtitle="7.4"/>
+                <topicref base="2020-08-20" href="dueprocesshandbook/DUEPROCESSHANDBOOK_g7.6-7.11.dita" class="- map/topicref " navtitle="Developing a draft IFRIC">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_7.6R7.5.dita" class="- map/topicref " navtitle="7.5"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_7.8R7.6.dita" class="- map/topicref " navtitle="7.6"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_5.21R7.7.dita" class="- map/topicref " navtitle="7.7"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_7.9R7.8.dita" class="- map/topicref " navtitle="7.8"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_7.7.dita" class="- map/topicref " navtitle="7.9"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_7.10.dita" class="- map/topicref " navtitle="7.10"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_7.11.dita" class="- map/topicref " navtitle="7.11"/>
+                </topicref>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g7.12-7.13.dita" class="- map/topicref " navtitle="Publication">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_7.12.dita" class="- map/topicref " navtitle="7.12"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_7.13.dita" class="- map/topicref " navtitle="7.13"/>
+                </topicref>
+            </topicref>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g7.14-7.27.dita" class="- map/topicref " navtitle="Consideration of comments received">
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_7.14.dita" class="- map/topicref " navtitle="7.14"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_7.15.dita" class="- map/topicref " navtitle="7.15"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_7.16.dita" class="- map/topicref " navtitle="7.16"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_7.17.dita" class="- map/topicref " navtitle="7.17"/>
+            </topicref>
+            <topicref base="DPH2020" href="dueprocesshandbook/DUEPROCESSHANDBOOK_g7.18-7.27.dita" class="- map/topicref " navtitle="Finalising an IFRIC     Interpretation">
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_7.18.dita" class="- map/topicref " navtitle="7.18"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_7.19.dita" class="- map/topicref " navtitle="7.19"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_7.20.dita" class="- map/topicref " navtitle="7.20"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g7.21-7.22.dita" class="- map/topicref " navtitle="Effective date and transition">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_7.21.dita" class="- map/topicref " navtitle="7.21"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_7.22.dita" class="- map/topicref " navtitle="7.22"/>
+                </topicref>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g7.23-7.26.dita" class="- map/topicref " navtitle="Agreement and ratification by the Board">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_7.23.dita" class="- map/topicref " navtitle="7.23"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_7.24.dita" class="- map/topicref " navtitle="7.24"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_7.25.dita" class="- map/topicref " navtitle="7.25"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_7.26.dita" class="- map/topicref " navtitle="7.26"/>
+                </topicref>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g7.27-7.27.dita" class="- map/topicref " navtitle="Publication">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_7.27.dita" class="- map/topicref " navtitle="7.27"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref base="DPH2020" href="dueprocesshandbook/DUEPROCESSHANDBOOK_g8.1-8.11.dita" class="- map/topicref " navtitle="8. Supporting consistent application">
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_8.1.dita" class="- map/topicref " navtitle="8.1"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g8.2-8.7.dita" class="- map/topicref " navtitle="Agenda decisions">
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_sg8.2-8.7.dita" class="- map/topicref " navtitle="Interpretations Committee agenda     decisions">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_8.2.dita" class="- map/topicref " navtitle="8.2"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_8.3.dita" class="- map/topicref " navtitle="8.3"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_8.4.dita" class="- map/topicref " navtitle="8.4"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_8.5.dita" class="- map/topicref " navtitle="8.5"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_8.6.dita" class="- map/topicref " navtitle="8.6"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_8.7.dita" class="- map/topicref " navtitle="8.7"/>
+                </topicref>
+            </topicref>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g8.8-8.11.dita" class="- map/topicref " navtitle="Educational material">
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.42R8.8.dita" class="- map/topicref " navtitle="8.8"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.43R8.9.dita" class="- map/topicref " navtitle="8.9"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.44R8.10.dita" class="- map/topicref " navtitle="8.10"/>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_6.45R8.11.dita" class="- map/topicref " navtitle="8.11"/>
+            </topicref>
+        </topicref>
+        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_g8.1-8.10Rg9.1-9.10.dita" class="- map/topicref " navtitle="9. Protocol for Trustee action for perceived breaches       of due process">
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_8.1R9.1.dita" class="- map/topicref " navtitle="9.1"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_8.2R9.2.dita" class="- map/topicref " navtitle="9.2"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_8.3R9.3.dita" class="- map/topicref " navtitle="9.3"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_8.4R9.4.dita" class="- map/topicref " navtitle="9.4"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_8.5R9.5.dita" class="- map/topicref " navtitle="9.5"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_8.6R9.6.dita" class="- map/topicref " navtitle="9.6"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_8.7R9.7.dita" class="- map/topicref " navtitle="9.7"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_8.8R9.8.dita" class="- map/topicref " navtitle="9.8"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_8.9R9.9.dita" class="- map/topicref " navtitle="9.9"/>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_8.10R9.10.dita" class="- map/topicref " navtitle="9.10"/>
+        </topicref>
+    <topicref chunk="to-content" class="- map/topicref " navtitle="Appendices">
+        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_ANNEX.dita" class="- map/topicref " navtitle="Annex">
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_gA1-A54.dita" class="- map/topicref " navtitle="The IFRS Taxonomy due process">
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_gA1-A3.dita" class="- map/topicref " navtitle="The IFRS Taxonomy and its objectives">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A1.dita" class="- map/topicref " navtitle="A1"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A2.dita" class="- map/topicref " navtitle="A2"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A3.dita" class="- map/topicref " navtitle="A3"/>
+                </topicref>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_gA4-A4.dita" class="- map/topicref " navtitle="The components of the IFRS Taxonomy">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A4.dita" class="- map/topicref " navtitle="A4"/>
+                </topicref>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_gA5-A5.dita" class="- map/topicref " navtitle="The objectives of the IFRS Taxonomy due process">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A5.dita" class="- map/topicref " navtitle="A5"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_gA6-A11.dita" class="- map/topicref " navtitle="The IFRS Taxonomy due process publications">
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A6.dita" class="- map/topicref " navtitle="A6"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_gA7-A8.dita" class="- map/topicref " navtitle="IFRS Taxonomy updates">
+                            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A7.dita" class="- map/topicref " navtitle="A7"/>
+                            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A8.dita" class="- map/topicref " navtitle="A8"/>
+                        </topicref>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_gA9-A11.dita" class="- map/topicref " navtitle="IFRS Taxonomy files">
+                            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A9.dita" class="- map/topicref " navtitle="A9"/>
+                            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A10.dita" class="- map/topicref " navtitle="A10"/>
+                            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A11.dita" class="- map/topicref " navtitle="A11"/>
+                        </topicref>
+                    </topicref>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_gA12-A12.dita" class="- map/topicref " navtitle="The IFRS Taxonomy Review Panel">
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A12.dita" class="- map/topicref " navtitle="A12"/>
+                    </topicref>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_gA13-A15.dita" class="- map/topicref " navtitle="The IFRS Taxonomy Consultative Group">
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A13.dita" class="- map/topicref " navtitle="A13"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A14.dita" class="- map/topicref " navtitle="A14"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A15.dita" class="- map/topicref " navtitle="A15"/>
+                    </topicref>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_gA16-A24.dita" class="- map/topicref " navtitle="Review and approval of the IFRS Taxonomy">
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_gA16-A23.dita" class="- map/topicref " navtitle="Reviews and approval by the Board">
+                            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A16.dita" class="- map/topicref " navtitle="A16"/>
+                            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A17.dita" class="- map/topicref " navtitle="A17"/>
+                            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A18.dita" class="- map/topicref " navtitle="A18"/>
+                            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A19.dita" class="- map/topicref " navtitle="A19"/>
+                            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_gA20-A22.dita" class="- map/topicref " navtitle="Reviews by the ITCG">
+                                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A20.dita" class="- map/topicref " navtitle="A20"/>
+                                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A21.dita" class="- map/topicref " navtitle="A21"/>
+                                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A22.dita" class="- map/topicref " navtitle="A22"/>
+                            </topicref>
+                            <topicref base="DPH2020" href="dueprocesshandbook/DUEPROCESSHANDBOOK_gA23-A23.dita" class="- map/topicref " navtitle="Review processes for proposed IFRS Taxonomy updates and IFRS Taxonomy updates">
+                                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A23.dita" class="- map/topicref " navtitle="A23"/>
+                            </topicref>
+                            <topicref base="DPH2020" href="dueprocesshandbook/DUEPROCESSHANDBOOK_gA24-A24.dita" class="- map/topicref " navtitle="DPOC oversight of IFRS     Taxonomy due process">
+                                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A24.dita" class="- map/topicref " navtitle="A24"/>
+                            </topicref>
+                        </topicref>
+                    </topicref>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_gA25-A40.dita" class="- map/topicref " navtitle="Initiating a proposal to update the IFRS Taxonomy">
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A23RA25.dita" class="- map/topicref " navtitle="A25"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_gA26-A31.dita" class="- map/topicref " navtitle="Content changes reflecting new or amended IFRS Standards">
+                            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A24RA26.dita" class="- map/topicref " navtitle="A26"/>
+                            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A25RA27.dita" class="- map/topicref " navtitle="A27"/>
+                            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A26RA28.dita" class="- map/topicref " navtitle="A28"/>
+                            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A27RA29.dita" class="- map/topicref " navtitle="A29"/>
+                            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A28RA30.dita" class="- map/topicref " navtitle="A30"/>
+                            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A29RA31.dita" class="- map/topicref " navtitle="A31"/>
+                        </topicref>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_gA32-A40.dita" class="- map/topicref " navtitle="General improvements, new common practice and other content changes">
+                            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A30RA32.dita" class="- map/topicref " navtitle="A32"/>
+                            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A31RA33.dita" class="- map/topicref " navtitle="A33"/>
+                            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A32RA34.dita" class="- map/topicref " navtitle="A34"/>
+                            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A33RA35.dita" class="- map/topicref " navtitle="A35"/>
+                            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A34RA36.dita" class="- map/topicref " navtitle="A36"/>
+                            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A35RA37.dita" class="- map/topicref " navtitle="A37"/>
+                            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_gA38-A40.dita" class="- map/topicref " navtitle="Technology changes">
+                                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A36RA38.dita" class="- map/topicref " navtitle="A38"/>
+                                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A37RA39.dita" class="- map/topicref " navtitle="A39"/>
+                                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A38RA40.dita" class="- map/topicref " navtitle="A40"/>
+                            </topicref>
+                        </topicref>
+                    </topicref>
+                </topicref>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_gA41-A45.dita" class="- map/topicref " navtitle="Publication and consultation">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A39RA41.dita" class="- map/topicref " navtitle="A41"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A40RA42.dita" class="- map/topicref " navtitle="A42"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A41RA43.dita" class="- map/topicref " navtitle="A43"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A42RA44.dita" class="- map/topicref " navtitle="A44"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A43RA45.dita" class="- map/topicref " navtitle="A45"/>
+                </topicref>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_gA46-A51.dita" class="- map/topicref " navtitle="Finalising updates to the IFRS Taxonomy">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_gA46-A48.dita" class="- map/topicref " navtitle="Consideration of comments received and consultations">
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A44RA46.dita" class="- map/topicref " navtitle="A46"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A45RA47.dita" class="- map/topicref " navtitle="A47"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A46RA48.dita" class="- map/topicref " navtitle="A48"/>
+                    </topicref>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_gA49-A51.dita" class="- map/topicref " navtitle="Drafting, review and publication">
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A47RA49.dita" class="- map/topicref " navtitle="A49"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A48RA50.dita" class="- map/topicref " navtitle="A50"/>
+                        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A49RA51.dita" class="- map/topicref " navtitle="A51"/>
+                    </topicref>
+                </topicref>
+                <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_gA52-A54.dita" class="- map/topicref " navtitle="IFRS Taxonomy compilations, translations and editorial corrections">
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A50RA52.dita" class="- map/topicref " navtitle="A52"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A51RA53.dita" class="- map/topicref " navtitle="A53"/>
+                    <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_A52RA54.dita" class="- map/topicref " navtitle="A54"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_glossaryofterms.dita" class="- map/topicref " navtitle="Glossary of terms">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="APP1" class="- topic/data "/>
+            </topicmeta>
+            <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_taxonomyterms.dita" class="- map/topicref " navtitle="IFRS Taxonomy terms"/>
+        </topicref>
+        <topicref href="dueprocesshandbook/DUEPROCESSHANDBOOK_APP.dita" class="- map/topicref " navtitle="Appendix—History and approval">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="APP2" class="- topic/data "/>
+            </topicmeta>
+        </topicref>
+    </topicref></chapter>
+    
+</bookmap>

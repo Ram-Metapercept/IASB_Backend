@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IFRS10_BC_CHK_ALL" chunk="to-content" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Consolidated Financial
+            Statements</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Basis For Conclusions</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IFRS 10</booknumber>
+        </bookid>
+        <document_type value="IFRS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2013-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2011-05-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ifrs-10-consolidated-financial-statements" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="basis-for-conclusion" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ifrs10/IFRS10_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs10/IFRS10_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs10/IFRS10_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ifrs10/IFRS10_PartC.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ifrs10/IFRS10_BC_TOC.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+    </frontmatter>
+    <chapter href="ifrs10/IFRS10_BC_TI.dita" class="- map/topicref bookmap/chapter " navtitle="Basis for Conclusions on IFRS 10 Consolidated Financial Statements" chunk="to-content">
+        <topicref href="ifrs10/IFRS10_gBC1-BC11.dita" class="- map/topicref " navtitle="Introduction">
+            <topicref href="ifrs10/IFRS10_BC1.dita" class="- map/topicref " navtitle="BC1"/>
+            <topicref href="ifrs10/IFRS10_BC2.dita" class="- map/topicref " navtitle="BC2"/>
+            <topicref href="ifrs10/IFRS10_BC3.dita" class="- map/topicref " navtitle="BC3"/>
+            <topicref href="ifrs10/IFRS10_BC4.dita" class="- map/topicref " navtitle="BC4"/>
+            <topicref href="ifrs10/IFRS10_BC5.dita" class="- map/topicref " navtitle="BC5"/>
+            <topicref href="ifrs10/IFRS10_BC6.dita" class="- map/topicref " navtitle="BC6"/>
+            <topicref href="ifrs10/IFRS10_BC7.dita" class="- map/topicref " navtitle="BC7"/>
+            <topicref href="ifrs10/IFRS10_gBC8-BC11.dita" class="- map/topicref " navtitle="The structure of IFRS 10 and the Board’s decisions">
+                <topicref href="ifrs10/IFRS10_BC8.dita" class="- map/topicref " navtitle="BC8"/>
+                <topicref href="ifrs10/IFRS10_BC9.dita" class="- map/topicref " navtitle="BC9"/>
+                <topicref href="ifrs10/IFRS10_BC10.dita" class="- map/topicref " navtitle="BC10"/>
+                <topicref href="ifrs10/IFRS10_BC11.dita" class="- map/topicref " navtitle="BC11"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs10/IFRS10_gBCZ12-BCZ18.dita" class="- map/topicref " navtitle="Presentation of consolidated financial statements (2003 revision)">
+            <topicref href="ifrs10/IFRS10_gBCZ12-BCZ15.dita" class="- map/topicref " navtitle="Exemption from preparing consolidated financial statements">
+                <topicref href="ifrs10/IFRS10_BCZ12.dita" class="- map/topicref " navtitle="BCZ12"/>
+                <topicref href="ifrs10/IFRS10_BCZ13.dita" class="- map/topicref " navtitle="BCZ13"/>
+                <topicref href="ifrs10/IFRS10_BCZ14.dita" class="- map/topicref " navtitle="BCZ14"/>
+                <topicref href="ifrs10/IFRS10_BCZ15.dita" class="- map/topicref " navtitle="BCZ15"/>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBCZ16-BCZ17.dita" class="- map/topicref " navtitle="Unanimous agreement of the owners of the minority interests">
+                <topicref href="ifrs10/IFRS10_BCZ16.dita" class="- map/topicref " navtitle="BCZ16"/>
+                <topicref href="ifrs10/IFRS10_BCZ17.dita" class="- map/topicref " navtitle="BCZ17"/>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBCZ18-BCZ18.dita" class="- map/topicref " navtitle="Exemption available only to non‑public entities">
+                <topicref href="ifrs10/IFRS10_BCZ18.dita" class="- map/topicref " navtitle="BCZ18"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs10/IFRS10_gBCZ19-BC28F.dita" class="- map/topicref " navtitle="Scope of consolidated financial statements (2003 revision)">
+            <topicref href="ifrs10/IFRS10_gBCZ19-BCZ19.dita" class="- map/topicref " navtitle="Scope exclusions">
+                <topicref href="ifrs10/IFRS10_BCZ19.dita" class="- map/topicref " navtitle="BCZ19"/>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBCZ20-BCZ20.dita" class="- map/topicref " navtitle="Temporary control">
+                <topicref href="ifrs10/IFRS10_BCZ20.dita" class="- map/topicref " navtitle="BCZ20"/>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBCZ21-BC28F.dita" class="- map/topicref " navtitle="Severe long‑term restrictions impairing ability to transfer funds to the parent">
+                <topicref href="ifrs10/IFRS10_BCZ21.dita" class="- map/topicref " navtitle="BCZ21"/>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_BCZ22-BCZ28_DELETED.dita" class="- map/topicref " navtitle="BCZ22–BCZ28"/>
+            <topicref href="ifrs10/IFRS10_gBC28A-BC28F.dita" class="- map/topicref " navtitle="Exemption from preparing consolidated financial statements for an intermediate parent of an investment entity">
+                <topicref href="ifrs10/IFRS10_BC28A.dita" class="- map/topicref " navtitle="BC28A"/>
+                <topicref href="ifrs10/IFRS10_BC28B.dita" class="- map/topicref " navtitle="BC28B"/>
+                <topicref href="ifrs10/IFRS10_BC28C.dita" class="- map/topicref " navtitle="BC28C"/>
+                <topicref href="ifrs10/IFRS10_BC28D.dita" class="- map/topicref " navtitle="BC28D"/>
+                <topicref href="ifrs10/IFRS10_BC28E.dita" class="- map/topicref " navtitle="BC28E"/>
+                <topicref href="ifrs10/IFRS10_BC28F.dita" class="- map/topicref " navtitle="BC28F"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs10/IFRS10_gBC29-BC39.dita" class="- map/topicref " navtitle="Control as the basis for consolidation">
+            <topicref href="ifrs10/IFRS10_BC29.dita" class="- map/topicref " navtitle="BC29"/>
+            <topicref href="ifrs10/IFRS10_BC30.dita" class="- map/topicref " navtitle="BC30"/>
+            <topicref href="ifrs10/IFRS10_BC31.dita" class="- map/topicref " navtitle="BC31"/>
+            <topicref href="ifrs10/IFRS10_BC32.dita" class="- map/topicref " navtitle="BC32"/>
+            <topicref href="ifrs10/IFRS10_BC33.dita" class="- map/topicref " navtitle="BC33"/>
+            <topicref href="ifrs10/IFRS10_BC34.dita" class="- map/topicref " navtitle="BC34"/>
+            <topicref href="ifrs10/IFRS10_BC35.dita" class="- map/topicref " navtitle="BC35"/>
+            <topicref href="ifrs10/IFRS10_BC36.dita" class="- map/topicref " navtitle="BC36"/>
+            <topicref href="ifrs10/IFRS10_gBC37-BC39.dita" class="- map/topicref " navtitle="Reputational risk">
+                <topicref href="ifrs10/IFRS10_BC37.dita" class="- map/topicref " navtitle="BC37"/>
+                <topicref href="ifrs10/IFRS10_BC38.dita" class="- map/topicref " navtitle="BC38"/>
+                <topicref href="ifrs10/IFRS10_BC39.dita" class="- map/topicref " navtitle="BC39"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs10/IFRS10_gBC40-BC70.dita" class="- map/topicref " navtitle="Definition of control">
+            <topicref href="ifrs10/IFRS10_BC40.dita" class="- map/topicref " navtitle="BC40"/>
+            <topicref href="ifrs10/IFRS10_BC41.dita" class="- map/topicref " navtitle="BC41"/>
+            <topicref href="ifrs10/IFRS10_gBC42-BC55.dita" class="- map/topicref " navtitle="Power">
+                <topicref href="ifrs10/IFRS10_BC42.dita" class="- map/topicref " navtitle="BC42"/>
+                <topicref href="ifrs10/IFRS10_BC43.dita" class="- map/topicref " navtitle="BC43"/>
+                <topicref href="ifrs10/IFRS10_BC44.dita" class="- map/topicref " navtitle="BC44"/>
+                <topicref href="ifrs10/IFRS10_BC45.dita" class="- map/topicref " navtitle="BC45"/>
+                <topicref href="ifrs10/IFRS10_BC46.dita" class="- map/topicref " navtitle="BC46"/>
+                <topicref href="ifrs10/IFRS10_BC47.dita" class="- map/topicref " navtitle="BC47"/>
+                <topicref href="ifrs10/IFRS10_BC48.dita" class="- map/topicref " navtitle="BC48"/>
+                <topicref href="ifrs10/IFRS10_BC49.dita" class="- map/topicref " navtitle="BC49"/>
+                <topicref href="ifrs10/IFRS10_BC50.dita" class="- map/topicref " navtitle="BC50"/>
+                <topicref href="ifrs10/IFRS10_BC51.dita" class="- map/topicref " navtitle="BC51"/>
+                <topicref href="ifrs10/IFRS10_BC52.dita" class="- map/topicref " navtitle="BC52"/>
+                <topicref href="ifrs10/IFRS10_BC53.dita" class="- map/topicref " navtitle="BC53"/>
+                <topicref href="ifrs10/IFRS10_BC54.dita" class="- map/topicref " navtitle="BC54"/>
+                <topicref href="ifrs10/IFRS10_BC55.dita" class="- map/topicref " navtitle="BC55"/>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBC56-BC59.dita" class="- map/topicref " navtitle="Relevant activities">
+                <topicref href="ifrs10/IFRS10_BC56.dita" class="- map/topicref " navtitle="BC56"/>
+                <topicref href="ifrs10/IFRS10_BC57.dita" class="- map/topicref " navtitle="BC57"/>
+                <topicref href="ifrs10/IFRS10_BC58.dita" class="- map/topicref " navtitle="BC58"/>
+                <topicref href="ifrs10/IFRS10_BC59.dita" class="- map/topicref " navtitle="BC59"/>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBC60-BC67.dita" class="- map/topicref " navtitle="Returns">
+                <topicref href="ifrs10/IFRS10_BC60.dita" class="- map/topicref " navtitle="BC60"/>
+                <topicref href="ifrs10/IFRS10_BC61.dita" class="- map/topicref " navtitle="BC61"/>
+                <topicref href="ifrs10/IFRS10_BC62.dita" class="- map/topicref " navtitle="BC62"/>
+                <topicref href="ifrs10/IFRS10_BC63.dita" class="- map/topicref " navtitle="BC63"/>
+                <topicref href="ifrs10/IFRS10_BC64.dita" class="- map/topicref " navtitle="BC64"/>
+                <topicref href="ifrs10/IFRS10_BC65.dita" class="- map/topicref " navtitle="BC65"/>
+                <topicref href="ifrs10/IFRS10_BC66.dita" class="- map/topicref " navtitle="BC66"/>
+                <topicref href="ifrs10/IFRS10_BC67.dita" class="- map/topicref " navtitle="BC67"/>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBC68-BC68.dita" class="- map/topicref " navtitle="Link between power and returns">
+                <topicref href="ifrs10/IFRS10_BC68.dita" class="- map/topicref " navtitle="BC68"/>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBC69-BC70.dita" class="- map/topicref " navtitle="Control is not shared">
+                <topicref href="ifrs10/IFRS10_BC69.dita" class="- map/topicref " navtitle="BC69"/>
+                <topicref href="ifrs10/IFRS10_BC70.dita" class="- map/topicref " navtitle="BC70"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs10/IFRS10_gBC71-BC146.dita" class="- map/topicref " navtitle="Assessing control">
+            <topicref href="ifrs10/IFRS10_BC71.dita" class="- map/topicref " navtitle="BC71"/>
+            <topicref href="ifrs10/IFRS10_BC72.dita" class="- map/topicref " navtitle="BC72"/>
+            <topicref href="ifrs10/IFRS10_BC73.dita" class="- map/topicref " navtitle="BC73"/>
+            <topicref href="ifrs10/IFRS10_BC74.dita" class="- map/topicref " navtitle="BC74"/>
+            <topicref href="ifrs10/IFRS10_BC75.dita" class="- map/topicref " navtitle="BC75"/>
+            <topicref href="ifrs10/IFRS10_gBC76-BC80.dita" class="- map/topicref " navtitle="Understanding the purpose and design of an investee">
+                <topicref href="ifrs10/IFRS10_BC76.dita" class="- map/topicref " navtitle="BC76"/>
+                <topicref href="ifrs10/IFRS10_BC77.dita" class="- map/topicref " navtitle="BC77"/>
+                <topicref href="ifrs10/IFRS10_BC78.dita" class="- map/topicref " navtitle="BC78"/>
+                <topicref href="ifrs10/IFRS10_BC79.dita" class="- map/topicref " navtitle="BC79"/>
+                <topicref href="ifrs10/IFRS10_BC80.dita" class="- map/topicref " navtitle="BC80"/>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBC81-BC92.dita" class="- map/topicref " navtitle="Different activities significantly affect the returns">
+                <topicref href="ifrs10/IFRS10_BC81.dita" class="- map/topicref " navtitle="BC81"/>
+                <topicref href="ifrs10/IFRS10_BC82.dita" class="- map/topicref " navtitle="BC82"/>
+                <topicref href="ifrs10/IFRS10_gBC83-BC83.dita" class="- map/topicref " navtitle="Joint control">
+                    <topicref href="ifrs10/IFRS10_BC83.dita" class="- map/topicref " navtitle="BC83"/>
+                </topicref>
+                <topicref href="ifrs10/IFRS10_gBC84-BC84.dita" class="- map/topicref " navtitle="Shared decision‑making that is not joint control">
+                    <topicref href="ifrs10/IFRS10_BC84.dita" class="- map/topicref " navtitle="BC84"/>
+                </topicref>
+                <topicref href="ifrs10/IFRS10_gBC85-BC92.dita" class="- map/topicref " navtitle="Multiple parties with decision‑making rights">
+                    <topicref href="ifrs10/IFRS10_BC85.dita" class="- map/topicref " navtitle="BC85"/>
+                    <topicref href="ifrs10/IFRS10_BC86.dita" class="- map/topicref " navtitle="BC86"/>
+                    <topicref href="ifrs10/IFRS10_BC87.dita" class="- map/topicref " navtitle="BC87"/>
+                    <topicref href="ifrs10/IFRS10_BC88.dita" class="- map/topicref " navtitle="BC88"/>
+                    <topicref href="ifrs10/IFRS10_BC89.dita" class="- map/topicref " navtitle="BC89"/>
+                    <topicref href="ifrs10/IFRS10_BC90.dita" class="- map/topicref " navtitle="BC90"/>
+                    <topicref href="ifrs10/IFRS10_BC91.dita" class="- map/topicref " navtitle="BC91"/>
+                    <topicref href="ifrs10/IFRS10_BC92.dita" class="- map/topicref " navtitle="BC92"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBC93-BC124.dita" class="- map/topicref " navtitle="Rights that give an investor power">
+                <topicref href="ifrs10/IFRS10_BC93.dita" class="- map/topicref " navtitle="BC93"/>
+                <topicref href="ifrs10/IFRS10_BC94.dita" class="- map/topicref " navtitle="BC94"/>
+                <topicref href="ifrs10/IFRS10_BC95.dita" class="- map/topicref " navtitle="BC95"/>
+                <topicref href="ifrs10/IFRS10_gBC96-BC124.dita" class="- map/topicref " navtitle="Voting rights">
+                    <topicref href="ifrs10/IFRS10_BC96.dita" class="- map/topicref " navtitle="BC96"/>
+                    <topicref href="ifrs10/IFRS10_gBC97-BC97.dita" class="- map/topicref " navtitle="Majority of voting rights">
+                        <topicref href="ifrs10/IFRS10_BC97.dita" class="- map/topicref " navtitle="BC97"/>
+                    </topicref>
+                    <topicref href="ifrs10/IFRS10_gBC98-BC111.dita" class="- map/topicref " navtitle="Less than a majority of voting rights">
+                        <topicref href="ifrs10/IFRS10_BC98.dita" class="- map/topicref " navtitle="BC98"/>
+                        <topicref href="ifrs10/IFRS10_BC99.dita" class="- map/topicref " navtitle="BC99"/>
+                        <topicref href="ifrs10/IFRS10_BC100.dita" class="- map/topicref " navtitle="BC100"/>
+                        <topicref href="ifrs10/IFRS10_BC101.dita" class="- map/topicref " navtitle="BC101"/>
+                        <topicref href="ifrs10/IFRS10_BC102.dita" class="- map/topicref " navtitle="BC102"/>
+                        <topicref href="ifrs10/IFRS10_BC103.dita" class="- map/topicref " navtitle="BC103"/>
+                        <topicref href="ifrs10/IFRS10_BC104.dita" class="- map/topicref " navtitle="BC104"/>
+                        <topicref href="ifrs10/IFRS10_BC105.dita" class="- map/topicref " navtitle="BC105"/>
+                        <topicref href="ifrs10/IFRS10_BC106.dita" class="- map/topicref " navtitle="BC106"/>
+                        <topicref href="ifrs10/IFRS10_BC107.dita" class="- map/topicref " navtitle="BC107"/>
+                        <topicref href="ifrs10/IFRS10_BC108.dita" class="- map/topicref " navtitle="BC108"/>
+                        <topicref href="ifrs10/IFRS10_BC109.dita" class="- map/topicref " navtitle="BC109"/>
+                        <topicref href="ifrs10/IFRS10_BC110.dita" class="- map/topicref " navtitle="BC110"/>
+                        <topicref href="ifrs10/IFRS10_BC111.dita" class="- map/topicref " navtitle="BC111"/>
+                    </topicref>
+                    <topicref href="ifrs10/IFRS10_gBC112-BC124.dita" class="- map/topicref " navtitle="Potential voting rights">
+                        <topicref href="ifrs10/IFRS10_BC112.dita" class="- map/topicref " navtitle="BC112"/>
+                        <topicref href="ifrs10/IFRS10_BC113.dita" class="- map/topicref " navtitle="BC113"/>
+                        <topicref href="ifrs10/IFRS10_BC114.dita" class="- map/topicref " navtitle="BC114"/>
+                        <topicref href="ifrs10/IFRS10_BC115.dita" class="- map/topicref " navtitle="BC115"/>
+                        <topicref href="ifrs10/IFRS10_BC116.dita" class="- map/topicref " navtitle="BC116"/>
+                        <topicref href="ifrs10/IFRS10_BC117.dita" class="- map/topicref " navtitle="BC117"/>
+                        <topicref href="ifrs10/IFRS10_BC118.dita" class="- map/topicref " navtitle="BC118"/>
+                        <topicref href="ifrs10/IFRS10_BC119.dita" class="- map/topicref " navtitle="BC119"/>
+                        <topicref href="ifrs10/IFRS10_BC120.dita" class="- map/topicref " navtitle="BC120"/>
+                        <topicref href="ifrs10/IFRS10_BC121.dita" class="- map/topicref " navtitle="BC121"/>
+                        <topicref href="ifrs10/IFRS10_BC122.dita" class="- map/topicref " navtitle="BC122"/>
+                        <topicref href="ifrs10/IFRS10_BC123.dita" class="- map/topicref " navtitle="BC123"/>
+                        <topicref href="ifrs10/IFRS10_BC124.dita" class="- map/topicref " navtitle="BC124"/>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBC125-BC142.dita" class="- map/topicref " navtitle="Delegated power (agency relationships)">
+                <topicref href="ifrs10/IFRS10_BC125.dita" class="- map/topicref " navtitle="BC125"/>
+                <topicref href="ifrs10/IFRS10_BC126.dita" class="- map/topicref " navtitle="BC126"/>
+                <topicref href="ifrs10/IFRS10_BC127.dita" class="- map/topicref " navtitle="BC127"/>
+                <topicref href="ifrs10/IFRS10_BC128.dita" class="- map/topicref " navtitle="BC128"/>
+                <topicref href="ifrs10/IFRS10_BC129.dita" class="- map/topicref " navtitle="BC129"/>
+                <topicref href="ifrs10/IFRS10_BC130.dita" class="- map/topicref " navtitle="BC130"/>
+                <topicref href="ifrs10/IFRS10_BC131.dita" class="- map/topicref " navtitle="BC131"/>
+                <topicref href="ifrs10/IFRS10_BC132.dita" class="- map/topicref " navtitle="BC132"/>
+                <topicref href="ifrs10/IFRS10_BC133.dita" class="- map/topicref " navtitle="BC133"/>
+                <topicref href="ifrs10/IFRS10_BC134.dita" class="- map/topicref " navtitle="BC134"/>
+                <topicref href="ifrs10/IFRS10_BC135.dita" class="- map/topicref " navtitle="BC135"/>
+                <topicref href="ifrs10/IFRS10_BC136.dita" class="- map/topicref " navtitle="BC136"/>
+                <topicref href="ifrs10/IFRS10_BC137.dita" class="- map/topicref " navtitle="BC137"/>
+                <topicref href="ifrs10/IFRS10_gBC138-BC138.dita" class="- map/topicref " navtitle="Scope of decision‑making authority">
+                    <topicref href="ifrs10/IFRS10_BC138.dita" class="- map/topicref " navtitle="BC138"/>
+                </topicref>
+                <topicref href="ifrs10/IFRS10_gBC139-BC140.dita" class="- map/topicref " navtitle="Rights held by other parties">
+                    <topicref href="ifrs10/IFRS10_BC139.dita" class="- map/topicref " navtitle="BC139"/>
+                    <topicref href="ifrs10/IFRS10_BC140.dita" class="- map/topicref " navtitle="BC140"/>
+                </topicref>
+                <topicref href="ifrs10/IFRS10_gBC141-BC142.dita" class="- map/topicref " navtitle="Exposure to variability of returns">
+                    <topicref href="ifrs10/IFRS10_BC141.dita" class="- map/topicref " navtitle="BC141"/>
+                    <topicref href="ifrs10/IFRS10_BC142.dita" class="- map/topicref " navtitle="BC142"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBC143-BC146.dita" class="- map/topicref " navtitle="Relationship with other parties">
+                <topicref href="ifrs10/IFRS10_BC143.dita" class="- map/topicref " navtitle="BC143"/>
+                <topicref href="ifrs10/IFRS10_BC144.dita" class="- map/topicref " navtitle="BC144"/>
+                <topicref href="ifrs10/IFRS10_BC145.dita" class="- map/topicref " navtitle="BC145"/>
+                <topicref href="ifrs10/IFRS10_BC146.dita" class="- map/topicref " navtitle="BC146"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs10/IFRS10_gBC147-BC148.dita" class="- map/topicref " navtitle="Control of specified assets">
+            <topicref href="ifrs10/IFRS10_BC147.dita" class="- map/topicref " navtitle="BC147"/>
+            <topicref href="ifrs10/IFRS10_BC148.dita" class="- map/topicref " navtitle="BC148"/>
+        </topicref>
+        <topicref href="ifrs10/IFRS10_gBC149-BC153.dita" class="- map/topicref " navtitle="Continuous assessment">
+            <topicref href="ifrs10/IFRS10_BC149.dita" class="- map/topicref " navtitle="BC149"/>
+            <topicref href="ifrs10/IFRS10_BC150.dita" class="- map/topicref " navtitle="BC150"/>
+            <topicref href="ifrs10/IFRS10_BC151.dita" class="- map/topicref " navtitle="BC151"/>
+            <topicref href="ifrs10/IFRS10_BC152.dita" class="- map/topicref " navtitle="BC152"/>
+            <topicref href="ifrs10/IFRS10_BC153.dita" class="- map/topicref " navtitle="BC153"/>
+        </topicref>
+        <topicref href="ifrs10/IFRS10_gBC154-BCZ190.dita" class="- map/topicref " navtitle="Accounting requirements">
+            <topicref href="ifrs10/IFRS10_gBC154-BC154.dita" class="- map/topicref " navtitle="Consolidation procedures">
+                <topicref href="ifrs10/IFRS10_BC154.dita" class="- map/topicref " navtitle="BC154"/>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBCZ155-BCZ159.dita" class="- map/topicref " navtitle="Non‑controlling interests (2003 revision and 2008 amendments)">
+                <topicref href="ifrs10/IFRS10_BCZ155.dita" class="- map/topicref " navtitle="BCZ155"/>
+                <topicref href="ifrs10/IFRS10_BCZ156.dita" class="- map/topicref " navtitle="BCZ156"/>
+                <topicref href="ifrs10/IFRS10_BCZ157.dita" class="- map/topicref " navtitle="BCZ157"/>
+                <topicref href="ifrs10/IFRS10_BCZ158.dita" class="- map/topicref " navtitle="BCZ158"/>
+                <topicref href="ifrs10/IFRS10_BCZ159.dita" class="- map/topicref " navtitle="BCZ159"/>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBCZ160-BCZ167.dita" class="- map/topicref " navtitle="Attribution of losses (2008 amendments)">
+                <topicref href="ifrs10/IFRS10_BCZ160.dita" class="- map/topicref " navtitle="BCZ160"/>
+                <topicref href="ifrs10/IFRS10_BCZ161.dita" class="- map/topicref " navtitle="BCZ161"/>
+                <topicref href="ifrs10/IFRS10_BCZ162.dita" class="- map/topicref " navtitle="BCZ162"/>
+                <topicref href="ifrs10/IFRS10_BCZ163.dita" class="- map/topicref " navtitle="BCZ163"/>
+                <topicref href="ifrs10/IFRS10_BCZ164.dita" class="- map/topicref " navtitle="BCZ164"/>
+                <topicref href="ifrs10/IFRS10_BCZ165.dita" class="- map/topicref " navtitle="BCZ165"/>
+                <topicref href="ifrs10/IFRS10_BCZ166.dita" class="- map/topicref " navtitle="BCZ166"/>
+                <topicref href="ifrs10/IFRS10_BCZ167.dita" class="- map/topicref " navtitle="BCZ167"/>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBCZ168-BCZ179.dita" class="- map/topicref " navtitle="Changes in ownership interests in subsidiaries (2008 amendments)">
+                <topicref href="ifrs10/IFRS10_BCZ168.dita" class="- map/topicref " navtitle="BCZ168"/>
+                <topicref href="ifrs10/IFRS10_BCZ169.dita" class="- map/topicref " navtitle="BCZ169"/>
+                <topicref href="ifrs10/IFRS10_BCZ170.dita" class="- map/topicref " navtitle="BCZ170"/>
+                <topicref href="ifrs10/IFRS10_BCZ171.dita" class="- map/topicref " navtitle="BCZ171"/>
+                <topicref href="ifrs10/IFRS10_BCZ172.dita" class="- map/topicref " navtitle="BCZ172"/>
+                <topicref href="ifrs10/IFRS10_BCZ173.dita" class="- map/topicref " navtitle="BCZ173"/>
+                <topicref href="ifrs10/IFRS10_BCZ174.dita" class="- map/topicref " navtitle="BCZ174"/>
+                <topicref href="ifrs10/IFRS10_BCZ175.dita" class="- map/topicref " navtitle="BCZ175"/>
+                <topicref href="ifrs10/IFRS10_BCZ176.dita" class="- map/topicref " navtitle="BCZ176"/>
+                <topicref href="ifrs10/IFRS10_BCZ177.dita" class="- map/topicref " navtitle="BCZ177"/>
+                <topicref href="ifrs10/IFRS10_BCZ178.dita" class="- map/topicref " navtitle="BCZ178"/>
+                <topicref href="ifrs10/IFRS10_BCZ179.dita" class="- map/topicref " navtitle="BCZ179"/>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBCZ180-BCZ190.dita" class="- map/topicref " navtitle="Loss of control (2008 amendments)">
+                <topicref href="ifrs10/IFRS10_BCZ180.dita" class="- map/topicref " navtitle="BCZ180"/>
+                <topicref href="ifrs10/IFRS10_BCZ181.dita" class="- map/topicref " navtitle="BCZ181"/>
+                <topicref href="ifrs10/IFRS10_BCZ182.dita" class="- map/topicref " navtitle="BCZ182"/>
+                <topicref href="ifrs10/IFRS10_BCZ183.dita" class="- map/topicref " navtitle="BCZ183"/>
+                <topicref href="ifrs10/IFRS10_BCZ184.dita" class="- map/topicref " navtitle="BCZ184"/>
+                <topicref href="ifrs10/IFRS10_gBCZ185-BCZ190.dita" class="- map/topicref " navtitle="Multiple arrangements">
+                    <topicref href="ifrs10/IFRS10_BCZ185.dita" class="- map/topicref " navtitle="BCZ185"/>
+                    <topicref href="ifrs10/IFRS10_BCZ186.dita" class="- map/topicref " navtitle="BCZ186"/>
+                    <topicref href="ifrs10/IFRS10_BCZ187.dita" class="- map/topicref " navtitle="BCZ187"/>
+                    <topicref href="ifrs10/IFRS10_BCZ188.dita" class="- map/topicref " navtitle="BCZ188"/>
+                    <topicref href="ifrs10/IFRS10_BCZ189.dita" class="- map/topicref " navtitle="BCZ189"/>
+                    <topicref href="ifrs10/IFRS10_BCZ190.dita" class="- map/topicref " navtitle="BCZ190"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs10/IFRS10_BC190A-BC190O_MARKER.dita" class="- map/topicref " navtitle="BC190A–BC190O"/>
+        <topicref href="ifrs10/IFRS10_gBC191-BCZ203.dita" class="- map/topicref " navtitle="Effective date and transition">
+            <topicref href="ifrs10/IFRS10_gBC191-BC194.dita" class="- map/topicref " navtitle="Effective date">
+                <topicref href="ifrs10/IFRS10_BC191.dita" class="- map/topicref " navtitle="BC191"/>
+                <topicref href="ifrs10/IFRS10_BC192.dita" class="- map/topicref " navtitle="BC192"/>
+                <topicref href="ifrs10/IFRS10_BC193.dita" class="- map/topicref " navtitle="BC193"/>
+                <topicref href="ifrs10/IFRS10_BC194.dita" class="- map/topicref " navtitle="BC194"/>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBC195-BC199E.dita" class="- map/topicref " navtitle="Transition">
+                <topicref href="ifrs10/IFRS10_BC195.dita" class="- map/topicref " navtitle="BC195"/>
+                <topicref href="ifrs10/IFRS10_BC196.dita" class="- map/topicref " navtitle="BC196"/>
+                <topicref href="ifrs10/IFRS10_BC196A.dita" class="- map/topicref " navtitle="BC196A"/>
+                <topicref href="ifrs10/IFRS10_BC196B.dita" class="- map/topicref " navtitle="BC196B"/>
+                <topicref href="ifrs10/IFRS10_BC196C.dita" class="- map/topicref " navtitle="BC196C"/>
+                <topicref href="ifrs10/IFRS10_BC197.dita" class="- map/topicref " navtitle="BC197"/>
+                <topicref href="ifrs10/IFRS10_BC198.dita" class="- map/topicref " navtitle="BC198"/>
+                <topicref href="ifrs10/IFRS10_BC199.dita" class="- map/topicref " navtitle="BC199"/>
+                <topicref href="ifrs10/IFRS10_BC199A.dita" class="- map/topicref " navtitle="BC199A"/>
+                <topicref href="ifrs10/IFRS10_BC199B.dita" class="- map/topicref " navtitle="BC199B"/>
+                <topicref href="ifrs10/IFRS10_BC199C.dita" class="- map/topicref " navtitle="BC199C"/>
+                <topicref href="ifrs10/IFRS10_BC199D.dita" class="- map/topicref " navtitle="BC199D"/>
+                <topicref href="ifrs10/IFRS10_BC199E.dita" class="- map/topicref " navtitle="BC199E"/>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBCZ200-BCZ203.dita" class="- map/topicref " navtitle="Transitional provisions (2008 amendments)">
+                <topicref href="ifrs10/IFRS10_BCZ200.dita" class="- map/topicref " navtitle="BCZ200"/>
+                <topicref href="ifrs10/IFRS10_BCZ201.dita" class="- map/topicref " navtitle="BCZ201"/>
+                <topicref href="ifrs10/IFRS10_BCZ202.dita" class="- map/topicref " navtitle="BCZ202"/>
+                <topicref href="ifrs10/IFRS10_BCZ203.dita" class="- map/topicref " navtitle="BCZ203"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs10/IFRS10_gBC204-BC205.dita" class="- map/topicref " navtitle="Withdrawal of IAS 27 (2008) and SIC‑12">
+            <topicref href="ifrs10/IFRS10_BC204.dita" class="- map/topicref " navtitle="BC204"/>
+            <topicref href="ifrs10/IFRS10_BC205.dita" class="- map/topicref " navtitle="BC205"/>
+        </topicref>
+        <topicref href="ifrs10/IFRS10_gBC206-BC206.dita" class="- map/topicref " navtitle="Summary of main changes from ED 10">
+            <topicref href="ifrs10/IFRS10_BC206.dita" class="- map/topicref " navtitle="BC206"/>
+        </topicref>
+        <topicref href="ifrs10/IFRS10_gBC207-BC214.dita" class="- map/topicref " navtitle="Cost-benefit considerations">
+            <topicref href="ifrs10/IFRS10_BC207.dita" class="- map/topicref " navtitle="BC207"/>
+            <topicref href="ifrs10/IFRS10_BC208.dita" class="- map/topicref " navtitle="BC208"/>
+            <topicref href="ifrs10/IFRS10_BC209.dita" class="- map/topicref " navtitle="BC209"/>
+            <topicref href="ifrs10/IFRS10_BC210.dita" class="- map/topicref " navtitle="BC210"/>
+            <topicref href="ifrs10/IFRS10_BC211.dita" class="- map/topicref " navtitle="BC211"/>
+            <topicref href="ifrs10/IFRS10_BC212.dita" class="- map/topicref " navtitle="BC212"/>
+            <topicref href="ifrs10/IFRS10_BC213.dita" class="- map/topicref " navtitle="BC213"/>
+            <topicref href="ifrs10/IFRS10_BC214.dita" class="- map/topicref " navtitle="BC214"/>
+        </topicref>
+        <topicref href="ifrs10/IFRS10_gBC215-BC291.dita" class="- map/topicref " navtitle="Exception to consolidation for investment entities (2012 amendments)">
+            <topicref href="ifrs10/IFRS10_gBC215-BC219.dita" class="- map/topicref " navtitle="Background">
+                <topicref href="ifrs10/IFRS10_BC215.dita" keys="IFRS10_BC215" class="- map/topicref " navtitle="BC215"/>
+                <topicref href="ifrs10/IFRS10_BC216.dita" class="- map/topicref " navtitle="BC216"/>
+                <topicref href="ifrs10/IFRS10_BC217.dita" keys="IFRS10_BC217" class="- map/topicref " navtitle="BC217"/>
+                <topicref href="ifrs10/IFRS10_BC218.dita" class="- map/topicref " navtitle="BC218"/>
+                <topicref href="ifrs10/IFRS10_BC219.dita" class="- map/topicref " navtitle="BC219"/>
+                <topicref href="ifrs10/IFRS10_BC220.dita" class="- map/topicref " navtitle="BC220"/>
+                <topicref href="ifrs10/IFRS10_BC221.dita" class="- map/topicref " navtitle="BC221"/>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBC222-BC227.dita" class="- map/topicref " navtitle="Scope of the project">
+                <topicref href="ifrs10/IFRS10_BC222.dita" class="- map/topicref " navtitle="BC222"/>
+                <topicref href="ifrs10/IFRS10_BC223.dita" class="- map/topicref " navtitle="BC223"/>
+                <topicref href="ifrs10/IFRS10_BC224.dita" class="- map/topicref " navtitle="BC224"/>
+                <topicref href="ifrs10/IFRS10_BC225.dita" class="- map/topicref " navtitle="BC225"/>
+                <topicref href="ifrs10/IFRS10_BC226.dita" class="- map/topicref " navtitle="BC226"/>
+                <topicref href="ifrs10/IFRS10_BC227.dita" class="- map/topicref " navtitle="BC227"/>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBC228-BC235.dita" class="- map/topicref " navtitle="Approach to assessing investment entity status">
+                <topicref href="ifrs10/IFRS10_BC228.dita" keys="IFRS10_BC228" class="- map/topicref " navtitle="BC228"/>
+                <topicref href="ifrs10/IFRS10_BC229.dita" class="- map/topicref " navtitle="BC229"/>
+                <topicref href="ifrs10/IFRS10_BC230.dita" class="- map/topicref " navtitle="BC230"/>
+                <topicref href="ifrs10/IFRS10_BC231.dita" class="- map/topicref " navtitle="BC231"/>
+                <topicref href="ifrs10/IFRS10_BC232.dita" class="- map/topicref " navtitle="BC232"/>
+                <topicref href="ifrs10/IFRS10_BC233.dita" class="- map/topicref " navtitle="BC233"/>
+                <topicref href="ifrs10/IFRS10_BC234.dita" class="- map/topicref " navtitle="BC234"/>
+                <topicref href="ifrs10/IFRS10_BC235.dita" class="- map/topicref " navtitle="BC235"/>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBC236-BC240.dita" class="- map/topicref " navtitle="Definition of an investment entity">
+                <topicref href="ifrs10/IFRS10_BC236.dita" class="- map/topicref " navtitle="BC236"/>
+                <topicref href="ifrs10/IFRS10_gBC237-BC237.dita" class="- map/topicref " navtitle="Investment management services">
+                    <topicref href="ifrs10/IFRS10_BC237.dita" class="- map/topicref " navtitle="BC237"/>
+                </topicref>
+                <topicref href="ifrs10/IFRS10_gBC238-BC240.dita" class="- map/topicref " navtitle="Business purpose">
+                    <topicref href="ifrs10/IFRS10_BC238.dita" class="- map/topicref " navtitle="BC238"/>
+                    <topicref href="ifrs10/IFRS10_BC239.dita" class="- map/topicref " navtitle="BC239"/>
+                    <topicref href="ifrs10/IFRS10_BC240.dita" class="- map/topicref " navtitle="BC240"/>
+                    <topicref href="ifrs10/IFRS10_BC240A.dita" class="- map/topicref " navtitle="BC240A"/>
+                    <topicref href="ifrs10/IFRS10_BC240B.dita" class="- map/topicref " navtitle="BC240B"/>
+                    <topicref href="ifrs10/IFRS10_BC240C.dita" class="- map/topicref " navtitle="BC240C"/>
+                    <topicref href="ifrs10/IFRS10_BC240D.dita" class="- map/topicref " navtitle="BC240D"/>
+                    <topicref href="ifrs10/IFRS10_BC240E.dita" class="- map/topicref " navtitle="BC240E"/>
+                    <topicref href="ifrs10/IFRS10_BC240F.dita" class="- map/topicref " navtitle="BC240F"/>
+                    <topicref href="ifrs10/IFRS10_BC240G.dita" class="- map/topicref " navtitle="BC240G"/>
+                    <topicref href="ifrs10/IFRS10_BC240H.dita" class="- map/topicref " navtitle="BC240H"/>
+                    <topicref href="ifrs10/IFRS10_BC240I.dita" class="- map/topicref " navtitle="BC240I"/>
+                    <topicref href="ifrs10/IFRS10_BC241.dita" class="- map/topicref " navtitle="BC241"/>
+                    <topicref href="ifrs10/IFRS10_BC242.dita" class="- map/topicref " navtitle="BC242"/>
+                    <topicref href="ifrs10/IFRS10_BC243.dita" class="- map/topicref " navtitle="BC243"/>
+                    <topicref href="ifrs10/IFRS10_gBC244-BC248.dita" class="- map/topicref " navtitle="Exit strategy">
+                        <topicref href="ifrs10/IFRS10_BC244.dita" class="- map/topicref " navtitle="BC244"/>
+                        <topicref href="ifrs10/IFRS10_BC245.dita" class="- map/topicref " navtitle="BC245"/>
+                        <topicref href="ifrs10/IFRS10_BC246.dita" class="- map/topicref " navtitle="BC246"/>
+                        <topicref href="ifrs10/IFRS10_BC247.dita" class="- map/topicref " navtitle="BC247"/>
+                        <topicref href="ifrs10/IFRS10_BC248.dita" class="- map/topicref " navtitle="BC248"/>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBC249-BC254.dita" class="- map/topicref " navtitle="Fair value measurement">
+                <topicref href="ifrs10/IFRS10_BC249.dita" class="- map/topicref " navtitle="BC249"/>
+                <topicref href="ifrs10/IFRS10_BC250.dita" class="- map/topicref " navtitle="BC250"/>
+                <topicref href="ifrs10/IFRS10_BC251.dita" class="- map/topicref " navtitle="BC251"/>
+                <topicref href="ifrs10/IFRS10_BC252.dita" class="- map/topicref " navtitle="BC252"/>
+                <topicref href="ifrs10/IFRS10_gBC253-BC254.dita" class="- map/topicref " navtitle="Regulatory requirements">
+                    <topicref href="ifrs10/IFRS10_BC253.dita" class="- map/topicref " navtitle="BC253"/>
+                    <topicref href="ifrs10/IFRS10_BC254.dita" class="- map/topicref " navtitle="BC254"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBC255-BC267.dita" class="- map/topicref " navtitle="Typical characteristics of investment entities">
+                <topicref href="ifrs10/IFRS10_BC255.dita" class="- map/topicref " navtitle="BC255"/>
+                <topicref href="ifrs10/IFRS10_BC256.dita" class="- map/topicref " navtitle="BC256"/>
+                <topicref href="ifrs10/IFRS10_gBC257-BC258.dita" class="- map/topicref " navtitle="More than one investment">
+                    <topicref href="ifrs10/IFRS10_BC257.dita" class="- map/topicref " navtitle="BC257"/>
+                    <topicref href="ifrs10/IFRS10_BC258.dita" class="- map/topicref " navtitle="BC258"/>
+                </topicref>
+                <topicref href="ifrs10/IFRS10_gBC259-BC260.dita" class="- map/topicref " navtitle="More than one investor">
+                    <topicref href="ifrs10/IFRS10_BC259.dita" class="- map/topicref " navtitle="BC259"/>
+                    <topicref href="ifrs10/IFRS10_BC260.dita" class="- map/topicref " navtitle="BC260"/>
+                </topicref>
+                <topicref href="ifrs10/IFRS10_gBC261-BC262.dita" class="- map/topicref " navtitle="Unrelated investors">
+                    <topicref href="ifrs10/IFRS10_BC261.dita" class="- map/topicref " navtitle="BC261"/>
+                    <topicref href="ifrs10/IFRS10_BC262.dita" class="- map/topicref " navtitle="BC262"/>
+                </topicref>
+                <topicref href="ifrs10/IFRS10_gBC263-BC267.dita" class="- map/topicref " navtitle="Ownership interests">
+                    <topicref href="ifrs10/IFRS10_BC263.dita" class="- map/topicref " navtitle="BC263"/>
+                    <topicref href="ifrs10/IFRS10_BC264.dita" class="- map/topicref " navtitle="BC264"/>
+                    <topicref href="ifrs10/IFRS10_BC265.dita" class="- map/topicref " navtitle="BC265"/>
+                    <topicref href="ifrs10/IFRS10_BC266.dita" class="- map/topicref " navtitle="BC266"/>
+                    <topicref href="ifrs10/IFRS10_BC267.dita" class="- map/topicref " navtitle="BC267"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBC268-BC271.dita" class="- map/topicref " navtitle="Reassessment and change of status">
+                <topicref href="ifrs10/IFRS10_BC268.dita" class="- map/topicref " navtitle="BC268"/>
+                <topicref href="ifrs10/IFRS10_BC269.dita" class="- map/topicref " navtitle="BC269"/>
+                <topicref href="ifrs10/IFRS10_BC270.dita" class="- map/topicref " navtitle="BC270"/>
+                <topicref href="ifrs10/IFRS10_BC271.dita" class="- map/topicref " navtitle="BC271"/>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBC272-BC2741.dita" class="- map/topicref " navtitle="Parent of an investment entity">
+                <topicref href="ifrs10/IFRS10_gBC272-BC274.dita" class="- map/topicref " navtitle="Investment entity parent of an investment entity subsidiary">
+                    <topicref href="ifrs10/IFRS10_BC272.dita" class="- map/topicref " navtitle="BC272"/>
+                    <topicref href="ifrs10/IFRS10_BC273.dita" class="- map/topicref " navtitle="BC273"/>
+                    <topicref href="ifrs10/IFRS10_BC274.dita" class="- map/topicref " navtitle="BC274"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBC275-BC282.dita" class="- map/topicref " navtitle="Non-investment entity parent of an investment entity subsidiary">
+                <topicref href="ifrs10/IFRS10_BC275.dita" class="- map/topicref " navtitle="BC275"/>
+                <topicref href="ifrs10/IFRS10_BC276.dita" class="- map/topicref " navtitle="BC276"/>
+                <topicref href="ifrs10/IFRS10_BC277.dita" class="- map/topicref " navtitle="BC277"/>
+                <topicref href="ifrs10/IFRS10_BC278.dita" class="- map/topicref " navtitle="BC278"/>
+                <topicref href="ifrs10/IFRS10_BC279.dita" class="- map/topicref " navtitle="BC279"/>
+                <topicref href="ifrs10/IFRS10_BC280.dita" class="- map/topicref " navtitle="BC280"/>
+                <topicref href="ifrs10/IFRS10_BC281.dita" class="- map/topicref " navtitle="BC281"/>
+                <topicref href="ifrs10/IFRS10_BC282.dita" class="- map/topicref " navtitle="BC282"/>
+                <topicref href="ifrs10/IFRS10_BC283.dita" class="- map/topicref " navtitle="BC283"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs10/IFRS10_gBC284-BC291.dita" keys="IFRS10_gBC284-BC287_TI_V1" class="- map/topicref " navtitle="Transition">
+            <topicref href="ifrs10/IFRS10_BC284.dita" class="- map/topicref " navtitle="BC284"/>
+            <topicref href="ifrs10/IFRS10_BC285.dita" keys="IFRS10_BC285" class="- map/topicref " navtitle="BC285"/>
+            <topicref href="ifrs10/IFRS10_BC286.dita" keys="IFRS10_BC286" class="- map/topicref " navtitle="BC286"/>
+            <topicref href="ifrs10/IFRS10_BC287.dita" class="- map/topicref " navtitle="BC287"/>
+            <topicref href="ifrs10/IFRS10_BC287A.dita" class="- map/topicref " navtitle="BC287A"/>
+            <topicref href="ifrs10/IFRS10_gBC288-BC288.dita" class="- map/topicref " navtitle="Effective date and early application">
+                <topicref href="ifrs10/IFRS10_BC288.dita" class="- map/topicref " navtitle="BC288"/>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBC289-BC291.dita" class="- map/topicref " navtitle="Joint deliberations with the FASB">
+                <topicref href="ifrs10/IFRS10_BC289.dita" class="- map/topicref " navtitle="BC289"/>
+                <topicref href="ifrs10/IFRS10_BC290.dita" class="- map/topicref " navtitle="BC290"/>
+                <topicref href="ifrs10/IFRS10_BC291.dita" class="- map/topicref " navtitle="BC291"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs10/IFRS10_gBC292-BC317.dita" class="- map/topicref " navtitle="Effects analysis for investment entities">
+            <topicref href="ifrs10/IFRS10_BC292.dita" class="- map/topicref " navtitle="BC292"/>
+            <topicref href="ifrs10/IFRS10_BC293.dita" class="- map/topicref " navtitle="BC293"/>
+            <topicref href="ifrs10/IFRS10_sgBC294-BC300.dita" class="- map/topicref " navtitle="Financial statements of investment entities">
+                <topicref href="ifrs10/IFRS10_BC294.dita" class="- map/topicref " navtitle="BC294"/>
+                <topicref href="ifrs10/IFRS10_BC295.dita" class="- map/topicref " navtitle="BC295"/>
+                <topicref href="ifrs10/IFRS10_BC296.dita" class="- map/topicref " navtitle="BC296"/>
+                <topicref href="ifrs10/IFRS10_BC297.dita" class="- map/topicref " navtitle="BC297"/>
+                <topicref href="ifrs10/IFRS10_BC298.dita" class="- map/topicref " navtitle="BC298"/>
+                <topicref href="ifrs10/IFRS10_BC299.dita" class="- map/topicref " navtitle="BC299"/>
+                <topicref href="ifrs10/IFRS10_BC300.dita" class="- map/topicref " navtitle="BC300"/>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBC301-BC302.dita" class="- map/topicref " navtitle="Comparability">
+                <topicref href="ifrs10/IFRS10_BC301.dita" class="- map/topicref " navtitle="BC301"/>
+                <topicref href="ifrs10/IFRS10_BC302.dita" class="- map/topicref " navtitle="BC302"/>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBC303-BC303.dita" class="- map/topicref " navtitle="Usefulness of financial statements in assessing the future cash flows of an entity">
+                <topicref href="ifrs10/IFRS10_BC303.dita" class="- map/topicref " navtitle="BC303"/>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBC304-BC308.dita" class="- map/topicref " navtitle="Better economic decision-making">
+                <topicref href="ifrs10/IFRS10_BC304.dita" class="- map/topicref " navtitle="BC304"/>
+                <topicref href="ifrs10/IFRS10_BC305.dita" class="- map/topicref " navtitle="BC305"/>
+                <topicref href="ifrs10/IFRS10_BC306.dita" class="- map/topicref " navtitle="BC306"/>
+                <topicref href="ifrs10/IFRS10_BC307.dita" class="- map/topicref " navtitle="BC307"/>
+                <topicref href="ifrs10/IFRS10_BC308.dita" class="- map/topicref " navtitle="BC308"/>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBC309-BC312.dita" class="- map/topicref " navtitle="Effect on compliance costs for preparers">
+                <topicref href="ifrs10/IFRS10_BC309.dita" class="- map/topicref " navtitle="BC309"/>
+                <topicref href="ifrs10/IFRS10_BC310.dita" class="- map/topicref " navtitle="BC310"/>
+                <topicref href="ifrs10/IFRS10_BC311.dita" class="- map/topicref " navtitle="BC311"/>
+                <topicref href="ifrs10/IFRS10_BC312.dita" class="- map/topicref " navtitle="BC312"/>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBC313-BC316.dita" class="- map/topicref " navtitle="How the costs of analysis for users are affected">
+                <topicref href="ifrs10/IFRS10_BC313.dita" class="- map/topicref " navtitle="BC313"/>
+                <topicref href="ifrs10/IFRS10_BC314.dita" class="- map/topicref " navtitle="BC314"/>
+                <topicref href="ifrs10/IFRS10_BC315.dita" class="- map/topicref " navtitle="BC315"/>
+                <topicref href="ifrs10/IFRS10_BC316.dita" class="- map/topicref " navtitle="BC316"/>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_gBC317-BC317.dita" class="- map/topicref " navtitle="Summary">
+                <topicref href="ifrs10/IFRS10_BC317.dita" class="- map/topicref " navtitle="BC317"/>
+            </topicref>
+        </topicref>
+    <topicref chunk="to-content" class="- map/topicref " navtitle="Appendices">
+        <topicref href="ifrs10/IFRS10_BC_APPA.dita" class="- map/topicref " navtitle="Appendix Previous Board approvals and dissenting opinions">
+            <topicref href="ifrs10/IFRS10_BADec2003.dita" class="- map/topicref " navtitle="Approval by the Board of IAS 27 issued in December 2003"/>
+            <topicref href="ifrs10/IFRS10_BAJan2008.dita" outputclass="new_page" class="- map/topicref " navtitle="Approval by the Board of amendments to IAS 27 issued in January 2008"/>
+            <topicref href="ifrs10/IFRS10_APPA_DO.dita" outputclass="new_page" class="- map/topicref " navtitle="Dissenting opinions">
+                <topicref href="ifrs10/IFRS10_sgDO1-DO3.dita" class="- map/topicref " navtitle="Dissent of Tatsumi Yamada from IAS 27 (as revised in 2003)">
+                    <topicref href="ifrs10/IFRS10_DO1_V.dita" class="- map/topicref " navtitle="DO1"/>
+                    <topicref href="ifrs10/IFRS10_DO2.dita" class="- map/topicref " navtitle="DO2"/>
+                    <topicref href="ifrs10/IFRS10_DO3.dita" class="- map/topicref " navtitle="DO3"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs10/IFRS10_sgDO1-DO16.dita" outputclass="new_page" class="- map/topicref " navtitle="Dissent of Philippe Danjou, Jan Engström, Robert P Garnett, Gilbert Gélard and Tatsumi Yamada from the amendments to IAS 27 issued in January 2008 on the accounting for non-controlling interests and the loss of control of a subsidiary">
+                <topicref href="ifrs10/IFRS10_DO1.dita" class="- map/topicref " navtitle="DO1"/>
+                <topicref href="ifrs10/IFRS10_gDO2-DO12.dita" class="- map/topicref " navtitle="Accounting for changes in ownership interests in a subsidiary">
+                    <topicref href="ifrs10/IFRS10_DO2_a.dita" class="- map/topicref " navtitle="DO2"/>
+                    <topicref href="ifrs10/IFRS10_DO3_a.dita" class="- map/topicref " navtitle="DO3"/>
+                    <topicref href="ifrs10/IFRS10_DO4.dita" class="- map/topicref " navtitle="DO4"/>
+                    <topicref href="ifrs10/IFRS10_DO5.dita" class="- map/topicref " navtitle="DO5"/>
+                    <topicref href="ifrs10/IFRS10_DO6_V.dita" class="- map/topicref " navtitle="DO6"/>
+                    <topicref href="ifrs10/IFRS10_DO7.dita" class="- map/topicref " navtitle="DO7"/>
+                    <topicref href="ifrs10/IFRS10_DO8.dita" class="- map/topicref " navtitle="DO8"/>
+                    <topicref href="ifrs10/IFRS10_DO9.dita" class="- map/topicref " navtitle="DO9"/>
+                    <topicref href="ifrs10/IFRS10_DO10.dita" class="- map/topicref " navtitle="DO10"/>
+                    <topicref href="ifrs10/IFRS10_DO11.dita" class="- map/topicref " navtitle="DO11"/>
+                    <topicref href="ifrs10/IFRS10_DO12.dita" class="- map/topicref " navtitle="DO12"/>
+                </topicref>
+                <topicref href="ifrs10/IFRS10_gDO13-DO13.dita" class="- map/topicref " navtitle="Loss of control">
+                    <topicref href="ifrs10/IFRS10_DO13.dita" class="- map/topicref " navtitle="DO13"/>
+                </topicref>
+                <topicref href="ifrs10/IFRS10_gDO14-DO16.dita" class="- map/topicref " navtitle="Accounting for losses attributable to non‑controlling interests">
+                    <topicref href="ifrs10/IFRS10_DO14.dita" class="- map/topicref " navtitle="DO14"/>
+                    <topicref href="ifrs10/IFRS10_DO15.dita" class="- map/topicref " navtitle="DO15"/>
+                    <topicref href="ifrs10/IFRS10_DO16.dita" class="- map/topicref " navtitle="DO16"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs10/IFRS10_BC_APPB.dita" class="- map/topicref " navtitle="Appendix Amendments to the Basis for Conclusions on other IFRSs"/>
+    </topicref></chapter>
+    
+</bookmap>

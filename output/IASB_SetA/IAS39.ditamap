@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IAS39_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <booklibrary class="- topic/ph bookmap/booklibrary ">IAS
+            39</booklibrary>
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Financial Instruments: Recognition
+            and Measurement</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Standard</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IAS 39</booknumber>
+        </bookid>
+        <document_type value="IAS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2005-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2003-12-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ias-39-financial-instruments-recognition-and-measurement" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="standard" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" id="IAS39_CHK_FM" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ias39/IAS39_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias39/IAS39_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias39/IAS39_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ias39/IAS39_PRE.dita" chunk="to-content" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ias39/IAS39_TOC.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+        <preface href="ias39/IAS39_rubric.dita" class="- map/topicref bookmap/preface "/>
+    </frontmatter>
+    <chapter href="ias39/IAS39_TI.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="IAS 39 Financial Instruments: Recognition and Measurement"><topicref href="ias39/IAS39_rubric.dita" class="- map/topicref " navtitle="Rubric"/>
+        <topicref href="ias39/IAS39_g1-1.dita" class="- map/topicref " navtitle="">
+            <topicref href="ias39/IAS39_1_DELETED.dita" class="- map/topicref " navtitle="1">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+        </topicref>
+        <topicref href="ias39/IAS39_g2-7.dita" class="- map/topicref " navtitle="Scope">
+            <topicref href="ias39/IAS39_2.dita" class="- map/topicref " navtitle="2"/>
+            <topicref href="ias39/IAS39_2A-7_DELETED.dita" class="- map/topicref " navtitle="2A–7">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+        </topicref>
+        <topicref href="ias39/IAS39_g8-9.dita" class="- map/topicref " navtitle="Definitions">
+            <topicref href="ias39/IAS39_8.dita" class="- map/topicref " navtitle="8"/>
+            <topicref href="ias39/IAS39_9.dita" class="- map/topicref " navtitle="9">
+                <topicref href="ias39/IAS39_9_hedge-accounting.dita" class="- map/topicref " navtitle="Definitions relating to hedge accounting">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ias39/IAS39_10-70_DELETED.dita" class="- map/topicref " navtitle="10–70"/>
+        <topicref href="ias39/IAS39_g71-102.dita" class="- map/topicref " navtitle="Hedging">
+            <topicref href="ias39/IAS39_71.dita" class="- map/topicref " navtitle="71"/>
+            <topicref href="ias39/IAS39_g72-77.dita" class="- map/topicref " navtitle="Hedging instruments">
+                <topicref href="ias39/IAS39_g72-73.dita" class="- map/topicref " navtitle="Qualifying instruments">
+                    <topicref href="ias39/IAS39_72.dita" class="- map/topicref " navtitle="72"/>
+                    <topicref href="ias39/IAS39_73.dita" class="- map/topicref " navtitle="73"/>
+                </topicref>
+                <topicref href="ias39/IAS39_g74-77.dita" class="- map/topicref " navtitle="Designation of hedging instruments">
+                    <topicref href="ias39/IAS39_74.dita" class="- map/topicref " navtitle="74"/>
+                    <topicref href="ias39/IAS39_75.dita" class="- map/topicref " navtitle="75"/>
+                    <topicref href="ias39/IAS39_76.dita" class="- map/topicref " navtitle="76"/>
+                    <topicref href="ias39/IAS39_77.dita" class="- map/topicref " navtitle="77"/>
+                </topicref>
+            </topicref>
+            <topicref href="ias39/IAS39_g78-84.dita" class="- map/topicref " navtitle="Hedged items">
+                <topicref href="ias39/IAS39_g78-80.dita" class="- map/topicref " navtitle="Qualifying items">
+                    <topicref href="ias39/IAS39_78.dita" class="- map/topicref " navtitle="78"/>
+                    <topicref href="ias39/IAS39_79_DELETED.dita" class="- map/topicref " navtitle="79">
+                        <topicmeta class="- map/topicmeta "/>
+                    </topicref>
+                    <topicref href="ias39/IAS39_80.dita" class="- map/topicref " navtitle="80"/>
+                </topicref>
+                <topicref href="ias39/IAS39_g81-81A.dita" class="- map/topicref " navtitle="Designation of financial items as hedged items">
+                    <topicref href="ias39/IAS39_81.dita" class="- map/topicref " navtitle="81"/>
+                    <topicref href="ias39/IAS39_81A.dita" class="- map/topicref " navtitle="81A"/>
+                </topicref>
+                <topicref href="ias39/IAS39_g82-82.dita" class="- map/topicref " navtitle="Designation of non‑financial items as hedged items">
+                    <topicref href="ias39/IAS39_82.dita" class="- map/topicref " navtitle="82"/>
+                </topicref>
+                <topicref href="ias39/IAS39_g83-84.dita" class="- map/topicref " navtitle="Designation of groups of items as hedged items">
+                    <topicref href="ias39/IAS39_83.dita" class="- map/topicref " navtitle="83"/>
+                    <topicref href="ias39/IAS39_84.dita" class="- map/topicref " navtitle="84"/>
+                </topicref>
+            </topicref>
+            <topicref href="ias39/IAS39_g85-102.dita" class="- map/topicref " navtitle="Hedge accounting">
+                <topicref href="ias39/IAS39_85.dita" class="- map/topicref " navtitle="85"/>
+                <topicref href="ias39/IAS39_86.dita" class="- map/topicref " navtitle="86"/>
+                <topicref href="ias39/IAS39_87.dita" class="- map/topicref " navtitle="87"/>
+                <topicref href="ias39/IAS39_88.dita" class="- map/topicref " navtitle="88"/>
+                <topicref href="ias39/IAS39_g89-94.dita" class="- map/topicref " navtitle="Fair value hedges">
+                    <topicref href="ias39/IAS39_89.dita" class="- map/topicref " navtitle="89"/>
+                    <topicref href="ias39/IAS39_89A.dita" class="- map/topicref " navtitle="89A"/>
+                    <topicref href="ias39/IAS39_90.dita" class="- map/topicref " navtitle="90"/>
+                    <topicref href="ias39/IAS39_91.dita" class="- map/topicref " navtitle="91"/>
+                    <topicref href="ias39/IAS39_92.dita" class="- map/topicref " navtitle="92"/>
+                    <topicref href="ias39/IAS39_93.dita" class="- map/topicref " navtitle="93"/>
+                    <topicref href="ias39/IAS39_94.dita" class="- map/topicref " navtitle="94"/>
+                </topicref>
+                <topicref href="ias39/IAS39_g95-101.dita" class="- map/topicref " navtitle="Cash flow hedges">
+                    <topicref href="ias39/IAS39_95.dita" class="- map/topicref " navtitle="95"/>
+                    <topicref href="ias39/IAS39_96.dita" class="- map/topicref " navtitle="96"/>
+                    <topicref href="ias39/IAS39_97.dita" class="- map/topicref " navtitle="97"/>
+                    <topicref href="ias39/IAS39_98.dita" class="- map/topicref " navtitle="98"/>
+                    <topicref href="ias39/IAS39_99.dita" class="- map/topicref " navtitle="99"/>
+                    <topicref href="ias39/IAS39_100.dita" class="- map/topicref " navtitle="100"/>
+                    <topicref href="ias39/IAS39_101.dita" class="- map/topicref " navtitle="101"/>
+                </topicref>
+                <topicref href="ias39/IAS39_g102-102.dita" class="- map/topicref " navtitle="Hedges of a net investment">
+                    <topicref href="ias39/IAS39_102.dita" class="- map/topicref " navtitle="102"/>
+                </topicref>
+            </topicref>
+            <topicref href="ias39/IAS39_g102A-102N.dita" class="- map/topicref " navtitle="Temporary exceptions from     applying specific hedge accounting requirements">
+                <topicref href="ias39/IAS39_102A.dita" class="- map/topicref " navtitle="102A"/>
+                <topicref href="ias39/IAS39_102B.dita" class="- map/topicref " navtitle="102B"/>
+                <topicref href="ias39/IAS39_102C.dita" class="- map/topicref " navtitle="102C"/>
+                <topicref href="ias39/IAS39_g102D-102D.dita" class="- map/topicref " navtitle="Highly probable requirement       for cash flow hedges">
+                    <topicref href="ias39/IAS39_102D.dita" class="- map/topicref " navtitle="102D"/>
+                </topicref>
+                <topicref href="ias39/IAS39_g102E-102E.dita" class="- map/topicref " navtitle="Reclassifying the     cumulative gain or loss recognised in other comprehensive income">
+                    <topicref href="ias39/IAS39_102E.dita" class="- map/topicref " navtitle="102E"/>
+                </topicref>
+                <topicref href="ias39/IAS39_g102F-102G.dita" class="- map/topicref " navtitle="Effectiveness     assessment">
+                    <topicref href="ias39/IAS39_102F.dita" class="- map/topicref " navtitle="102F"/>
+                    <topicref href="ias39/IAS39_102G.dita" class="- map/topicref " navtitle="102G"/>
+                </topicref>
+                <topicref href="ias39/IAS39_g102H-102I.dita" class="- map/topicref " navtitle="Designating financial items       as hedged items">
+                    <topicref href="ias39/IAS39_102H.dita" class="- map/topicref " navtitle="102H"/>
+                    <topicref href="ias39/IAS39_102I.dita" class="- map/topicref " navtitle="102I"/>
+                </topicref>
+                <topicref href="ias39/IAS39_g102J-102O.dita" class="- map/topicref " navtitle="End of     application">
+                    <topicref href="ias39/IAS39_102J.dita" class="- map/topicref " navtitle="102J"/>
+                    <topicref href="ias39/IAS39_102K.dita" class="- map/topicref " navtitle="102K"/>
+                    <topicref href="ias39/IAS39_102L.dita" class="- map/topicref " navtitle="102L"/>
+                    <topicref href="ias39/IAS39_102M.dita" class="- map/topicref " navtitle="102M"/>
+                    <topicref href="ias39/IAS39_102N.dita" class="- map/topicref " navtitle="102N"/>
+                    <topicref base="IFRS2020-5" href="ias39/IAS39_102O.dita" class="- map/topicref " navtitle="102O"/>
+                </topicref>
+            </topicref>
+            <topicref base="IFRS2020-5" href="ias39/IAS39_g102P-102Z3.dita" class="- map/topicref " navtitle="Additional temporary exceptions     arising from interest rate benchmark reform">
+                <topicref href="ias39/IAS39_g102P-102U.dita" class="- map/topicref " navtitle="Hedge accounting">
+                    <topicref href="ias39/IAS39_102P.dita" class="- map/topicref " navtitle="102P"/>
+                    <topicref href="ias39/IAS39_102Q.dita" class="- map/topicref " navtitle="102Q"/>
+                    <topicref href="ias39/IAS39_102R.dita" class="- map/topicref " navtitle="102R"/>
+                    <topicref href="ias39/IAS39_102S.dita" class="- map/topicref " navtitle="102S"/>
+                    <topicref href="ias39/IAS39_102T.dita" class="- map/topicref " navtitle="102T"/>
+                    <topicref href="ias39/IAS39_102U.dita" class="- map/topicref " navtitle="102U"/>
+                </topicref>
+                <topicref href="ias39/IAS39_g102V-102X.dita" class="- map/topicref " navtitle="Accounting for qualifying hedging relationships ">
+                    <topicref href="ias39/IAS39_g102V-102V.dita" class="- map/topicref " navtitle="Retrospective effectiveness assessment">
+                        <topicref href="ias39/IAS39_102V.dita" class="- map/topicref " navtitle="102V"/>
+                    </topicref>
+                    <topicref href="ias39/IAS39_g102W-102X.dita" class="- map/topicref " navtitle="Cash flow hedges">
+                        <topicref href="ias39/IAS39_102W.dita" class="- map/topicref " navtitle="102W"/>
+                        <topicref href="ias39/IAS39_102X.dita" class="- map/topicref " navtitle="102X"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ias39/IAS39_g102Y-102Z.dita" class="- map/topicref " navtitle="Groups of items">
+                    <topicref href="ias39/IAS39_102Y.dita" class="- map/topicref " navtitle="102Y"/>
+                    <topicref href="ias39/IAS39_102Z.dita" class="- map/topicref " navtitle="102Z"/>
+                </topicref>
+                <topicref href="ias39/IAS39_g102Z1-102Z3.dita" class="- map/topicref " navtitle="Designating financial items as hedged items">
+                    <topicref href="ias39/IAS39_102Z1.dita" class="- map/topicref " navtitle="102Z1"/>
+                    <topicref href="ias39/IAS39_102Z2.dita" class="- map/topicref " navtitle="102Z2"/>
+                    <topicref href="ias39/IAS39_102Z3.dita" class="- map/topicref " navtitle="102Z3"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ias39/IAS39_g103-108F.dita" class="- map/topicref " navtitle="Effective date and transition">
+            <topicref href="ias39/IAS39_103.dita" class="- map/topicref " navtitle="103"/>
+            <topicref href="ias39/IAS39_103A_DELETED.dita" class="- map/topicref " navtitle="103A">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ias39/IAS39_103B_DELETED.dita" class="- map/topicref " navtitle="103B">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ias39/IAS39_103C.dita" class="- map/topicref " navtitle="103C"/>
+            <topicref href="ias39/IAS39_103D_DELETED.dita" class="- map/topicref " navtitle="103D">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ias39/IAS39_103E.dita" class="- map/topicref " navtitle="103E"/>
+            <topicref href="ias39/IAS39_103F_DELETED.dita" class="- map/topicref " navtitle="103F">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ias39/IAS39_103G.dita" class="- map/topicref " navtitle="103G"/>
+            <topicref href="ias39/IAS39_103H-103J_DELETED.dita" class="- map/topicref " navtitle="103H–103J">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ias39/IAS39_103K.dita" class="- map/topicref " navtitle="103K"/>
+            <topicref href="ias39/IAS39_103L-103P_DELETED.dita" class="- map/topicref " navtitle="103L–103P">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ias39/IAS39_103Q.dita" class="- map/topicref " navtitle="103Q"/>
+            <topicref href="ias39/IAS39_103R.dita" class="- map/topicref " navtitle="103R"/>
+            <topicref href="ias39/IAS39_103S_DELETED.dita" class="- map/topicref " navtitle="103S">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ias39/IAS39_103T.dita" class="- map/topicref " navtitle="103T"/>
+            <topicref href="ias39/IAS39_103U.dita" class="- map/topicref " navtitle="103U"/>
+            <topicref href="ias39/IAS39_103V_MARKER.dita" class="- map/topicref " navtitle="103V"/>
+            <topicref href="ias39/IAS39_104.dita" class="- map/topicref " navtitle="104"/>
+            <topicref href="ias39/IAS39_105-107A_DELETED.dita" class="- map/topicref " navtitle="105–107A">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ias39/IAS39_108.dita" class="- map/topicref " navtitle="108"/>
+            <topicref href="ias39/IAS39_108A.dita" class="- map/topicref " navtitle="108A"/>
+            <topicref href="ias39/IAS39_108B.dita" class="- map/topicref " navtitle="108B"/>
+            <topicref href="ias39/IAS39_108C.dita" class="- map/topicref " navtitle="108C"/>
+            <topicref href="ias39/IAS39_108D.dita" class="- map/topicref " navtitle="108D"/>
+            <topicref href="ias39/IAS39_108E-108F_DELETED.dita" class="- map/topicref " navtitle="108E–108F">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ias39/IAS39_108G.dita" class="- map/topicref " navtitle="108G">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref base="IFRS2020-5" href="ias39/IAS39_108H.dita" class="- map/topicref " navtitle="108H"/>
+            <topicref base="IFRS2020-5" href="ias39/IAS39_108I.dita" class="- map/topicref " navtitle="108I"/>
+            <topicref base="IFRS2020-5" href="ias39/IAS39_108J.dita" class="- map/topicref " navtitle="108J"/>
+            <topicref base="IFRS2020-5" href="ias39/IAS39_108K.dita" class="- map/topicref " navtitle="108K"/>
+        </topicref>
+        <topicref href="ias39/IAS39_g109-110.dita" class="- map/topicref " navtitle="Withdrawal of other pronouncements">
+            <topicref href="ias39/IAS39_109.dita" class="- map/topicref " navtitle="109"/>
+            <topicref href="ias39/IAS39_110.dita" class="- map/topicref " navtitle="110"/>
+        </topicref>
+    <topicref chunk="to-content" class="- map/topicref " navtitle="Appendices">
+        <topicref href="ias39/IAS39_APPA.dita" class="- map/topicref " navtitle="Appendix A Application guidance">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="A" class="- topic/data "/>
+            </topicmeta>
+            <topicref href="ias39/IAS39_AG1-AG93_DELETED.dita" class="- map/topicref " navtitle="AG1–AG93">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ias39/IAS39_gAG94-AG132.dita" class="- map/topicref " navtitle="Hedging (paragraphs 71–102)">
+                <topicref href="ias39/IAS39_gAG94-AG97.dita" class="- map/topicref " navtitle="Hedging instruments (paragraphs 72–77)">
+                    <topicref href="ias39/IAS39_sgAG94-AG97.dita" class="- map/topicref " navtitle="Qualifying instruments (paragraphs 72 and 73)">
+                        <topicref href="ias39/IAS39_AG94.dita" class="- map/topicref " navtitle="AG94"/>
+                        <topicref href="ias39/IAS39_AG95.dita" class="- map/topicref " navtitle="AG95"/>
+                        <topicref href="ias39/IAS39_AG96_DELETED.dita" class="- map/topicref " navtitle="AG96">
+                            <topicmeta class="- map/topicmeta "/>
+                        </topicref>
+                        <topicref href="ias39/IAS39_AG97.dita" class="- map/topicref " navtitle="AG97"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ias39/IAS39_gAG98-AG101.dita" class="- map/topicref " navtitle="Hedged items (paragraphs 78–84)">
+                    <topicref href="ias39/IAS39_gAG98-AG99BA.dita" class="- map/topicref " navtitle="Qualifying items (paragraphs 78–80)">
+                        <topicref href="ias39/IAS39_AG98.dita" class="- map/topicref " navtitle="AG98"/>
+                        <topicref href="ias39/IAS39_AG99.dita" class="- map/topicref " navtitle="AG99"/>
+                        <topicref href="ias39/IAS39_AG99A.dita" class="- map/topicref " navtitle="AG99A"/>
+                        <topicref href="ias39/IAS39_AG99B.dita" class="- map/topicref " navtitle="AG99B"/>
+                        <topicref href="ias39/IAS39_AG99BA.dita" class="- map/topicref " navtitle="AG99BA"/>
+                    </topicref>
+                    <topicref href="ias39/IAS39_gAG99C-AG99D.dita" class="- map/topicref " navtitle="Designation of financial items as hedged items (paragraphs 81 and 81A)">
+                        <topicref href="ias39/IAS39_AG99C.dita" class="- map/topicref " navtitle="AG99C"/>
+                        <topicref href="ias39/IAS39_AG99D.dita" class="- map/topicref " navtitle="AG99D"/>
+                    </topicref>
+                    <topicref href="ias39/IAS39_AG99E.dita" class="- map/topicref " navtitle="AG99E"/>
+                    <topicref href="ias39/IAS39_AG99F.dita" class="- map/topicref " navtitle="AG99F"/>
+                    <topicref href="ias39/IAS39_gAG100-AG100.dita" class="- map/topicref " navtitle="Designation of non-financial items as hedged items (paragraph 82)">
+                        <topicref href="ias39/IAS39_AG100.dita" class="- map/topicref " navtitle="AG100"/>
+                    </topicref>
+                    <topicref href="ias39/IAS39_gAG101-AG101.dita" class="- map/topicref " navtitle="Designation of groups of items as hedged items (paragraphs 83 and 84)">
+                        <topicref href="ias39/IAS39_AG101.dita" class="- map/topicref " navtitle="AG101"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ias39/IAS39_gAG102-AG132.dita" class="- map/topicref " navtitle="Hedge accounting (paragraphs 85–102)">
+                    <topicref href="ias39/IAS39_AG102.dita" class="- map/topicref " navtitle="AG102"/>
+                    <topicref href="ias39/IAS39_AG103.dita" class="- map/topicref " navtitle="AG103"/>
+                    <topicref href="ias39/IAS39_AG104.dita" class="- map/topicref " navtitle="AG104"/>
+                    <topicref href="ias39/IAS39_gAG105-AG113A.dita" class="- map/topicref " navtitle="Assessing hedge effectiveness">
+                        <topicref href="ias39/IAS39_AG105.dita" class="- map/topicref " navtitle="AG105"/>
+                        <topicref href="ias39/IAS39_AG106.dita" class="- map/topicref " navtitle="AG106"/>
+                        <topicref href="ias39/IAS39_AG107.dita" class="- map/topicref " navtitle="AG107"/>
+                        <topicref href="ias39/IAS39_AG107A.dita" class="- map/topicref " navtitle="AG107A"/>
+                        <topicref href="ias39/IAS39_AG108.dita" class="- map/topicref " navtitle="AG108"/>
+                        <topicref href="ias39/IAS39_AG109.dita" class="- map/topicref " navtitle="AG109"/>
+                        <topicref href="ias39/IAS39_AG110.dita" class="- map/topicref " navtitle="AG110"/>
+                        <topicref href="ias39/IAS39_AG110A.dita" class="- map/topicref " navtitle="AG110A"/>
+                        <topicref href="ias39/IAS39_AG110B.dita" class="- map/topicref " navtitle="AG110B"/>
+                        <topicref href="ias39/IAS39_AG111.dita" class="- map/topicref " navtitle="AG111"/>
+                        <topicref href="ias39/IAS39_AG112.dita" class="- map/topicref " navtitle="AG112"/>
+                        <topicref href="ias39/IAS39_AG113.dita" class="- map/topicref " navtitle="AG113"/>
+                        <topicref href="ias39/IAS39_AG113A.dita" class="- map/topicref " navtitle="AG113A"/>
+                    </topicref>
+                    <topicref href="ias39/IAS39_gAG114-AG132.dita" class="- map/topicref " navtitle="Fair value hedge accounting for a portfolio hedge of interest rate risk">
+                        <topicref href="ias39/IAS39_AG114.dita" class="- map/topicref " navtitle="AG114"/>
+                        <topicref href="ias39/IAS39_AG115.dita" class="- map/topicref " navtitle="AG115"/>
+                        <topicref href="ias39/IAS39_AG116.dita" class="- map/topicref " navtitle="AG116"/>
+                        <topicref href="ias39/IAS39_AG117.dita" class="- map/topicref " navtitle="AG117"/>
+                        <topicref href="ias39/IAS39_AG118.dita" class="- map/topicref " navtitle="AG118"/>
+                        <topicref href="ias39/IAS39_AG119.dita" class="- map/topicref " navtitle="AG119"/>
+                        <topicref href="ias39/IAS39_AG120.dita" class="- map/topicref " navtitle="AG120"/>
+                        <topicref href="ias39/IAS39_AG121.dita" class="- map/topicref " navtitle="AG121"/>
+                        <topicref href="ias39/IAS39_AG122.dita" class="- map/topicref " navtitle="AG122"/>
+                        <topicref href="ias39/IAS39_AG123.dita" class="- map/topicref " navtitle="AG123"/>
+                        <topicref href="ias39/IAS39_AG124.dita" class="- map/topicref " navtitle="AG124"/>
+                        <topicref href="ias39/IAS39_AG125.dita" class="- map/topicref " navtitle="AG125"/>
+                        <topicref href="ias39/IAS39_AG126.dita" class="- map/topicref " navtitle="AG126"/>
+                        <topicref href="ias39/IAS39_AG127.dita" class="- map/topicref " navtitle="AG127"/>
+                        <topicref href="ias39/IAS39_AG128.dita" class="- map/topicref " navtitle="AG128"/>
+                        <topicref href="ias39/IAS39_AG129.dita" class="- map/topicref " navtitle="AG129"/>
+                        <topicref href="ias39/IAS39_AG130.dita" class="- map/topicref " navtitle="AG130"/>
+                        <topicref href="ias39/IAS39_AG131.dita" class="- map/topicref " navtitle="AG131"/>
+                        <topicref href="ias39/IAS39_AG132.dita" class="- map/topicref " navtitle="AG132"/>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="ias39/IAS39_gAG133-AG133_V2.dita" keys="IAS39_gAG133-AG133_TI_V1" class="- map/topicref " navtitle="Transition (paragraphs 103–108C)">
+                <topicref href="ias39/IAS39_AG133_a.dita" keys="IAS39_AG133" class="- map/topicref " navtitle="AG133"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias39/IAS39_APPB.dita" class="- map/topicref " navtitle="Appendix B Amendments to other pronouncements">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="B" class="- topic/data "/>
+            </topicmeta>
+        </topicref>
+    </topicref>
+        <topicref href="ias39/IAS39_BAMar2004.dita" class="- map/topicref " navtitle="Approval by the Board of Fair Value Hedge Accounting for a Portfolio Hedge of Interest Rate Risk (Amendments to IAS 39) issued in March 2004"/>
+        <topicref href="ias39/IAS39_BADec2004.dita" class="- map/topicref " navtitle="Approval by the Board of Transition and Initial Recognition of Financial Assets and Financial Liabilities (Amendments to IAS 39) issued in December 2004"/>
+        <topicref href="ias39/IAS39_BAApr2005.dita" class="- map/topicref " navtitle="Approval by the Board of Cash Flow Hedge Accounting of Forecast Intragroup Transactions (Amendments to IAS 39) issued in April 2005"/>
+        <topicref href="ias39/IAS39_BAAug2005.dita" class="- map/topicref " navtitle="Approval by the Board of Financial Guarantee Contracts (Amendments to IAS 39 and IFRS 4) issued in August 2005"/>
+        <topicref href="ias39/IAS39_BAJul2008.dita" class="- map/topicref " navtitle="Approval by the Board of Eligible Hedged Items (Amendment to IAS 39) issued in July 2008"/>
+        <topicref href="ias39/IAS39_BAMar2009.dita" class="- map/topicref " navtitle="Approval by the Board of Embedded Derivatives (Amendments to IFRIC 9 and IAS 39) issued in March 2009"/>
+        <topicref href="ias39/IAS39_BAJun2013.dita" class="- map/topicref " navtitle="Approval by the Board of Novation of Derivatives and Continuation of Hedge Accounting (Amendments to IAS 39) issued in June 2013"/>
+        <topicref href="ias39/IAS39_BANov2013.dita" class="- map/topicref " navtitle="Approval by the Board of IFRS 9 Financial Instruments (Hedge Accounting and amendments to IFRS 9, IFRS 7 and IAS 39) issued in November 2013"/>
+        <topicref href="ias39/IAS39_BASep2019.dita" class="- map/topicref " navtitle="Approval by the Board of Interest Rate Benchmark Reform issued in September 2019"/>
+        <topicref base="IFRS2020-5" href="ias39/IAS39_BAAug2020.dita" class="- map/topicref " navtitle="Approval by the Board of Interest Rate Benchmark       Reform—Phase 2 issued in August 2020"/>
+    </chapter>
+    
+    
+</bookmap>

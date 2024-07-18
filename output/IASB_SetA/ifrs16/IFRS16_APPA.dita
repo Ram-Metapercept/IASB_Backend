@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE topic PUBLIC "-//IFRS//DTD DITA Topic//EN" "ifrsTopic.dtd"><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IFRS16_APPA" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic ifrs-d)                            (topic ifrsElements-c)                               (topic principlesAtt-c)   (topic decimalAtt-c)   (topic double_underlineAtt-c)   (topic keep_togetherAtt-c)   (topic rotateAtt-c)   (topic tintAtt-c)   (topic background_colorAtt-c)   (topic line_colorAtt-c)   (topic font_colorAtt-c)   (topic typeAtt-c)   (topic reference_labelAtt-c)   (topic toc_labelAtt-c)   (topic typefaceAtt-c)   (topic typestyleAtt-c)   (topic layoutAtt-c)   (topic indentedAtt-c)   (topic levelAtt-c)   (topic issueAtt-c)   (topic amendment_idAtt-c)   (topic versionAtt-c)   (topic updAtt-c)     " class="- topic/topic ">
+    <title base="F31716722" id="IFRS16_APPA_TI" class="- topic/title ">Appendix A Defined terms</title>
+    <body class="- topic/body ">
+        <note type="note" class="- topic/note ">
+            <p base="SL45930019" id="IFRS16_P0348" class="- topic/p ">This appendix is an integral
+                part of the Standard.</p>
+        </note>
+        <dl base="SL45930020" id="IFRS16_D0001" class="- topic/dl ">
+            <dlentry base="SL45930021" id="IFRS16_DI0001" class="- topic/dlentry ">
+                <dt base="SL45930022" id="IFRS16_TE0001" class="- topic/dt ">commencement date of
+                    the lease (commencement date)</dt>
+                <dd class="- topic/dd ">
+                    <p base="SL45930024" id="IFRS16_P0349" class="- topic/p ">The date on which
+                            a <b class="+ topic/ph hi-d/b ">lessor</b> makes an <b class="+ topic/ph hi-d/b ">underlying asset</b> available for use by a <b class="+ topic/ph hi-d/b ">lessee</b>.</p>
+                </dd>
+            </dlentry>
+            <dlentry base="SL45930025" id="IFRS16_DI0002" class="- topic/dlentry ">
+                <dt base="SL45930026" id="IFRS16_TE0002" class="- topic/dt ">economic life</dt>
+                <dd class="- topic/dd ">
+                    <p base="F45929638" id="IFRS16_P0350" class="- topic/p ">Either the period over
+                        which an asset is expected to be economically usable by one or more users or
+                        the number of production or similar units expected to be obtained from an
+                        asset by one or more users.</p>
+                </dd>
+            </dlentry>
+            <dlentry base="SL45930028" id="IFRS16_DI0003" class="- topic/dlentry ">
+                <dt base="SL45930029" id="IFRS16_TE0003" class="- topic/dt ">effective date of the
+                    modification</dt>
+                <dd class="- topic/dd ">
+                    <p base="SL45930031" id="IFRS16_P0351" class="- topic/p ">The date when both
+                        parties agree to a <b class="+ topic/ph hi-d/b ">lease
+                                modification</b>.</p>
+                </dd>
+            </dlentry>
+            <dlentry base="SL45930032" id="IFRS16_DI0004" class="- topic/dlentry ">
+                <dt base="SL45930033" id="IFRS16_TE0004" class="- topic/dt ">fair value</dt>
+                <dd class="- topic/dd ">
+                    <p base="SL45930035" id="IFRS16_P0352" class="- topic/p ">For the purpose of
+                        applying the <b class="+ topic/ph hi-d/b ">lessor</b> accounting requirements in this Standard, the amount for
+                        which an asset could be exchanged, or a liability settled, between
+                        knowledgeable, willing parties in an arm’s length transaction.</p>
+                </dd>
+            </dlentry>
+            <dlentry base="SL45930036" id="IFRS16_DI0005" class="- topic/dlentry ">
+                <dt base="SL45930037" id="IFRS16_TE0005" class="- topic/dt ">finance lease</dt>
+                <dd class="- topic/dd ">
+                    <p base="SL45930039" id="IFRS16_P0354" class="- topic/p ">A <b class="+ topic/ph hi-d/b ">lease</b> that transfers substantially
+                        all the risks and rewards incidental to ownership of an <b class="+ topic/ph hi-d/b ">underlying asset</b>.</p>
+                </dd>
+            </dlentry>
+            <dlentry base="SL45930040" id="IFRS16_DI0006" class="- topic/dlentry ">
+                <dt base="SL45930041" id="IFRS16_TE0006" class="- topic/dt ">fixed payments</dt>
+                <dd class="- topic/dd ">
+                    <p base="SL45930043" id="IFRS16_P0355" class="- topic/p ">Payments made by
+                            a <b class="+ topic/ph hi-d/b ">lessee</b> to
+                            a <b class="+ topic/ph hi-d/b ">lessor</b> for
+                        the right to use an <b class="+ topic/ph hi-d/b ">underlying
+                                asset</b> during the <b class="+ topic/ph hi-d/b ">lease term</b>, excluding <b class="+ topic/ph hi-d/b ">variable lease payments</b>.</p>
+                </dd>
+            </dlentry>
+            <dlentry base="F45929650" id="IFRS16_DI0007" class="- topic/dlentry ">
+                <dt base="F45929648" id="IFRS16_TE0007" class="- topic/dt ">gross investment in the
+                    lease</dt>
+                <dd class="- topic/dd ">
+                    <p base="F45929651" id="IFRS16_P0356" class="- topic/p ">The sum of:</p>
+                    <ol outputclass="static" base="F45929653" type="lower-alpha" id="IFRS16_L0037" class="- topic/ol ">
+                        <li class="- topic/li ">
+                            <li_value class="+ topic/ph ifrs-d/li_value ">(a)</li_value>
+                            <p base="F45929654" id="IFRS16_P0357" class="- topic/p ">the <b class="+ topic/ph hi-d/b ">lease
+                                        payments</b> receivable by a <b class="+ topic/ph hi-d/b ">lessor</b> under a <b class="+ topic/ph hi-d/b ">finance lease</b>; and</p>
+                        </li>
+                        <li class="- topic/li ">
+                            <li_value class="+ topic/ph ifrs-d/li_value ">(b)</li_value>
+                            <p base="F45929659" id="IFRS16_P0358" class="- topic/p ">any <b class="+ topic/ph hi-d/b ">unguaranteed
+                                        residual value</b> accruing to the
+                                lessor.</p>
+                        </li>
+                    </ol>
+                </dd>
+            </dlentry>
+            <dlentry base="F45929663" id="IFRS16_DI0008" class="- topic/dlentry ">
+                <dt base="F45929661" id="IFRS16_TE0008" class="- topic/dt ">inception date of the
+                    lease (inception date)</dt>
+                <dd class="- topic/dd ">
+                    <p base="F45929664" id="IFRS16_P0359" class="- topic/p ">The earlier of the date
+                        of a <b class="+ topic/ph hi-d/b ">lease</b> agreement and the date of commitment by the parties to the
+                        principal terms and conditions of the lease.</p>
+                </dd>
+            </dlentry>
+            <dlentry base="F45929668" id="IFRS16_DI0009" class="- topic/dlentry ">
+                <dt base="F45929666" id="IFRS16_TE0009" class="- topic/dt ">initial direct
+                    costs</dt>
+                <dd class="- topic/dd ">
+                    <p base="F45929669" id="IFRS16_P0360" class="- topic/p ">Incremental costs of
+                        obtaining a <b class="+ topic/ph hi-d/b ">lease</b> that would not have been incurred if the lease had not been
+                        obtained, except for such costs incurred by a manufacturer or dealer <b class="+ topic/ph hi-d/b ">lessor</b> in connection with a <b class="+ topic/ph hi-d/b ">finance lease</b>.</p>
+                </dd>
+            </dlentry>
+            <dlentry base="F45929675" id="IFRS16_DI0010" class="- topic/dlentry ">
+                <dt base="F45929673" id="IFRS16_TE0010" class="- topic/dt ">interest rate implicit
+                    in the lease</dt>
+                <dd class="- topic/dd ">
+                    <p base="F45929676" id="IFRS16_P0362" class="- topic/p ">The rate of interest
+                        that causes the present value of (a) the <b class="+ topic/ph hi-d/b ">lease payments</b> and
+                        (b) the <b class="+ topic/ph hi-d/b ">unguaranteed
+                                residual value</b> to equal the sum of (i) the <b class="+ topic/ph hi-d/b ">fair value</b> of the <b class="+ topic/ph hi-d/b ">underlying asset</b> and
+                        (ii) any <b class="+ topic/ph hi-d/b ">initial direct
+                                costs</b> of
+                            the lessor.</p>
+                </dd>
+            </dlentry>
+            <dlentry base="F45929684" id="IFRS16_DI0011" class="- topic/dlentry ">
+                <dt base="F45929682" id="IFRS16_TE0011" class="- topic/dt ">lease</dt>
+                <dd class="- topic/dd ">
+                    <p base="F45929685" id="IFRS16_P0363" class="- topic/p ">A contract, or part of
+                        a contract, that conveys the right to use an asset (the <b class="+ topic/ph hi-d/b ">underlying asset</b>)
+                        for a period of time in exchange for consideration.</p>
+                </dd>
+            </dlentry>
+            <dlentry base="F45929690" id="IFRS16_DI0012" class="- topic/dlentry ">
+                <dt base="F45929688" id="IFRS16_TE0012" class="- topic/dt ">lease incentives</dt>
+                <dd class="- topic/dd ">
+                    <p base="F45929691" id="IFRS16_P0366" class="- topic/p ">Payments made by
+                            a <b class="+ topic/ph hi-d/b ">lessor</b> to
+                            a <b class="+ topic/ph hi-d/b ">lessee</b> associated with a <b class="+ topic/ph hi-d/b ">lease</b>, or the reimbursement or
+                        assumption by a lessor of costs of a lessee.</p>
+                </dd>
+            </dlentry>
+            <dlentry base="F45929696" id="IFRS16_DI0013" class="- topic/dlentry ">
+                <dt base="F45929694" id="IFRS16_TE0013" class="- topic/dt ">lease modification</dt>
+                <dd class="- topic/dd ">
+                    <p base="F45929697" id="IFRS16_P0367" class="- topic/p ">A change in the scope
+                        of a <b class="+ topic/ph hi-d/b ">lease</b>, or
+                        the consideration for a lease, that was not part of the original terms and
+                        conditions of the lease (for example, adding or terminating the right to use
+                        one or more <b class="+ topic/ph hi-d/b ">underlying
+                                assets</b>, or
+                        extending or shortening the contractual <b class="+ topic/ph hi-d/b ">lease term</b>).</p>
+                </dd>
+            </dlentry>
+            <dlentry base="F45929703" id="IFRS16_DI0014" class="- topic/dlentry ">
+                <dt base="F45929701" id="IFRS16_TE0014" class="- topic/dt ">lease payments</dt>
+                <dd class="- topic/dd ">
+                    <p base="F45929704" id="IFRS16_P0369" class="- topic/p ">Payments made by
+                            a <b class="+ topic/ph hi-d/b ">lessee</b> to
+                            a <b class="+ topic/ph hi-d/b ">lessor</b> relating to the right to use an <b class="+ topic/ph hi-d/b ">underlying asset</b> during the <b class="+ topic/ph hi-d/b ">lease term</b>, comprising the
+                        following:</p>
+                    <ol outputclass="static" base="F45929706" type="lower-alpha" id="IFRS16_L0038" class="- topic/ol ">
+                        <li class="- topic/li ">
+                            <li_value class="+ topic/ph ifrs-d/li_value ">(a)</li_value>
+                            <p base="F45929707" id="IFRS16_P0370" class="- topic/p "><b class="+ topic/ph hi-d/b ">fixed
+                                        payments</b> (including in-substance fixed payments ),
+                                less any <b class="+ topic/ph hi-d/b ">lease
+                                        incentives</b>;</p>
+                        </li>
+                        <li class="- topic/li ">
+                            <li_value class="+ topic/ph ifrs-d/li_value ">(b)</li_value>
+                            <p base="F45929711" id="IFRS16_P0371" class="- topic/p "><b class="+ topic/ph hi-d/b ">variable
+                                        lease payments</b> that depend on an
+                                index or a rate;</p>
+                        </li>
+                        <li class="- topic/li ">
+                            <li_value class="+ topic/ph ifrs-d/li_value ">(c)</li_value>
+                            <p base="F45929714" id="IFRS16_P0372" class="- topic/p ">the exercise
+                                price of a purchase option if the lessee is reasonably certain to
+                                exercise that option; and</p>
+                        </li>
+                        <li class="- topic/li ">
+                            <li_value class="+ topic/ph ifrs-d/li_value ">(d)</li_value>
+                            <p base="F45929716" id="IFRS16_P0373" class="- topic/p ">payments of
+                                penalties for terminating the <b class="+ topic/ph hi-d/b ">lease</b>, if the lease term reflects the lessee exercising
+                                an option to terminate the lease.</p>
+                        </li>
+                    </ol>
+                    <p base="F45929718" id="IFRS16_P0374" class="- topic/p ">For the lessee, lease
+                        payments also include amounts expected to be payable by the lessee
+                            under <b class="+ topic/ph hi-d/b ">residual value
+                                guarantees</b>.
+                        Lease payments do not include payments allocated to non-lease components of
+                        a contract, unless the lessee elects to combine non-lease components with a
+                        lease component and to account for them as a single lease component.</p>
+                    <p base="F45929721" id="IFRS16_P0375" class="- topic/p ">For the lessor, lease
+                        payments also include any residual value guarantees provided to the lessor
+                        by the lessee, a party related to the lessee or a third party unrelated to
+                        the lessor that is financially capable of discharging the obligations under
+                        the guarantee. Lease payments do not include payments allocated to non-lease
+                        components.</p>
+                </dd>
+            </dlentry>
+            <dlentry base="F45929724" id="IFRS16_DI0015" class="- topic/dlentry ">
+                <dt base="F45929722" id="IFRS16_TE0015" class="- topic/dt ">lease term</dt>
+                <dd class="- topic/dd ">
+                    <p base="F45929725" id="IFRS16_P0376" class="- topic/p ">The non-cancellable
+                        period for which a <b class="+ topic/ph hi-d/b ">lessee</b> has
+                        the right to use an <b class="+ topic/ph hi-d/b ">underlying
+                                asset</b>,
+                        together with both:</p>
+                    <ol outputclass="static" base="F45929729" type="lower-alpha" id="IFRS16_L0039" class="- topic/ol ">
+                        <li class="- topic/li ">
+                            <li_value class="+ topic/ph ifrs-d/li_value ">(a)</li_value>
+                            <p base="F45929730" id="IFRS16_P0377" class="- topic/p ">periods covered
+                                by an option to extend the <b class="+ topic/ph hi-d/b ">lease</b> if the lessee is reasonably certain to exercise that
+                                option; and</p>
+                        </li>
+                        <li class="- topic/li ">
+                            <li_value class="+ topic/ph ifrs-d/li_value ">(b)</li_value>
+                            <p base="F45929732" id="IFRS16_P0378" class="- topic/p ">periods covered
+                                by an option to terminate the lease if the lessee is reasonably
+                                certain not to exercise that option.</p>
+                        </li>
+                    </ol>
+                </dd>
+            </dlentry>
+            <dlentry base="F45929735" id="IFRS16_DI0016" class="- topic/dlentry ">
+                <dt base="F45929733" id="IFRS16_TE0016" class="- topic/dt ">lessee</dt>
+                <dd class="- topic/dd ">
+                    <p base="F45929736" id="IFRS16_P0380" class="- topic/p ">An entity that obtains
+                        the right to use an <b class="+ topic/ph hi-d/b ">underlying
+                                asset</b> for
+                        a period of time in exchange for consideration.</p>
+                </dd>
+            </dlentry>
+            <dlentry base="F45929740" id="IFRS16_DI0017" class="- topic/dlentry ">
+                <dt base="F45929738" id="IFRS16_TE0017" class="- topic/dt ">lessee’s incremental
+                    borrowing rate</dt>
+                <dd class="- topic/dd ">
+                    <p base="F45929741" id="IFRS16_P0381" class="- topic/p ">The rate of interest
+                        that a <b class="+ topic/ph hi-d/b ">lessee</b> would have to pay to borrow over a similar term, and with a
+                        similar security, the funds necessary to obtain an asset of a similar value
+                        to the <b class="+ topic/ph hi-d/b ">right-of-use
+                                asset</b> in
+                        a similar economic environment.</p>
+                </dd>
+            </dlentry>
+            <dlentry base="F45929746" id="IFRS16_DI0018" class="- topic/dlentry ">
+                <dt base="F45929744" id="IFRS16_TE0018" class="- topic/dt ">lessor</dt>
+                <dd class="- topic/dd ">
+                    <p base="F45929747" id="IFRS16_P0382" class="- topic/p ">An entity that provides
+                        the right to use an <b class="+ topic/ph hi-d/b ">underlying
+                                asset</b> for
+                        a period of time in exchange for consideration.</p>
+                </dd>
+            </dlentry>
+            <dlentry base="F45929751" id="IFRS16_DI0019" class="- topic/dlentry ">
+                <dt base="F45929749" id="IFRS16_TE0019" class="- topic/dt ">net investment in the
+                    lease</dt>
+                <dd class="- topic/dd ">
+                    <p base="F45929758" id="IFRS16_P0383" class="- topic/p ">The <b class="+ topic/ph hi-d/b ">gross investment in
+                                the lease</b> discounted at the <b class="+ topic/ph hi-d/b ">interest rate implicit in the
+                                lease</b>.</p>
+                </dd>
+            </dlentry>
+            <dlentry base="F45929763" id="IFRS16_DI0020" class="- topic/dlentry ">
+                <dt base="F45929761" id="IFRS16_TE0020" class="- topic/dt ">operating lease</dt>
+                <dd class="- topic/dd ">
+                    <p base="F45929764" id="IFRS16_P0384" class="- topic/p ">A <b class="+ topic/ph hi-d/b ">lease</b> that does not transfer
+                        substantially all the risks and rewards incidental to ownership of an <b class="+ topic/ph hi-d/b ">underlying asset</b>.</p>
+                </dd>
+            </dlentry>
+            <dlentry base="F45929807" id="IFRS16_DI0021" class="- topic/dlentry ">
+                <dt base="F45929767" id="IFRS16_TE0021" class="- topic/dt ">optional lease
+                    payments</dt>
+                <dd class="- topic/dd ">
+                    <p base="F45929808" id="IFRS16_P0385" class="- topic/p ">Payments to be made by
+                            a <b class="+ topic/ph hi-d/b ">lessee</b> to
+                            a <b class="+ topic/ph hi-d/b ">lessor</b> for
+                        the right to use an <b class="+ topic/ph hi-d/b ">underlying
+                                asset</b> during periods covered by an option to extend or terminate
+                            a <b class="+ topic/ph hi-d/b ">lease</b> that are not included in
+                            the <b class="+ topic/ph hi-d/b ">lease term</b>.</p>
+                </dd>
+            </dlentry>
+            <dlentry base="F45929815" id="IFRS16_DI0022" class="- topic/dlentry ">
+                <dt base="F45929813" id="IFRS16_TE0022" class="- topic/dt ">period of use</dt>
+                <dd class="- topic/dd ">
+                    <p base="F45929816" id="IFRS16_P0386" class="- topic/p ">The total period of
+                        time that an asset is used to fulfil a contract with a customer (including
+                        any non-consecutive periods of time).</p>
+                </dd>
+            </dlentry>
+            <dlentry base="F45929819" id="IFRS16_DI0023" class="- topic/dlentry ">
+                <dt base="F45929817" id="IFRS16_TE0023" class="- topic/dt ">residual value
+                    guarantee</dt>
+                <dd class="- topic/dd ">
+                    <p base="F45929820" id="IFRS16_P0387" class="- topic/p ">A guarantee made to
+                            a <b class="+ topic/ph hi-d/b ">lessor</b> by
+                        a party unrelated to the lessor that the value (or part of the value) of
+                            an <b class="+ topic/ph hi-d/b ">underlying
+                                asset</b> at
+                        the end of a <b class="+ topic/ph hi-d/b ">lease</b> will be at least a specified amount.</p>
+                </dd>
+            </dlentry>
+            <dlentry base="F45929826" id="IFRS16_DI0024" class="- topic/dlentry ">
+                <dt base="F45929824" id="IFRS16_TE0024" class="- topic/dt ">right-of-use asset</dt>
+                <dd class="- topic/dd ">
+                    <p base="F45929827" id="IFRS16_P0388" class="- topic/p ">An asset that
+                        represents a <b class="+ topic/ph hi-d/b ">lessee’s</b> right to use an <b class="+ topic/ph hi-d/b ">underlying asset</b> for
+                            the <b class="+ topic/ph hi-d/b ">lease term</b>.</p>
+                </dd>
+            </dlentry>
+            <dlentry base="F45929833" id="IFRS16_DI0025" class="- topic/dlentry ">
+                <dt base="F45929831" id="IFRS16_TE0025" class="- topic/dt ">short-term lease</dt>
+                <dd class="- topic/dd ">
+                    <p base="F45929834" id="IFRS16_P0389" class="- topic/p ">A <b class="+ topic/ph hi-d/b ">lease</b> that, at the <b class="+ topic/ph hi-d/b ">commencement date</b>,
+                        has a <b class="+ topic/ph hi-d/b ">lease term</b> of
+                        12 months or less. A lease that contains a purchase option is not a
+                        short-term lease.</p>
+                </dd>
+            </dlentry>
+            <dlentry base="F45929840" id="IFRS16_DI0026" class="- topic/dlentry ">
+                <dt base="F45929838" id="IFRS16_TE0026" class="- topic/dt ">sublease</dt>
+                <dd class="- topic/dd ">
+                    <p base="F45929841" id="IFRS16_P0391" class="- topic/p ">A transaction for which
+                            an <b class="+ topic/ph hi-d/b ">underlying
+                                asset</b> is
+                        re-leased by a <b class="+ topic/ph hi-d/b ">lessee</b> (‘intermediate lessor’) to a third party, and the <b class="+ topic/ph hi-d/b ">lease</b> (‘head lease’) between the
+                        head lessor and lessee remains in effect.</p>
+                </dd>
+            </dlentry>
+            <dlentry base="F45929847" id="IFRS16_DI0027" class="- topic/dlentry ">
+                <dt base="F45929845" id="IFRS16_TE0027" class="- topic/dt ">underlying asset</dt>
+                <dd class="- topic/dd ">
+                    <p base="F45929849" id="IFRS16_P0392" class="- topic/p ">An asset that is the
+                        subject of a <b class="+ topic/ph hi-d/b ">lease</b>,
+                        for which the right to use that asset has been provided by a <b class="+ topic/ph hi-d/b ">lessor</b> to a <b class="+ topic/ph hi-d/b ">lessee</b>.</p>
+                </dd>
+            </dlentry>
+            <dlentry base="F45929855" id="IFRS16_DI0028" class="- topic/dlentry ">
+                <dt base="F45929853" id="IFRS16_TE0028" class="- topic/dt ">unearned finance
+                    income</dt>
+                <dd class="- topic/dd ">
+                    <p base="F45929856" id="IFRS16_P0393" class="- topic/p ">The difference
+                        between:</p>
+                    <ol outputclass="static" base="F45929858" type="lower-alpha" id="IFRS16_L0040" class="- topic/ol ">
+                        <li class="- topic/li ">
+                            <li_value class="+ topic/ph ifrs-d/li_value ">(a)</li_value>
+                            <p base="F45929859" id="IFRS16_P0394" class="- topic/p ">the <b class="+ topic/ph hi-d/b ">gross
+                                        investment in the lease</b>; and</p>
+                        </li>
+                        <li class="- topic/li ">
+                            <li_value class="+ topic/ph ifrs-d/li_value ">(b)</li_value>
+                            <p base="F45929862" id="IFRS16_P0395" class="- topic/p ">the <b class="+ topic/ph hi-d/b ">net
+                                        investment in the lease</b>.</p>
+                        </li>
+                    </ol>
+                </dd>
+            </dlentry>
+            <dlentry base="F45929866" id="IFRS16_DI0029" class="- topic/dlentry ">
+                <dt base="F45929864" id="IFRS16_TE0029" class="- topic/dt ">unguaranteed residual
+                    value</dt>
+                <dd class="- topic/dd ">
+                    <p base="F45929867" id="IFRS16_P0396" class="- topic/p ">That portion of the
+                        residual value of the <b class="+ topic/ph hi-d/b ">underlying asset</b>,
+                        the realisation of which by a <b class="+ topic/ph hi-d/b ">lessor</b> is not assured or is
+                        guaranteed solely by a party related to the lessor.</p>
+                </dd>
+            </dlentry>
+            <dlentry base="F45929872" id="IFRS16_DI0030" class="- topic/dlentry ">
+                <dt base="F45929870" id="IFRS16_TE0030" class="- topic/dt ">variable lease
+                    payments</dt>
+                <dd class="- topic/dd ">
+                    <p base="F45929873" id="IFRS16_P0397" class="- topic/p ">The portion of payments
+                        made by a <b class="+ topic/ph hi-d/b ">lessee</b> to
+                            a <b class="+ topic/ph hi-d/b ">lessor</b> for
+                        the right to use an <b class="+ topic/ph hi-d/b ">underlying
+                                asset</b> during the <b class="+ topic/ph hi-d/b ">lease term</b> that varies because of
+                        changes in facts or circumstances occurring after the <b class="+ topic/ph hi-d/b ">commencement date</b>,
+                        other than the passage of time.</p>
+                </dd>
+            </dlentry>
+        </dl>
+    </body>
+</topic>

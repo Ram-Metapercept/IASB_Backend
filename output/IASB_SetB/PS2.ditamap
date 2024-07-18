@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="PS2_CHK_ALL" chunk="to-content" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <booklibrary class="- topic/ph bookmap/booklibrary ">IFRS Practice Statement 2 </booklibrary>
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Making Materiality
+            Judgements</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">ps2</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <bookpartno class="- topic/data bookmap/bookpartno ">ps2</bookpartno>
+        </bookid>
+        <document_type value="ps2" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2017-09-14" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2017-09-14" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="materiality-practice-statement" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="practice-statement" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" id="PS2_CHK_FM" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ps2/PS2_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ps2/PS2_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ps2/PS2_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ps2/PS2_PRE.dita" chunk="to-content" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ps2/PS2_TOC0001.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+        <preface href="ps2/PS2_rubric.dita" class="- map/topicref bookmap/preface "/>
+    </frontmatter>
+    <chapter href="ps2/PS2_gIN1-IN7.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Introduction"><topicref href="ps2/PS2_rubric.dita" class="- map/topicref " navtitle="Rubric"/>
+        <topicref href="ps2/PS2_IN1.dita" class="- map/topicref " navtitle="IN1"/>
+        <topicref href="ps2/PS2_IN2.dita" class="- map/topicref " navtitle="IN2"/>
+        <topicref href="ps2/PS2_IN3.dita" class="- map/topicref " navtitle="IN3"/>
+        <topicref href="ps2/PS2_IN4.dita" class="- map/topicref " navtitle="IN4"/>
+        <topicref href="ps2/PS2_IN5.dita" class="- map/topicref " navtitle="IN5"/>
+        <topicref href="ps2/PS2_IN6.dita" class="- map/topicref " navtitle="IN6"/>
+        <topicref href="ps2/PS2_IN7.dita" class="- map/topicref " navtitle="IN7"/>
+    </chapter>
+    <chapter href="ps2/PS2_TI0003.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="IFRS 9 Financial Instruments"><topicref href="ps2/PS2_rubric.dita" class="- map/topicref " navtitle="Rubric"/>
+        <topicref href="ps2/PS2_g1-2.dita" class="- map/topicref " navtitle="Objective">
+            <topicref href="ps2/PS2_1.dita" class="- map/topicref " navtitle="1"/>
+            <topicref href="ps2/PS2_2.dita" class="- map/topicref " navtitle="2"/>
+        </topicref>
+        <topicref href="ps2/PS2_g3-4.dita" class="- map/topicref " navtitle="Scope">
+            <topicref href="ps2/PS2_3.dita" class="- map/topicref " navtitle="3"/>
+            <topicref href="ps2/PS2_4.dita" class="- map/topicref " navtitle="4"/>
+        </topicref>
+        <topicref href="ps2/PS2_g5-26.dita" class="- map/topicref " navtitle="General characteristics of materiality">
+            <topicref href="ps2/PS2_g5-7.dita" class="- map/topicref " navtitle="Definition of material">
+                <topicref href="ps2/PS2_5.dita" class="- map/topicref " navtitle="5"/>
+                <topicref href="ps2/PS2_6.dita" class="- map/topicref " navtitle="6"/>
+                <topicref href="ps2/PS2_7.dita" class="- map/topicref " navtitle="7"/>
+            </topicref>
+            <topicref href="ps2/PS2_g8-10.dita" class="- map/topicref " navtitle="Materiality judgements are pervasive">
+                <topicref href="ps2/PS2_8.dita" class="- map/topicref " navtitle="8"/>
+                <topicref href="ps2/PS2_g9-9.dita" class="- map/topicref " navtitle="Recognition and measurement">
+                    <topicref href="ps2/PS2_9.dita" class="- map/topicref " navtitle="9"/>
+                </topicref>
+                <topicref href="ps2/PS2_g10-10.dita" class="- map/topicref " navtitle="Presentation and disclosure">
+                    <topicref href="ps2/PS2_10.dita" class="- map/topicref " navtitle="10"/>
+                </topicref>
+            </topicref>
+            <topicref href="ps2/PS2_g11-12.dita" class="- map/topicref " navtitle="Judgement">
+                <topicref href="ps2/PS2_11.dita" class="- map/topicref " navtitle="11"/>
+                <topicref href="ps2/PS2_12.dita" class="- map/topicref " navtitle="12"/>
+            </topicref>
+            <topicref href="ps2/PS2_g13-23.dita" class="- map/topicref " navtitle="Primary users and their information needs">
+                <topicref href="ps2/PS2_13.dita" class="- map/topicref " navtitle="13"/>
+                <topicref href="ps2/PS2_14.dita" class="- map/topicref " navtitle="14"/>
+                <topicref href="ps2/PS2_15.dita" class="- map/topicref " navtitle="15"/>
+                <topicref href="ps2/PS2_g16-20.dita" class="- map/topicref " navtitle="Decisions made by primary users">
+                    <topicref href="ps2/PS2_16.dita" class="- map/topicref " navtitle="16"/>
+                    <topicref href="ps2/PS2_17.dita" class="- map/topicref " navtitle="17"/>
+                    <topicref href="ps2/PS2_18.dita" class="- map/topicref " navtitle="18"/>
+                    <topicref href="ps2/PS2_19.dita" class="- map/topicref " navtitle="19"/>
+                    <topicref href="ps2/PS2_20.dita" class="- map/topicref " navtitle="20"/>
+                </topicref>
+                <topicref href="ps2/PS2_g21-23.dita" class="- map/topicref " navtitle="Meeting primary users’ information needs">
+                    <topicref href="ps2/PS2_21.dita" class="- map/topicref " navtitle="21"/>
+                    <topicref href="ps2/PS2_22.dita" class="- map/topicref " navtitle="22"/>
+                    <topicref href="ps2/PS2_23.dita" class="- map/topicref " navtitle="23"/>
+                </topicref>
+            </topicref>
+            <topicref href="ps2/PS2_g24-26.dita" class="- map/topicref " navtitle="Impact of publicly available information">
+                <topicref href="ps2/PS2_24.dita" class="- map/topicref " navtitle="24"/>
+                <topicref href="ps2/PS2_25.dita" class="- map/topicref " navtitle="25"/>
+                <topicref href="ps2/PS2_26.dita" class="- map/topicref " navtitle="26"/>
+            </topicref>
+        </topicref>
+        <topicref href="ps2/PS2_g27-28.dita" class="- map/topicref " navtitle="Interaction with local laws and regulations">
+            <topicref href="ps2/PS2_27.dita" class="- map/topicref " navtitle="27"/>
+            <topicref href="ps2/PS2_28.dita" class="- map/topicref " navtitle="28"/>
+        </topicref>
+        <topicref href="ps2/PS2_g29-65.dita" class="- map/topicref " navtitle="Making materiality judgements">
+            <topicref href="ps2/PS2_g29-32.dita" class="- map/topicref " navtitle="Overview of the materiality process">
+                <topicref href="ps2/PS2_29.dita" class="- map/topicref " navtitle="29"/>
+                <topicref href="ps2/PS2_30.dita" class="- map/topicref " navtitle="30"/>
+                <topicref href="ps2/PS2_31.dita" class="- map/topicref " navtitle="31"/>
+                <topicref href="ps2/PS2_32.dita" class="- map/topicref " navtitle="32"/>
+            </topicref>
+            <topicref href="ps2/PS2_g33-34.dita" class="- map/topicref " navtitle="A four‑step materiality process">
+                <topicref href="ps2/PS2_33.dita" class="- map/topicref " navtitle="33"/>
+                <topicref href="ps2/PS2_34.dita" class="- map/topicref " navtitle="34"/>
+                <topicref href="ps2/PS2_diagram.dita" class="- map/topicref " navtitle="Diagram 1—the four-step materiality process"/>
+            </topicref>
+            <topicref href="ps2/PS2_g35-39.dita" class="- map/topicref " navtitle="Step 1—identify">
+                <topicref href="ps2/PS2_35.dita" class="- map/topicref " navtitle="35"/>
+                <topicref href="ps2/PS2_36.dita" class="- map/topicref " navtitle="36"/>
+                <topicref href="ps2/PS2_37.dita" class="- map/topicref " navtitle="37"/>
+                <topicref href="ps2/PS2_38.dita" class="- map/topicref " navtitle="38"/>
+                <topicref href="ps2/PS2_39.dita" class="- map/topicref " navtitle="39"/>
+            </topicref>
+            <topicref href="ps2/PS2_g40-55.dita" class="- map/topicref " navtitle="Step 2—assess">
+                <topicref href="ps2/PS2_40.dita" class="- map/topicref " navtitle="40"/>
+                <topicref href="ps2/PS2_41.dita" class="- map/topicref " navtitle="41"/>
+                <topicref href="ps2/PS2_42.dita" class="- map/topicref " navtitle="42"/>
+                <topicref href="ps2/PS2_43.dita" class="- map/topicref " navtitle="43"/>
+                <topicref href="ps2/PS2_g44-45.dita" class="- map/topicref " navtitle="Quantitative factors">
+                    <topicref href="ps2/PS2_44.dita" class="- map/topicref " navtitle="44"/>
+                    <topicref href="ps2/PS2_45.dita" class="- map/topicref " navtitle="45"/>
+                </topicref>
+                <topicref href="ps2/PS2_g46-51.dita" class="- map/topicref " navtitle="Qualitative factors">
+                    <topicref href="ps2/PS2_46.dita" class="- map/topicref " navtitle="46"/>
+                    <topicref href="ps2/PS2_47.dita" class="- map/topicref " navtitle="47"/>
+                    <topicref href="ps2/PS2_48.dita" class="- map/topicref " navtitle="48"/>
+                    <topicref href="ps2/PS2_49.dita" class="- map/topicref " navtitle="49"/>
+                    <topicref href="ps2/PS2_50.dita" class="- map/topicref " navtitle="50"/>
+                    <topicref href="ps2/PS2_51.dita" class="- map/topicref " navtitle="51"/>
+                </topicref>
+                <topicref href="ps2/PS2_g52-55.dita" class="- map/topicref " navtitle="Interaction of qualitative and quantitative factors">
+                    <topicref href="ps2/PS2_52.dita" class="- map/topicref " navtitle="52"/>
+                    <topicref href="ps2/PS2_53.dita" class="- map/topicref " navtitle="53"/>
+                    <topicref href="ps2/PS2_54.dita" class="- map/topicref " navtitle="54"/>
+                    <topicref href="ps2/PS2_55.dita" class="- map/topicref " navtitle="55"/>
+                </topicref>
+            </topicref>
+            <topicref href="ps2/PS2_g56-59.dita" class="- map/topicref " navtitle="Step 3—organise">
+                <topicref href="ps2/PS2_56.dita" class="- map/topicref " navtitle="56"/>
+                <topicref href="ps2/PS2_57.dita" class="- map/topicref " navtitle="57"/>
+                <topicref href="ps2/PS2_58.dita" class="- map/topicref " navtitle="58"/>
+                <topicref href="ps2/PS2_59.dita" class="- map/topicref " navtitle="59"/>
+            </topicref>
+            <topicref href="ps2/PS2_g60-65.dita" class="- map/topicref " navtitle="Step 4—review">
+                <topicref href="ps2/PS2_60.dita" class="- map/topicref " navtitle="60"/>
+                <topicref href="ps2/PS2_61.dita" class="- map/topicref " navtitle="61"/>
+                <topicref href="ps2/PS2_62.dita" class="- map/topicref " navtitle="62"/>
+                <topicref href="ps2/PS2_63.dita" class="- map/topicref " navtitle="63"/>
+                <topicref href="ps2/PS2_64.dita" class="- map/topicref " navtitle="64"/>
+                <topicref href="ps2/PS2_65.dita" class="- map/topicref " navtitle="65"/>
+            </topicref>
+        </topicref>
+        <topicref href="ps2/PS2_g66-88.dita" class="- map/topicref " navtitle="Specific topics">
+            <topicref href="ps2/PS2_g66-71.dita" class="- map/topicref " navtitle="Prior‑period information">
+                <topicref href="ps2/PS2_66.dita" class="- map/topicref " navtitle="66"/>
+                <topicref href="ps2/PS2_67.dita" class="- map/topicref " navtitle="67"/>
+                <topicref href="ps2/PS2_68.dita" class="- map/topicref " navtitle="68"/>
+                <topicref href="ps2/PS2_69.dita" class="- map/topicref " navtitle="69"/>
+                <topicref href="ps2/PS2_g70-70.dita" class="- map/topicref " navtitle="Prior‑period information not previously provided">
+                    <topicref href="ps2/PS2_70.dita" class="- map/topicref " navtitle="70"/>
+                </topicref>
+                <topicref href="ps2/PS2_g71-71.dita" class="- map/topicref " navtitle="Summarising prior‑period information">
+                    <topicref href="ps2/PS2_71.dita" class="- map/topicref " navtitle="71"/>
+                </topicref>
+            </topicref>
+            <topicref href="ps2/PS2_g72-80.dita" class="- map/topicref " navtitle="Errors">
+                <topicref href="ps2/PS2_72.dita" class="- map/topicref " navtitle="72"/>
+                <topicref href="ps2/PS2_73.dita" class="- map/topicref " navtitle="73"/>
+                <topicref href="ps2/PS2_74.dita" class="- map/topicref " navtitle="74"/>
+                <topicref href="ps2/PS2_75.dita" class="- map/topicref " navtitle="75"/>
+                <topicref href="ps2/PS2_76.dita" class="- map/topicref " navtitle="76"/>
+                <topicref href="ps2/PS2_g77-80.dita" class="- map/topicref " navtitle="Cumulative errors">
+                    <topicref href="ps2/PS2_77.dita" class="- map/topicref " navtitle="77"/>
+                    <topicref href="ps2/PS2_78.dita" class="- map/topicref " navtitle="78"/>
+                    <topicref href="ps2/PS2_79.dita" class="- map/topicref " navtitle="79"/>
+                    <topicref href="ps2/PS2_80.dita" class="- map/topicref " navtitle="80"/>
+                </topicref>
+            </topicref>
+            <topicref href="ps2/PS2_g81-83.dita" class="- map/topicref " navtitle="Information about covenants">
+                <topicref href="ps2/PS2_81.dita" class="- map/topicref " navtitle="81"/>
+                <topicref href="ps2/PS2_82.dita" class="- map/topicref " navtitle="82"/>
+                <topicref href="ps2/PS2_83.dita" class="- map/topicref " navtitle="83"/>
+            </topicref>
+            <topicref href="ps2/PS2_g84-88.dita" class="- map/topicref " navtitle="Materiality judgements for interim reporting">
+                <topicref href="ps2/PS2_84.dita" class="- map/topicref " navtitle="84"/>
+                <topicref href="ps2/PS2_85.dita" class="- map/topicref " navtitle="85"/>
+                <topicref href="ps2/PS2_86.dita" class="- map/topicref " navtitle="86"/>
+                <topicref href="ps2/PS2_87.dita" class="- map/topicref " navtitle="87"/>
+                <topicref href="ps2/PS2_g88-88.dita" class="- map/topicref " navtitle="Interim reporting estimates">
+                    <topicref href="ps2/PS2_88.dita" class="- map/topicref " navtitle="88"/>
+                </topicref>
+                <topicref href="ps2/PS2_g88A-88G.dita" base="IAS2021-2" class="- map/topicref " navtitle="Information about accounting policies">
+                    <topicref href="ps2/PS2_88A.dita" class="- map/topicref " navtitle="88A"/>
+                    <topicref href="ps2/PS2_88B.dita" class="- map/topicref " navtitle="88B"/>
+                    <topicref href="ps2/PS2_88C.dita" class="- map/topicref " navtitle="88C"/>
+                    <topicref href="ps2/PS2_88D.dita" class="- map/topicref " navtitle="88D"/>
+                    <topicref href="ps2/PS2_88E.dita" class="- map/topicref " navtitle="88E"/>
+                    <topicref href="ps2/PS2_88F.dita" class="- map/topicref " navtitle="88F"/>
+                    <topicref href="ps2/PS2_88G.dita" class="- map/topicref " navtitle="88G"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ps2/PS2_g89-89.dita" class="- map/topicref " navtitle="Application date">
+            <topicref href="ps2/PS2_89.dita" class="- map/topicref " navtitle="89"/>
+        </topicref>
+    <topicref chunk="to-content" class="- map/topicref " navtitle="Appendices">
+        <topicref href="ps2/PS2_APP0001.dita" class="- map/topicref " navtitle="Appendix References to the Conceptual Framework for Financial Reporting and IFRS Standards">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="APP" class="- topic/data "/>
+            </topicmeta>
+            <topicref href="ps2/PS2_APP_extract-1.dita" class="- map/topicref " navtitle="Extracts from the Conceptual Framework for Financial Reporting">
+                <topicref href="ps2/PS2_0003_V2.dita" class="- map/topicref " navtitle=""/>
+            </topicref>
+            <topicref href="ps2/PS2_APP_extract-2.dita" outputclass="new_page" class="- map/topicref " navtitle="Extracts from IAS 1 Presentation of Financial Statements"/>
+            <topicref href="ps2/PS2_APP_extract-3.dita" outputclass="new_page" class="- map/topicref " navtitle="Extracts from IAS 8 Accounting Policies, Changes in Accounting Estimates and Errors"/>
+            <topicref href="ps2/PS2_APP_extract-4.dita" outputclass="new_page" class="- map/topicref " navtitle="Extracts from IAS 34 Interim Financial Reporting"/>
+        </topicref>
+    </topicref>
+        <topicref href="ps2/PS2_BASep2017.dita" class="- map/topicref " navtitle="Approval by the Board of the IFRS Practice Statement 2 Making Materiality Judgements issued in September 2017"/>
+        <topicref href="ps2/PS2_BAFeb2021.dita" base="IAS2021-2" class="- map/topicref " navtitle="Approval by the Board of Disclosure of Accounting Policies issued in February 2021"/>
+    </chapter>
+    
+    
+</bookmap>

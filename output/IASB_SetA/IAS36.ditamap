@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IAS36_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <booklibrary class="- topic/ph bookmap/booklibrary ">IAS
+            36</booklibrary>
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Impairment of
+            Assets</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Standard</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IAS 36</booknumber>
+        </bookid>
+        <document_type value="IAS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2004-03-31" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2004-03-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ias-36-impairment-of-assets" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="standard" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" id="IAS36_CHK_FM" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ias36/IAS36_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias36/IAS36_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias36/IAS36_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ias36/IAS36_PRE.dita" chunk="to-content" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ias36/IAS36_TOC0001.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+        <preface href="ias36/IAS36_rubric.dita" class="- map/topicref bookmap/preface "/>
+    </frontmatter>
+    <chapter href="ias36/IAS36_TI0002.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="IAS 36 Impairment of Assets"><topicref href="ias36/IAS36_rubric.dita" class="- map/topicref " navtitle="Rubric"/>
+        <topicref href="ias36/IAS36_g1-1.dita" class="- map/topicref " navtitle="Objective">
+            <topicref href="ias36/IAS36_1.dita" class="- map/topicref " navtitle="1"/>
+        </topicref>
+        <topicref href="ias36/IAS36_g2-5.dita" class="- map/topicref " navtitle="Scope">
+            <topicref href="ias36/IAS36_2.dita" class="- map/topicref " navtitle="2"/>
+            <topicref href="ias36/IAS36_3.dita" class="- map/topicref " navtitle="3"/>
+            <topicref href="ias36/IAS36_4.dita" class="- map/topicref " navtitle="4"/>
+            <topicref href="ias36/IAS36_5.dita" class="- map/topicref " navtitle="5"/>
+        </topicref>
+        <topicref href="ias36/IAS36_g6-6.dita" class="- map/topicref " navtitle="Definitions">
+            <topicref href="ias36/IAS36_6.dita" class="- map/topicref " navtitle="6"/>
+        </topicref>
+        <topicref href="ias36/IAS36_g7-17.dita" class="- map/topicref " navtitle="Identifying an asset that may be impaired">
+            <topicref href="ias36/IAS36_7.dita" class="- map/topicref " navtitle="7"/>
+            <topicref href="ias36/IAS36_8.dita" class="- map/topicref " navtitle="8"/>
+            <topicref href="ias36/IAS36_9.dita" class="- map/topicref " navtitle="9"/>
+            <topicref href="ias36/IAS36_10.dita" class="- map/topicref " navtitle="10"/>
+            <topicref href="ias36/IAS36_11.dita" class="- map/topicref " navtitle="11"/>
+            <topicref href="ias36/IAS36_12.dita" class="- map/topicref " navtitle="12"/>
+            <topicref href="ias36/IAS36_13.dita" class="- map/topicref " navtitle="13"/>
+            <topicref href="ias36/IAS36_14.dita" class="- map/topicref " navtitle="14"/>
+            <topicref href="ias36/IAS36_15.dita" class="- map/topicref " navtitle="15"/>
+            <topicref href="ias36/IAS36_16.dita" class="- map/topicref " navtitle="16"/>
+            <topicref href="ias36/IAS36_17.dita" class="- map/topicref " navtitle="17"/>
+        </topicref>
+        <topicref href="ias36/IAS36_g18-57.dita" class="- map/topicref " navtitle="Measuring recoverable amount">
+            <topicref href="ias36/IAS36_18.dita" class="- map/topicref " navtitle="18"/>
+            <topicref href="ias36/IAS36_19.dita" class="- map/topicref " navtitle="19"/>
+            <topicref href="ias36/IAS36_20.dita" class="- map/topicref " navtitle="20"/>
+            <topicref href="ias36/IAS36_21.dita" class="- map/topicref " navtitle="21"/>
+            <topicref href="ias36/IAS36_22.dita" class="- map/topicref " navtitle="22"/>
+            <topicref href="ias36/IAS36_23.dita" class="- map/topicref " navtitle="23"/>
+            <topicref href="ias36/IAS36_g24-24.dita" class="- map/topicref " navtitle="Measuring the recoverable amount of an intangible asset with an indefinite useful life">
+                <topicref href="ias36/IAS36_24.dita" class="- map/topicref " navtitle="24"/>
+            </topicref>
+            <topicref href="ias36/IAS36_g25-29.dita" class="- map/topicref " navtitle="Fair value less costs of disposal">
+                <topicref href="ias36/IAS36_25-27_DELETED.dita" class="- map/topicref " navtitle="25–27"/>
+                <topicref href="ias36/IAS36_28.dita" class="- map/topicref " navtitle="28"/>
+                <topicref href="ias36/IAS36_29.dita" class="- map/topicref " navtitle="29"/>
+            </topicref>
+            <topicref href="ias36/IAS36_g30-57.dita" class="- map/topicref " navtitle="Value in use">
+                <topicref href="ias36/IAS36_30.dita" class="- map/topicref " navtitle="30"/>
+                <topicref href="ias36/IAS36_31.dita" class="- map/topicref " navtitle="31"/>
+                <topicref href="ias36/IAS36_32.dita" class="- map/topicref " navtitle="32"/>
+                <topicref href="ias36/IAS36_g33-38.dita" class="- map/topicref " navtitle="Basis for estimates of future cash flows">
+                    <topicref href="ias36/IAS36_33.dita" class="- map/topicref " navtitle="33"/>
+                    <topicref href="ias36/IAS36_34.dita" class="- map/topicref " navtitle="34"/>
+                    <topicref href="ias36/IAS36_35.dita" class="- map/topicref " navtitle="35"/>
+                    <topicref href="ias36/IAS36_36.dita" class="- map/topicref " navtitle="36"/>
+                    <topicref href="ias36/IAS36_37.dita" class="- map/topicref " navtitle="37"/>
+                    <topicref href="ias36/IAS36_38.dita" class="- map/topicref " navtitle="38"/>
+                </topicref>
+                <topicref href="ias36/IAS36_g39-53A.dita" class="- map/topicref " navtitle="Composition of estimates of future cash flows">
+                    <topicref href="ias36/IAS36_39.dita" class="- map/topicref " navtitle="39"/>
+                    <topicref href="ias36/IAS36_40.dita" class="- map/topicref " navtitle="40"/>
+                    <topicref href="ias36/IAS36_41.dita" class="- map/topicref " navtitle="41"/>
+                    <topicref href="ias36/IAS36_42.dita" class="- map/topicref " navtitle="42"/>
+                    <topicref href="ias36/IAS36_43.dita" class="- map/topicref " navtitle="43"/>
+                    <topicref href="ias36/IAS36_44.dita" class="- map/topicref " navtitle="44"/>
+                    <topicref href="ias36/IAS36_45.dita" class="- map/topicref " navtitle="45"/>
+                    <topicref href="ias36/IAS36_46.dita" class="- map/topicref " navtitle="46"/>
+                    <topicref href="ias36/IAS36_47.dita" class="- map/topicref " navtitle="47"/>
+                    <topicref href="ias36/IAS36_48.dita" class="- map/topicref " navtitle="48"/>
+                    <topicref href="ias36/IAS36_49.dita" class="- map/topicref " navtitle="49"/>
+                    <topicref href="ias36/IAS36_50.dita" class="- map/topicref " navtitle="50"/>
+                    <topicref href="ias36/IAS36_51.dita" class="- map/topicref " navtitle="51"/>
+                    <topicref href="ias36/IAS36_52.dita" class="- map/topicref " navtitle="52"/>
+                    <topicref href="ias36/IAS36_53.dita" class="- map/topicref " navtitle="53"/>
+                    <topicref href="ias36/IAS36_53A.dita" class="- map/topicref " navtitle="53A"/>
+                </topicref>
+                <topicref href="ias36/IAS36_g54-54.dita" class="- map/topicref " navtitle="Foreign currency future cash flows">
+                    <topicref href="ias36/IAS36_54.dita" class="- map/topicref " navtitle="54"/>
+                </topicref>
+                <topicref href="ias36/IAS36_g55-57.dita" class="- map/topicref " navtitle="Discount rate">
+                    <topicref href="ias36/IAS36_55.dita" class="- map/topicref " navtitle="55"/>
+                    <topicref href="ias36/IAS36_56.dita" class="- map/topicref " navtitle="56"/>
+                    <topicref href="ias36/IAS36_57.dita" class="- map/topicref " navtitle="57"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ias36/IAS36_g58-64.dita" class="- map/topicref " navtitle="Recognising and measuring an impairment loss">
+            <topicref href="ias36/IAS36_58.dita" class="- map/topicref " navtitle="58"/>
+            <topicref href="ias36/IAS36_59.dita" class="- map/topicref " navtitle="59"/>
+            <topicref href="ias36/IAS36_60.dita" class="- map/topicref " navtitle="60"/>
+            <topicref href="ias36/IAS36_61.dita" class="- map/topicref " navtitle="61"/>
+            <topicref href="ias36/IAS36_62.dita" class="- map/topicref " navtitle="62"/>
+            <topicref href="ias36/IAS36_63.dita" class="- map/topicref " navtitle="63"/>
+            <topicref href="ias36/IAS36_64.dita" class="- map/topicref " navtitle="64"/>
+        </topicref>
+        <topicref href="ias36/IAS36_g65-108.dita" class="- map/topicref " navtitle="Cash‑generating units and goodwill">
+            <topicref href="ias36/IAS36_65.dita" class="- map/topicref " navtitle="65"/>
+            <topicref href="ias36/IAS36_g66-73.dita" class="- map/topicref " navtitle="Identifying the cash‑generating unit to which an asset belongs">
+                <topicref href="ias36/IAS36_66.dita" class="- map/topicref " navtitle="66"/>
+                <topicref href="ias36/IAS36_67.dita" class="- map/topicref " navtitle="67"/>
+                <topicref href="ias36/IAS36_68.dita" class="- map/topicref " navtitle="68"/>
+                <topicref href="ias36/IAS36_69.dita" class="- map/topicref " navtitle="69"/>
+                <topicref href="ias36/IAS36_70.dita" class="- map/topicref " navtitle="70"/>
+                <topicref href="ias36/IAS36_71.dita" class="- map/topicref " navtitle="71"/>
+                <topicref href="ias36/IAS36_72.dita" class="- map/topicref " navtitle="72"/>
+                <topicref href="ias36/IAS36_73.dita" class="- map/topicref " navtitle="73"/>
+            </topicref>
+            <topicref href="ias36/IAS36_g74-103.dita" class="- map/topicref " navtitle="Recoverable amount and carrying amount of a cash‑generating unit">
+                <topicref href="ias36/IAS36_74.dita" class="- map/topicref " navtitle="74"/>
+                <topicref href="ias36/IAS36_75.dita" class="- map/topicref " navtitle="75"/>
+                <topicref href="ias36/IAS36_76.dita" class="- map/topicref " navtitle="76"/>
+                <topicref href="ias36/IAS36_77.dita" class="- map/topicref " navtitle="77"/>
+                <topicref href="ias36/IAS36_78.dita" class="- map/topicref " navtitle="78"/>
+                <topicref href="ias36/IAS36_79.dita" class="- map/topicref " navtitle="79"/>
+                <topicref href="ias36/IAS36_g80-99.dita" class="- map/topicref " navtitle="Goodwill">
+                    <topicref href="ias36/IAS36_g80-87.dita" class="- map/topicref " navtitle="Allocating goodwill to cash‑generating units">
+                        <topicref href="ias36/IAS36_80.dita" class="- map/topicref " navtitle="80"/>
+                        <topicref href="ias36/IAS36_81.dita" class="- map/topicref " navtitle="81"/>
+                        <topicref href="ias36/IAS36_82.dita" class="- map/topicref " navtitle="82"/>
+                        <topicref href="ias36/IAS36_83.dita" class="- map/topicref " navtitle="83"/>
+                        <topicref href="ias36/IAS36_84.dita" class="- map/topicref " navtitle="84"/>
+                        <topicref href="ias36/IAS36_85.dita" class="- map/topicref " navtitle="85"/>
+                        <topicref href="ias36/IAS36_86.dita" class="- map/topicref " navtitle="86"/>
+                        <topicref href="ias36/IAS36_87.dita" class="- map/topicref " navtitle="87"/>
+                    </topicref>
+                    <topicref href="ias36/IAS36_g88-95.dita" class="- map/topicref " navtitle="Testing cash‑generating units with goodwill for impairment">
+                        <topicref href="ias36/IAS36_88.dita" class="- map/topicref " navtitle="88"/>
+                        <topicref href="ias36/IAS36_89.dita" class="- map/topicref " navtitle="89"/>
+                        <topicref href="ias36/IAS36_90.dita" class="- map/topicref " navtitle="90"/>
+                        <topicref href="ias36/IAS36_91-95_DELETED.dita" class="- map/topicref " navtitle="91–95"/>
+                    </topicref>
+                    <topicref href="ias36/IAS36_g96-99.dita" class="- map/topicref " navtitle="Timing of impairment tests">
+                        <topicref href="ias36/IAS36_96.dita" class="- map/topicref " navtitle="96"/>
+                        <topicref href="ias36/IAS36_97.dita" class="- map/topicref " navtitle="97"/>
+                        <topicref href="ias36/IAS36_98.dita" class="- map/topicref " navtitle="98"/>
+                        <topicref href="ias36/IAS36_99.dita" class="- map/topicref " navtitle="99"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ias36/IAS36_g100-103.dita" class="- map/topicref " navtitle="Corporate assets">
+                    <topicref href="ias36/IAS36_100.dita" class="- map/topicref " navtitle="100"/>
+                    <topicref href="ias36/IAS36_101.dita" class="- map/topicref " navtitle="101"/>
+                    <topicref href="ias36/IAS36_102.dita" class="- map/topicref " navtitle="102"/>
+                    <topicref href="ias36/IAS36_103.dita" class="- map/topicref " navtitle="103"/>
+                </topicref>
+            </topicref>
+            <topicref href="ias36/IAS36_g104-108.dita" class="- map/topicref " navtitle="Impairment loss for a cash‑generating unit">
+                <topicref href="ias36/IAS36_104.dita" class="- map/topicref " navtitle="104"/>
+                <topicref href="ias36/IAS36_105.dita" class="- map/topicref " navtitle="105"/>
+                <topicref href="ias36/IAS36_106.dita" class="- map/topicref " navtitle="106"/>
+                <topicref href="ias36/IAS36_107.dita" class="- map/topicref " navtitle="107"/>
+                <topicref href="ias36/IAS36_108.dita" class="- map/topicref " navtitle="108"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias36/IAS36_g109-125.dita" class="- map/topicref " navtitle="Reversing an impairment loss">
+            <topicref href="ias36/IAS36_109.dita" class="- map/topicref " navtitle="109"/>
+            <topicref href="ias36/IAS36_110.dita" class="- map/topicref " navtitle="110"/>
+            <topicref href="ias36/IAS36_111.dita" class="- map/topicref " navtitle="111"/>
+            <topicref href="ias36/IAS36_112.dita" class="- map/topicref " navtitle="112"/>
+            <topicref href="ias36/IAS36_113.dita" class="- map/topicref " navtitle="113"/>
+            <topicref href="ias36/IAS36_114.dita" class="- map/topicref " navtitle="114"/>
+            <topicref href="ias36/IAS36_115.dita" class="- map/topicref " navtitle="115"/>
+            <topicref href="ias36/IAS36_116.dita" class="- map/topicref " navtitle="116"/>
+            <topicref href="ias36/IAS36_g117-121.dita" class="- map/topicref " navtitle="Reversing an impairment loss for an individual asset">
+                <topicref href="ias36/IAS36_117.dita" class="- map/topicref " navtitle="117"/>
+                <topicref href="ias36/IAS36_118.dita" class="- map/topicref " navtitle="118"/>
+                <topicref href="ias36/IAS36_119.dita" class="- map/topicref " navtitle="119"/>
+                <topicref href="ias36/IAS36_120.dita" class="- map/topicref " navtitle="120"/>
+                <topicref href="ias36/IAS36_121.dita" class="- map/topicref " navtitle="121"/>
+            </topicref>
+            <topicref href="ias36/IAS36_g122-123.dita" class="- map/topicref " navtitle="Reversing an impairment loss for a cash‑generating unit">
+                <topicref href="ias36/IAS36_122.dita" class="- map/topicref " navtitle="122"/>
+                <topicref href="ias36/IAS36_123.dita" class="- map/topicref " navtitle="123"/>
+            </topicref>
+            <topicref href="ias36/IAS36_g124-125.dita" class="- map/topicref " navtitle="Reversing an impairment loss for goodwill">
+                <topicref href="ias36/IAS36_124.dita" class="- map/topicref " navtitle="124"/>
+                <topicref href="ias36/IAS36_125.dita" class="- map/topicref " navtitle="125"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias36/IAS36_g126-137.dita" class="- map/topicref " navtitle="Disclosure">
+            <topicref href="ias36/IAS36_126.dita" class="- map/topicref " navtitle="126"/>
+            <topicref href="ias36/IAS36_127.dita" class="- map/topicref " navtitle="127"/>
+            <topicref href="ias36/IAS36_128.dita" class="- map/topicref " navtitle="128"/>
+            <topicref href="ias36/IAS36_129.dita" class="- map/topicref " navtitle="129"/>
+            <topicref href="ias36/IAS36_130.dita" class="- map/topicref " navtitle="130"/>
+            <topicref href="ias36/IAS36_131.dita" class="- map/topicref " navtitle="131"/>
+            <topicref href="ias36/IAS36_132.dita" class="- map/topicref " navtitle="132"/>
+            <topicref href="ias36/IAS36_133.dita" class="- map/topicref " navtitle="133"/>
+            <topicref href="ias36/IAS36_g134-137.dita" class="- map/topicref " navtitle="Estimates used to measure recoverable amounts of cash‑generating units containing goodwill or intangible assets with indefinite useful lives">
+                <topicref href="ias36/IAS36_134.dita" class="- map/topicref " navtitle="134"/>
+                <topicref href="ias36/IAS36_135.dita" class="- map/topicref " navtitle="135"/>
+                <topicref href="ias36/IAS36_136.dita" class="- map/topicref " navtitle="136"/>
+                <topicref href="ias36/IAS36_137.dita" class="- map/topicref " navtitle="137"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias36/IAS36_g138-140N.dita" class="- map/topicref " navtitle="Transition provisions and effective date">
+            <topicref href="ias36/IAS36_138_DELETED.dita" class="- map/topicref " navtitle="138"/>
+            <topicref href="ias36/IAS36_139.dita" class="- map/topicref " navtitle="139"/>
+            <topicref href="ias36/IAS36_140.dita" class="- map/topicref " navtitle="140"/>
+            <topicref href="ias36/IAS36_140A.dita" class="- map/topicref " navtitle="140A"/>
+            <topicref href="ias36/IAS36_140B.dita" class="- map/topicref " navtitle="140B"/>
+            <topicref href="ias36/IAS36_140C.dita" class="- map/topicref " navtitle="140C"/>
+            <topicref href="ias36/IAS36_140D.dita" class="- map/topicref " navtitle="140D"/>
+            <topicref href="ias36/IAS36_140E.dita" class="- map/topicref " navtitle="140E"/>
+            <topicref href="ias36/IAS36_140F_DELETED.dita" class="- map/topicref " navtitle="140F">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ias36/IAS36_140G_DELETED.dita" class="- map/topicref " navtitle="140G"/>
+            <topicref href="ias36/IAS36_140H.dita" class="- map/topicref " navtitle="140H"/>
+            <topicref href="ias36/IAS36_140I.dita" class="- map/topicref " navtitle="140I"/>
+            <topicref href="ias36/IAS36_140J.dita" class="- map/topicref " navtitle="140J"/>
+            <topicref href="ias36/IAS36_140K_DELETED.dita" class="- map/topicref " navtitle="140K">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ias36/IAS36_140L.dita" class="- map/topicref " navtitle="140L"/>
+            <topicref href="ias36/IAS36_140M.dita" class="- map/topicref " navtitle="140M"/>
+            <topicref href="ias36/IAS36_140N.dita" class="- map/topicref " navtitle="140N">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+        </topicref>
+        <topicref href="ias36/IAS36_g141-141.dita" class="- map/topicref " navtitle="Withdrawal of IAS 36 (issued 1998)">
+            <topicref href="ias36/IAS36_141.dita" class="- map/topicref " navtitle="141"/>
+        </topicref>
+    <topicref chunk="to-content" class="- map/topicref " navtitle="Appendices">
+        <topicref href="ias36/IAS36_APPA.dita" class="- map/topicref " navtitle="Appendix A Using present value techniques to measure value in use">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="A" class="- topic/data "/>
+            </topicmeta>
+            <topicref href="ias36/IAS36_gA1-A2.dita" class="- map/topicref " navtitle="The components of a present value measurement">
+                <topicref href="ias36/IAS36_A1.dita" class="- map/topicref " navtitle="A1"/>
+                <topicref href="ias36/IAS36_A2.dita" class="- map/topicref " navtitle="A2"/>
+            </topicref>
+            <topicref href="ias36/IAS36_gA3-A3.dita" class="- map/topicref " navtitle="General principles">
+                <topicref href="ias36/IAS36_A3.dita" class="- map/topicref " navtitle="A3"/>
+            </topicref>
+            <topicref href="ias36/IAS36_gA4-A14.dita" class="- map/topicref " navtitle="Traditional and expected cash flow approaches to present value">
+                <topicref href="ias36/IAS36_gA4-A6.dita" class="- map/topicref " navtitle="Traditional approach">
+                    <topicref href="ias36/IAS36_A4.dita" class="- map/topicref " navtitle="A4"/>
+                    <topicref href="ias36/IAS36_A5.dita" class="- map/topicref " navtitle="A5"/>
+                    <topicref href="ias36/IAS36_A6.dita" class="- map/topicref " navtitle="A6"/>
+                </topicref>
+                <topicref href="ias36/IAS36_gA7-A14.dita" class="- map/topicref " navtitle="Expected cash flow approach">
+                    <topicref href="ias36/IAS36_A7.dita" class="- map/topicref " navtitle="A7"/>
+                    <topicref href="ias36/IAS36_A8.dita" class="- map/topicref " navtitle="A8"/>
+                    <topicref href="ias36/IAS36_A9.dita" class="- map/topicref " navtitle="A9"/>
+                    <topicref href="ias36/IAS36_A10.dita" class="- map/topicref " navtitle="A10"/>
+                    <topicref href="ias36/IAS36_A11.dita" class="- map/topicref " navtitle="A11"/>
+                    <topicref href="ias36/IAS36_A12.dita" class="- map/topicref " navtitle="A12"/>
+                    <topicref href="ias36/IAS36_A13.dita" class="- map/topicref " navtitle="A13"/>
+                    <topicref href="ias36/IAS36_A14.dita" class="- map/topicref " navtitle="A14"/>
+                </topicref>
+            </topicref>
+            <topicref href="ias36/IAS36_gA15-A21.dita" class="- map/topicref " navtitle="Discount rate">
+                <topicref href="ias36/IAS36_A15.dita" class="- map/topicref " navtitle="A15"/>
+                <topicref href="ias36/IAS36_A16.dita" class="- map/topicref " navtitle="A16"/>
+                <topicref href="ias36/IAS36_A17.dita" class="- map/topicref " navtitle="A17"/>
+                <topicref href="ias36/IAS36_A18.dita" class="- map/topicref " navtitle="A18"/>
+                <topicref href="ias36/IAS36_A19.dita" class="- map/topicref " navtitle="A19"/>
+                <topicref href="ias36/IAS36_A20.dita" class="- map/topicref " navtitle="A20"/>
+                <topicref href="ias36/IAS36_A21.dita" class="- map/topicref " navtitle="A21"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias36/IAS36_APPB.dita" class="- map/topicref " navtitle="Appendix B Amendment to IAS 16">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="B" class="- topic/data "/>
+            </topicmeta>
+        </topicref>
+        <topicref href="ias36/IAS36_APPC.dita" class="- map/topicref " navtitle="Appendix C Impairment testing cash‑generating units with goodwill and non‑controlling interests">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="C" class="- topic/data "/>
+            </topicmeta>
+            <topicref href="ias36/IAS36_C1.dita" class="- map/topicref " navtitle="C1"/>
+            <topicref href="ias36/IAS36_gC2-C2.dita" class="- map/topicref " navtitle="Allocation of goodwill">
+                <topicref href="ias36/IAS36_C2.dita" class="- map/topicref " navtitle="C2"/>
+            </topicref>
+            <topicref href="ias36/IAS36_gC3-C4.dita" class="- map/topicref " navtitle="Testing for impairment">
+                <topicref href="ias36/IAS36_C3.dita" class="- map/topicref " navtitle="C3"/>
+                <topicref href="ias36/IAS36_C4.dita" class="- map/topicref " navtitle="C4"/>
+            </topicref>
+            <topicref href="ias36/IAS36_gC5-C9.dita" class="- map/topicref " navtitle="Allocating an impairment loss">
+                <topicref href="ias36/IAS36_C5.dita" class="- map/topicref " navtitle="C5"/>
+                <topicref href="ias36/IAS36_C6.dita" class="- map/topicref " navtitle="C6"/>
+                <topicref href="ias36/IAS36_C7.dita" class="- map/topicref " navtitle="C7"/>
+                <topicref href="ias36/IAS36_C8.dita" class="- map/topicref " navtitle="C8"/>
+                <topicref href="ias36/IAS36_C9.dita" class="- map/topicref " navtitle="C9"/>
+            </topicref>
+        </topicref>
+    </topicref>
+        <topicref href="ias36/IAS36_BAMar2004.dita" class="- map/topicref " navtitle="Approval by the Board of IAS 36 issued in March 2004"/>
+        <topicref href="ias36/IAS36_BAMay2013_V1.dita" class="- map/topicref " navtitle="Approval by the Board of Recoverable Amount Disclosures for Non‑Financial Assets (Amendments to IAS 36) issued in May 2013"/>
+    </chapter>
+    
+    
+</bookmap>

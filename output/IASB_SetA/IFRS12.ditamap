@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IFRS12_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <booklibrary class="- topic/ph bookmap/booklibrary ">IFRS 12</booklibrary>
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Disclosure of Interests in Other
+            Entities</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Standard</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IFRS 12</booknumber>
+        </bookid>
+        <document_type value="IFRS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2013-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2011-05-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ifrs-12-disclosure-of-interests-in-other-entities" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="standard" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" id="IFRS12_CHK_FM" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ifrs12/IFRS12_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs12/IFRS12_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs12/IFRS12_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ifrs12/IFRS12_PRE.dita" chunk="to-content" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ifrs12/IFRS12_TOC.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+        <preface href="ifrs12/IFRS12_rubric.dita" class="- map/topicref bookmap/preface "/>
+    </frontmatter>
+    <chapter href="ifrs12/IFRS12_TI.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="IFRS 12 Disclosure of Interests in Other Entities"><topicref href="ifrs12/IFRS12_rubric.dita" class="- map/topicref " navtitle="Rubric"/>
+        <topicref href="ifrs12/IFRS12_g1-4.dita" class="- map/topicref " navtitle="Objective">
+            <topicref href="ifrs12/IFRS12_1.dita" class="- map/topicref " navtitle="1"/>
+            <topicref href="ifrs12/IFRS12_g2-4.dita" class="- map/topicref " navtitle="Meeting the objective">
+                <topicref href="ifrs12/IFRS12_2.dita" class="- map/topicref " navtitle="2"/>
+                <topicref href="ifrs12/IFRS12_3.dita" class="- map/topicref " navtitle="3"/>
+                <topicref href="ifrs12/IFRS12_4.dita" class="- map/topicref " navtitle="4"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs12/IFRS12_g5-6.dita" class="- map/topicref " navtitle="Scope">
+            <topicref href="ifrs12/IFRS12_5.dita" class="- map/topicref " navtitle="5"/>
+            <topicref href="ifrs12/IFRS12_5A.dita" class="- map/topicref " navtitle="5A">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ifrs12/IFRS12_6.dita" class="- map/topicref " navtitle="6"/>
+        </topicref>
+        <topicref href="ifrs12/IFRS12_g7-9B.dita" class="- map/topicref " navtitle="Significant judgements and assumptions">
+            <topicref href="ifrs12/IFRS12_7.dita" class="- map/topicref " navtitle="7"/>
+            <topicref href="ifrs12/IFRS12_8.dita" class="- map/topicref " navtitle="8"/>
+            <topicref href="ifrs12/IFRS12_9.dita" class="- map/topicref " navtitle="9"/>
+            <topicref href="ifrs12/IFRS12_g9A-9B.dita" class="- map/topicref " navtitle="Investment entity status">
+                <topicmeta class="- map/topicmeta "/>
+                <topicref href="ifrs12/IFRS12_9A.dita" class="- map/topicref " navtitle="9A"/>
+                <topicref href="ifrs12/IFRS12_9B.dita" class="- map/topicref " navtitle="9B"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs12/IFRS12_g10-19.dita" class="- map/topicref " navtitle="Interests in subsidiaries">
+            <topicref href="ifrs12/IFRS12_10.dita" class="- map/topicref " navtitle="10"/>
+            <topicref href="ifrs12/IFRS12_11.dita" class="- map/topicref " navtitle="11"/>
+            <topicref href="ifrs12/IFRS12_g12-12.dita" class="- map/topicref " navtitle="The interest that non-controlling interests have in the group’s activities and cash flows">
+                <topicref href="ifrs12/IFRS12_12.dita" class="- map/topicref " navtitle="12"/>
+            </topicref>
+            <topicref href="ifrs12/IFRS12_g13-13.dita" class="- map/topicref " navtitle="The nature and extent of significant restrictions">
+                <topicref href="ifrs12/IFRS12_13.dita" class="- map/topicref " navtitle="13"/>
+            </topicref>
+            <topicref href="ifrs12/IFRS12_g14-17.dita" class="- map/topicref " navtitle="Nature of the risks associated with an entity’s interests in consolidated structured entities">
+                <topicref href="ifrs12/IFRS12_14.dita" class="- map/topicref " navtitle="14"/>
+                <topicref href="ifrs12/IFRS12_15.dita" class="- map/topicref " navtitle="15"/>
+                <topicref href="ifrs12/IFRS12_16.dita" class="- map/topicref " navtitle="16"/>
+                <topicref href="ifrs12/IFRS12_17.dita" class="- map/topicref " navtitle="17"/>
+            </topicref>
+            <topicref href="ifrs12/IFRS12_g18-18.dita" class="- map/topicref " navtitle="Consequences of changes in a parent’s ownership interest in a subsidiary that do not result in a loss of control">
+                <topicref href="ifrs12/IFRS12_18.dita" class="- map/topicref " navtitle="18"/>
+            </topicref>
+            <topicref href="ifrs12/IFRS12_g19-19.dita" class="- map/topicref " navtitle="Consequences of losing control of a subsidiary during the reporting period">
+                <topicref href="ifrs12/IFRS12_19.dita" class="- map/topicref " navtitle="19"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs12/IFRS12_g19A-19G_V1.dita" class="- map/topicref " navtitle="Interests in unconsolidated subsidiaries (investment entities)">
+            <topicref href="ifrs12/IFRS12_19A.dita" class="- map/topicref " navtitle="19A"/>
+            <topicref href="ifrs12/IFRS12_19B.dita" class="- map/topicref " navtitle="19B"/>
+            <topicref href="ifrs12/IFRS12_19C.dita" class="- map/topicref " navtitle="19C"/>
+            <topicref href="ifrs12/IFRS12_19D.dita" class="- map/topicref " navtitle="19D"/>
+            <topicref href="ifrs12/IFRS12_19E.dita" class="- map/topicref " navtitle="19E"/>
+            <topicref href="ifrs12/IFRS12_19F.dita" class="- map/topicref " navtitle="19F"/>
+            <topicref href="ifrs12/IFRS12_19G.dita" class="- map/topicref " navtitle="19G"/>
+        </topicref>
+        <topicref href="ifrs12/IFRS12_g20-23.dita" class="- map/topicref " navtitle="Interests in joint arrangements and associates">
+            <topicref href="ifrs12/IFRS12_20.dita" class="- map/topicref " navtitle="20"/>
+            <topicref href="ifrs12/IFRS12_g21-22.dita" class="- map/topicref " navtitle="Nature, extent and financial effects of an entity’s interests in joint arrangements and associates">
+                <topicref href="ifrs12/IFRS12_21.dita" class="- map/topicref " navtitle="21"/>
+                <topicref href="ifrs12/IFRS12_21A.dita" class="- map/topicref " navtitle="21A"/>
+                <topicref href="ifrs12/IFRS12_22.dita" class="- map/topicref " navtitle="22"/>
+            </topicref>
+            <topicref href="ifrs12/IFRS12_g23-23.dita" class="- map/topicref " navtitle="Risks associated with an entity’s interests in joint ventures and associates">
+                <topicref href="ifrs12/IFRS12_23.dita" class="- map/topicref " navtitle="23"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs12/IFRS12_g24-31.dita" class="- map/topicref " navtitle="Interests in unconsolidated structured entities">
+            <topicref href="ifrs12/IFRS12_24.dita" class="- map/topicref " navtitle="24"/>
+            <topicref href="ifrs12/IFRS12_25.dita" class="- map/topicref " navtitle="25"/>
+            <topicref href="ifrs12/IFRS12_25A.dita" class="- map/topicref " navtitle="25A"/>
+            <topicref href="ifrs12/IFRS12_g26-28.dita" class="- map/topicref " navtitle="Nature of interests">
+                <topicref href="ifrs12/IFRS12_26.dita" class="- map/topicref " navtitle="26"/>
+                <topicref href="ifrs12/IFRS12_27.dita" class="- map/topicref " navtitle="27"/>
+                <topicref href="ifrs12/IFRS12_28.dita" class="- map/topicref " navtitle="28"/>
+            </topicref>
+            <topicref href="ifrs12/IFRS12_g29-31.dita" class="- map/topicref " navtitle="Nature of risks">
+                <topicref href="ifrs12/IFRS12_29.dita" class="- map/topicref " navtitle="29"/>
+                <topicref href="ifrs12/IFRS12_30.dita" class="- map/topicref " navtitle="30"/>
+                <topicref href="ifrs12/IFRS12_31.dita" class="- map/topicref " navtitle="31"/>
+            </topicref>
+        </topicref>
+    <topicref chunk="to-content" class="- map/topicref " navtitle="Appendices">
+        <topicref href="ifrs12/IFRS12_APPA.dita" class="- map/topicref " navtitle="Appendix A Defined terms">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="A" class="- topic/data "/>
+            </topicmeta>
+        </topicref>
+        <topicref href="ifrs12/IFRS12_APPB.dita" class="- map/topicref " navtitle="Appendix B Application guidance">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="B" class="- topic/data "/>
+            </topicmeta>
+            <topicref href="ifrs12/IFRS12_B1.dita" class="- map/topicref " navtitle="B1"/>
+            <topicref href="ifrs12/IFRS12_gB2-B6.dita" class="- map/topicref " navtitle="Aggregation (paragraph 4)">
+                <topicref href="ifrs12/IFRS12_B2.dita" class="- map/topicref " navtitle="B2"/>
+                <topicref href="ifrs12/IFRS12_B3.dita" class="- map/topicref " navtitle="B3"/>
+                <topicref href="ifrs12/IFRS12_B4.dita" class="- map/topicref " navtitle="B4"/>
+                <topicref href="ifrs12/IFRS12_B5.dita" class="- map/topicref " navtitle="B5"/>
+                <topicref href="ifrs12/IFRS12_B6.dita" class="- map/topicref " navtitle="B6"/>
+            </topicref>
+            <topicref href="ifrs12/IFRS12_gB7-B9.dita" class="- map/topicref " navtitle="Interests in other entities">
+                <topicref href="ifrs12/IFRS12_B7.dita" class="- map/topicref " navtitle="B7"/>
+                <topicref href="ifrs12/IFRS12_B8.dita" class="- map/topicref " navtitle="B8"/>
+                <topicref href="ifrs12/IFRS12_B9.dita" class="- map/topicref " navtitle="B9"/>
+            </topicref>
+            <topicref href="ifrs12/IFRS12_gB10-B17.dita" class="- map/topicref " navtitle="Summarised financial information for subsidiaries, joint ventures and associates (paragraphs 12 and 21)">
+                <topicref href="ifrs12/IFRS12_B10.dita" class="- map/topicref " navtitle="B10"/>
+                <topicref href="ifrs12/IFRS12_B11.dita" class="- map/topicref " navtitle="B11"/>
+                <topicref href="ifrs12/IFRS12_B12.dita" class="- map/topicref " navtitle="B12"/>
+                <topicref href="ifrs12/IFRS12_B13.dita" class="- map/topicref " navtitle="B13"/>
+                <topicref href="ifrs12/IFRS12_B14.dita" class="- map/topicref " navtitle="B14"/>
+                <topicref href="ifrs12/IFRS12_B15.dita" class="- map/topicref " navtitle="B15"/>
+                <topicref href="ifrs12/IFRS12_B16.dita" class="- map/topicref " navtitle="B16"/>
+                <topicref href="ifrs12/IFRS12_B17.dita" class="- map/topicref " navtitle="B17"/>
+            </topicref>
+            <topicref href="ifrs12/IFRS12_gB18-B20.dita" class="- map/topicref " navtitle="Commitments for joint ventures (paragraph 23(a))">
+                <topicref href="ifrs12/IFRS12_B18.dita" class="- map/topicref " navtitle="B18"/>
+                <topicref href="ifrs12/IFRS12_B19.dita" class="- map/topicref " navtitle="B19"/>
+                <topicref href="ifrs12/IFRS12_B20.dita" class="- map/topicref " navtitle="B20"/>
+            </topicref>
+            <topicref href="ifrs12/IFRS12_gB21-B26.dita" class="- map/topicref " navtitle="Interests in unconsolidated structured entities (paragraphs 24–31)">
+                <topicref href="ifrs12/IFRS12_gB21-B24.dita" class="- map/topicref " navtitle="Structured entities">
+                    <topicref href="ifrs12/IFRS12_B21.dita" class="- map/topicref " navtitle="B21"/>
+                    <topicref href="ifrs12/IFRS12_B22.dita" class="- map/topicref " navtitle="B22"/>
+                    <topicref href="ifrs12/IFRS12_B23.dita" class="- map/topicref " navtitle="B23"/>
+                    <topicref href="ifrs12/IFRS12_B24.dita" class="- map/topicref " navtitle="B24"/>
+                </topicref>
+                <topicref href="ifrs12/IFRS12_gB25-B26.dita" class="- map/topicref " navtitle="Nature of risks from interests in unconsolidated structured entities (paragraphs 29–31)">
+                    <topicref href="ifrs12/IFRS12_B25.dita" class="- map/topicref " navtitle="B25"/>
+                    <topicref href="ifrs12/IFRS12_B26.dita" class="- map/topicref " navtitle="B26"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs12/IFRS12_APPC.dita" class="- map/topicref " navtitle="Appendix C Effective date and transition">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="C" class="- topic/data "/>
+            </topicmeta>
+            <topicref href="ifrs12/IFRS12_gC1-C2B.dita" class="- map/topicref " navtitle="Effective date and transition">
+                <topicref href="ifrs12/IFRS12_C1.dita" class="- map/topicref " navtitle="C1"/>
+                <topicref href="ifrs12/IFRS12_C1A.dita" class="- map/topicref " navtitle="C1A"/>
+                <topicref href="ifrs12/IFRS12_C1B.dita" class="- map/topicref " navtitle="C1B"/>
+                <topicref href="ifrs12/IFRS12_C1C.dita" class="- map/topicref " navtitle="C1C">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="ifrs12/IFRS12_C1D.dita" class="- map/topicref " navtitle="C1D">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="ifrs12/IFRS12_C2.dita" class="- map/topicref " navtitle="C2"/>
+                <topicref href="ifrs12/IFRS12_C2A.dita" class="- map/topicref " navtitle="C2A"/>
+                <topicref href="ifrs12/IFRS12_C2B.dita" class="- map/topicref " navtitle="C2B"/>
+            </topicref>
+            <topicref href="ifrs12/IFRS12_gC3-C3.dita" class="- map/topicref " navtitle="References to IFRS 9">
+                <topicref href="ifrs12/IFRS12_C3.dita" class="- map/topicref " navtitle="C3"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs12/IFRS12_APPD.dita" class="- map/topicref " navtitle="Appendix D Amendments to other IFRSs">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="D" class="- topic/data "/>
+            </topicmeta>
+        </topicref>
+    </topicref>
+        <topicref href="ifrs12/IFRS12_BAMay2011.dita" class="- map/topicref " navtitle="Approval by the Board of IFRS 12 issued in May 2011"/>
+        <topicref href="ifrs12/IFRS12_BAJun2012.dita" class="- map/topicref " navtitle="Approval by the Board of Consolidated Financial Statements, Joint Arrangements and Disclosure of Interests in Other Entities: Transition Guidance (Amendments to IFRS 10, IFRS 11 and IFRS 12) issued in June 2012"/>
+        <topicref href="ifrs12/IFRS12_BAOct2012_V1.dita" class="- map/topicref " navtitle="Approval by the Board of Investment Entities (Amendments to IFRS 10, IFRS 12 and IAS 27) issued in October 2012"/>
+        <topicref href="ifrs12/IFRS12_BADec2014_V1.dita" class="- map/topicref " navtitle="Approval by the Board of Investment Entities: Applying the Consolidation Exception (Amendments to IFRS 10, IFRS 12 and IAS 28) issued in December 2014"/>
+    </chapter>
+    
+    
+</bookmap>

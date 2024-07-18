@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IFRIC12_IG_CHK_ALL" chunk="to-content" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Service Concession
+            Arrangements</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Implementation Guidance</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IFRIC 12</booknumber>
+        </bookid>
+        <document_type value="IFRIC" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2008-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2006-11-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ifric-12-service-concession-arrangements" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="implementation-guidance" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ifric12/IFRIC12_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifric12/IFRIC12_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifric12/IFRIC12_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ifric12/IFRIC12_PartB.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+    </frontmatter>
+    <chapter href="ifric12/IFRIC12_IG_note1.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Information note 1">
+        <topicref href="ifric12/IFRIC12_0017.dita" class="- map/topicref " navtitle="Accounting framework for public‑to‑private service arrangements"/>
+    </chapter>
+    <chapter href="ifric12/IFRIC12_IG_note2.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Information note 2">
+        <topicref href="ifric12/IFRIC12_0019.dita" class="- map/topicref " navtitle="References to IFRSs that apply to typical types of public‑to‑private arrangements"/>
+    </chapter>
+</bookmap>

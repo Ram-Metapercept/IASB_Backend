@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IFRIC17_IE_CHK_ALL" chunk="to-content" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Distributions of Non-cash Assets to
+            Owners</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Illustrative Examples</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IFRIC 17</booknumber>
+        </bookid>
+        <document_type value="IFRIC" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2009-07-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2008-11-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ifric-17-distributions-of-non-cash-assets-to-owners" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="illustrative-example" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ifric17/IFRIC17_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifric17/IFRIC17_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifric17/IFRIC17_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ifric17/IFRIC17_PartB.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+    </frontmatter>
+    <chapter href="ifric17/IFRIC17_IE.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Illustrative Examples">
+        <topicref href="ifric17/IFRIC17_sgIE1-IE2.dita" class="- map/topicref " navtitle="Scope of the Interpretation (paragraphs 3–8)">
+            <topicref href="ifric17/IFRIC17_IE1.dita" class="- map/topicref " navtitle="IE1"/>
+            <topicref href="ifric17/IFRIC17_IE2.dita" class="- map/topicref " navtitle="IE2"/>
+        </topicref>
+        <topicref href="ifric17/IFRIC17_IE3.dita" class="- map/topicref " navtitle="IE3"/>
+        <topicref href="ifric17/IFRIC17_IE4.dita" class="- map/topicref " navtitle="IE4"/>
+    </chapter>
+</bookmap>

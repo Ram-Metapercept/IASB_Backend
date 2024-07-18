@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IAS40_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <booklibrary class="- topic/ph bookmap/booklibrary ">IAS
+            40</booklibrary>
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Investment Property</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Standard</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IAS 40</booknumber>
+        </bookid>
+        <document_type value="IAS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2005-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2003-12-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ias-40-investment-property" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="standard" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" id="IAS40_CHK_FM" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ias40/IAS40_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias40/IAS40_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias40/IAS40_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ias40/IAS40_PRE.dita" chunk="to-content" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ias40/IAS40_TOC0001.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+        <preface href="ias40/IAS40_rubric.dita" class="- map/topicref bookmap/preface "/>
+    </frontmatter>
+    <chapter href="ias40/IAS40_TI0002.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="IAS 40 Investment Property"><topicref href="ias40/IAS40_rubric.dita" class="- map/topicref " navtitle="Rubric"/>
+        <topicref href="ias40/IAS40_g1-1.dita" class="- map/topicref " navtitle="Objective">
+            <topicref href="ias40/IAS40_1.dita" class="- map/topicref " navtitle="1"/>
+        </topicref>
+        <topicref href="ias40/IAS40_g2-4.dita" class="- map/topicref " navtitle="Scope">
+            <topicref href="ias40/IAS40_2.dita" class="- map/topicref " navtitle="2"/>
+            <topicref href="ias40/IAS40_3_DELETED.dita" class="- map/topicref " navtitle="3">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ias40/IAS40_4.dita" class="- map/topicref " navtitle="4"/>
+        </topicref>
+        <topicref href="ias40/IAS40_g5-5.dita" class="- map/topicref " navtitle="Definitions">
+            <topicref href="ias40/IAS40_5.dita" class="- map/topicref " navtitle="5"/>
+        </topicref>
+        <topicref href="ias40/IAS40_g6-15.dita" class="- map/topicref " navtitle="Classification of property as investment property or owner‑occupied property">
+            <topicref href="ias40/IAS40_6_DELETED.dita" class="- map/topicref " navtitle="6">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ias40/IAS40_7.dita" class="- map/topicref " navtitle="7"/>
+            <topicref href="ias40/IAS40_8.dita" class="- map/topicref " navtitle="8"/>
+            <topicref href="ias40/IAS40_9.dita" class="- map/topicref " navtitle="9"/>
+            <topicref href="ias40/IAS40_10.dita" class="- map/topicref " navtitle="10"/>
+            <topicref href="ias40/IAS40_11.dita" class="- map/topicref " navtitle="11"/>
+            <topicref href="ias40/IAS40_12.dita" class="- map/topicref " navtitle="12"/>
+            <topicref href="ias40/IAS40_13.dita" class="- map/topicref " navtitle="13"/>
+            <topicref href="ias40/IAS40_14.dita" class="- map/topicref " navtitle="14"/>
+            <topicref href="ias40/IAS40_14A.dita" class="- map/topicref " navtitle="14A"/>
+            <topicref href="ias40/IAS40_15.dita" class="- map/topicref " navtitle="15"/>
+        </topicref>
+        <topicref href="ias40/IAS40_g16-19A.dita" class="- map/topicref " navtitle="Recognition">
+            <topicref href="ias40/IAS40_16.dita" class="- map/topicref " navtitle="16"/>
+            <topicref href="ias40/IAS40_17.dita" class="- map/topicref " navtitle="17"/>
+            <topicref href="ias40/IAS40_18.dita" class="- map/topicref " navtitle="18"/>
+            <topicref href="ias40/IAS40_19.dita" class="- map/topicref " navtitle="19"/>
+            <topicref href="ias40/IAS40_19A.dita" class="- map/topicref " navtitle="19A">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+        </topicref>
+        <topicref href="ias40/IAS40_g20-29A.dita" class="- map/topicref " navtitle="Measurement at recognition">
+            <topicref href="ias40/IAS40_20.dita" class="- map/topicref " navtitle="20"/>
+            <topicref href="ias40/IAS40_21.dita" class="- map/topicref " navtitle="21"/>
+            <topicref href="ias40/IAS40_22_DELETED.dita" class="- map/topicref " navtitle="22"/>
+            <topicref href="ias40/IAS40_23.dita" class="- map/topicref " navtitle="23"/>
+            <topicref href="ias40/IAS40_24.dita" class="- map/topicref " navtitle="24"/>
+            <topicref href="ias40/IAS40_25_DELETED.dita" class="- map/topicref " navtitle="25">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ias40/IAS40_26_DELETED.dita" class="- map/topicref " navtitle="26">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ias40/IAS40_27.dita" class="- map/topicref " navtitle="27"/>
+            <topicref href="ias40/IAS40_28.dita" class="- map/topicref " navtitle="28"/>
+            <topicref href="ias40/IAS40_29.dita" class="- map/topicref " navtitle="29"/>
+            <topicref href="ias40/IAS40_29A.dita" class="- map/topicref " navtitle="29A">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+        </topicref>
+        <topicref href="ias40/IAS40_g30-56.dita" class="- map/topicref " navtitle="Measurement after recognition">
+            <topicref href="ias40/IAS40_g30-32C.dita" class="- map/topicref " navtitle="Accounting policy">
+                <topicref href="ias40/IAS40_30.dita" class="- map/topicref " navtitle="30"/>
+                <topicref href="ias40/IAS40_31.dita" class="- map/topicref " navtitle="31"/>
+                <topicref href="ias40/IAS40_32.dita" class="- map/topicref " navtitle="32"/>
+                <topicref href="ias40/IAS40_32A.dita" class="- map/topicref " navtitle="32A"/>
+                <topicref href="ias40/IAS40_32B.dita" class="- map/topicref " navtitle="32B"/>
+                <topicref href="ias40/IAS40_32C.dita" class="- map/topicref " navtitle="32C"/>
+            </topicref>
+            <topicref href="ias40/IAS40_g33-55.dita" class="- map/topicref " navtitle="Fair value model">
+                <topicref href="ias40/IAS40_33.dita" class="- map/topicref " navtitle="33"/>
+                <topicref href="ias40/IAS40_34_DELETED.dita" class="- map/topicref " navtitle="34">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="ias40/IAS40_35.dita" class="- map/topicref " navtitle="35"/>
+                <topicref href="ias40/IAS40_36-39_DELETED.dita" class="- map/topicref " navtitle="36–39"/>
+                <topicref href="ias40/IAS40_40.dita" class="- map/topicref " navtitle="40"/>
+                <topicref href="ias40/IAS40_40A.dita" class="- map/topicref " navtitle="40A">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="ias40/IAS40_41.dita" class="- map/topicref " navtitle="41"/>
+                <topicref href="ias40/IAS40_42-47_DELETED.dita" class="- map/topicref " navtitle="42–47"/>
+                <topicref href="ias40/IAS40_48.dita" class="- map/topicref " navtitle="48"/>
+                <topicref href="ias40/IAS40_49_DELETED.dita" class="- map/topicref " navtitle="49"/>
+                <topicref href="ias40/IAS40_50.dita" class="- map/topicref " navtitle="50"/>
+                <topicref href="ias40/IAS40_51_DELETED.dita" class="- map/topicref " navtitle="51"/>
+                <topicref href="ias40/IAS40_52.dita" class="- map/topicref " navtitle="52"/>
+                <topicref href="ias40/IAS40_g53-55.dita" class="- map/topicref " navtitle="Inability to measure fair value reliably">
+                    <topicref href="ias40/IAS40_53.dita" class="- map/topicref " navtitle="53"/>
+                    <topicref href="ias40/IAS40_53A.dita" class="- map/topicref " navtitle="53A"/>
+                    <topicref href="ias40/IAS40_53B.dita" class="- map/topicref " navtitle="53B"/>
+                    <topicref href="ias40/IAS40_54.dita" class="- map/topicref " navtitle="54"/>
+                    <topicref href="ias40/IAS40_55.dita" class="- map/topicref " navtitle="55"/>
+                </topicref>
+            </topicref>
+            <topicref href="ias40/IAS40_g56-56.dita" class="- map/topicref " navtitle="Cost model">
+                <topicref href="ias40/IAS40_56.dita" class="- map/topicref " navtitle="56"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias40/IAS40_g57-65.dita" class="- map/topicref " navtitle="Transfers">
+            <topicref href="ias40/IAS40_57.dita" class="- map/topicref " navtitle="57"/>
+            <topicref href="ias40/IAS40_58.dita" class="- map/topicref " navtitle="58"/>
+            <topicref href="ias40/IAS40_59.dita" class="- map/topicref " navtitle="59"/>
+            <topicref href="ias40/IAS40_60.dita" class="- map/topicref " navtitle="60"/>
+            <topicref href="ias40/IAS40_61.dita" class="- map/topicref " navtitle="61"/>
+            <topicref href="ias40/IAS40_62.dita" class="- map/topicref " navtitle="62"/>
+            <topicref href="ias40/IAS40_63.dita" class="- map/topicref " navtitle="63"/>
+            <topicref href="ias40/IAS40_64.dita" class="- map/topicref " navtitle="64"/>
+            <topicref href="ias40/IAS40_65.dita" class="- map/topicref " navtitle="65"/>
+        </topicref>
+        <topicref href="ias40/IAS40_g66-73.dita" class="- map/topicref " navtitle="Disposals">
+            <topicref href="ias40/IAS40_66.dita" class="- map/topicref " navtitle="66"/>
+            <topicref href="ias40/IAS40_67.dita" class="- map/topicref " navtitle="67"/>
+            <topicref href="ias40/IAS40_68.dita" class="- map/topicref " navtitle="68"/>
+            <topicref href="ias40/IAS40_69.dita" class="- map/topicref " navtitle="69"/>
+            <topicref href="ias40/IAS40_70.dita" class="- map/topicref " navtitle="70"/>
+            <topicref href="ias40/IAS40_71.dita" class="- map/topicref " navtitle="71"/>
+            <topicref href="ias40/IAS40_72.dita" class="- map/topicref " navtitle="72"/>
+            <topicref href="ias40/IAS40_73.dita" class="- map/topicref " navtitle="73"/>
+        </topicref>
+        <topicref href="ias40/IAS40_g74-79.dita" class="- map/topicref " navtitle="Disclosure">
+            <topicref href="ias40/IAS40_sg74-79.dita" class="- map/topicref " navtitle="Fair value model and cost model">
+                <topicref href="ias40/IAS40_74.dita" class="- map/topicref " navtitle="74"/>
+                <topicref href="ias40/IAS40_75.dita" class="- map/topicref " navtitle="75"/>
+                <topicref href="ias40/IAS40_g76-78.dita" class="- map/topicref " navtitle="Fair value model">
+                    <topicref href="ias40/IAS40_76.dita" class="- map/topicref " navtitle="76"/>
+                    <topicref href="ias40/IAS40_77.dita" class="- map/topicref " navtitle="77"/>
+                    <topicref href="ias40/IAS40_78.dita" class="- map/topicref " navtitle="78"/>
+                </topicref>
+                <topicref href="ias40/IAS40_g79-79.dita" class="- map/topicref " navtitle="Cost model">
+                    <topicref href="ias40/IAS40_79.dita" class="- map/topicref " navtitle="79"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ias40/IAS40_g80-84E.dita" class="- map/topicref " navtitle="Transitional provisions">
+            <topicref href="ias40/IAS40_g80-82.dita" class="- map/topicref " navtitle="Fair value model">
+                <topicref href="ias40/IAS40_80.dita" class="- map/topicref " navtitle="80"/>
+                <topicref href="ias40/IAS40_81.dita" class="- map/topicref " navtitle="81"/>
+                <topicref href="ias40/IAS40_82.dita" class="- map/topicref " navtitle="82"/>
+            </topicref>
+            <topicref href="ias40/IAS40_g83-84.dita" class="- map/topicref " navtitle="Cost model">
+                <topicref href="ias40/IAS40_83.dita" class="- map/topicref " navtitle="83"/>
+                <topicref href="ias40/IAS40_84.dita" class="- map/topicref " navtitle="84"/>
+            </topicref>
+            <topicref href="ias40/IAS40_g84A-84A.dita" class="- map/topicref " navtitle="Business Combinations">
+                <topicref href="ias40/IAS40_84A.dita" class="- map/topicref " navtitle="84A"/>
+            </topicref>
+            <topicref href="ias40/IAS40_g84B-84B.dita" class="- map/topicref " navtitle="IFRS 16">
+                <topicref href="ias40/IAS40_84B.dita" class="- map/topicref " navtitle="84B"/>
+            </topicref>
+            <topicref href="ias40/IAS40_g84C-84E_V1.dita" class="- map/topicref " navtitle="Transfers of investment property">
+                <topicref href="ias40/IAS40_84C.dita" class="- map/topicref " navtitle="84C"/>
+                <topicref href="ias40/IAS40_84D.dita" class="- map/topicref " navtitle="84D"/>
+                <topicref href="ias40/IAS40_84E.dita" class="- map/topicref " navtitle="84E"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias40/IAS40_g85-85H.dita" class="- map/topicref " navtitle="Effective date">
+            <topicref href="ias40/IAS40_85.dita" class="- map/topicref " navtitle="85"/>
+            <topicref href="ias40/IAS40_85A.dita" class="- map/topicref " navtitle="85A"/>
+            <topicref href="ias40/IAS40_85B.dita" class="- map/topicref " navtitle="85B"/>
+            <topicref href="ias40/IAS40_85C.dita" class="- map/topicref " navtitle="85C"/>
+            <topicref href="ias40/IAS40_85D.dita" class="- map/topicref " navtitle="85D"/>
+            <topicref href="ias40/IAS40_85E.dita" class="- map/topicref " navtitle="85E">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ias40/IAS40_85F.dita" class="- map/topicref " navtitle="85F">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ias40/IAS40_85G.dita" class="- map/topicref " navtitle="85G"/>
+            <topicref href="ias40/IAS40_85H.dita" class="- map/topicref " navtitle="85H">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+        </topicref>
+        <topicref href="ias40/IAS40_g86-86.dita" class="- map/topicref " navtitle="Withdrawal of IAS 40 (2000)">
+            <topicref href="ias40/IAS40_86.dita" class="- map/topicref " navtitle="86"/>
+        </topicref>
+    
+        <topicref href="ias40/IAS40_BADec2003.dita" class="- map/topicref " navtitle="Approval by the Board of IAS 40 issued in December 2003"/>
+        <topicref href="ias40/IAS40_BADec2016_V1.dita" class="- map/topicref " navtitle="Approval by the Board of Transfers of Investment Property (Amendments to IAS 40) issued in December 2016"/>
+    </chapter>
+    
+</bookmap>

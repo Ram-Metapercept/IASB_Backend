@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" chunk="to-content" id="IAS37_IG_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle "><ph otherprops="print" class="- topic/ph ">Provisions, Contingent Liabilities and Contingent
+            Assets</ph></mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Implementation Guidance</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IAS 37</booknumber>
+        </bookid>
+        <document_type value="IAS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="1999-07-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="1998-09-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ias-37-provisions-contingent-liabilities-and-contingent-assets" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="implementation-guidance" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ias37/IAS37_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias37/IAS37_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias37/IAS37_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ias37/IAS37_PartB.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+    </frontmatter>
+    <chapter href="ias37/IAS37_TI0033.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Guidance on implementing IAS 37 Provisions, Contingent Liabilities and Contingent Assets">
+        <topicref href="ias37/IAS37_IG_A.dita" class="- map/topicref " navtitle="A Tables – Provisions, contingent liabilities, contingent assets and reimbursements">
+            <topicref href="ias37/IAS37_IG_A-provisions.dita" class="- map/topicref " navtitle="Provisions and contingent liabilities"/>
+            <topicref href="ias37/IAS37_IG_A-contingent-assets.dita" class="- map/topicref " navtitle="Contingent assets"/>
+            <topicref href="ias37/IAS37_IG_A-reimbursements.dita" class="- map/topicref " navtitle="Reimbursements"/>
+        </topicref>
+        <topicref href="ias37/IAS37_IG_B.dita" outputclass="new_page" class="- map/topicref " navtitle="B Decision tree">
+            <topicmeta class="- map/topicmeta "/>
+        </topicref>
+    </chapter>
+</bookmap>

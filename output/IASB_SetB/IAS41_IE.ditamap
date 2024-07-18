@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" chunk="to-content" id="IAS41_IE_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Agriculture</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Illustrative Examples</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IAS 41</booknumber>
+        </bookid>
+        <document_type value="IAS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2003-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2003-12-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ias-41-agriculture" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="illustrative-example" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ias41/IAS41_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias41/IAS41_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias41/IAS41_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ias41/IAS41_PartB.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+    </frontmatter>
+    <chapter href="ias41/IAS41_IE.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Illustrative Examples">
+        <topicref href="ias41/IAS41_A1.dita" class="- map/topicref " navtitle="A1"/>
+        <topicref href="ias41/IAS41_A2.dita" class="- map/topicref " navtitle="A2"/>
+        <topicref href="ias41/IAS41_IE_ex1.dita" outputclass="new_page" class="- map/topicref " navtitle="Example 1 XYZ Dairy Ltd">
+            <topicmeta class="- map/topicmeta "/>
+            <topicref href="ias41/IAS41_0001.dita" class="- map/topicref " navtitle="Statement of financial position"/>
+            <topicref href="ias41/IAS41_0002.dita" class="- map/topicref " navtitle="Statement of comprehensive income"/>
+            <topicref href="ias41/IAS41_0003.dita" class="- map/topicref " navtitle="Statement of changes in equity"/>
+            <topicref href="ias41/IAS41_0004.dita" class="- map/topicref " navtitle="Statement of cash flows"/>
+        </topicref>
+        <topicref href="ias41/IAS41_IE_g1-4.dita" outputclass="new_page" class="- map/topicref " navtitle="Notes">
+            <topicmeta class="- map/topicmeta "/>
+            <topicref href="ias41/IAS41_IE_1.dita" class="- map/topicref " navtitle="1">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ias41/IAS41_IE_2.dita" class="- map/topicref " navtitle="2">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ias41/IAS41_IE_3.dita" class="- map/topicref " navtitle="3">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ias41/IAS41_IE_4.dita" class="- map/topicref " navtitle="4">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+        </topicref>
+        <topicref href="ias41/IAS41_IE_ex2.dita" class="- map/topicref " navtitle="Example 2 Physical change and price change">
+            <topicmeta class="- map/topicmeta "/>
+        </topicref>
+    </chapter>
+</bookmap>

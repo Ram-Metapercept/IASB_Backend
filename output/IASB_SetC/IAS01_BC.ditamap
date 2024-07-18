@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" chunk="to-content" id="IAS01_BC_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Presentation of Financial
+            Statements</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Basis For Conclusions</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IAS 1</booknumber>
+        </bookid>
+        <document_type value="IAS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2009-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2007-09-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ias-1-presentation-of-financial-statements" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="basis-for-conclusion" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ias01/IAS01_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias01/IAS01_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ias01/IAS01_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ias01/IAS01_PartC.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ias01/IAS01_BC_TOC.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+    </frontmatter>
+    <chapter href="ias01/IAS01_TI0065.dita" class="- map/topicref bookmap/chapter " navtitle="Basis for Conclusions on IAS 1 Presentation of Financial Statements" chunk="to-content">
+        <topicref href="ias01/IAS01_gBC1-BC10.dita" class="- map/topicref " navtitle="Introduction">
+            <topicref href="ias01/IAS01_BC1.dita" class="- map/topicref " navtitle="BC1"/>
+            <topicref href="ias01/IAS01_gBC2-BC4.dita" class="- map/topicref " navtitle="The Improvements project—revision of IAS 1 (2003)">
+                <topicref href="ias01/IAS01_BC2.dita" class="- map/topicref " navtitle="BC2"/>
+                <topicref href="ias01/IAS01_BC3.dita" class="- map/topicref " navtitle="BC3"/>
+                <topicref href="ias01/IAS01_BC4.dita" class="- map/topicref " navtitle="BC4"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC5-BC6.dita" class="- map/topicref " navtitle="Amendment to IAS 1—Capital Disclosures (2005)">
+                <topicref href="ias01/IAS01_BC5.dita" class="- map/topicref " navtitle="BC5"/>
+                <topicref href="ias01/IAS01_BC6.dita" class="- map/topicref " navtitle="BC6"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC6A-BC6A.dita" class="- map/topicref " navtitle="Amendments to IAS 32 and IAS 1—Puttable Financial Instruments and Obligations Arising on Liquidation (2008)">
+                <topicref href="ias01/IAS01_BC6A.dita" class="- map/topicref " navtitle="BC6A"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC6B-BC6B.dita" class="- map/topicref " navtitle="Presentation of Items of Other Comprehensive Income (Amendments to IAS 1)">
+                <topicref href="ias01/IAS01_BC6B.dita" class="- map/topicref " navtitle="BC6B"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC7-BC10.dita" class="- map/topicref " navtitle="Financial statement presentation—Joint project">
+                <topicref href="ias01/IAS01_BC7.dita" class="- map/topicref " navtitle="BC7"/>
+                <topicref href="ias01/IAS01_BC8.dita" class="- map/topicref " navtitle="BC8"/>
+                <topicref href="ias01/IAS01_BC9.dita" class="- map/topicref " navtitle="BC9"/>
+                <topicref href="ias01/IAS01_BC10.dita" class="- map/topicref " navtitle="BC10"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias01/IAS01_gBC11-BC13.dita" class="- map/topicref " navtitle="Definitions">
+            <topicref href="ias01/IAS01_sgBC11-BC13.dita" class="- map/topicref " navtitle="General purpose financial statements (paragraph 7)">
+                <topicref href="ias01/IAS01_BC11.dita" class="- map/topicref " navtitle="BC11"/>
+                <topicref href="ias01/IAS01_BC12.dita" class="- map/topicref " navtitle="BC12"/>
+                <topicref href="ias01/IAS01_BC13.dita" class="- map/topicref " navtitle="BC13"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias01/IAS01_gBC13A-BC13T.dita" class="- map/topicref " navtitle="Definition of Material (paragraph 7)">
+            <topicref href="ias01/IAS01_gBC13A-BC13F.dita" class="- map/topicref " navtitle="Background">
+                <topicref href="ias01/IAS01_BC13A.dita" class="- map/topicref " navtitle="BC13A"/>
+                <topicref href="ias01/IAS01_BC13B.dita" class="- map/topicref " navtitle="BC13B"/>
+                <topicref href="ias01/IAS01_BC13C.dita" class="- map/topicref " navtitle="BC13C"/>
+                <topicref href="ias01/IAS01_BC13D.dita" class="- map/topicref " navtitle="BC13D"/>
+                <topicref href="ias01/IAS01_BC13E.dita" class="- map/topicref " navtitle="BC13E"/>
+                <topicref href="ias01/IAS01_BC13F.dita" class="- map/topicref " navtitle="BC13F"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC13G-BC13I.dita" class="- map/topicref " navtitle="Refinements to the definition of material">
+                <topicref href="ias01/IAS01_BC13G.dita" class="- map/topicref " navtitle="BC13G"/>
+                <topicref href="ias01/IAS01_BC13H.dita" class="- map/topicref " navtitle="BC13H"/>
+                <topicref href="ias01/IAS01_BC13I.dita" class="- map/topicref " navtitle="BC13I"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC13J-BC13L.dita" class="- map/topicref " navtitle="Obscuring information">
+                <topicref href="ias01/IAS01_BC13J.dita" class="- map/topicref " navtitle="BC13J"/>
+                <topicref href="ias01/IAS01_BC13K.dita" class="- map/topicref " navtitle="BC13K"/>
+                <topicref href="ias01/IAS01_BC13L.dita" class="- map/topicref " navtitle="BC13L"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC13M-BC13Q.dita" class="- map/topicref " navtitle="Other amendments">
+                <topicref href="ias01/IAS01_BC13M.dita" class="- map/topicref " navtitle="BC13M"/>
+                <topicref href="ias01/IAS01_BC13N.dita" class="- map/topicref " navtitle="BC13N"/>
+                <topicref href="ias01/IAS01_BC13O.dita" class="- map/topicref " navtitle="BC13O"/>
+                <topicref href="ias01/IAS01_BC13P.dita" class="- map/topicref " navtitle="BC13P"/>
+                <topicref href="ias01/IAS01_BC13Q.dita" class="- map/topicref " navtitle="BC13Q"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC13R-BC13S.dita" class="- map/topicref " navtitle="Likely effects of the amendments to IFRS Standards">
+                <topicref href="ias01/IAS01_BC13R.dita" class="- map/topicref " navtitle="BC13R"/>
+                <topicref href="ias01/IAS01_BC13S.dita" class="- map/topicref " navtitle="BC13S"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC13T-BC13T.dita" class="- map/topicref " navtitle="Effective date of the amendments">
+                <topicref href="ias01/IAS01_BC13T.dita" class="- map/topicref " navtitle="BC13T"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias01/IAS01_gBC14-BC38.dita" class="- map/topicref " navtitle="Financial statements">
+            <topicref href="ias01/IAS01_gBC14-BC22.dita" class="- map/topicref " navtitle="Complete set of financial statements">
+                <topicref href="ias01/IAS01_gBC14-BC21.dita" class="- map/topicref " navtitle="Titles of financial statements (paragraph 10)">
+                    <topicref href="ias01/IAS01_BC14.dita" class="- map/topicref " navtitle="BC14"/>
+                    <topicref href="ias01/IAS01_BC15.dita" class="- map/topicref " navtitle="BC15"/>
+                    <topicref href="ias01/IAS01_BC16.dita" class="- map/topicref " navtitle="BC16"/>
+                    <topicref href="ias01/IAS01_BC17.dita" class="- map/topicref " navtitle="BC17"/>
+                    <topicref href="ias01/IAS01_BC18.dita" class="- map/topicref " navtitle="BC18"/>
+                    <topicref href="ias01/IAS01_BC19.dita" class="- map/topicref " navtitle="BC19"/>
+                    <topicref href="ias01/IAS01_BC20.dita" class="- map/topicref " navtitle="BC20"/>
+                    <topicref href="ias01/IAS01_BC20A.dita" class="- map/topicref " navtitle="BC20A"/>
+                    <topicref href="ias01/IAS01_BC20B.dita" class="- map/topicref " navtitle="BC20B"/>
+                    <topicref href="ias01/IAS01_BC21.dita" class="- map/topicref " navtitle="BC21"/>
+                </topicref>
+                <topicref href="ias01/IAS01_gBC22-BC22.dita" class="- map/topicref " navtitle="Equal prominence (paragraphs 11 and 12)">
+                    <topicref href="ias01/IAS01_BC22.dita" class="- map/topicref " navtitle="BC22"/>
+                </topicref>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC23-BC30.dita" class="- map/topicref " navtitle="Departures from IFRSs (paragraphs 19–24)">
+                <topicref href="ias01/IAS01_BC23.dita" class="- map/topicref " navtitle="BC23"/>
+                <topicref href="ias01/IAS01_BC24.dita" class="- map/topicref " navtitle="BC24"/>
+                <topicref href="ias01/IAS01_BC25.dita" class="- map/topicref " navtitle="BC25"/>
+                <topicref href="ias01/IAS01_BC26.dita" class="- map/topicref " navtitle="BC26"/>
+                <topicref href="ias01/IAS01_BC27.dita" class="- map/topicref " navtitle="BC27"/>
+                <topicref href="ias01/IAS01_BC28.dita" class="- map/topicref " navtitle="BC28"/>
+                <topicref href="ias01/IAS01_BC29.dita" class="- map/topicref " navtitle="BC29"/>
+                <topicref href="ias01/IAS01_BC30.dita" class="- map/topicref " navtitle="BC30"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC30A-BC30J_V1.dita" class="- map/topicref " navtitle="Materiality and aggregation (paragraphs 29–31)">
+                <topicref href="ias01/IAS01_BC30A.dita" class="- map/topicref " navtitle="BC30A"/>
+                <topicref href="ias01/IAS01_BC30B.dita" class="- map/topicref " navtitle="BC30B"/>
+                <topicref href="ias01/IAS01_BC30C.dita" class="- map/topicref " navtitle="BC30C"/>
+                <topicref href="ias01/IAS01_BC30D.dita" class="- map/topicref " navtitle="BC30D"/>
+                <topicref href="ias01/IAS01_BC30E.dita" class="- map/topicref " navtitle="BC30E"/>
+                <topicref href="ias01/IAS01_BC30F.dita" class="- map/topicref " navtitle="BC30F"/>
+                <topicref href="ias01/IAS01_BC30G.dita" class="- map/topicref " navtitle="BC30G"/>
+                <topicref href="ias01/IAS01_BC30H.dita" class="- map/topicref " navtitle="BC30H"/>
+                <topicref href="ias01/IAS01_BC30I.dita" class="- map/topicref " navtitle="BC30I"/>
+                <topicref href="ias01/IAS01_BC30J.dita" class="- map/topicref " navtitle="BC30J"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC31-BC36.dita" class="- map/topicref " navtitle="Comparative information">
+                <topicref href="ias01/IAS01_gBC31-BC32.dita" class="- map/topicref " navtitle="A statement of financial position as at the beginning of the earliest comparative period (paragraph 39)">
+                    <topicref href="ias01/IAS01_BC31.dita" class="- map/topicref " navtitle="BC31"/>
+                    <topicref href="ias01/IAS01_BC32.dita" class="- map/topicref " navtitle="BC32"/>
+                </topicref>
+                <topicref href="ias01/IAS01_gBC32A-BC32G.dita" class="- map/topicref " navtitle="Clarification of requirements for comparative information">
+                    <topicref href="ias01/IAS01_BC32A.dita" class="- map/topicref " navtitle="BC32A"/>
+                    <topicref href="ias01/IAS01_gBC32B-BC32D.dita" class="- map/topicref " navtitle="Opening statement of financial position">
+                        <topicref href="ias01/IAS01_BC32B.dita" class="- map/topicref " navtitle="BC32B"/>
+                        <topicref href="ias01/IAS01_BC32C.dita" class="- map/topicref " navtitle="BC32C"/>
+                        <topicref href="ias01/IAS01_BC32D.dita" class="- map/topicref " navtitle="BC32D"/>
+                    </topicref>
+                    <topicref href="ias01/IAS01_gBC32E-BC32G.dita" class="- map/topicref " navtitle="Comparative information beyond minimum requirements">
+                        <topicref href="ias01/IAS01_BC32E.dita" class="- map/topicref " navtitle="BC32E"/>
+                        <topicref href="ias01/IAS01_BC32F.dita" class="- map/topicref " navtitle="BC32F"/>
+                        <topicref href="ias01/IAS01_BC32G.dita" class="- map/topicref " navtitle="BC32G"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ias01/IAS01_gBC33-BC33.dita" class="- map/topicref " navtitle="IAS 34 Interim Financial Reporting">
+                    <topicref href="ias01/IAS01_BC33.dita" class="- map/topicref " navtitle="BC33"/>
+                </topicref>
+                <topicref href="ias01/IAS01_gBC34-BC36.dita" class="- map/topicref " navtitle="Criterion for exemption from requirements (paragraphs 41–44)">
+                    <topicref href="ias01/IAS01_BC34.dita" class="- map/topicref " navtitle="BC34"/>
+                    <topicref href="ias01/IAS01_BC35.dita" class="- map/topicref " navtitle="BC35"/>
+                    <topicref href="ias01/IAS01_BC36.dita" class="- map/topicref " navtitle="BC36"/>
+                </topicref>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC37-BC38.dita" class="- map/topicref " navtitle="Reporting owner and non‑owner changes in equity">
+                <topicref href="ias01/IAS01_BC37.dita" class="- map/topicref " navtitle="BC37"/>
+                <topicref href="ias01/IAS01_BC38.dita" class="- map/topicref " navtitle="BC38"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias01/IAS01_gBC38A-BC48.dita" class="- map/topicref " navtitle="Statement of financial position">
+            <topicref href="ias01/IAS01_gBC38A-BC38G_V1.dita" class="- map/topicref " navtitle="Information to be presented in the statement of financial position (paragraphs 54–55A)">
+                <topicref href="ias01/IAS01_BC38A.dita" class="- map/topicref " navtitle="BC38A"/>
+                <topicref href="ias01/IAS01_BC38B.dita" class="- map/topicref " navtitle="BC38B"/>
+                <topicref href="ias01/IAS01_BC38C.dita" class="- map/topicref " navtitle="BC38C"/>
+                <topicref href="ias01/IAS01_BC38D.dita" class="- map/topicref " navtitle="BC38D"/>
+                <topicref href="ias01/IAS01_BC38E.dita" class="- map/topicref " navtitle="BC38E"/>
+                <topicref href="ias01/IAS01_BC38F.dita" class="- map/topicref " navtitle="BC38F"/>
+                <topicref href="ias01/IAS01_BC38G.dita" class="- map/topicref " navtitle="BC38G"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC38A-BC38K.dita" class="- map/topicref " navtitle="Current assets and current liabilities (paragraphs 68 and 71)">
+                <topicref href="ias01/IAS01_BC38A_RBC38H.dita" class="- map/topicref " navtitle="BC38H"/>
+                <topicref href="ias01/IAS01_BC38B_RBC38I.dita" class="- map/topicref " navtitle="BC38I"/>
+                <topicref href="ias01/IAS01_BC38C_RBC38J.dita" class="- map/topicref " navtitle="BC38J"/>
+                <topicref href="ias01/IAS01_BC38D_RBC38K.dita" class="- map/topicref " navtitle="BC38K"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC38E-BC38P.dita" class="- map/topicref " navtitle="Classification of the liability component of a convertible instrument (paragraph 69)">
+                <topicref href="ias01/IAS01_BC38E_RBC38L.dita" class="- map/topicref " navtitle="BC38L"/>
+                <topicref href="ias01/IAS01_BC38F_RBC38M.dita" class="- map/topicref " navtitle="BC38M"/>
+                <topicref href="ias01/IAS01_BC38G_RBC38N.dita" class="- map/topicref " navtitle="BC38N"/>
+                <topicref href="ias01/IAS01_BC38H_RBC38O.dita" class="- map/topicref " navtitle="BC38O"/>
+                <topicref href="ias01/IAS01_BC38I_RBC38P.dita" class="- map/topicref " navtitle="BC38P"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC39-BC48.dita" class="- map/topicref " navtitle="Effect of events after the reporting period on the classification of liabilities (paragraphs           69–76)">
+                <topicref href="ias01/IAS01_BC39.dita" class="- map/topicref " navtitle="BC39"/>
+                <topicref href="ias01/IAS01_BC40.dita" class="- map/topicref " navtitle="BC40"/>
+                <topicref href="ias01/IAS01_BC41.dita" class="- map/topicref " navtitle="BC41"/>
+                <topicref href="ias01/IAS01_BC42.dita" class="- map/topicref " navtitle="BC42"/>
+                <topicref href="ias01/IAS01_BC43.dita" class="- map/topicref " navtitle="BC43"/>
+                <topicref href="ias01/IAS01_BC44.dita" class="- map/topicref " navtitle="BC44"/>
+                <topicref href="ias01/IAS01_BC45.dita" class="- map/topicref " navtitle="BC45"/>
+                <topicref href="ias01/IAS01_BC46.dita" class="- map/topicref " navtitle="BC46"/>
+                <topicref href="ias01/IAS01_BC47.dita" class="- map/topicref " navtitle="BC47"/>
+                <topicref href="ias01/IAS01_BC48.dita" class="- map/topicref " navtitle="BC48"/>
+            </topicref>
+            <topicref href="ias01/IAS01_BC48A-BC48H_MARKER.dita" base="IAS2020-1 IAS2020-4 IASB-IAS2022-1" class="- map/topicref " navtitle="BC48A—BC48H"/>
+            <topicref href="ias01/IAS01_gBC48A-BC48E.dita" class="- map/topicref " navtitle="     "/>
+        </topicref>
+        <topicref href="ias01/IAS01_gBC49-BC73.dita" class="- map/topicref " navtitle="Statement of comprehensive income">
+            <topicref href="ias01/IAS01_gBC49-BC54L.dita" class="- map/topicref " navtitle="Reporting comprehensive income (paragraph 81)">
+                <topicref href="ias01/IAS01_BC49.dita" class="- map/topicref " navtitle="BC49"/>
+                <topicref href="ias01/IAS01_BC50.dita" class="- map/topicref " navtitle="BC50"/>
+                <topicref href="ias01/IAS01_BC51.dita" class="- map/topicref " navtitle="BC51"/>
+                <topicref href="ias01/IAS01_BC52.dita" class="- map/topicref " navtitle="BC52"/>
+                <topicref href="ias01/IAS01_BC53.dita" class="- map/topicref " navtitle="BC53"/>
+                <topicref href="ias01/IAS01_BC54.dita" class="- map/topicref " navtitle="BC54"/>
+                <topicref href="ias01/IAS01_BC54A.dita" class="- map/topicref " navtitle="BC54A"/>
+                <topicref href="ias01/IAS01_BC54B.dita" class="- map/topicref " navtitle="BC54B"/>
+                <topicref href="ias01/IAS01_BC54C.dita" class="- map/topicref " navtitle="BC54C"/>
+                <topicref href="ias01/IAS01_BC54D.dita" class="- map/topicref " navtitle="BC54D"/>
+                <topicref href="ias01/IAS01_BC54E.dita" class="- map/topicref " navtitle="BC54E"/>
+                <topicref href="ias01/IAS01_BC54F.dita" class="- map/topicref " navtitle="BC54F"/>
+                <topicref href="ias01/IAS01_BC54G.dita" class="- map/topicref " navtitle="BC54G"/>
+                <topicref href="ias01/IAS01_BC54H.dita" class="- map/topicref " navtitle="BC54H"/>
+                <topicref href="ias01/IAS01_BC54I.dita" class="- map/topicref " navtitle="BC54I"/>
+                <topicref href="ias01/IAS01_BC54J.dita" class="- map/topicref " navtitle="BC54J"/>
+                <topicref href="ias01/IAS01_BC54K.dita" class="- map/topicref " navtitle="BC54K"/>
+                <topicref href="ias01/IAS01_BC54L.dita" class="- map/topicref " navtitle="BC54L"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC55-BC56.dita" class="- map/topicref " navtitle="Results of operating activities">
+                <topicref href="ias01/IAS01_BC55.dita" class="- map/topicref " navtitle="BC55"/>
+                <topicref href="ias01/IAS01_BC56.dita" class="- map/topicref " navtitle="BC56"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC57-BC58.dita" class="- map/topicref " navtitle="Subtotal for profit or loss (paragraph 82)">
+                <topicref href="ias01/IAS01_BC57.dita" class="- map/topicref " navtitle="BC57"/>
+                <topicref href="ias01/IAS01_BC58.dita" class="- map/topicref " navtitle="BC58"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC58A-BC58B_V2.dita" class="- map/topicref " navtitle="Information to be presented in the profit or loss section or the statement of profit or loss (paragraphs 85–85B)">
+                <topicref href="ias01/IAS01_BC58A.dita" class="- map/topicref " navtitle="BC58A"/>
+                <topicref href="ias01/IAS01_BC58B.dita" class="- map/topicref " navtitle="BC58B"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC59-BC59.dita" class="- map/topicref " navtitle="Minority interest (paragraph 83)">
+                <topicref href="ias01/IAS01_BC59.dita" class="- map/topicref " navtitle="BC59"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC60-BC64.dita" class="- map/topicref " navtitle="Extraordinary items (paragraph 87)">
+                <topicref href="ias01/IAS01_BC60.dita" class="- map/topicref " navtitle="BC60"/>
+                <topicref href="ias01/IAS01_BC61.dita" class="- map/topicref " navtitle="BC61"/>
+                <topicref href="ias01/IAS01_BC62.dita" class="- map/topicref " navtitle="BC62"/>
+                <topicref href="ias01/IAS01_BC63.dita" class="- map/topicref " navtitle="BC63"/>
+                <topicref href="ias01/IAS01_BC64.dita" class="- map/topicref " navtitle="BC64"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC65-BC68A.dita" class="- map/topicref " navtitle="Other comprehensive income—related tax effects (paragraphs 90 and 91)">
+                <topicref href="ias01/IAS01_BC65.dita" class="- map/topicref " navtitle="BC65"/>
+                <topicref href="ias01/IAS01_BC66.dita" class="- map/topicref " navtitle="BC66"/>
+                <topicref href="ias01/IAS01_BC67.dita" class="- map/topicref " navtitle="BC67"/>
+                <topicref href="ias01/IAS01_BC68.dita" class="- map/topicref " navtitle="BC68"/>
+                <topicref href="ias01/IAS01_BC68A.dita" class="- map/topicref " navtitle="BC68A"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC69-BC73.dita" class="- map/topicref " navtitle="Reclassification adjustments (paragraphs 92–96)">
+                <topicref href="ias01/IAS01_BC69.dita" class="- map/topicref " navtitle="BC69"/>
+                <topicref href="ias01/IAS01_BC70.dita" class="- map/topicref " navtitle="BC70"/>
+                <topicref href="ias01/IAS01_BC71.dita" class="- map/topicref " navtitle="BC71"/>
+                <topicref href="ias01/IAS01_BC72.dita" class="- map/topicref " navtitle="BC72"/>
+                <topicref href="ias01/IAS01_BC73.dita" class="- map/topicref " navtitle="BC73"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias01/IAS01_gBC74-BC75.dita" class="- map/topicref " navtitle="Statement of changes in equity">
+            <topicref href="ias01/IAS01_gBC74-BC74.dita" class="- map/topicref " navtitle="Effects of retrospective application or retrospective restatement (paragraph 106(b))">
+                <topicref href="ias01/IAS01_BC74.dita" class="- map/topicref " navtitle="BC74"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC74A-BC74A.dita" class="- map/topicref " navtitle="Reconciliation for each component of other comprehensive income (paragraphs 106(d)(ii) and 106A)">
+                <topicref href="ias01/IAS01_BC74A.dita" class="- map/topicref " navtitle="BC74A"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC75-BC75.dita" class="- map/topicref " navtitle="Presentation of dividends (paragraph 107)">
+                <topicref href="ias01/IAS01_BC75.dita" class="- map/topicref " navtitle="BC75"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias01/IAS01_gBC76-BC76.dita" class="- map/topicref " navtitle="Statement of cash flows">
+            <topicref href="ias01/IAS01_sgBC76-BC76.dita" class="- map/topicref " navtitle="IAS 7 Cash Flow Statements (paragraph 111)">
+                <topicref href="ias01/IAS01_BC76.dita" class="- map/topicref " navtitle="BC76"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias01/IAS01_gBC76A-BC104.dita" class="- map/topicref " navtitle="Notes">
+            <topicref href="ias01/IAS01_gBC76A-BC76E_V2.dita" class="- map/topicref " navtitle="Structure (paragraphs 112–116)">
+                <topicref href="ias01/IAS01_BC76A.dita" class="- map/topicref " navtitle="BC76A"/>
+                <topicref href="ias01/IAS01_BC76B.dita" class="- map/topicref " navtitle="BC76B"/>
+                <topicref href="ias01/IAS01_BC76C.dita" class="- map/topicref " navtitle="BC76C"/>
+                <topicref href="ias01/IAS01_BC76D.dita" class="- map/topicref " navtitle="BC76D"/>
+                <topicref href="ias01/IAS01_BC76E.dita" class="- map/topicref " navtitle="BC76E"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC76F-BC76G_V1.dita" class="- map/topicref " navtitle="Disclosure of accounting policy information (paragraphs 117–117E)">
+                <topicref href="ias01/IAS01_BC76F.dita" class="- map/topicref " navtitle="BC76F"/>
+                <topicref href="ias01/IAS01_BC76G.dita" class="- map/topicref " navtitle="BC76G"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC76H-BC76AB.dita" base="IAS2021-2" class="- map/topicref " navtitle="Disclosure of accounting policies (issued February 2021)">
+                <topicref href="ias01/IAS01_gBC76H-BC76K.dita" class="- map/topicref " navtitle="Background">
+                    <topicref href="ias01/IAS01_BC76H.dita" class="- map/topicref " navtitle="BC76H"/>
+                    <topicref href="ias01/IAS01_BC76I.dita" class="- map/topicref " navtitle="BC76I"/>
+                    <topicref href="ias01/IAS01_BC76J.dita" class="- map/topicref " navtitle="BC76J"/>
+                    <topicref href="ias01/IAS01_BC76K.dita" class="- map/topicref " navtitle="BC76K"/>
+                </topicref>
+                <topicref href="ias01/IAS01_gBC76L-BC76N.dita" class="- map/topicref " navtitle="Replacing ‘significant’ with ‘material’">
+                    <topicref href="ias01/IAS01_BC76L.dita" class="- map/topicref " navtitle="BC76L"/>
+                    <topicref href="ias01/IAS01_BC76M.dita" class="- map/topicref " navtitle="BC76M"/>
+                    <topicref href="ias01/IAS01_BC76N.dita" class="- map/topicref " navtitle="BC76N"/>
+                </topicref>
+                <topicref href="ias01/IAS01_gBC76O-BC76V.dita" class="- map/topicref " navtitle="Applying the definition of material to accounting policy disclosures">
+                    <topicref href="ias01/IAS01_BC76O.dita" class="- map/topicref " navtitle="BC76O"/>
+                    <topicref href="ias01/IAS01_BC76P.dita" class="- map/topicref " navtitle="BC76P"/>
+                    <topicref href="ias01/IAS01_BC76Q.dita" class="- map/topicref " navtitle="BC76Q"/>
+                    <topicref href="ias01/IAS01_BC76R.dita" class="- map/topicref " navtitle="BC76R"/>
+                    <topicref href="ias01/IAS01_BC76S.dita" class="- map/topicref " navtitle="BC76S"/>
+                    <topicref href="ias01/IAS01_BC76T.dita" class="- map/topicref " navtitle="BC76T"/>
+                    <topicref href="ias01/IAS01_BC76U.dita" class="- map/topicref " navtitle="BC76U"/>
+                    <topicref href="ias01/IAS01_BC76V.dita" class="- map/topicref " navtitle="BC76V"/>
+                </topicref>
+                <topicref href="ias01/IAS01_gBC76W-BC76W.dita" class="- map/topicref " navtitle="References to accounting policies in other IFRS Standards and publications">
+                    <topicref href="ias01/IAS01_BC76W.dita" class="- map/topicref " navtitle="BC76W"/>
+                </topicref>
+                <topicref href="ias01/IAS01_gBC76X-BC76AA.dita" class="- map/topicref " navtitle="Effect analysis">
+                    <topicref href="ias01/IAS01_BC76X.dita" class="- map/topicref " navtitle="BC76X"/>
+                    <topicref href="ias01/IAS01_BC76Y.dita" class="- map/topicref " navtitle="BC76Y"/>
+                    <topicref href="ias01/IAS01_BC76Z.dita" class="- map/topicref " navtitle="BC76Z"/>
+                    <topicref href="ias01/IAS01_BC76AA.dita" class="- map/topicref " navtitle="BC76AA"/>
+                </topicref>
+                <topicref href="ias01/IAS01_gBC76AB-BC76AB.dita" class="- map/topicref " navtitle="Transition and comparative information">
+                    <topicref href="ias01/IAS01_BC76AB.dita" class="- map/topicref " navtitle="BC76AB"/>
+                </topicref>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC77-BC78.dita" class="- map/topicref " navtitle="Disclosure of the judgements that management has made in the process of applying the entity’s accounting policies (paragraphs 122–124)">
+                <topicref href="ias01/IAS01_BC77.dita" class="- map/topicref " navtitle="BC77"/>
+                <topicref href="ias01/IAS01_BC78.dita" class="- map/topicref " navtitle="BC78"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC79-BC84.dita" class="- map/topicref " navtitle="Disclosure of major sources of estimation uncertainty (paragraphs 125–133)">
+                <topicref href="ias01/IAS01_BC79.dita" class="- map/topicref " navtitle="BC79"/>
+                <topicref href="ias01/IAS01_BC80.dita" class="- map/topicref " navtitle="BC80"/>
+                <topicref href="ias01/IAS01_BC81.dita" class="- map/topicref " navtitle="BC81"/>
+                <topicref href="ias01/IAS01_BC82.dita" class="- map/topicref " navtitle="BC82"/>
+                <topicref href="ias01/IAS01_BC83.dita" class="- map/topicref " navtitle="BC83"/>
+                <topicref href="ias01/IAS01_BC84.dita" class="- map/topicref " navtitle="BC84"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC85-BC89.dita" class="- map/topicref " navtitle="Disclosures about capital (paragraphs 134 and 135)">
+                <topicref href="ias01/IAS01_BC85.dita" class="- map/topicref " navtitle="BC85"/>
+                <topicref href="ias01/IAS01_BC86.dita" class="- map/topicref " navtitle="BC86"/>
+                <topicref href="ias01/IAS01_BC87.dita" class="- map/topicref " navtitle="BC87"/>
+                <topicref href="ias01/IAS01_BC88.dita" class="- map/topicref " navtitle="BC88"/>
+                <topicref href="ias01/IAS01_BC89.dita" class="- map/topicref " navtitle="BC89"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC90-BC91.dita" class="- map/topicref " navtitle="Objectives, policies and processes for managing capital (paragraph 136)">
+                <topicref href="ias01/IAS01_BC90.dita" class="- map/topicref " navtitle="BC90"/>
+                <topicref href="ias01/IAS01_BC91.dita" class="- map/topicref " navtitle="BC91"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC92-BC97.dita" class="- map/topicref " navtitle="Externally imposed capital requirements (paragraph 136)">
+                <topicref href="ias01/IAS01_BC92.dita" class="- map/topicref " navtitle="BC92"/>
+                <topicref href="ias01/IAS01_BC93.dita" class="- map/topicref " navtitle="BC93"/>
+                <topicref href="ias01/IAS01_BC94.dita" class="- map/topicref " navtitle="BC94"/>
+                <topicref href="ias01/IAS01_BC95.dita" class="- map/topicref " navtitle="BC95"/>
+                <topicref href="ias01/IAS01_BC96.dita" class="- map/topicref " navtitle="BC96"/>
+                <topicref href="ias01/IAS01_BC97.dita" class="- map/topicref " navtitle="BC97"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC98-BC100.dita" class="- map/topicref " navtitle="Internal capital targets">
+                <topicref href="ias01/IAS01_BC98.dita" class="- map/topicref " navtitle="BC98"/>
+                <topicref href="ias01/IAS01_BC99.dita" class="- map/topicref " navtitle="BC99"/>
+                <topicref href="ias01/IAS01_BC100.dita" class="- map/topicref " navtitle="BC100"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC100A-BC100B.dita" class="- map/topicref " navtitle="Puttable financial instruments and obligations arising on liquidation">
+                <topicref href="ias01/IAS01_BC100A.dita" class="- map/topicref " navtitle="BC100A"/>
+                <topicref href="ias01/IAS01_BC100B.dita" class="- map/topicref " navtitle="BC100B"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC101-BC104.dita" class="- map/topicref " navtitle="Presentation of measures per share">
+                <topicref href="ias01/IAS01_BC101.dita" class="- map/topicref " navtitle="BC101"/>
+                <topicref href="ias01/IAS01_BC102.dita" class="- map/topicref " navtitle="BC102"/>
+                <topicref href="ias01/IAS01_BC103.dita" class="- map/topicref " navtitle="BC103"/>
+                <topicref href="ias01/IAS01_BC104.dita" class="- map/topicref " navtitle="BC104"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias01/IAS01_gBC105-BC105F.dita" class="- map/topicref " navtitle="Transition and effective date">
+            <topicref href="ias01/IAS01_BC105.dita" class="- map/topicref " navtitle="BC105"/>
+            <topicref href="ias01/IAS01_BC105A.dita" class="- map/topicref " navtitle="BC105A"/>
+            <topicref href="ias01/IAS01_BC105B.dita" class="- map/topicref " navtitle="BC105B"/>
+            <topicref href="ias01/IAS01_gBC105C-BC105F_V2.dita" class="- map/topicref " navtitle="Disclosure Initiative (Amendments to IAS 1)">
+                <topicref href="ias01/IAS01_BC105C.dita" class="- map/topicref " navtitle="BC105C"/>
+                <topicref href="ias01/IAS01_BC105D.dita" class="- map/topicref " navtitle="BC105D"/>
+                <topicref href="ias01/IAS01_BC105E.dita" class="- map/topicref " navtitle="BC105E"/>
+                <topicref href="ias01/IAS01_BC105F.dita" class="- map/topicref " navtitle="BC105F"/>
+            </topicref>
+            <topicref href="ias01/IAS01_gBC105FA-BC105FF_MARKER.dita" base="IASB-IAS2022-1" class="- map/topicref " navtitle="BC105FA–BC105FF"/>
+        </topicref>
+        <topicref href="ias01/IAS01_gBC105G-BC105J_V2.dita" class="- map/topicref " navtitle="Amended references to the Conceptual Framework">
+            <topicref href="ias01/IAS01_BC105G.dita" class="- map/topicref " navtitle="BC105G"/>
+            <topicref href="ias01/IAS01_BC105H.dita" class="- map/topicref " navtitle="BC105H"/>
+            <topicref href="ias01/IAS01_BC105I.dita" class="- map/topicref " navtitle="BC105I"/>
+            <topicref href="ias01/IAS01_BC105J.dita" class="- map/topicref " navtitle="BC105J"/>
+        </topicref>
+        <topicref href="ias01/IAS01_gBC106-BC106.dita" class="- map/topicref " navtitle="Differences from SFAS 130">
+            <topicref href="ias01/IAS01_BC106.dita" class="- map/topicref " navtitle="BC106"/>
+        </topicref>
+    </chapter>
+    <topicref href="ias01/IAS01_BC_APP.dita" class="- map/topicref " navtitle="Appendix Amendments to the Basis for Conclusions on other IFRSs"/>
+    
+</bookmap>

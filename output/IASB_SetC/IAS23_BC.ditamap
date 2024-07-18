@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" chunk="to-content" id="IAS23_BC_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle "><ph otherprops="print" class="- topic/ph ">Borrowing Costs</ph></mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Basis For Conclusions</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IAS 23</booknumber>
+        </bookid>
+        <document_type value="IAS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2009-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2007-03-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ias-23-borrowing-costs" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="basis-for-conclusion" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ias23/IAS23_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef " navtitle="Footnotes"/>
+        <keydef href="ias23/IAS23_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef " navtitle="Edu Footnotes"/>
+        <keydef href="ias23/IAS23_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef " navtitle="IAS23 Variables"/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef " navtitle="Bound Volume Variables"/>
+        <bookabstract href="ias23/IAS23_PartC.dita" otherprops="print" class="- map/topicref bookmap/bookabstract " navtitle="IASB documents published to accompany IAS 23 Borrowing Costs"/>
+    </frontmatter>
+    <chapter href="ias23/IAS23_TI0022.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Basis for Conclusions on IAS 23 Borrowing Costs">
+        <topicref href="ias23/IAS23_gBC1-BC3.dita" class="- map/topicref " navtitle="Introduction">
+            <topicref href="ias23/IAS23_BC1.dita" class="- map/topicref " navtitle="BC1"/>
+            <topicref href="ias23/IAS23_BC2.dita" class="- map/topicref " navtitle="BC2"/>
+            <topicref href="ias23/IAS23_BC3.dita" class="- map/topicref " navtitle="BC3"/>
+        </topicref>
+        <topicref href="ias23/IAS23_gBC4-BC6.dita" class="- map/topicref " navtitle="Amendments to the scope">
+            <topicref href="ias23/IAS23_gBC4-BC4.dita" class="- map/topicref " navtitle="Assets measured at fair value">
+                <topicref href="ias23/IAS23_BC4.dita" class="- map/topicref " navtitle="BC4"/>
+            </topicref>
+            <topicref href="ias23/IAS23_gBC5-BC6.dita" class="- map/topicref " navtitle="Inventories that are manufactured, or otherwise produced, in large quantities on a repetitive basis">
+                <topicref href="ias23/IAS23_BC5.dita" class="- map/topicref " navtitle="BC5"/>
+                <topicref href="ias23/IAS23_BC6.dita" class="- map/topicref " navtitle="BC6"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias23/IAS23_gBC7-BC14.dita" class="- map/topicref " navtitle="Elimination of the option of immediate recognition as an expense of borrowing costs directly attributable to the acquisition, construction or production of a qualifying asset">
+            <topicref href="ias23/IAS23_BC7.dita" class="- map/topicref " navtitle="BC7"/>
+            <topicref href="ias23/IAS23_BC8.dita" class="- map/topicref " navtitle="BC8"/>
+            <topicref href="ias23/IAS23_BC9.dita" class="- map/topicref " navtitle="BC9"/>
+            <topicref href="ias23/IAS23_BC10.dita" class="- map/topicref " navtitle="BC10"/>
+            <topicref href="ias23/IAS23_BC11.dita" class="- map/topicref " navtitle="BC11"/>
+            <topicref href="ias23/IAS23_BC12.dita" class="- map/topicref " navtitle="BC12"/>
+            <topicref href="ias23/IAS23_BC13.dita" class="- map/topicref " navtitle="BC13"/>
+            <topicref href="ias23/IAS23_BC14.dita" class="- map/topicref " navtitle="BC14"/>
+        </topicref>
+        <topicref href="ias23/IAS23_gBC14A-BC14E_V1.dita" class="- map/topicref " navtitle="Borrowing costs eligible for capitalisation (amendments issued in December 2017)">
+            <topicref href="ias23/IAS23_BC14A.dita" class="- map/topicref " navtitle="BC14A"/>
+            <topicref href="ias23/IAS23_BC14B.dita" class="- map/topicref " navtitle="BC14B"/>
+            <topicref href="ias23/IAS23_BC14C.dita" class="- map/topicref " navtitle="BC14C"/>
+            <topicref href="ias23/IAS23_BC14D.dita" class="- map/topicref " navtitle="BC14D"/>
+            <topicref href="ias23/IAS23_BC14E.dita" class="- map/topicref " navtitle="BC14E"/>
+        </topicref>
+        <topicref href="ias23/IAS23_gBC15-BC18A.dita" class="- map/topicref " navtitle="Effective date and transition">
+            <topicref href="ias23/IAS23_BC15.dita" class="- map/topicref " navtitle="BC15"/>
+            <topicref href="ias23/IAS23_BC16.dita" class="- map/topicref " navtitle="BC16"/>
+            <topicref href="ias23/IAS23_BC17.dita" class="- map/topicref " navtitle="BC17"/>
+            <topicref href="ias23/IAS23_BC18.dita" class="- map/topicref " navtitle="BC18"/>
+            <topicref href="ias23/IAS23_gBC18A-BC18A_V1.dita" class="- map/topicref " navtitle="Borrowing costs eligible for capitalisation (amendments issued in December 2017)">
+                <topicref href="ias23/IAS23_BC18A.dita" class="- map/topicref " navtitle="BC18A"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias23/IAS23_gBC19-BC26.dita" class="- map/topicref " navtitle="Differences between IAS 23 and SFAS 34">
+            <topicref href="ias23/IAS23_BC19.dita" class="- map/topicref " navtitle="BC19"/>
+            <topicref href="ias23/IAS23_gBC20-BC21.dita" class="- map/topicref " navtitle="Definition of borrowing costs">
+                <topicref href="ias23/IAS23_BC20.dita" class="- map/topicref " navtitle="BC20"/>
+                <topicref href="ias23/IAS23_BC21.dita" class="- map/topicref " navtitle="BC21"/>
+            </topicref>
+            <topicref href="ias23/IAS23_gBC22-BC22.dita" class="- map/topicref " navtitle="Definition of a qualifying asset">
+                <topicref href="ias23/IAS23_BC22.dita" class="- map/topicref " navtitle="BC22"/>
+            </topicref>
+            <topicref href="ias23/IAS23_gBC23-BC24.dita" class="- map/topicref " navtitle="Measurement">
+                <topicref href="ias23/IAS23_BC23.dita" class="- map/topicref " navtitle="BC23"/>
+                <topicref href="ias23/IAS23_BC24.dita" class="- map/topicref " navtitle="BC24"/>
+            </topicref>
+            <topicref href="ias23/IAS23_gBC25-BC26.dita" class="- map/topicref " navtitle="Disclosure requirements">
+                <topicref href="ias23/IAS23_BC25.dita" class="- map/topicref " navtitle="BC25"/>
+                <topicref href="ias23/IAS23_BC26.dita" class="- map/topicref " navtitle="BC26"/>
+            </topicref>
+        </topicref>
+        <topicref href="ias23/IAS23_BC27_DELETED.dita" class="- map/topicref " navtitle="BC27"/>
+        <topicref class="- map/topicref "/>
+    <topicref chunk="to-content" class="- map/topicref " navtitle="Appendices">
+        <topicref href="ias23/IAS23_0003.dita" class="- map/topicref " navtitle="Appendix Amendments to Basis for Conclusions on other pronouncements"/>
+    </topicref>
+        <topicref href="ias23/IAS23_BC_DO0001.dita" class="- map/topicref " navtitle="Dissenting opinions">
+            <topicref href="ias23/IAS23_sgDO1-DO5.dita" class="- map/topicref " navtitle="Dissent of Anthony T Cope, Philippe Danjou and Robert P Garnett">
+                <topicref href="ias23/IAS23_DO1.dita" class="- map/topicref " navtitle="DO1"/>
+                <topicref href="ias23/IAS23_DO2.dita" class="- map/topicref " navtitle="DO2"/>
+                <topicref href="ias23/IAS23_DO3.dita" class="- map/topicref " navtitle="DO3"/>
+                <topicref href="ias23/IAS23_DO4.dita" class="- map/topicref " navtitle="DO4"/>
+                <topicref href="ias23/IAS23_DO5.dita" class="- map/topicref " navtitle="DO5"/>
+            </topicref>
+        </topicref>
+    </chapter>
+    
+    
+</bookmap>

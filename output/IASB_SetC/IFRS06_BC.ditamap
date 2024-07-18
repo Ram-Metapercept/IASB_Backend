@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IFRS06_BC_CHK_ALL" chunk="to-content" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Exploration for and Evaluation of
+            Mineral Resources</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Basis For Conclusions</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IFRS 6</booknumber>
+        </bookid>
+        <document_type value="IFRS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2006-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2004-12-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ifrs-6-exploration-for-and-evaluation-of-mineral-resources" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="basis-for-conclusion" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ifrs06/IFRS06_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs06/IFRS06_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs06/IFRS06_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ifrs06/IFRS06_PartB.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ifrs06/IFRS06_BC_TOC.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+    </frontmatter>
+    <chapter href="ifrs06/IFRS06_BC_TI.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Basis for Conclusions on IFRS 6 Exploration for and Evaluation of Mineral Resources">
+        <topicref href="ifrs06/IFRS06_gBC1-BC1.dita" class="- map/topicref " navtitle="Introduction">
+            <topicref href="ifrs06/IFRS06_BC1.dita" class="- map/topicref " navtitle="BC1"/>
+        </topicref>
+        <topicref href="ifrs06/IFRS06_gBC2-BC5.dita" class="- map/topicref " navtitle="Reasons for issuing the IFRS">
+            <topicref href="ifrs06/IFRS06_BC2.dita" class="- map/topicref " navtitle="BC2"/>
+            <topicref href="ifrs06/IFRS06_BC3.dita" class="- map/topicref " navtitle="BC3"/>
+            <topicref href="ifrs06/IFRS06_BC4.dita" class="- map/topicref " navtitle="BC4"/>
+            <topicref href="ifrs06/IFRS06_BC5.dita" class="- map/topicref " navtitle="BC5"/>
+        </topicref>
+        <topicref href="ifrs06/IFRS06_gBC6-BC8.dita" class="- map/topicref " navtitle="Scope">
+            <topicref href="ifrs06/IFRS06_BC6.dita" class="- map/topicref " navtitle="BC6"/>
+            <topicref href="ifrs06/IFRS06_BC7.dita" class="- map/topicref " navtitle="BC7"/>
+            <topicref href="ifrs06/IFRS06_BC8.dita" class="- map/topicref " navtitle="BC8"/>
+        </topicref>
+        <topicref href="ifrs06/IFRS06_gBC9-BC16.dita" class="- map/topicref " navtitle="Definition of exploration and evaluation assets">
+            <topicref href="ifrs06/IFRS06_BC9.dita" class="- map/topicref " navtitle="BC9"/>
+            <topicref href="ifrs06/IFRS06_gBC10-BC13.dita" class="- map/topicref " navtitle="Expenditures incurred before the exploration for and evaluation of mineral resources">
+                <topicref href="ifrs06/IFRS06_BC10.dita" class="- map/topicref " navtitle="BC10"/>
+                <topicref href="ifrs06/IFRS06_BC11.dita" class="- map/topicref " navtitle="BC11"/>
+                <topicref href="ifrs06/IFRS06_BC12.dita" class="- map/topicref " navtitle="BC12"/>
+                <topicref href="ifrs06/IFRS06_BC13.dita" class="- map/topicref " navtitle="BC13"/>
+            </topicref>
+            <topicref href="ifrs06/IFRS06_gBC14-BC15.dita" class="- map/topicref " navtitle="Separate definitions of ‘exploration’ and ‘evaluation’">
+                <topicref href="ifrs06/IFRS06_BC14.dita" class="- map/topicref " navtitle="BC14"/>
+                <topicref href="ifrs06/IFRS06_BC15.dita" class="- map/topicref " navtitle="BC15"/>
+            </topicref>
+            <topicref href="ifrs06/IFRS06_gBC16-BC16.dita" class="- map/topicref " navtitle="Mineral resources">
+                <topicref href="ifrs06/IFRS06_BC16.dita" class="- map/topicref " navtitle="BC16"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs06/IFRS06_gBC17-BC31.dita" class="- map/topicref " navtitle="Recognition of exploration and evaluation assets">
+            <topicref href="ifrs06/IFRS06_gBC17-BC23B.dita" class="- map/topicref " navtitle="Temporary exemption from IAS 8 paragraphs 11 and 12">
+                <topicref href="ifrs06/IFRS06_BC17.dita" class="- map/topicref " navtitle="BC17"/>
+                <topicref href="ifrs06/IFRS06_BC18.dita" class="- map/topicref " navtitle="BC18"/>
+                <topicref href="ifrs06/IFRS06_BC19.dita" class="- map/topicref " navtitle="BC19"/>
+                <topicref href="ifrs06/IFRS06_BC20.dita" class="- map/topicref " navtitle="BC20"/>
+                <topicref href="ifrs06/IFRS06_BC21.dita" class="- map/topicref " navtitle="BC21"/>
+                <topicref href="ifrs06/IFRS06_BC22.dita" class="- map/topicref " navtitle="BC22"/>
+                <topicref href="ifrs06/IFRS06_BC23.dita" class="- map/topicref " navtitle="BC23"/>
+                <topicref href="ifrs06/IFRS06_BC23A.dita" class="- map/topicref " navtitle="BC23A"/>
+                <topicref href="ifrs06/IFRS06_BC23B.dita" class="- map/topicref " navtitle="BC23B"/>
+            </topicref>
+            <topicref href="ifrs06/IFRS06_gBC24-BC28.dita" class="- map/topicref " navtitle="Elements of cost of exploration and evaluation assets">
+                <topicref href="ifrs06/IFRS06_BC24.dita" class="- map/topicref " navtitle="BC24"/>
+                <topicref href="ifrs06/IFRS06_BC25.dita" class="- map/topicref " navtitle="BC25"/>
+                <topicref href="ifrs06/IFRS06_BC26.dita" class="- map/topicref " navtitle="BC26"/>
+                <topicref href="ifrs06/IFRS06_BC27.dita" class="- map/topicref " navtitle="BC27"/>
+                <topicref href="ifrs06/IFRS06_BC28.dita" class="- map/topicref " navtitle="BC28"/>
+            </topicref>
+            <topicref href="ifrs06/IFRS06_gBC29-BC31.dita" class="- map/topicref " navtitle="Measurement after recognition">
+                <topicref href="ifrs06/IFRS06_BC29.dita" class="- map/topicref " navtitle="BC29"/>
+                <topicref href="ifrs06/IFRS06_BC30.dita" class="- map/topicref " navtitle="BC30"/>
+                <topicref href="ifrs06/IFRS06_BC31.dita" class="- map/topicref " navtitle="BC31"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs06/IFRS06_gBC32-BC34.dita" class="- map/topicref " navtitle="Presentation of exploration and evaluation assets">
+            <topicref href="ifrs06/IFRS06_BC32.dita" class="- map/topicref " navtitle="BC32"/>
+            <topicref href="ifrs06/IFRS06_BC33.dita" class="- map/topicref " navtitle="BC33"/>
+            <topicref href="ifrs06/IFRS06_BC34.dita" class="- map/topicref " navtitle="BC34"/>
+        </topicref>
+        <topicref href="ifrs06/IFRS06_gBC35-BC48.dita" class="- map/topicref " navtitle="Impairment of exploration and evaluation assets">
+            <topicref href="ifrs06/IFRS06_BC35.dita" class="- map/topicref " navtitle="BC35"/>
+            <topicref href="ifrs06/IFRS06_gBC36-BC39.dita" class="- map/topicref " navtitle="Assessment of impairment">
+                <topicref href="ifrs06/IFRS06_BC36.dita" class="- map/topicref " navtitle="BC36"/>
+                <topicref href="ifrs06/IFRS06_BC37.dita" class="- map/topicref " navtitle="BC37"/>
+                <topicref href="ifrs06/IFRS06_BC38.dita" class="- map/topicref " navtitle="BC38"/>
+                <topicref href="ifrs06/IFRS06_BC39.dita" class="- map/topicref " navtitle="BC39"/>
+            </topicref>
+            <topicref href="ifrs06/IFRS06_gBC40-BC47.dita" class="- map/topicref " navtitle="The level at which impairment is assessed">
+                <topicref href="ifrs06/IFRS06_BC40.dita" class="- map/topicref " navtitle="BC40"/>
+                <topicref href="ifrs06/IFRS06_BC41.dita" class="- map/topicref " navtitle="BC41"/>
+                <topicref href="ifrs06/IFRS06_BC42.dita" class="- map/topicref " navtitle="BC42"/>
+                <topicref href="ifrs06/IFRS06_BC43.dita" class="- map/topicref " navtitle="BC43"/>
+                <topicref href="ifrs06/IFRS06_BC44.dita" class="- map/topicref " navtitle="BC44"/>
+                <topicref href="ifrs06/IFRS06_BC45.dita" class="- map/topicref " navtitle="BC45"/>
+                <topicref href="ifrs06/IFRS06_BC46.dita" class="- map/topicref " navtitle="BC46"/>
+                <topicref href="ifrs06/IFRS06_BC47.dita" class="- map/topicref " navtitle="BC47"/>
+            </topicref>
+            <topicref href="ifrs06/IFRS06_gBC48-BC48.dita" class="- map/topicref " navtitle="Reversal of impairment losses">
+                <topicref href="ifrs06/IFRS06_BC48.dita" class="- map/topicref " navtitle="BC48"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs06/IFRS06_gBC49-BC49.dita" class="- map/topicref " navtitle="Changes in accounting policies">
+            <topicref href="ifrs06/IFRS06_BC49.dita" class="- map/topicref " navtitle="BC49"/>
+        </topicref>
+        <topicref href="ifrs06/IFRS06_gBC50-BC57.dita" class="- map/topicref " navtitle="Disclosures">
+            <topicref href="ifrs06/IFRS06_BC50.dita" class="- map/topicref " navtitle="BC50"/>
+            <topicref href="ifrs06/IFRS06_BC51.dita" class="- map/topicref " navtitle="BC51"/>
+            <topicref href="ifrs06/IFRS06_BC52.dita" class="- map/topicref " navtitle="BC52"/>
+            <topicref href="ifrs06/IFRS06_BC53.dita" class="- map/topicref " navtitle="BC53"/>
+            <topicref href="ifrs06/IFRS06_BC54.dita" class="- map/topicref " navtitle="BC54"/>
+            <topicref href="ifrs06/IFRS06_gBC55-BC55.dita" class="- map/topicref " navtitle="Commercial reserves">
+                <topicref href="ifrs06/IFRS06_BC55.dita" class="- map/topicref " navtitle="BC55"/>
+            </topicref>
+            <topicref href="ifrs06/IFRS06_gBC56-BC56.dita" class="- map/topicref " navtitle="Stages after exploration and evaluation">
+                <topicref href="ifrs06/IFRS06_BC56.dita" class="- map/topicref " navtitle="BC56"/>
+            </topicref>
+            <topicref href="ifrs06/IFRS06_gBC57-BC57.dita" class="- map/topicref " navtitle="Project timing">
+                <topicref href="ifrs06/IFRS06_BC57.dita" class="- map/topicref " navtitle="BC57"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs06/IFRS06_gBC58-BC58.dita" class="- map/topicref " navtitle="Effective date">
+            <topicref href="ifrs06/IFRS06_BC58.dita" class="- map/topicref " navtitle="BC58"/>
+        </topicref>
+        <topicref href="ifrs06/IFRS06_gBC59-BC65A.dita" class="- map/topicref " navtitle="Transition">
+            <topicref href="ifrs06/IFRS06_BC59.dita" class="- map/topicref " navtitle="BC59"/>
+            <topicref href="ifrs06/IFRS06_BC60.dita" class="- map/topicref " navtitle="BC60"/>
+            <topicref href="ifrs06/IFRS06_BC61.dita" class="- map/topicref " navtitle="BC61"/>
+            <topicref href="ifrs06/IFRS06_BC62.dita" class="- map/topicref " navtitle="BC62"/>
+            <topicref href="ifrs06/IFRS06_BC63.dita" class="- map/topicref " navtitle="BC63"/>
+            <topicref href="ifrs06/IFRS06_BC64.dita" class="- map/topicref " navtitle="BC64"/>
+            <topicref href="ifrs06/IFRS06_BC65.dita" class="- map/topicref " navtitle="BC65"/>
+            <topicref href="ifrs06/IFRS06_BC65A_DELETED.dita" class="- map/topicref " navtitle="BC65A"/>
+        </topicref>
+        <topicref href="ifrs06/IFRS06_gBC66-BC66.dita" class="- map/topicref " navtitle="Summary of changes from ED 6">
+            <topicref href="ifrs06/IFRS06_BC66.dita" class="- map/topicref " navtitle="BC66"/>
+        </topicref>
+        <topicref href="ifrs06/IFRS06_gBC67-BC67.dita" class="- map/topicref " navtitle="Amended reference to the Conceptual Framework">
+            <topicref href="ifrs06/IFRS06_BC67.dita" class="- map/topicref " navtitle="BC67"/>
+        </topicref>
+    
+        <topicref href="ifrs06/IFRS06_BC_DO0001.dita" class="- map/topicref " navtitle="Dissenting opinions">
+            <topicref href="ifrs06/IFRS06_sgDO1-DO4.dita" class="- map/topicref " navtitle="Dissent of Robert P Garnett, James J Leisenring, Warren J McGregor and John T Smith">
+                <topicref href="ifrs06/IFRS06_DO1.dita" class="- map/topicref " navtitle="DO1"/>
+                <topicref href="ifrs06/IFRS06_DO2.dita" class="- map/topicref " navtitle="DO2"/>
+                <topicref href="ifrs06/IFRS06_DO3.dita" class="- map/topicref " navtitle="DO3"/>
+                <topicref href="ifrs06/IFRS06_DO4.dita" class="- map/topicref " navtitle="DO4"/>
+            </topicref>
+        </topicref>
+    </chapter>
+    
+</bookmap>

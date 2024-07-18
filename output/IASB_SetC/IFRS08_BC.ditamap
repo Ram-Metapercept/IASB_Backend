@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IFRS08_BC_CHK_ALL" chunk="to-content" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Operating Segments</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Basis For Conclusions</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IFRS 8</booknumber>
+        </bookid>
+        <document_type value="IFRS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2009-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2006-11-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ifrs-8-operating-segments" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="basis-for-conclusion" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ifrs08/IFRS08_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs08/IFRS08_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs08/IFRS08_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ifrs08/IFRS08_PartC.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ifrs08/IFRS08_BC_TOC.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+    </frontmatter>
+    <chapter href="ifrs08/IFRS08_TI0040.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Basis for Conclusions on IFRS 8 Operating Segments">
+        <topicref href="ifrs08/IFRS08_gBC1-BC8.dita" class="- map/topicref " navtitle="Introduction">
+            <topicref href="ifrs08/IFRS08_BC1.dita" class="- map/topicref " navtitle="BC1"/>
+            <topicref href="ifrs08/IFRS08_BC2.dita" class="- map/topicref " navtitle="BC2"/>
+            <topicref href="ifrs08/IFRS08_BC3.dita" class="- map/topicref " navtitle="BC3"/>
+            <topicref href="ifrs08/IFRS08_gBC4-BC5.dita" class="- map/topicref " navtitle="Differences between IAS 14 and SFAS 131">
+                <topicref href="ifrs08/IFRS08_BC4.dita" class="- map/topicref " navtitle="BC4"/>
+                <topicref href="ifrs08/IFRS08_BC5.dita" class="- map/topicref " navtitle="BC5"/>
+            </topicref>
+            <topicref href="ifrs08/IFRS08_gBC6-BC6.dita" class="- map/topicref " navtitle="Academic research findings">
+                <topicref href="ifrs08/IFRS08_BC6.dita" class="- map/topicref " navtitle="BC6"/>
+            </topicref>
+            <topicref href="ifrs08/IFRS08_gBC7-BC8.dita" class="- map/topicref " navtitle="Meetings with users">
+                <topicref href="ifrs08/IFRS08_BC7.dita" class="- map/topicref " navtitle="BC7"/>
+                <topicref href="ifrs08/IFRS08_BC8.dita" class="- map/topicref " navtitle="BC8"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs08/IFRS08_gBC9-BC17.dita" class="- map/topicref " navtitle="Adoption of management approach">
+            <topicref href="ifrs08/IFRS08_BC9.dita" class="- map/topicref " navtitle="BC9"/>
+            <topicref href="ifrs08/IFRS08_BC10.dita" class="- map/topicref " navtitle="BC10"/>
+            <topicref href="ifrs08/IFRS08_BC11.dita" class="- map/topicref " navtitle="BC11"/>
+            <topicref href="ifrs08/IFRS08_BC12.dita" class="- map/topicref " navtitle="BC12"/>
+            <topicref href="ifrs08/IFRS08_BC13.dita" class="- map/topicref " navtitle="BC13"/>
+            <topicref href="ifrs08/IFRS08_BC14.dita" class="- map/topicref " navtitle="BC14"/>
+            <topicref href="ifrs08/IFRS08_BC15.dita" class="- map/topicref " navtitle="BC15"/>
+            <topicref href="ifrs08/IFRS08_BC16.dita" class="- map/topicref " navtitle="BC16"/>
+            <topicref href="ifrs08/IFRS08_BC17.dita" class="- map/topicref " navtitle="BC17"/>
+        </topicref>
+        <topicref href="ifrs08/IFRS08_gBC18-BC23.dita" class="- map/topicref " navtitle="Scope of the standard">
+            <topicref href="ifrs08/IFRS08_BC18.dita" class="- map/topicref " navtitle="BC18"/>
+            <topicref href="ifrs08/IFRS08_BC19.dita" class="- map/topicref " navtitle="BC19"/>
+            <topicref href="ifrs08/IFRS08_BC20.dita" class="- map/topicref " navtitle="BC20"/>
+            <topicref href="ifrs08/IFRS08_BC21.dita" class="- map/topicref " navtitle="BC21"/>
+            <topicref href="ifrs08/IFRS08_BC22.dita" class="- map/topicref " navtitle="BC22"/>
+            <topicref href="ifrs08/IFRS08_BC23.dita" class="- map/topicref " navtitle="BC23"/>
+        </topicref>
+        <topicref href="ifrs08/IFRS08_gBC24-BC47.dita" class="- map/topicref " navtitle="Aspects of the management approach">
+            <topicref href="ifrs08/IFRS08_gBC24-BC26.dita" class="- map/topicref " navtitle="Specific measurement requirements for some items">
+                <topicref href="ifrs08/IFRS08_BC24.dita" class="- map/topicref " navtitle="BC24"/>
+                <topicref href="ifrs08/IFRS08_BC25.dita" class="- map/topicref " navtitle="BC25"/>
+                <topicref href="ifrs08/IFRS08_BC26.dita" class="- map/topicref " navtitle="BC26"/>
+            </topicref>
+            <topicref href="ifrs08/IFRS08_gBC27-BC27.dita" class="- map/topicref " navtitle="Matrix form of organisations">
+                <topicref href="ifrs08/IFRS08_BC27.dita" class="- map/topicref " navtitle="BC27"/>
+            </topicref>
+            <topicref href="ifrs08/IFRS08_gBC28-BC29.dita" class="- map/topicref " navtitle="Quantitative thresholds">
+                <topicref href="ifrs08/IFRS08_BC28.dita" class="- map/topicref " navtitle="BC28"/>
+                <topicref href="ifrs08/IFRS08_BC29.dita" class="- map/topicref " navtitle="BC29"/>
+            </topicref>
+            <topicref href="ifrs08/IFRS08_gBC30-BC30.dita" class="- map/topicref " navtitle="Interaction of aggregation criteria and quantitative thresholds">
+                <topicref href="ifrs08/IFRS08_BC30.dita" class="- map/topicref " navtitle="BC30"/>
+            </topicref>
+            <topicref href="ifrs08/IFRS08_gBC30A-BC30B_V1.dita" class="- map/topicref " navtitle="Aggregation of operating segments">
+                <topicref href="ifrs08/IFRS08_BC30A.dita" class="- map/topicref " navtitle="BC30A"/>
+                <topicref href="ifrs08/IFRS08_BC30B.dita" class="- map/topicref " navtitle="BC30B"/>
+            </topicref>
+            <topicref href="ifrs08/IFRS08_gBC31-BC33.dita" class="- map/topicref " navtitle="Inclusion of US guidance">
+                <topicref href="ifrs08/IFRS08_BC31.dita" class="- map/topicref " navtitle="BC31"/>
+                <topicref href="ifrs08/IFRS08_BC32.dita" class="- map/topicref " navtitle="BC32"/>
+                <topicref href="ifrs08/IFRS08_BC33.dita" class="- map/topicref " navtitle="BC33"/>
+            </topicref>
+            <topicref href="ifrs08/IFRS08_gBC34-BC35A.dita" class="- map/topicref " navtitle="Information about segment assets">
+                <topicref href="ifrs08/IFRS08_BC34.dita" class="- map/topicref " navtitle="BC34"/>
+                <topicref href="ifrs08/IFRS08_BC35.dita" class="- map/topicref " navtitle="BC35"/>
+                <topicref href="ifrs08/IFRS08_BC35A.dita" class="- map/topicref " navtitle="BC35A"/>
+            </topicref>
+            <topicref href="ifrs08/IFRS08_gBC35B-BC35B_V1.dita" class="- map/topicref " navtitle="Reconciliation of segment assets">
+                <topicref href="ifrs08/IFRS08_BC35B.dita" class="- map/topicref " navtitle="BC35B"/>
+            </topicref>
+            <topicref href="ifrs08/IFRS08_gBC36-BC38.dita" class="- map/topicref " navtitle="Information about segment liabilities">
+                <topicref href="ifrs08/IFRS08_BC36.dita" class="- map/topicref " navtitle="BC36"/>
+                <topicref href="ifrs08/IFRS08_BC37.dita" class="- map/topicref " navtitle="BC37"/>
+                <topicref href="ifrs08/IFRS08_BC38.dita" class="- map/topicref " navtitle="BC38"/>
+            </topicref>
+            <topicref href="ifrs08/IFRS08_gBC39-BC42.dita" class="- map/topicref " navtitle="Level of reconciliations">
+                <topicref href="ifrs08/IFRS08_BC39.dita" class="- map/topicref " navtitle="BC39"/>
+                <topicref href="ifrs08/IFRS08_BC40.dita" class="- map/topicref " navtitle="BC40"/>
+                <topicref href="ifrs08/IFRS08_BC41.dita" class="- map/topicref " navtitle="BC41"/>
+                <topicref href="ifrs08/IFRS08_BC42.dita" class="- map/topicref " navtitle="BC42"/>
+            </topicref>
+            <topicref href="ifrs08/IFRS08_gBC43-BC45.dita" class="- map/topicref " navtitle="Lack of a competitive harm exemption">
+                <topicref href="ifrs08/IFRS08_BC43.dita" class="- map/topicref " navtitle="BC43"/>
+                <topicref href="ifrs08/IFRS08_BC44.dita" class="- map/topicref " navtitle="BC44"/>
+                <topicref href="ifrs08/IFRS08_BC45.dita" class="- map/topicref " navtitle="BC45"/>
+            </topicref>
+            <topicref href="ifrs08/IFRS08_gBC46-BC47.dita" class="- map/topicref " navtitle="Adoption of the term ‘impracticable’">
+                <topicref href="ifrs08/IFRS08_BC46.dita" class="- map/topicref " navtitle="BC46"/>
+                <topicref href="ifrs08/IFRS08_BC47.dita" class="- map/topicref " navtitle="BC47"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs08/IFRS08_gBC48-BC58.dita" class="- map/topicref " navtitle="Entity‑wide disclosures">
+            <topicref href="ifrs08/IFRS08_gBC48-BC50.dita" class="- map/topicref " navtitle="Geographical information">
+                <topicref href="ifrs08/IFRS08_BC48.dita" class="- map/topicref " navtitle="BC48"/>
+                <topicref href="ifrs08/IFRS08_BC49.dita" class="- map/topicref " navtitle="BC49"/>
+                <topicref href="ifrs08/IFRS08_BC50.dita" class="- map/topicref " navtitle="BC50"/>
+            </topicref>
+            <topicref href="ifrs08/IFRS08_gBC51-BC53.dita" class="- map/topicref " navtitle="Exemption from entity‑wide disclosures">
+                <topicref href="ifrs08/IFRS08_BC51.dita" class="- map/topicref " navtitle="BC51"/>
+                <topicref href="ifrs08/IFRS08_BC52.dita" class="- map/topicref " navtitle="BC52"/>
+                <topicref href="ifrs08/IFRS08_BC53.dita" class="- map/topicref " navtitle="BC53"/>
+            </topicref>
+            <topicref href="ifrs08/IFRS08_gBC54-BC55.dita" class="- map/topicref " navtitle="Country of domicile">
+                <topicref href="ifrs08/IFRS08_BC54.dita" class="- map/topicref " navtitle="BC54"/>
+                <topicref href="ifrs08/IFRS08_BC55.dita" class="- map/topicref " navtitle="BC55"/>
+            </topicref>
+            <topicref href="ifrs08/IFRS08_gBC56-BC57.dita" class="- map/topicref " navtitle="Subtotal for tangible non‑current assets">
+                <topicref href="ifrs08/IFRS08_BC56.dita" class="- map/topicref " navtitle="BC56"/>
+                <topicref href="ifrs08/IFRS08_BC57.dita" class="- map/topicref " navtitle="BC57"/>
+            </topicref>
+            <topicref href="ifrs08/IFRS08_gBC58-BC58.dita" class="- map/topicref " navtitle="Information about major customers">
+                <topicref href="ifrs08/IFRS08_BC58.dita" class="- map/topicref " navtitle="BC58"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs08/IFRS08_gBC59-BC59.dita" class="- map/topicref " navtitle="Interim financial information">
+            <topicref href="ifrs08/IFRS08_BC59.dita" class="- map/topicref " navtitle="BC59"/>
+        </topicref>
+        <topicref href="ifrs08/IFRS08_gBC60-BC60.dita" class="- map/topicref " navtitle="Differences from SFAS 131">
+            <topicref href="ifrs08/IFRS08_BC60.dita" class="- map/topicref " navtitle="BC60"/>
+        </topicref>
+        <topicref href="ifrs08/IFRS08_gBC61-BC62.dita" class="- map/topicref " navtitle="Transitional provisions">
+            <topicref href="ifrs08/IFRS08_BC61.dita" class="- map/topicref " navtitle="BC61"/>
+            <topicref href="ifrs08/IFRS08_BC62.dita" class="- map/topicref " navtitle="BC62"/>
+        </topicref>
+    <topicref chunk="to-content" class="- map/topicref " navtitle="Appendices">
+        <topicref href="ifrs08/IFRS08_BC_APPA_TOC.dita" class="- map/topicref " navtitle="">
+            <topicref href="ifrs08/IFRS08_g41.-120..dita" outputclass="new_page" class="- map/topicref " navtitle="Background information and basis for conclusions of the US Financial Accounting Standards Board on SFAS 131">
+                <topicref href="ifrs08/IFRS08_g41.-41..dita" class="- map/topicref " navtitle="Introduction">
+                    <topicref href="ifrs08/IFRS08_BC_41..dita" class="- map/topicref " navtitle="41."/>
+                </topicref>
+                <topicref href="ifrs08/IFRS08_g42.-56..dita" class="- map/topicref " navtitle="Background Information">
+                    <topicref href="ifrs08/IFRS08_BC_42..dita" class="- map/topicref " navtitle="42."/>
+                    <topicref href="ifrs08/IFRS08_BC_43..dita" class="- map/topicref " navtitle="43."/>
+                    <topicref href="ifrs08/IFRS08_BC_44..dita" class="- map/topicref " navtitle="44."/>
+                    <topicref href="ifrs08/IFRS08_BC_45..dita" class="- map/topicref " navtitle="45."/>
+                    <topicref href="ifrs08/IFRS08_BC_46..dita" class="- map/topicref " navtitle="46."/>
+                    <topicref href="ifrs08/IFRS08_BC_47..dita" class="- map/topicref " navtitle="47."/>
+                    <topicref href="ifrs08/IFRS08_BC_48..dita" class="- map/topicref " navtitle="48."/>
+                    <topicref href="ifrs08/IFRS08_BC_49..dita" class="- map/topicref " navtitle="49."/>
+                    <topicref href="ifrs08/IFRS08_BC_50..dita" class="- map/topicref " navtitle="50."/>
+                    <topicref href="ifrs08/IFRS08_BC_51..dita" class="- map/topicref " navtitle="51."/>
+                    <topicref href="ifrs08/IFRS08_BC_52..dita" class="- map/topicref " navtitle="52."/>
+                    <topicref href="ifrs08/IFRS08_BC_53..dita" class="- map/topicref " navtitle="53."/>
+                    <topicref href="ifrs08/IFRS08_BC_54..dita" class="- map/topicref " navtitle="54."/>
+                    <topicref href="ifrs08/IFRS08_BC_55..dita" class="- map/topicref " navtitle="55."/>
+                    <topicref href="ifrs08/IFRS08_BC_56..dita" class="- map/topicref " navtitle="56."/>
+                </topicref>
+                <topicref href="ifrs08/IFRS08_g57.-80..dita" class="- map/topicref " navtitle="Defining Operating Segments of an Enterprise">
+                    <topicref href="ifrs08/IFRS08_BC_57..dita" class="- map/topicref " navtitle="57."/>
+                    <topicref href="ifrs08/IFRS08_BC_58..dita" class="- map/topicref " navtitle="58."/>
+                    <topicref href="ifrs08/IFRS08_BC_59..dita" class="- map/topicref " navtitle="59."/>
+                    <topicref href="ifrs08/IFRS08_BC_60..dita" class="- map/topicref " navtitle="60."/>
+                    <topicref href="ifrs08/IFRS08_BC_61..dita" class="- map/topicref " navtitle="61."/>
+                    <topicref href="ifrs08/IFRS08_BC_62..dita" class="- map/topicref " navtitle="62."/>
+                    <topicref href="ifrs08/IFRS08_BC_63..dita" class="- map/topicref " navtitle="63."/>
+                    <topicref href="ifrs08/IFRS08_BC_64..dita" class="- map/topicref " navtitle="64."/>
+                    <topicref href="ifrs08/IFRS08_BC_65..dita" class="- map/topicref " navtitle="65."/>
+                    <topicref href="ifrs08/IFRS08_BC_66..dita" class="- map/topicref " navtitle="66."/>
+                    <topicref href="ifrs08/IFRS08_BC_67..dita" class="- map/topicref " navtitle="67."/>
+                    <topicref href="ifrs08/IFRS08_BC_68..dita" class="- map/topicref " navtitle="68."/>
+                    <topicref href="ifrs08/IFRS08_BC_69..dita" class="- map/topicref " navtitle="69."/>
+                    <topicref href="ifrs08/IFRS08_BC_70..dita" class="- map/topicref " navtitle="70."/>
+                    <topicref href="ifrs08/IFRS08_g71.-72..dita" class="- map/topicref " navtitle="Reportable Segments">
+                        <topicref href="ifrs08/IFRS08_BC_71..dita" class="- map/topicref " navtitle="71."/>
+                        <topicref href="ifrs08/IFRS08_BC_72..dita" class="- map/topicref " navtitle="72."/>
+                    </topicref>
+                    <topicref href="ifrs08/IFRS08_g73.-74..dita" class="- map/topicref " navtitle="Aggregation of Similar Operating Segments">
+                        <topicref href="ifrs08/IFRS08_BC_73..dita" class="- map/topicref " navtitle="73."/>
+                        <topicref href="ifrs08/IFRS08_BC_74..dita" class="- map/topicref " navtitle="74."/>
+                    </topicref>
+                    <topicref href="ifrs08/IFRS08_g75.-78..dita" class="- map/topicref " navtitle="Quantitative Thresholds">
+                        <topicref href="ifrs08/IFRS08_BC_75..dita" class="- map/topicref " navtitle="75."/>
+                        <topicref href="ifrs08/IFRS08_BC_76..dita" class="- map/topicref " navtitle="76."/>
+                        <topicref href="ifrs08/IFRS08_BC_77..dita" class="- map/topicref " navtitle="77."/>
+                        <topicref href="ifrs08/IFRS08_BC_78..dita" class="- map/topicref " navtitle="78."/>
+                    </topicref>
+                    <topicref href="ifrs08/IFRS08_g79.-80..dita" class="- map/topicref " navtitle="Vertically Integrated Enterprises">
+                        <topicref href="ifrs08/IFRS08_BC_79..dita" class="- map/topicref " navtitle="79."/>
+                        <topicref href="ifrs08/IFRS08_BC_80..dita" class="- map/topicref " navtitle="80."/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifrs08/IFRS08_g81.-91..dita" class="- map/topicref " navtitle="Accounting Principles and Allocations">
+                    <topicref href="ifrs08/IFRS08_BC_81..dita" class="- map/topicref " navtitle="81."/>
+                    <topicref href="ifrs08/IFRS08_BC_82..dita" class="- map/topicref " navtitle="82."/>
+                    <topicref href="ifrs08/IFRS08_BC_83..dita" class="- map/topicref " navtitle="83."/>
+                    <topicref href="ifrs08/IFRS08_BC_84..dita" class="- map/topicref " navtitle="84."/>
+                    <topicref href="ifrs08/IFRS08_BC_85..dita" class="- map/topicref " navtitle="85."/>
+                    <topicref href="ifrs08/IFRS08_BC_86..dita" class="- map/topicref " navtitle="86."/>
+                    <topicref href="ifrs08/IFRS08_BC_87..dita" class="- map/topicref " navtitle="87."/>
+                    <topicref href="ifrs08/IFRS08_BC_88..dita" class="- map/topicref " navtitle="88."/>
+                    <topicref href="ifrs08/IFRS08_BC_89..dita" class="- map/topicref " navtitle="89."/>
+                    <topicref href="ifrs08/IFRS08_BC_90..dita" class="- map/topicref " navtitle="90."/>
+                    <topicref href="ifrs08/IFRS08_BC_91..dita" class="- map/topicref " navtitle="91."/>
+                </topicref>
+                <topicref href="ifrs08/IFRS08_g92.-100..dita" class="- map/topicref " navtitle="Information to Be Disclosed about Segments">
+                    <topicref href="ifrs08/IFRS08_BC_92..dita" class="- map/topicref " navtitle="92."/>
+                    <topicref href="ifrs08/IFRS08_BC_93..dita" class="- map/topicref " navtitle="93."/>
+                    <topicref href="ifrs08/IFRS08_BC_94..dita" class="- map/topicref " navtitle="94."/>
+                    <topicref href="ifrs08/IFRS08_BC_95..dita" class="- map/topicref " navtitle="95."/>
+                    <topicref href="ifrs08/IFRS08_BC_96..dita" class="- map/topicref " navtitle="96."/>
+                    <topicref href="ifrs08/IFRS08_BC_97..dita" class="- map/topicref " navtitle="97."/>
+                    <topicref href="ifrs08/IFRS08_g98.-99..dita" class="- map/topicref " navtitle="Interim Period Information">
+                        <topicref href="ifrs08/IFRS08_BC_98..dita" class="- map/topicref " navtitle="98."/>
+                        <topicref href="ifrs08/IFRS08_BC_99..dita" class="- map/topicref " navtitle="99."/>
+                    </topicref>
+                    <topicref href="ifrs08/IFRS08_g100.-100..dita" class="- map/topicref " navtitle="Restatement of Previously Reported Information">
+                        <topicref href="ifrs08/IFRS08_BC_100..dita" class="- map/topicref " navtitle="100."/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifrs08/IFRS08_g101.-108..dita" class="- map/topicref " navtitle="Enterprise‑Wide Disclosures">
+                    <topicref href="ifrs08/IFRS08_BC_101..dita" class="- map/topicref " navtitle="101."/>
+                    <topicref href="ifrs08/IFRS08_BC_102..dita" class="- map/topicref " navtitle="102."/>
+                    <topicref href="ifrs08/IFRS08_g103.-103..dita" class="- map/topicref " navtitle="Information about Products and Services">
+                        <topicref href="ifrs08/IFRS08_BC_103..dita" class="- map/topicref " navtitle="103."/>
+                    </topicref>
+                    <topicref href="ifrs08/IFRS08_g104.-107..dita" class="- map/topicref " navtitle="Information about Geographic Areas">
+                        <topicref href="ifrs08/IFRS08_BC_104..dita" class="- map/topicref " navtitle="104."/>
+                        <topicref href="ifrs08/IFRS08_BC_105..dita" class="- map/topicref " navtitle="105."/>
+                        <topicref href="ifrs08/IFRS08_BC_106..dita" class="- map/topicref " navtitle="106."/>
+                        <topicref href="ifrs08/IFRS08_BC_107..dita" class="- map/topicref " navtitle="107."/>
+                    </topicref>
+                    <topicref href="ifrs08/IFRS08_g108.-108..dita" class="- map/topicref " navtitle="Information about Major Customers">
+                        <topicref href="ifrs08/IFRS08_BC_108..dita" class="- map/topicref " navtitle="108."/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifrs08/IFRS08_g109.-111..dita" class="- map/topicref " navtitle="Competitive Harm">
+                    <topicref href="ifrs08/IFRS08_BC_109..dita" class="- map/topicref " navtitle="109."/>
+                    <topicref href="ifrs08/IFRS08_BC_110..dita" class="- map/topicref " navtitle="110."/>
+                    <topicref href="ifrs08/IFRS08_BC_111..dita" class="- map/topicref " navtitle="111."/>
+                </topicref>
+                <topicref href="ifrs08/IFRS08_g112.-114..dita" class="- map/topicref " navtitle="Cost‑Benefit Considerations">
+                    <topicref href="ifrs08/IFRS08_BC_112..dita" class="- map/topicref " navtitle="112."/>
+                    <topicref href="ifrs08/IFRS08_BC_113..dita" class="- map/topicref " navtitle="113."/>
+                    <topicref href="ifrs08/IFRS08_BC_114..dita" class="- map/topicref " navtitle="114."/>
+                </topicref>
+                <topicref href="ifrs08/IFRS08_g115.-118..dita" class="- map/topicref " navtitle="Applicability to Nonpublic Enterprises and Not‑for‑Profit Organizations">
+                    <topicref href="ifrs08/IFRS08_BC_115..dita" class="- map/topicref " navtitle="115."/>
+                    <topicref href="ifrs08/IFRS08_BC_116..dita" class="- map/topicref " navtitle="116."/>
+                    <topicref href="ifrs08/IFRS08_BC_117..dita" class="- map/topicref " navtitle="117."/>
+                    <topicref href="ifrs08/IFRS08_BC_118..dita" class="- map/topicref " navtitle="118."/>
+                </topicref>
+                <topicref href="ifrs08/IFRS08_g119.-120..dita" class="- map/topicref " navtitle="Effective Date and Transition">
+                    <topicref href="ifrs08/IFRS08_BC_119..dita" class="- map/topicref " navtitle="119."/>
+                    <topicref href="ifrs08/IFRS08_BC_120..dita" class="- map/topicref " navtitle="120."/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref class="- map/topicref ">
+            <topicref href="ifrs08/IFRS08_BC_APPB.dita" class="- map/topicref " navtitle="Appendix B Amendments to Basis for Conclusions on other IFRSs"/>
+        </topicref>
+    </topicref>
+        <topicref href="ifrs08/IFRS08_BC_DO0001.dita" class="- map/topicref " navtitle="Dissenting opinions">
+            <topicref href="ifrs08/IFRS08_sgDO1-DO5.dita" class="- map/topicref " navtitle="Dissent of Gilbert Gélard and James J Leisenring">
+                <topicref href="ifrs08/IFRS08_DO1.dita" class="- map/topicref " navtitle="DO1"/>
+                <topicref href="ifrs08/IFRS08_DO2.dita" class="- map/topicref " navtitle="DO2"/>
+                <topicref href="ifrs08/IFRS08_DO3.dita" class="- map/topicref " navtitle="DO3"/>
+                <topicref href="ifrs08/IFRS08_DO4.dita" class="- map/topicref " navtitle="DO4"/>
+                <topicref href="ifrs08/IFRS08_DO5.dita" class="- map/topicref " navtitle="DO5"/>
+            </topicref>
+            <topicref href="ifrs08/IFRS08_sgDO1-DO2.dita" outputclass="new_page" class="- map/topicref " navtitle="Dissent of Stephen Cooper from the amendment issued in April 2009">
+                <topicref href="ifrs08/IFRS08_DO1_a.dita" class="- map/topicref " navtitle="DO1"/>
+                <topicref href="ifrs08/IFRS08_DO2_V.dita" class="- map/topicref " navtitle="DO2"/>
+            </topicref>
+        </topicref>
+    </chapter>
+    
+    
+</bookmap>

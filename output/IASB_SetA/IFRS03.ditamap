@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IFRS03_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <booklibrary class="- topic/ph bookmap/booklibrary ">IFRS 3</booklibrary>
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Business
+            Combinations</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Standard</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IFRS 3</booknumber>
+        </bookid>
+        <document_type value="IFRS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2004-03-31" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2004-03-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ifrs-3-business-combinations" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="standard" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" id="IFRS03_CHK_FM" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ifrs03/IFRS03_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs03/IFRS03_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs03/IFRS03_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ifrs03/IFRS03_PRE.dita" chunk="to-content" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ifrs03/IFRS03_TOC.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+        <preface href="ifrs03/IFRS03_rubric.dita" class="- map/topicref bookmap/preface "/>
+    </frontmatter>
+    <chapter href="ifrs03/IFRS03_TI.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="IFRS 3 Business Combinations"><topicref href="ifrs03/IFRS03_rubric.dita" class="- map/topicref " navtitle="Rubric"/>
+        <topicref href="ifrs03/IFRS03_g1-1.dita" class="- map/topicref " navtitle="Objective">
+            <topicref href="ifrs03/IFRS03_1.dita" class="- map/topicref " navtitle="1"/>
+        </topicref>
+        <topicref href="ifrs03/IFRS03_g2-2A.dita" class="- map/topicref " navtitle="Scope">
+            <topicref href="ifrs03/IFRS03_2.dita" class="- map/topicref " navtitle="2"/>
+            <topicref href="ifrs03/IFRS03_2A.dita" class="- map/topicref " navtitle="2A"/>
+        </topicref>
+        <topicref href="ifrs03/IFRS03_g3-3.dita" class="- map/topicref " navtitle="Identifying a business combination">
+            <topicref href="ifrs03/IFRS03_3.dita" class="- map/topicref " navtitle="3"/>
+        </topicref>
+        <topicref href="ifrs03/IFRS03_g4-53.dita" class="- map/topicref " navtitle="The acquisition method">
+            <topicref href="ifrs03/IFRS03_4.dita" class="- map/topicref " navtitle="4"/>
+            <topicref href="ifrs03/IFRS03_5.dita" class="- map/topicref " navtitle="5"/>
+            <topicref href="ifrs03/IFRS03_g6-7.dita" class="- map/topicref " navtitle="Identifying the acquirer">
+                <topicref href="ifrs03/IFRS03_6.dita" class="- map/topicref " navtitle="6"/>
+                <topicref href="ifrs03/IFRS03_7.dita" class="- map/topicref " navtitle="7"/>
+            </topicref>
+            <topicref href="ifrs03/IFRS03_g8-9.dita" class="- map/topicref " navtitle="Determining the acquisition date">
+                <topicref href="ifrs03/IFRS03_8.dita" class="- map/topicref " navtitle="8"/>
+                <topicref href="ifrs03/IFRS03_9.dita" class="- map/topicref " navtitle="9"/>
+            </topicref>
+            <topicref href="ifrs03/IFRS03_g10-31A.dita" class="- map/topicref " navtitle="Recognising and measuring the identifiable assets acquired, the liabilities assumed and any non‑controlling interest in the acquiree">
+                <topicref href="ifrs03/IFRS03_g10-17.dita" class="- map/topicref " navtitle="Recognition principle">
+                    <topicref href="ifrs03/IFRS03_10.dita" class="- map/topicref " navtitle="10"/>
+                    <topicref href="ifrs03/IFRS03_g11-14.dita" class="- map/topicref " navtitle="Recognition conditions">
+                        <topicref href="ifrs03/IFRS03_11.dita" class="- map/topicref " navtitle="11"/>
+                        <topicref href="ifrs03/IFRS03_12.dita" class="- map/topicref " navtitle="12"/>
+                        <topicref href="ifrs03/IFRS03_13.dita" class="- map/topicref " navtitle="13"/>
+                        <topicref href="ifrs03/IFRS03_14.dita" class="- map/topicref " navtitle="14"/>
+                    </topicref>
+                    <topicref href="ifrs03/IFRS03_g15-17.dita" class="- map/topicref " navtitle="Classifying or designating identifiable assets acquired and liabilities assumed in a business combination">
+                        <topicref href="ifrs03/IFRS03_15.dita" class="- map/topicref " navtitle="15"/>
+                        <topicref href="ifrs03/IFRS03_16.dita" class="- map/topicref " navtitle="16"/>
+                        <topicref href="ifrs03/IFRS03_17.dita" class="- map/topicref " navtitle="17"/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifrs03/IFRS03_g18-20.dita" class="- map/topicref " navtitle="Measurement principle">
+                    <topicref href="ifrs03/IFRS03_18.dita" class="- map/topicref " navtitle="18"/>
+                    <topicref href="ifrs03/IFRS03_19.dita" class="- map/topicref " navtitle="19"/>
+                    <topicref href="ifrs03/IFRS03_20.dita" class="- map/topicref " navtitle="20"/>
+                </topicref>
+                <topicref href="ifrs03/IFRS03_g21-31.dita" class="- map/topicref " navtitle="Exceptions to the recognition or measurement principles">
+                    <topicref href="ifrs03/IFRS03_21.dita" class="- map/topicref " navtitle="21"/>
+                    <topicref href="ifrs03/IFRS03_g22-23.dita" class="- map/topicref " navtitle="Exceptions to the recognition principle">
+                        <topicref href="ifrs03/IFRS03_g21A-21C.dita" base="IFRS2020-1" class="- map/topicref " navtitle="Liabilities and contingent liabilities within the scope of IAS 37 or IFRIC 21">
+                            <topicref href="ifrs03/IFRS03_21A.dita" class="- map/topicref " navtitle="21A"/>
+                            <topicref href="ifrs03/IFRS03_21B.dita" class="- map/topicref " navtitle="21B"/>
+                            <topicref href="ifrs03/IFRS03_21C.dita" class="- map/topicref " navtitle="21C"/>
+                        </topicref>
+                        <topicref href="ifrs03/IFRS03_sg22-23.dita" class="- map/topicref " navtitle="Contingent liabilities and contingent assets">
+                            <topicref href="ifrs03/IFRS03_22.dita" class="- map/topicref " navtitle="22"/>
+                            <topicref href="ifrs03/IFRS03_23.dita" class="- map/topicref " navtitle="23"/>
+                            <topicref href="ifrs03/IFRS03_23A.dita" base="IFRS2020-1" class="- map/topicref " navtitle="23A"/>
+                        </topicref>
+                    </topicref>
+                    <topicref href="ifrs03/IFRS03_g24-28B.dita" class="- map/topicref " navtitle="Exceptions to both the recognition and measurement principles">
+                        <topicref href="ifrs03/IFRS03_g24-25.dita" class="- map/topicref " navtitle="Income taxes">
+                            <topicref href="ifrs03/IFRS03_24.dita" class="- map/topicref " navtitle="24"/>
+                            <topicref href="ifrs03/IFRS03_25.dita" class="- map/topicref " navtitle="25"/>
+                        </topicref>
+                        <topicref href="ifrs03/IFRS03_g26-26.dita" class="- map/topicref " navtitle="Employee benefits">
+                            <topicref href="ifrs03/IFRS03_26.dita" class="- map/topicref " navtitle="26"/>
+                        </topicref>
+                        <topicref href="ifrs03/IFRS03_g27-28.dita" class="- map/topicref " navtitle="Indemnification assets">
+                            <topicref href="ifrs03/IFRS03_27.dita" class="- map/topicref " navtitle="27"/>
+                            <topicref href="ifrs03/IFRS03_28.dita" class="- map/topicref " navtitle="28"/>
+                        </topicref>
+                        <topicref href="ifrs03/IFRS03_g28A-28B.dita" class="- map/topicref " navtitle="Leases in which the acquiree is the lessee">
+                            <topicref href="ifrs03/IFRS03_28A.dita" class="- map/topicref " navtitle="28A"/>
+                            <topicref href="ifrs03/IFRS03_28B.dita" class="- map/topicref " navtitle="28B"/>
+                        </topicref>
+                    </topicref>
+                    <topicref href="ifrs03/IFRS03_g29-31.dita" class="- map/topicref " navtitle="Exceptions to the measurement principle">
+                        <topicref href="ifrs03/IFRS03_g29-29.dita" class="- map/topicref " navtitle="Reacquired rights">
+                            <topicref href="ifrs03/IFRS03_29.dita" class="- map/topicref " navtitle="29"/>
+                        </topicref>
+                        <topicref href="ifrs03/IFRS03_g30-30.dita" class="- map/topicref " navtitle="Share‑based payment transactions">
+                            <topicref href="ifrs03/IFRS03_30.dita" class="- map/topicref " navtitle="30"/>
+                        </topicref>
+                        <topicref href="ifrs03/IFRS03_g31-31.dita" class="- map/topicref " navtitle="Assets held for sale">
+                            <topicref href="ifrs03/IFRS03_31.dita" class="- map/topicref " navtitle="31"/>
+                        </topicref>
+                        <topicref href="ifrs03/IFRS03_g31A-31A.dita" class="- map/topicref " navtitle="Insurance contracts">
+                            <topicref href="ifrs03/IFRS03_31A.dita" class="- map/topicref " navtitle="31A"/>
+                        </topicref>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs03/IFRS03_g32-40.dita" class="- map/topicref " navtitle="Recognising and measuring goodwill or a gain from a bargain purchase">
+                <topicref href="ifrs03/IFRS03_32.dita" class="- map/topicref " navtitle="32"/>
+                <topicref href="ifrs03/IFRS03_33.dita" class="- map/topicref " navtitle="33"/>
+                <topicref href="ifrs03/IFRS03_g34-36.dita" class="- map/topicref " navtitle="Bargain purchases">
+                    <topicref href="ifrs03/IFRS03_34.dita" class="- map/topicref " navtitle="34"/>
+                    <topicref href="ifrs03/IFRS03_35.dita" class="- map/topicref " navtitle="35"/>
+                    <topicref href="ifrs03/IFRS03_36.dita" class="- map/topicref " navtitle="36"/>
+                </topicref>
+                <topicref href="ifrs03/IFRS03_g37-40.dita" class="- map/topicref " navtitle="Consideration transferred">
+                    <topicref href="ifrs03/IFRS03_37.dita" class="- map/topicref " navtitle="37"/>
+                    <topicref href="ifrs03/IFRS03_38.dita" class="- map/topicref " navtitle="38"/>
+                    <topicref href="ifrs03/IFRS03_g39-40.dita" class="- map/topicref " navtitle="Contingent consideration">
+                        <topicref href="ifrs03/IFRS03_39.dita" class="- map/topicref " navtitle="39"/>
+                        <topicref href="ifrs03/IFRS03_40.dita" class="- map/topicref " navtitle="40"/>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs03/IFRS03_g41-44.dita" class="- map/topicref " navtitle="Additional guidance for applying the acquisition method to particular types of business combinations">
+                <topicref href="ifrs03/IFRS03_g41-42A.dita" class="- map/topicref " navtitle="A business combination achieved in stages">
+                    <topicref href="ifrs03/IFRS03_41.dita" class="- map/topicref " navtitle="41"/>
+                    <topicref href="ifrs03/IFRS03_42.dita" class="- map/topicref " navtitle="42"/>
+                    <topicref href="ifrs03/IFRS03_42A.dita" class="- map/topicref " navtitle="42A"/>
+                </topicref>
+                <topicref href="ifrs03/IFRS03_g43-44.dita" class="- map/topicref " navtitle="A business combination achieved without the transfer of consideration">
+                    <topicref href="ifrs03/IFRS03_43.dita" class="- map/topicref " navtitle="43"/>
+                    <topicref href="ifrs03/IFRS03_44.dita" class="- map/topicref " navtitle="44"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs03/IFRS03_g45-50.dita" class="- map/topicref " navtitle="Measurement period">
+                <topicref href="ifrs03/IFRS03_45.dita" class="- map/topicref " navtitle="45"/>
+                <topicref href="ifrs03/IFRS03_46.dita" class="- map/topicref " navtitle="46"/>
+                <topicref href="ifrs03/IFRS03_47.dita" class="- map/topicref " navtitle="47"/>
+                <topicref href="ifrs03/IFRS03_48.dita" class="- map/topicref " navtitle="48"/>
+                <topicref href="ifrs03/IFRS03_49.dita" class="- map/topicref " navtitle="49"/>
+                <topicref href="ifrs03/IFRS03_50.dita" class="- map/topicref " navtitle="50"/>
+            </topicref>
+            <topicref href="ifrs03/IFRS03_g51-53.dita" class="- map/topicref " navtitle="Determining what is part of the business combination transaction">
+                <topicref href="ifrs03/IFRS03_51.dita" class="- map/topicref " navtitle="51"/>
+                <topicref href="ifrs03/IFRS03_52.dita" class="- map/topicref " navtitle="52"/>
+                <topicref href="ifrs03/IFRS03_g53-53.dita" class="- map/topicref " navtitle="Acquisition‑related costs">
+                    <topicref href="ifrs03/IFRS03_53.dita" class="- map/topicref " navtitle="53"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs03/IFRS03_g54-58.dita" class="- map/topicref " navtitle="Subsequent measurement and accounting">
+            <topicref href="ifrs03/IFRS03_54.dita" class="- map/topicref " navtitle="54"/>
+            <topicref href="ifrs03/IFRS03_g55-55.dita" class="- map/topicref " navtitle="Reacquired rights">
+                <topicref href="ifrs03/IFRS03_55.dita" class="- map/topicref " navtitle="55"/>
+            </topicref>
+            <topicref href="ifrs03/IFRS03_g56-56.dita" class="- map/topicref " navtitle="Contingent liabilities">
+                <topicref href="ifrs03/IFRS03_56.dita" class="- map/topicref " navtitle="56"/>
+            </topicref>
+            <topicref href="ifrs03/IFRS03_g57-57.dita" class="- map/topicref " navtitle="Indemnification assets">
+                <topicref href="ifrs03/IFRS03_57.dita" class="- map/topicref " navtitle="57"/>
+            </topicref>
+            <topicref href="ifrs03/IFRS03_g58-58.dita" class="- map/topicref " navtitle="Contingent consideration">
+                <topicref href="ifrs03/IFRS03_58.dita" class="- map/topicref " navtitle="58"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs03/IFRS03_g59-63.dita" class="- map/topicref " navtitle="Disclosures">
+            <topicref href="ifrs03/IFRS03_59.dita" class="- map/topicref " navtitle="59"/>
+            <topicref href="ifrs03/IFRS03_60.dita" class="- map/topicref " navtitle="60"/>
+            <topicref href="ifrs03/IFRS03_61.dita" class="- map/topicref " navtitle="61"/>
+            <topicref href="ifrs03/IFRS03_62.dita" class="- map/topicref " navtitle="62"/>
+            <topicref href="ifrs03/IFRS03_63.dita" class="- map/topicref " navtitle="63"/>
+        </topicref>
+        <topicref href="ifrs03/IFRS03_g64-67.dita" class="- map/topicref " navtitle="Effective date and transition">
+            <topicref href="ifrs03/IFRS03_g64-64O.dita" class="- map/topicref " navtitle="Effective date">
+                <topicref href="ifrs03/IFRS03_64.dita" class="- map/topicref " navtitle="64"/>
+                <topicref href="ifrs03/IFRS03_64A_DELETED.dita" class="- map/topicref " navtitle="64A">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="ifrs03/IFRS03_64B.dita" class="- map/topicref " navtitle="64B"/>
+                <topicref href="ifrs03/IFRS03_64C.dita" class="- map/topicref " navtitle="64C"/>
+                <topicref href="ifrs03/IFRS03_64D_DELETED.dita" class="- map/topicref " navtitle="64D">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="ifrs03/IFRS03_64E.dita" class="- map/topicref " navtitle="64E"/>
+                <topicref href="ifrs03/IFRS03_64F.dita" class="- map/topicref " navtitle="64F"/>
+                <topicref href="ifrs03/IFRS03_64G.dita" class="- map/topicref " navtitle="64G"/>
+                <topicref href="ifrs03/IFRS03_64H_DELETED.dita" class="- map/topicref " navtitle="64H">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="ifrs03/IFRS03_64I.dita" class="- map/topicref " navtitle="64I"/>
+                <topicref href="ifrs03/IFRS03_64J.dita" class="- map/topicref " navtitle="64J"/>
+                <topicref href="ifrs03/IFRS03_64K.dita" class="- map/topicref " navtitle="64K">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="ifrs03/IFRS03_64L.dita" class="- map/topicref " navtitle="64L">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="ifrs03/IFRS03_64M.dita" class="- map/topicref " navtitle="64M">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="ifrs03/IFRS03_64N.dita" class="- map/topicref " navtitle="64N">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="ifrs03/IFRS03_64O.dita" class="- map/topicref " navtitle="64O"/>
+                <topicref href="ifrs03/IFRS03_64P.dita" class="- map/topicref " navtitle="64P">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="ifrs03/IFRS03_64Q.dita" base="IFRS2020-1" class="- map/topicref " navtitle="64Q"/>
+            </topicref>
+            <topicref href="ifrs03/IFRS03_g65-67.dita" class="- map/topicref " navtitle="Transition">
+                <topicref href="ifrs03/IFRS03_65.dita" class="- map/topicref " navtitle="65"/>
+                <topicref href="ifrs03/IFRS03_65A.dita" class="- map/topicref " navtitle="65A"/>
+                <topicref href="ifrs03/IFRS03_65B.dita" class="- map/topicref " navtitle="65B"/>
+                <topicref href="ifrs03/IFRS03_65C.dita" class="- map/topicref " navtitle="65C"/>
+                <topicref href="ifrs03/IFRS03_65D.dita" class="- map/topicref " navtitle="65D"/>
+                <topicref href="ifrs03/IFRS03_65E.dita" class="- map/topicref " navtitle="65E"/>
+                <topicref href="ifrs03/IFRS03_66.dita" class="- map/topicref " navtitle="66"/>
+                <topicref href="ifrs03/IFRS03_g67-67.dita" class="- map/topicref " navtitle="Income taxes">
+                    <topicref href="ifrs03/IFRS03_67.dita" class="- map/topicref " navtitle="67"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs03/IFRS03_g67A-67A.dita" class="- map/topicref " navtitle="Reference to IFRS 9">
+            <topicref href="ifrs03/IFRS03_67A.dita" class="- map/topicref " navtitle="67A"/>
+        </topicref>
+        <topicref href="ifrs03/IFRS03_g68-68.dita" class="- map/topicref " navtitle="Withdrawal of IFRS 3 (2004)">
+            <topicref href="ifrs03/IFRS03_68.dita" class="- map/topicref " navtitle="68"/>
+        </topicref>
+    <topicref chunk="to-content" class="- map/topicref " navtitle="Appendices">
+        <topicref href="ifrs03/IFRS03_APPA.dita" class="- map/topicref " navtitle="Appendix A Defined terms">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="A" class="- topic/data "/>
+            </topicmeta>
+        </topicref>
+        <topicref href="ifrs03/IFRS03_APPB.dita" class="- map/topicref " navtitle="Appendix B Application guidance">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="B" class="- topic/data "/>
+            </topicmeta>
+            <topicref href="ifrs03/IFRS03_gB1-B4.dita" class="- map/topicref " navtitle="Business combinations of entities under common control (application of paragraph 2(c))">
+                <topicref href="ifrs03/IFRS03_B1.dita" class="- map/topicref " navtitle="B1"/>
+                <topicref href="ifrs03/IFRS03_B2.dita" class="- map/topicref " navtitle="B2"/>
+                <topicref href="ifrs03/IFRS03_B3.dita" class="- map/topicref " navtitle="B3"/>
+                <topicref href="ifrs03/IFRS03_B4.dita" class="- map/topicref " navtitle="B4"/>
+            </topicref>
+            <topicref href="ifrs03/IFRS03_gB5-B6.dita" class="- map/topicref " navtitle="Identifying a business combination (application of paragraph 3)">
+                <topicref href="ifrs03/IFRS03_B5.dita" class="- map/topicref " navtitle="B5"/>
+                <topicref href="ifrs03/IFRS03_B6.dita" class="- map/topicref " navtitle="B6"/>
+            </topicref>
+            <topicref href="ifrs03/IFRS03_gB7-B12.dita" class="- map/topicref " navtitle="Definition of a business (application of paragraph 3)">
+                <topicref href="ifrs03/IFRS03_B7.dita" class="- map/topicref " navtitle="B7"/>
+                <topicref href="ifrs03/IFRS03_gB7A-B7C.dita" class="- map/topicref " navtitle="Optional test to identify concentration of fair value">
+                    <topicmeta class="- map/topicmeta "/>
+                    <topicref href="ifrs03/IFRS03_B7A.dita" class="- map/topicref " navtitle="B7A">
+                        <topicmeta class="- map/topicmeta "/>
+                    </topicref>
+                    <topicref href="ifrs03/IFRS03_B7B.dita" class="- map/topicref " navtitle="B7B">
+                        <topicmeta class="- map/topicmeta "/>
+                    </topicref>
+                    <topicref href="ifrs03/IFRS03_B7C.dita" class="- map/topicref " navtitle="B7C">
+                        <topicmeta class="- map/topicmeta "/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifrs03/IFRS03_gB8-B11.dita" class="- map/topicref " navtitle="Elements of a business">
+                    <topicmeta class="- map/topicmeta "/>
+                    <topicref href="ifrs03/IFRS03_B8.dita" class="- map/topicref " navtitle="B8">
+                        <topicmeta class="- map/topicmeta "/>
+                    </topicref>
+                    <topicref href="ifrs03/IFRS03_B8A.dita" class="- map/topicref " navtitle="B8A">
+                        <topicmeta class="- map/topicmeta "/>
+                    </topicref>
+                    <topicref href="ifrs03/IFRS03_B9.dita" class="- map/topicref " navtitle="B9">
+                        <topicmeta class="- map/topicmeta "/>
+                    </topicref>
+                    <topicref href="ifrs03/IFRS03_B10_DELETED.dita" class="- map/topicref " navtitle="B10">
+                        <topicmeta class="- map/topicmeta "/>
+                    </topicref>
+                    <topicref href="ifrs03/IFRS03_B11.dita" class="- map/topicref " navtitle="B11">
+                        <topicmeta class="- map/topicmeta "/>
+                    </topicref>
+                </topicref>
+                <topicref href="ifrs03/IFRS03_gB12-B12D.dita" class="- map/topicref " navtitle="Assessing whether an acquired process is substantive">
+                    <topicmeta class="- map/topicmeta "/>
+                    <topicref href="ifrs03/IFRS03_B12.dita" class="- map/topicref " navtitle="B12">
+                        <topicmeta class="- map/topicmeta "/>
+                    </topicref>
+                    <topicref href="ifrs03/IFRS03_B12A.dita" class="- map/topicref " navtitle="B12A">
+                        <topicmeta class="- map/topicmeta "/>
+                    </topicref>
+                    <topicref href="ifrs03/IFRS03_B12B.dita" class="- map/topicref " navtitle="B12B">
+                        <topicmeta class="- map/topicmeta "/>
+                    </topicref>
+                    <topicref href="ifrs03/IFRS03_B12C.dita" class="- map/topicref " navtitle="B12C">
+                        <topicmeta class="- map/topicmeta "/>
+                    </topicref>
+                    <topicref href="ifrs03/IFRS03_B12D.dita" class="- map/topicref " navtitle="B12D">
+                        <topicmeta class="- map/topicmeta "/>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs03/IFRS03_gB13-B18.dita" class="- map/topicref " navtitle="Identifying the acquirer (application of paragraphs 6 and 7)">
+                <topicref href="ifrs03/IFRS03_B13.dita" class="- map/topicref " navtitle="B13"/>
+                <topicref href="ifrs03/IFRS03_B14.dita" class="- map/topicref " navtitle="B14">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="ifrs03/IFRS03_B15.dita" class="- map/topicref " navtitle="B15"/>
+                <topicref href="ifrs03/IFRS03_B16.dita" class="- map/topicref " navtitle="B16"/>
+                <topicref href="ifrs03/IFRS03_B17.dita" class="- map/topicref " navtitle="B17"/>
+                <topicref href="ifrs03/IFRS03_B18.dita" class="- map/topicref " navtitle="B18"/>
+            </topicref>
+            <topicref href="ifrs03/IFRS03_gB19-B27.dita" class="- map/topicref " navtitle="Reverse acquisitions">
+                <topicref href="ifrs03/IFRS03_B19.dita" class="- map/topicref " navtitle="B19"/>
+                <topicref href="ifrs03/IFRS03_gB20-B20.dita" class="- map/topicref " navtitle="Measuring the consideration transferred">
+                    <topicref href="ifrs03/IFRS03_B20.dita" class="- map/topicref " navtitle="B20"/>
+                </topicref>
+                <topicref href="ifrs03/IFRS03_gB21-B22.dita" class="- map/topicref " navtitle="Preparation and presentation of consolidated financial statements">
+                    <topicref href="ifrs03/IFRS03_B21.dita" class="- map/topicref " navtitle="B21"/>
+                    <topicref href="ifrs03/IFRS03_B22.dita" class="- map/topicref " navtitle="B22"/>
+                </topicref>
+                <topicref href="ifrs03/IFRS03_gB23-B24.dita" class="- map/topicref " navtitle="Non‑controlling interest">
+                    <topicref href="ifrs03/IFRS03_B23.dita" class="- map/topicref " navtitle="B23"/>
+                    <topicref href="ifrs03/IFRS03_B24.dita" class="- map/topicref " navtitle="B24"/>
+                </topicref>
+                <topicref href="ifrs03/IFRS03_gB25-B27.dita" class="- map/topicref " navtitle="Earnings per share">
+                    <topicref href="ifrs03/IFRS03_B25.dita" class="- map/topicref " navtitle="B25"/>
+                    <topicref href="ifrs03/IFRS03_B26.dita" class="- map/topicref " navtitle="B26"/>
+                    <topicref href="ifrs03/IFRS03_B27.dita" class="- map/topicref " navtitle="B27"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs03/IFRS03_gB28-B40.dita" class="- map/topicref " navtitle="Recognising particular assets acquired and liabilities assumed (application of paragraphs 10–13)">
+                <topicref href="ifrs03/IFRS03_B28-B30_DELETED.dita" class="- map/topicref " navtitle="B28–B30"/>
+                <topicref href="ifrs03/IFRS03_gB31-B40.dita" class="- map/topicref " navtitle="Intangible assets">
+                    <topicref href="ifrs03/IFRS03_B31.dita" class="- map/topicref " navtitle="B31"/>
+                    <topicref href="ifrs03/IFRS03_B32.dita" class="- map/topicref " navtitle="B32"/>
+                    <topicref href="ifrs03/IFRS03_B33.dita" class="- map/topicref " navtitle="B33"/>
+                    <topicref href="ifrs03/IFRS03_B34.dita" class="- map/topicref " navtitle="B34"/>
+                    <topicref href="ifrs03/IFRS03_gB35-B36.dita" class="- map/topicref " navtitle="Reacquired rights">
+                        <topicref href="ifrs03/IFRS03_B35.dita" class="- map/topicref " navtitle="B35"/>
+                        <topicref href="ifrs03/IFRS03_B36.dita" class="- map/topicref " navtitle="B36"/>
+                    </topicref>
+                    <topicref href="ifrs03/IFRS03_gB37-B40.dita" class="- map/topicref " navtitle="Assembled workforce and other items that are not identifiable">
+                        <topicref href="ifrs03/IFRS03_B37.dita" class="- map/topicref " navtitle="B37"/>
+                        <topicref href="ifrs03/IFRS03_B38.dita" class="- map/topicref " navtitle="B38"/>
+                        <topicref href="ifrs03/IFRS03_B39.dita" class="- map/topicref " navtitle="B39"/>
+                        <topicref href="ifrs03/IFRS03_B40.dita" class="- map/topicref " navtitle="B40"/>
+                    </topicref>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs03/IFRS03_gB41-B45.dita" class="- map/topicref " navtitle="Measuring the fair value of particular identifiable assets and a non‑controlling interest in an acquiree (application of paragraphs 18 and 19)">
+                <topicref href="ifrs03/IFRS03_gB41-B41.dita" class="- map/topicref " navtitle="Assets with uncertain cash flows (valuation allowances)">
+                    <topicref href="ifrs03/IFRS03_B41.dita" class="- map/topicref " navtitle="B41"/>
+                </topicref>
+                <topicref href="ifrs03/IFRS03_gB42-B42.dita" class="- map/topicref " navtitle="Assets subject to operating leases in which the acquiree is the lessor">
+                    <topicref href="ifrs03/IFRS03_B42.dita" class="- map/topicref " navtitle="B42"/>
+                </topicref>
+                <topicref href="ifrs03/IFRS03_gB43-B43.dita" class="- map/topicref " navtitle="Assets that the acquirer intends not to use or to use in a way that is different from the way other market participants would use them">
+                    <topicref href="ifrs03/IFRS03_B43.dita" class="- map/topicref " navtitle="B43"/>
+                </topicref>
+                <topicref href="ifrs03/IFRS03_gB44-B45.dita" class="- map/topicref " navtitle="Non‑controlling interest in an acquiree">
+                    <topicref href="ifrs03/IFRS03_B44.dita" class="- map/topicref " navtitle="B44"/>
+                    <topicref href="ifrs03/IFRS03_B45.dita" class="- map/topicref " navtitle="B45"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs03/IFRS03_gB46-B49.dita" class="- map/topicref " navtitle="Measuring goodwill or a gain from a bargain purchase">
+                <topicref href="ifrs03/IFRS03_gB46-B46.dita" class="- map/topicref " navtitle="Measuring the acquisition‑date fair value of the acquirer’s interest in the acquiree using valuation techniques (application of paragraph 33)">
+                    <topicref href="ifrs03/IFRS03_B46.dita" class="- map/topicref " navtitle="B46"/>
+                </topicref>
+                <topicref href="ifrs03/IFRS03_gB47-B49.dita" class="- map/topicref " navtitle="Special considerations in applying the acquisition method to combinations of mutual entities (application of paragraph 33)">
+                    <topicref href="ifrs03/IFRS03_B47.dita" class="- map/topicref " navtitle="B47"/>
+                    <topicref href="ifrs03/IFRS03_B48.dita" class="- map/topicref " navtitle="B48"/>
+                    <topicref href="ifrs03/IFRS03_B49.dita" class="- map/topicref " navtitle="B49"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs03/IFRS03_gB50-B62B.dita" class="- map/topicref " navtitle="Determining what is part of the business combination transaction (application of paragraphs 51 and 52)">
+                <topicref href="ifrs03/IFRS03_B50.dita" class="- map/topicref " navtitle="B50"/>
+                <topicref href="ifrs03/IFRS03_gB51-B53.dita" class="- map/topicref " navtitle="Effective settlement of a pre‑existing relationship between the acquirer and acquiree in a business combination (application of paragraph 52(a))">
+                    <topicref href="ifrs03/IFRS03_B51.dita" class="- map/topicref " navtitle="B51"/>
+                    <topicref href="ifrs03/IFRS03_B52.dita" class="- map/topicref " navtitle="B52"/>
+                    <topicref href="ifrs03/IFRS03_B53.dita" class="- map/topicref " navtitle="B53"/>
+                </topicref>
+                <topicref href="ifrs03/IFRS03_gB54-B55.dita" class="- map/topicref " navtitle="Arrangements for contingent payments to employees or selling shareholders (application of paragraph 52(b))">
+                    <topicref href="ifrs03/IFRS03_B54.dita" class="- map/topicref " navtitle="B54"/>
+                    <topicref href="ifrs03/IFRS03_B55.dita" class="- map/topicref " navtitle="B55"/>
+                </topicref>
+                <topicref href="ifrs03/IFRS03_gB56-B62.dita" class="- map/topicref " navtitle="Acquirer share‑based payment awards exchanged for awards held by the acquiree’s employees (application of paragraph 52(b))">
+                    <topicref href="ifrs03/IFRS03_B56.dita" class="- map/topicref " navtitle="B56"/>
+                    <topicref href="ifrs03/IFRS03_B57.dita" class="- map/topicref " navtitle="B57"/>
+                    <topicref href="ifrs03/IFRS03_B58.dita" class="- map/topicref " navtitle="B58"/>
+                    <topicref href="ifrs03/IFRS03_B59.dita" class="- map/topicref " navtitle="B59"/>
+                    <topicref href="ifrs03/IFRS03_B60.dita" class="- map/topicref " navtitle="B60"/>
+                    <topicref href="ifrs03/IFRS03_B61.dita" class="- map/topicref " navtitle="B61"/>
+                    <topicref href="ifrs03/IFRS03_B62.dita" class="- map/topicref " navtitle="B62"/>
+                </topicref>
+                <topicref href="ifrs03/IFRS03_gB62A-B62B.dita" class="- map/topicref " navtitle="Equity‑settled share‑based payment transactions of the acquiree">
+                    <topicref href="ifrs03/IFRS03_B62A.dita" class="- map/topicref " navtitle="B62A"/>
+                    <topicref href="ifrs03/IFRS03_B62B.dita" class="- map/topicref " navtitle="B62B"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs03/IFRS03_gB63-B63.dita" class="- map/topicref " navtitle="Other IFRSs that provide guidance on subsequent measurement and accounting (application of paragraph 54)">
+                <topicref href="ifrs03/IFRS03_B63.dita" class="- map/topicref " navtitle="B63"/>
+            </topicref>
+            <topicref href="ifrs03/IFRS03_gB64-B67.dita" class="- map/topicref " navtitle="Disclosures (application of paragraphs 59 and 61)">
+                <topicref href="ifrs03/IFRS03_B64.dita" class="- map/topicref " navtitle="B64"/>
+                <topicref href="ifrs03/IFRS03_B65.dita" class="- map/topicref " navtitle="B65"/>
+                <topicref href="ifrs03/IFRS03_B66.dita" class="- map/topicref " navtitle="B66"/>
+                <topicref href="ifrs03/IFRS03_B67.dita" class="- map/topicref " navtitle="B67"/>
+            </topicref>
+            <topicref href="ifrs03/IFRS03_gB68-B69.dita" class="- map/topicref " navtitle="Transitional provisions for business combinations involving only mutual entities or by contract alone (application of paragraph 66)">
+                <topicref href="ifrs03/IFRS03_B68.dita" class="- map/topicref " navtitle="B68"/>
+                <topicref href="ifrs03/IFRS03_B69.dita" class="- map/topicref " navtitle="B69"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs03/IFRS03_APPC.dita" class="- map/topicref " navtitle="Appendix C Amendments to other IFRSs">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="C" class="- topic/data "/>
+            </topicmeta>
+        </topicref>
+    </topicref>
+        <topicref href="ifrs03/IFRS03_BAJan2008.dita" class="- map/topicref " navtitle="Approval by the Board of IFRS 3 issued in January 2008"/>
+        <topicref href="ifrs03/IFRS03_BAOct2018.dita" class="- map/topicref " navtitle="Approval by the Board of Definition of a Business issued in October     2018"/>
+        <topicref href="ifrs03/IFRS03_BAMay2020.dita" base="IFRS2020-1" class="- map/topicref " navtitle="Approval by the Board of Reference to the Conceptual Framework issued in May 2020"/>
+    </chapter>
+    
+    
+</bookmap>

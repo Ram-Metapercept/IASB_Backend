@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IFRS07_IG_CHK_ALL" chunk="to-content" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Financial Instruments:
+            Disclosures</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Implementation Guidance</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IFRS 7</booknumber>
+        </bookid>
+        <document_type value="IFRS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2007-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2005-08-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ifrs-7-financial-instruments-disclosures" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="implementation-guidance" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ifrs07/IFRS07_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs07/IFRS07_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs07/IFRS07_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ifrs07/IFRS07_PartB.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ifrs07/IFRS07_IG_TOC.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+    </frontmatter>
+    <chapter href="ifrs07/IFRS07_TI0096.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Guidance on implementing IFRS 7 Financial Instruments: Disclosures">
+        <topicref href="ifrs07/IFRS07_gIG1-IG4.dita" class="- map/topicref " navtitle="Introduction">
+            <topicref href="ifrs07/IFRS07_IG1.dita" class="- map/topicref " navtitle="IG1"/>
+            <topicref href="ifrs07/IFRS07_IG2.dita" class="- map/topicref " navtitle="IG2"/>
+            <topicref href="ifrs07/IFRS07_IG3-IG4_DELETED.dita" class="- map/topicref " navtitle="IG3–IG4"/>
+        </topicref>
+        <topicref href="ifrs07/IFRS07_gIG5-IG6.dita" class="- map/topicref " navtitle="Classes of financial instruments and level of disclosure (paragraphs 6 and B1–B3)">
+            <topicref href="ifrs07/IFRS07_IG5.dita" class="- map/topicref " navtitle="IG5"/>
+            <topicref href="ifrs07/IFRS07_IG6.dita" class="- map/topicref " navtitle="IG6"/>
+        </topicref>
+        <topicref href="ifrs07/IFRS07_gIG7-IG14.dita" class="- map/topicref " navtitle="Significance of financial instruments for financial position and performance (paragraphs 7–30, B4 and B5)">
+            <topicref href="ifrs07/IFRS07_IG7-IG11_DELETED.dita" class="- map/topicref " navtitle="IG7–IG11"/>
+            <topicref href="ifrs07/IFRS07_gIG12-IG12.dita" class="- map/topicref " navtitle="Defaults and breaches (paragraphs 18 and 19)">
+                <topicref href="ifrs07/IFRS07_IG12.dita" class="- map/topicref " navtitle="IG12"/>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_gIG13-IG13.dita" class="- map/topicref " navtitle="Total interest expense (paragraph 20(b))">
+                <topicref href="ifrs07/IFRS07_IG13.dita" class="- map/topicref " navtitle="IG13"/>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_gIG13A-IG13B.dita" class="- map/topicref " navtitle="">
+                <topicref href="ifrs07/IFRS07_IG13A-IG13B_DELETED.dita" class="- map/topicref " navtitle="IG13A–IG13B"/>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_gIG13C-IG13E.dita" class="- map/topicref " navtitle="Hedge accounting (paragraphs 24A–24C)">
+                <topicref href="ifrs07/IFRS07_IG13C.dita" class="- map/topicref " navtitle="IG13C"/>
+                <topicref href="ifrs07/IFRS07_IG13D.dita" class="- map/topicref " navtitle="IG13D"/>
+                <topicref href="ifrs07/IFRS07_IG13E.dita" class="- map/topicref " navtitle="IG13E"/>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_gIG14-IG14.dita" class="- map/topicref " navtitle="Fair value (paragraph 28)">
+                <topicref href="ifrs07/IFRS07_IG14.dita" class="- map/topicref " navtitle="IG14"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs07/IFRS07_gIG15-IG40.dita" class="- map/topicref " navtitle="Nature and extent of risks arising from financial instruments (paragraphs 31–42 and B6–B28)">
+            <topicref href="ifrs07/IFRS07_gIG15-IG17.dita" class="- map/topicref " navtitle="Qualitative disclosures (paragraph 33)">
+                <topicref href="ifrs07/IFRS07_IG15.dita" class="- map/topicref " navtitle="IG15"/>
+                <topicref href="ifrs07/IFRS07_IG16.dita" class="- map/topicref " navtitle="IG16"/>
+                <topicref href="ifrs07/IFRS07_IG17.dita" class="- map/topicref " navtitle="IG17"/>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_gIG18-IG20.dita" class="- map/topicref " navtitle="Quantitative disclosures (paragraphs 34–42 and B7–B28)">
+                <topicref href="ifrs07/IFRS07_IG18.dita" class="- map/topicref " navtitle="IG18"/>
+                <topicref href="ifrs07/IFRS07_IG19.dita" class="- map/topicref " navtitle="IG19"/>
+                <topicref href="ifrs07/IFRS07_IG20.dita" class="- map/topicref " navtitle="IG20"/>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_gIG20A-IG20D.dita" class="- map/topicref " navtitle="Credit risk (paragraphs 35A–36, B8A–B10)">
+                <topicref href="ifrs07/IFRS07_IG20A.dita" class="- map/topicref " navtitle="IG20A">
+                    <topicmeta class="- map/topicmeta "/>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gIG20B-IG20B.dita" class="- map/topicref " navtitle="Illustrating the application of paragraphs 35H and 35I">
+                    <topicref href="ifrs07/IFRS07_IG20B.dita" class="- map/topicref " navtitle="IG20B"/>
+                </topicref>
+                <topicref href="ifrs07/IFRS07_gIG20C-IG20D.dita" class="- map/topicref " navtitle="Illustrating the application of paragraphs 35M and 35N">
+                    <topicref href="ifrs07/IFRS07_IG20C.dita" class="- map/topicref " navtitle="IG20C"/>
+                    <topicref href="ifrs07/IFRS07_IG20D.dita" class="- map/topicref " navtitle="IG20D"/>
+                </topicref>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_IG21.dita" class="- map/topicref " navtitle="IG21"/>
+            <topicref href="ifrs07/IFRS07_gIG22-IG22.dita" class="- map/topicref " navtitle="Collateral and other credit enhancements pledged (paragraph 36(b))">
+                <topicref href="ifrs07/IFRS07_IG22.dita" class="- map/topicref " navtitle="IG22"/>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_IG23-IG31_DELETED.dita" class="- map/topicref " navtitle="IG23–IG31"/>
+            <topicref href="ifrs07/IFRS07_gIG31A-IG31A.dita" class="- map/topicref " navtitle="Liquidity risk disclosures (paragraph 39(a))">
+                <topicref href="ifrs07/IFRS07_IG31A.dita" class="- map/topicref " navtitle="IG31A"/>
+                <topicref href="ifrs07/IFRS07_IG_0005.dita" class="- map/topicref " navtitle="Illustrating the application of paragraph 39(a)"/>
+                <topicref href="ifrs07/IFRS07_IG_0006.dita" class="- map/topicref " navtitle="Illustrating the application of paragraph 39(a)"/>
+                <topicref href="ifrs07/IFRS07_IG_0007.dita" class="- map/topicref " navtitle="Illustrating the application of paragraph 39(a)"/>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_gIG32-IG40.dita" class="- map/topicref " navtitle="Market risk (paragraphs 40–42 and B17–B28)">
+                <topicref href="ifrs07/IFRS07_IG32.dita" class="- map/topicref " navtitle="IG32"/>
+                <topicref href="ifrs07/IFRS07_IG33.dita" class="- map/topicref " navtitle="IG33"/>
+                <topicref href="ifrs07/IFRS07_IG34.dita" class="- map/topicref " navtitle="IG34"/>
+                <topicref href="ifrs07/IFRS07_IG35.dita" class="- map/topicref " navtitle="IG35"/>
+                <topicref href="ifrs07/IFRS07_IG36.dita" class="- map/topicref " navtitle="IG36"/>
+                <topicref href="ifrs07/IFRS07_gIG37-IG40.dita" class="- map/topicref " navtitle="Other market risk disclosures (paragraph 42)">
+                    <topicref href="ifrs07/IFRS07_IG37.dita" class="- map/topicref " navtitle="IG37"/>
+                    <topicref href="ifrs07/IFRS07_IG38.dita" class="- map/topicref " navtitle="IG38"/>
+                    <topicref href="ifrs07/IFRS07_IG39.dita" class="- map/topicref " navtitle="IG39"/>
+                    <topicref href="ifrs07/IFRS07_IG40.dita" class="- map/topicref " navtitle="IG40"/>
+                </topicref>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs07/IFRS07_gIG40A-IG40C.dita" class="- map/topicref " navtitle="Derecognition (paragraphs 42D and 42E)">
+            <topicref href="ifrs07/IFRS07_IG40A.dita" class="- map/topicref " navtitle="IG40A"/>
+            <topicref href="ifrs07/IFRS07_IG40B.dita" class="- map/topicref " navtitle="IG40B"/>
+            <topicref href="ifrs07/IFRS07_IG_afterIG40B_g1.dita" class="- map/topicref " navtitle="Transferred financial assets that are not derecognised in their entirety">
+                <topicref href="ifrs07/IFRS07_IG_afterIG40B_g1.1.dita" class="- map/topicref " navtitle="Illustrating the application of paragraph 42D(d) and (e)"/>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_IG_afterIG40B_g2.dita" class="- map/topicref " navtitle="Transferred financial assets that are derecognised in their entirety">
+                <topicref href="ifrs07/IFRS07_IG_afterIG40B_g2.1.dita" class="- map/topicref " navtitle="Illustrating the application of paragraph 42E(a)–(d)"/>
+                <topicref href="ifrs07/IFRS07_IG_afterIG40B_g2.2.dita" class="- map/topicref " navtitle="Illustrating the application of paragraph 42E(e)"/>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_IG40C.dita" class="- map/topicref " navtitle="IG40C"/>
+            <topicref href="ifrs07/IFRS07_IG_afterIG40C_g1.dita" class="- map/topicref " navtitle="Transferred financial assets that are not derecognised in their entirety">
+                <topicref href="ifrs07/IFRS07_IG_afterIG40C_g1.1.dita" class="- map/topicref " navtitle="Illustrating the application of paragraph 42D(d) and (e)"/>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_IG_afterIG40C_g2.dita" class="- map/topicref " navtitle="Transferred financial assets that are derecognised in their entirety">
+                <topicref href="ifrs07/IFRS07_IG_afterIG40C_g2.1.dita" class="- map/topicref " navtitle="Illustrating the application of paragraph 42E(a)–(d)"/>
+                <topicref href="ifrs07/IFRS07_IG_afterIG40C_g2.2.dita" class="- map/topicref " navtitle="Illustrating the application of paragraph 42E(e)"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs07/IFRS07_gIG40D-IG40D.dita" class="- map/topicref " navtitle="Disclosures (paragraphs 13A–13F and B40–B53)">
+            <topicref href="ifrs07/IFRS07_IG40D.dita" class="- map/topicref " navtitle="IG40D"/>
+            <topicref href="ifrs07/IFRS07_IG_afterIG40D_g1.dita" class="- map/topicref " navtitle="Illustrating the application of paragraph 13C(a)–(e) by type of financial instrument">
+                <topicref href="ifrs07/IFRS07_IG_afterIG40D_g1.1.dita" class="- map/topicref " navtitle="Financial assets subject to offsetting, enforceable master netting arrangements and similar agreements"/>
+                <topicref href="ifrs07/IFRS07_IG_afterIG40D_g1.2.dita" class="- map/topicref " navtitle="Financial liabilities subject to offsetting, enforceable master netting arrangements and similar agreements"/>
+            </topicref>
+            <topicref href="ifrs07/IFRS07_IG_afterIG40D_g2.dita" class="- map/topicref " navtitle="Illustrating the application of paragraph 13C(a)–(c) by type of financial instrument and paragraph 13C(c)–(e) by counterparty">
+                <topicref href="ifrs07/IFRS07_IG_afterIG40D_g2.1.dita" class="- map/topicref " navtitle="Financial assets subject to offsetting, enforceable master netting arrangements and similar agreements"/>
+                <topicref href="ifrs07/IFRS07_IG_afterIG40D_g2.2.dita" class="- map/topicref " navtitle="Net financial assets subject to enforceable master netting arrangements and similar agreements, by counterparty"/>
+                <topicref href="ifrs07/IFRS07_IG_afterIG40D_g2.3.dita" class="- map/topicref " navtitle="Financial liabilities subject to offsetting, enforceable master netting arrangements and similar agreements"/>
+                <topicref href="ifrs07/IFRS07_IG_afterIG40D_g2.4.dita" class="- map/topicref " navtitle="Net financial liabilities subject to enforceable master netting arrangements and similar agreements, by counterparty"/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs07/IFRS07_gIG40E-IG40E.dita" class="- map/topicref " navtitle="Transition from IAS 39 to IFRS 9 (paragraphs 42K–42O)">
+            <topicref href="ifrs07/IFRS07_IG40E.dita" class="- map/topicref " navtitle="IG40E">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs07/IFRS07_gIG41-IG41.dita" class="- map/topicref " navtitle="Transition (paragraph 44)">
+            <topicref href="ifrs07/IFRS07_IG41.dita" class="- map/topicref " navtitle="IG41"/>
+        </topicref>
+    <topicref chunk="to-content" class="- map/topicref " navtitle="Appendices">
+        <topicref href="ifrs07/IFRS07_IG_APP.dita" class="- map/topicref " navtitle="Appendix Amendments to guidance on other IFRSs">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="IG" class="- topic/data "/>
+            </topicmeta>
+        </topicref>
+    </topicref></chapter>
+    
+</bookmap>

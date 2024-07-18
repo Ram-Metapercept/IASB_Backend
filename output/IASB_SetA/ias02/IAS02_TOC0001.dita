@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE topic PUBLIC "-//IFRS//DTD DITA Topic//EN" "ifrsTopic.dtd"><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IAS02_TOC0001" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic ifrs-d)                            (topic ifrsElements-c)                               (topic principlesAtt-c)   (topic decimalAtt-c)   (topic double_underlineAtt-c)   (topic keep_togetherAtt-c)   (topic rotateAtt-c)   (topic tintAtt-c)   (topic background_colorAtt-c)   (topic line_colorAtt-c)   (topic font_colorAtt-c)   (topic typeAtt-c)   (topic reference_labelAtt-c)   (topic toc_labelAtt-c)   (topic typefaceAtt-c)   (topic typestyleAtt-c)   (topic layoutAtt-c)   (topic indentedAtt-c)   (topic levelAtt-c)   (topic issueAtt-c)   (topic amendment_idAtt-c)   (topic versionAtt-c)   (topic updAtt-c)     " class="- topic/topic ">
+    <title class="- topic/title "/>
+    <body class="- topic/body ">
+        <ol reference_label="paragraph" toc_label="contents" type="toc" class="- topic/ol ">
+            <li outputclass="primary" class="- topic/li ">INTERNATIONAL ACCOUNTING STANDARD 2
+                     <ph outputclass="standard_ref" class="- topic/ph "><ph outputclass="standard_title" class="- topic/ph ">INVENTORIES</ph></ph></li>
+            <li class="- topic/li ">
+                <xref href="IAS02_g1-1.dita#IAS02_g1_1/IAS02_g1_1_TI" base="F806773" id="IAS02_X0001" class="- topic/xref ">OBJECTIVE</xref>
+            </li>
+            <li class="- topic/li ">
+                <xref href="IAS02_g2-5.dita#IAS02_g2_5/IAS02_g2_5_TI" base="F806774" id="IAS02_X0002" class="- topic/xref ">SCOPE</xref>
+            </li>
+            <li class="- topic/li ">
+                <xref href="IAS02_g6-8.dita#IAS02_g6_8/IAS02_g6_8_TI" base="F806775" id="IAS02_X0003" class="- topic/xref ">DEFINITIONS</xref>
+            </li>
+            <li class="- topic/li ">
+                <xref href="IAS02_g9-33.dita#IAS02_g9_33/IAS02_g9_33_TI" base="F806776" id="IAS02_X0004" class="- topic/xref ">MEASUREMENT OF INVENTORIES</xref>
+                <ol type="toc" class="- topic/ol ">
+                    <li class="- topic/li ">
+                        <xref href="IAS02_g10-22.dita#IAS02_g10_22/IAS02_g10_22_TI" base="F806777" id="IAS02_X0005" class="- topic/xref ">Cost of inventories</xref>
+                    </li>
+                    <li class="- topic/li ">
+                        <xref href="IAS02_g23-27.dita#IAS02_g23_27/IAS02_g23_27_TI" base="F806814" id="IAS02_X0006" class="- topic/xref ">Cost formulas</xref>
+                    </li>
+                    <li class="- topic/li ">
+                        <xref href="IAS02_g28-33.dita#IAS02_g28_33/IAS02_g28_33_TI" base="F806815" id="IAS02_X0007" class="- topic/xref ">Net realisable value</xref>
+                    </li>
+                </ol>
+            </li>
+            <li class="- topic/li ">
+                <xref href="IAS02_g34-35.dita#IAS02_g34_35/IAS02_g34_35_TI" base="F806816" id="IAS02_X0008" class="- topic/xref ">RECOGNITION AS AN EXPENSE</xref>
+            </li>
+            <li class="- topic/li ">
+                <xref href="IAS02_g36-39.dita#IAS02_g36_39/IAS02_g36_39_TI" base="F806817" id="IAS02_X0009" class="- topic/xref ">DISCLOSURE</xref>
+            </li>
+            <li class="- topic/li ">
+                <xref href="IAS02_g40-40G.dita#IAS02_g40_40G/IAS02_g40_40G_TI" base="F806818" id="IAS02_X0010" class="- topic/xref ">EFFECTIVE DATE</xref>
+            </li>
+            <li class="- topic/li ">
+                <xref href="IAS02_g41-42.dita#IAS02_g41_42/IAS02_g41_42_TI" base="F806819" id="IAS02_X0011" class="- topic/xref ">WITHDRAWAL OF OTHER PRONOUNCEMENTS</xref>
+            </li>
+            <li class="- topic/li ">
+                <xref href="IAS02_APP.dita#IAS02_APP/IAS02_APP_TI" base="SL176105" id="IAS02_X0012" class="- topic/xref ">APPENDIX</xref>
+                <ol type="toc" class="- topic/ol ">
+                    <li class="- topic/li ">
+                        <xref href="IAS02_APP.dita#IAS02_APP/IAS02_APP_TI" base="F17325218" id="IAS02_X0013" class="- topic/xref ">Amendments to other
+                            pronouncements</xref>
+                    </li>
+                </ol>
+            </li>
+            <li class="- topic/li ">
+                <xref href="IAS02_BADec2003.dita#IAS02_BADec2003/IAS02_BADec2003_TI" base="SL176107" id="IAS02_X0014" class="- topic/xref ">APPROVAL BY THE BOARD OF IAS 2 ISSUED IN
+                    DECEMBER 2003</xref>
+            </li>
+            <li class="- topic/li ">
+                <note othertype="box" type="other" class="- topic/note ">FOR THE BASIS FOR
+                    CONCLUSIONS, SEE PART C OF THIS EDITION</note>
+            </li>
+            <li class="- topic/li ">
+                <xref href="IAS02_TI0023.dita#IAS02_BC" base="F15825125" id="IAS02_X0015" class="- topic/xref ">BASIS FOR CONCLUSIONS</xref>
+            </li>
+        </ol>
+    </body>
+</topic>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IFRS05_IG_CHK_ALL" chunk="to-content" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Non-current Assets Held for Sale
+            and Discontinued Operations</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Implementation Guidance</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IFRS 5</booknumber>
+        </bookid>
+        <document_type value="IFRS" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2005-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2004-03-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ifrs-5-non-current-assets-held-for-sale-and-discontinued-operations" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="implementation-guidance" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ifrs05/IFRS05_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs05/IFRS05_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifrs05/IFRS05_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ifrs05/IFRS05_PartB.dita" otherprops="print" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ifrs05/IFRS05_IG_TOC.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+    </frontmatter>
+    <chapter href="ifrs05/IFRS05_IG_TI.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="Guidance on implementing IFRS 5 Non‑current Assets Held for Sale and Discontinued Operations">
+        <topicref href="ifrs05/IFRS05_0016.dita" class="- map/topicref " navtitle="Availability for immediate sale (paragraph 7)">
+            <topicref href="ifrs05/IFRS05_ex1.dita" class="- map/topicref " navtitle="Example 1">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ifrs05/IFRS05_ex2.dita" class="- map/topicref " navtitle="Example 2">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ifrs05/IFRS05_ex3.dita" class="- map/topicref " navtitle="Example 3">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs05/IFRS05_0017.dita" class="- map/topicref " navtitle="Completion of sale expected within one year (paragraph 8)">
+            <topicref href="ifrs05/IFRS05_ex4.dita" class="- map/topicref " navtitle="Example 4">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs05/IFRS05_0018.dita" class="- map/topicref " navtitle="Exceptions to the criterion that the sale should be expected to be completed in one year (paragraphs 8 and B1)">
+            <topicref href="ifrs05/IFRS05_ex5.dita" class="- map/topicref " navtitle="Example 5">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ifrs05/IFRS05_ex6.dita" class="- map/topicref " navtitle="Example 6">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+            <topicref href="ifrs05/IFRS05_ex7.dita" class="- map/topicref " navtitle="Example 7">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs05/IFRS05_0019.dita" class="- map/topicref " navtitle="Determining whether an asset has been abandoned">
+            <topicref href="ifrs05/IFRS05_ex8.dita" class="- map/topicref " navtitle="Example 8">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs05/IFRS05_0020.dita" class="- map/topicref " navtitle="Presenting a discontinued operation that has been abandoned">
+            <topicref href="ifrs05/IFRS05_ex9.dita" class="- map/topicref " navtitle="Example 9">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs05/IFRS05_0021.dita" class="- map/topicref " navtitle="Allocation of an impairment loss on a disposal group">
+            <topicref href="ifrs05/IFRS05_ex10.dita" class="- map/topicref " navtitle="Example 10">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs05/IFRS05_0022.dita" class="- map/topicref " navtitle="Presenting discontinued operations in the statement of comprehensive income">
+            <topicref href="ifrs05/IFRS05_ex11.dita" class="- map/topicref " navtitle="Example 11">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs05/IFRS05_0023.dita" class="- map/topicref " navtitle="Presenting non‑current assets or disposal groups classified as held for sale">
+            <topicref href="ifrs05/IFRS05_ex12.dita" class="- map/topicref " navtitle="Example 12">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+        </topicref>
+        <topicref href="ifrs05/IFRS05_0024.dita" class="- map/topicref " navtitle="Measuring and presenting subsidiaries acquired with a view to resale and classified as held for sale">
+            <topicref href="ifrs05/IFRS05_ex13.dita" class="- map/topicref " navtitle="Example 13">
+                <topicmeta class="- map/topicmeta "/>
+            </topicref>
+        </topicref>
+    </chapter>
+</bookmap>

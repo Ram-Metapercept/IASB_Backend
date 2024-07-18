@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE topic PUBLIC "-//IFRS//DTD DITA Topic//EN" "ifrsTopic.dtd">
+<topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IFRS01_BC_TI"
+    ditaarch:DITAArchVersion="1.3"
+    domains="(topic abbrev-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic ifrs-d)                            (topic ifrsElements-c)                               (topic principlesAtt-c)   (topic decimalAtt-c)   (topic double_underlineAtt-c)   (topic keep_togetherAtt-c)   (topic rotateAtt-c)   (topic tintAtt-c)   (topic background_colorAtt-c)   (topic line_colorAtt-c)   (topic font_colorAtt-c)   (topic typeAtt-c)   (topic reference_labelAtt-c)   (topic toc_labelAtt-c)   (topic typefaceAtt-c)   (topic typestyleAtt-c)   (topic layoutAtt-c)   (topic indentedAtt-c)   (topic levelAtt-c)   (topic issueAtt-c)   (topic amendment_idAtt-c)   (topic versionAtt-c)   (topic updAtt-c)     "
+    class="- topic/topic ">
+    <title base="F7283125" id="IFRS01_BC_TI" class="- topic/title ">
+        <ph conkeyref="bv_variables/bc_title" class="- topic/ph "/>
+        <ph outputclass="standard_ref" class="- topic/ph ">
+            <ph conkeyref="standard_variables/standard_number" outputclass="standard_number"
+                class="- topic/ph "/>
+            <ph conkeyref="standard_variables/standard_title" outputclass="standard_title"
+                class="- topic/ph "/>
+        </ph>
+    </title>
+    <body class="- topic/body ">
+        <note type="note" class="- topic/note ">
+            <p base="F7283127" id="IFRS01_P2545" class="- topic/p ">This Basis for Conclusions
+                accompanies, but is not part of, IFRS 1.</p>
+            <p base="F7283129" id="IFRS01_P2546" class="- topic/p ">In this Basis for Conclusions
+                the terminology has not been amended to reflect the changes made by <xref
+                    href="../ias01/IAS01_TOC.dita#IAS01_TOC0001" base="F15826070" id="IFRS01_X1595"
+                    class="- topic/xref ">IAS 1 <none class="+ topic/ph ifrs-d/none ">Presentation
+                        of Financial Statements</none></xref> (as revised in 2007).</p>
+            <p base="F7283130" id="IFRS01_P2547" class="- topic/p ">This Basis for Conclusions has
+                not been revised to reflect the restructuring of IFRS 1 in November 2008, but
+                cross‑references have been updated.</p>
+        </note>
+    </body>
+</topic>

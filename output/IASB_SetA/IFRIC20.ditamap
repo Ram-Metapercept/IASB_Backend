@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE bookmap PUBLIC "-//IFRS//DTD DITA BookMap//EN" "ifrsBookmap.dtd"><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="IFRIC20_CHK_ALL" cascade="merge" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            a(props valid_from)                            a(props valid_to)                            a(props edu)                            a(props subscription)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)                            (bookmap ifrs-bookmap-d)   " class="- map/map bookmap/bookmap ">
+    <booktitle class="- topic/title bookmap/booktitle ">
+        <booklibrary class="- topic/ph bookmap/booklibrary ">IFRIC 20</booklibrary>
+        <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Stripping Costs in the Production
+            Phase of a Surface Mine</mainbooktitle>
+    </booktitle>
+    <bookmeta class="- map/topicmeta bookmap/bookmeta ">
+        <category class="- topic/category ">Standard</category>
+        <bookid class="- topic/data bookmap/bookid ">
+            <booknumber class="- topic/data bookmap/booknumber ">IFRIC 20</booknumber>
+        </bookid>
+        <document_type value="IFRIC" class="+ topic/data ifrs-bookmap-d/document_type "/>
+        <effective_date value="2013-01-01" class="+ topic/data ifrs-bookmap-d/effective_date "/>
+        <issue_date value="2011-10-01" class="+ topic/data ifrs-bookmap-d/issue_date "/>
+        <standard_tag value="ifric-20-stripping-costs-in-the-production-phase-of-a-surface-mine" class="+ topic/data ifrs-bookmap-d/standard_tag "/>
+        <standard_type_tag value="standard" class="+ topic/data ifrs-bookmap-d/standard_type_tag "/>
+    </bookmeta>
+    <frontmatter toc="no" id="IFRIC20_CHK_FM" class="- map/topicref bookmap/frontmatter ">
+        <keydef href="ifric20/IFRIC20_footnotes.dita" keys="footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifric20/IFRIC20_edu_footnotes.dita" keys="edu_footnotes" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="ifric20/IFRIC20_variables.dita" keys="standard_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <keydef href="library_topics/bv_variables.dita" keys="bv_variables" processing-role="resource-only" class="+ map/topicref mapgroup-d/keydef "/>
+        <bookabstract href="ifric20/IFRIC20_PRE.dita" chunk="to-content" class="- map/topicref bookmap/bookabstract "/>
+        <booklists class="- map/topicref bookmap/booklists ">
+            <toc href="ifric20/IFRIC20_TOC0001.dita" class="- map/topicref bookmap/toc "/>
+        </booklists>
+        <preface href="ifric20/IFRIC20_rubric.dita" class="- map/topicref bookmap/preface "/>
+    </frontmatter>
+    <chapter href="ifric20/IFRIC20_TI0002.dita" class="- map/topicref bookmap/chapter " chunk="to-content" navtitle="IFRIC 20 Stripping Costs in the Production Phase of a Surface Mine"><topicref href="ifric20/IFRIC20_rubric.dita" class="- map/topicref " navtitle="Rubric"/>
+        <topicref href="ifric20/IFRIC20_0001.dita" class="- map/topicref " navtitle="References"/>
+        <topicref href="ifric20/IFRIC20_g1-5.dita" class="- map/topicref " navtitle="Background">
+            <topicref href="ifric20/IFRIC20_1.dita" class="- map/topicref " navtitle="1"/>
+            <topicref href="ifric20/IFRIC20_2.dita" class="- map/topicref " navtitle="2"/>
+            <topicref href="ifric20/IFRIC20_3.dita" class="- map/topicref " navtitle="3"/>
+            <topicref href="ifric20/IFRIC20_4.dita" class="- map/topicref " navtitle="4"/>
+            <topicref href="ifric20/IFRIC20_5.dita" class="- map/topicref " navtitle="5"/>
+        </topicref>
+        <topicref href="ifric20/IFRIC20_g6-6.dita" class="- map/topicref " navtitle="Scope">
+            <topicref href="ifric20/IFRIC20_6.dita" class="- map/topicref " navtitle="6"/>
+        </topicref>
+        <topicref href="ifric20/IFRIC20_g7-7.dita" class="- map/topicref " navtitle="Issues">
+            <topicref href="ifric20/IFRIC20_7.dita" class="- map/topicref " navtitle="7"/>
+        </topicref>
+        <topicref href="ifric20/IFRIC20_g8-16.dita" class="- map/topicref " navtitle="Consensus">
+            <topicref href="ifric20/IFRIC20_g8-11.dita" class="- map/topicref " navtitle="Recognition of production stripping costs as an asset">
+                <topicref href="ifric20/IFRIC20_8.dita" class="- map/topicref " navtitle="8"/>
+                <topicref href="ifric20/IFRIC20_9.dita" class="- map/topicref " navtitle="9"/>
+                <topicref href="ifric20/IFRIC20_10.dita" class="- map/topicref " navtitle="10"/>
+                <topicref href="ifric20/IFRIC20_11.dita" class="- map/topicref " navtitle="11"/>
+            </topicref>
+            <topicref href="ifric20/IFRIC20_g12-13.dita" class="- map/topicref " navtitle="Initial measurement of the stripping activity asset">
+                <topicref href="ifric20/IFRIC20_12.dita" class="- map/topicref " navtitle="12"/>
+                <topicref href="ifric20/IFRIC20_13.dita" class="- map/topicref " navtitle="13"/>
+            </topicref>
+            <topicref href="ifric20/IFRIC20_g14-16.dita" class="- map/topicref " navtitle="Subsequent measurement of the stripping activity asset">
+                <topicref href="ifric20/IFRIC20_14.dita" class="- map/topicref " navtitle="14"/>
+                <topicref href="ifric20/IFRIC20_15.dita" class="- map/topicref " navtitle="15"/>
+                <topicref href="ifric20/IFRIC20_16.dita" class="- map/topicref " navtitle="16"/>
+            </topicref>
+        </topicref>
+    <topicref chunk="to-content" class="- map/topicref " navtitle="Appendices">
+        <topicref href="ifric20/IFRIC20_APPA.dita" class="- map/topicref " navtitle="Appendix A Effective date and transition">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="A" class="- topic/data "/>
+            </topicmeta>
+            <topicref href="ifric20/IFRIC20_A1.dita" class="- map/topicref " navtitle="A1"/>
+            <topicref href="ifric20/IFRIC20_A2.dita" class="- map/topicref " navtitle="A2"/>
+            <topicref href="ifric20/IFRIC20_A3.dita" class="- map/topicref " navtitle="A3"/>
+            <topicref href="ifric20/IFRIC20_A4.dita" class="- map/topicref " navtitle="A4"/>
+        </topicref>
+        <topicref href="ifric20/IFRIC20_APPB.dita" class="- map/topicref " navtitle="Appendix B Amendments to IFRS 1 First‑time Adoption of International Financial Reporting Standards">
+            <topicmeta class="- map/topicmeta ">
+                <data name="subtype" value="B" class="- topic/data "/>
+            </topicmeta>
+        </topicref>
+    </topicref></chapter>
+    
+</bookmap>
