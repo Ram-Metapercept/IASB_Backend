@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap
+  PUBLIC "-//IFRS//DTD DITA BookMap//EN" "../../../DocTypes/com.ifrs.doctype/dtd/ifrsBookmap.dtd">
+<bookmap id="IFRS08_BC_CHK_ALL" chunk="to-content" cascade="merge">
+  <booktitle>
+    <mainbooktitle>Operating Segments</mainbooktitle>
+  </booktitle>
+  <bookmeta>
+    <category>Basis For Conclusions</category>
+    <bookid>
+      <booknumber>IFRS 8</booknumber>
+    </bookid>
+    <document_type value="IFRS"/>
+    <effective_date value="2009-01-01"/>
+    <issue_date value="2006-11-01"/>
+    <standard_tag value="ifrs-8-operating-segments"/>
+    <standard_type_tag value="basis-for-conclusion"/>
+  </bookmeta>
+  <frontmatter>
+    <keydef href="ifrs08/IFRS08_footnotes.dita" keys="footnotes" processing-role="resource-only"/>
+    <keydef href="ifrs08/IFRS08_edu_footnotes.dita" keys="edu_footnotes"
+      processing-role="resource-only"/>
+    <keydef href="ifrs08/IFRS08_variables.dita" keys="standard_variables"
+      processing-role="resource-only"/>
+    <keydef href="library_topics/bv_variables.dita" keys="bv_variables"
+      processing-role="resource-only"/>
+    <bookabstract href="ifrs08/IFRS08_PartC.dita" otherprops="print"/>
+    <booklists>
+      <toc href="ifrs08/IFRS08_BC_TOC.dita"/>
+    </booklists>
+  </frontmatter>
+  <chapter href="ifrs08/IFRS08_TI0040.dita">
+    <topicref href="ifrs08/IFRS08_gBC1-BC8.dita">
+      <topicref href="ifrs08/IFRS08_BC1.dita"/>
+      <topicref href="ifrs08/IFRS08_BC2.dita"/>
+      <topicref href="ifrs08/IFRS08_BC3.dita"/>
+      <topicref href="ifrs08/IFRS08_gBC4-BC5.dita">
+        <topicref href="ifrs08/IFRS08_BC4.dita"/>
+        <topicref href="ifrs08/IFRS08_BC5.dita"/>
+      </topicref>
+      <topicref href="ifrs08/IFRS08_gBC6-BC6.dita">
+        <topicref href="ifrs08/IFRS08_BC6.dita"/>
+      </topicref>
+      <topicref href="ifrs08/IFRS08_gBC7-BC8.dita">
+        <topicref href="ifrs08/IFRS08_BC7.dita"/>
+        <topicref href="ifrs08/IFRS08_BC8.dita"/>
+      </topicref>
+    </topicref>
+    <topicref href="ifrs08/IFRS08_gBC9-BC17.dita">
+      <topicref href="ifrs08/IFRS08_BC9.dita"/>
+      <topicref href="ifrs08/IFRS08_BC10.dita"/>
+      <topicref href="ifrs08/IFRS08_BC11.dita"/>
+      <topicref href="ifrs08/IFRS08_BC12.dita"/>
+      <topicref href="ifrs08/IFRS08_BC13.dita"/>
+      <topicref href="ifrs08/IFRS08_BC14.dita"/>
+      <topicref href="ifrs08/IFRS08_BC15.dita"/>
+      <topicref href="ifrs08/IFRS08_BC16.dita"/>
+      <topicref href="ifrs08/IFRS08_BC17.dita"/>
+    </topicref>
+    <topicref href="ifrs08/IFRS08_gBC18-BC23.dita">
+      <topicref href="ifrs08/IFRS08_BC18.dita"/>
+      <topicref href="ifrs08/IFRS08_BC19.dita"/>
+      <topicref href="ifrs08/IFRS08_BC20.dita"/>
+      <topicref href="ifrs08/IFRS08_BC21.dita"/>
+      <topicref href="ifrs08/IFRS08_BC22.dita"/>
+      <topicref href="ifrs08/IFRS08_BC23.dita"/>
+    </topicref>
+    <topicref href="ifrs08/IFRS08_gBC24-BC47.dita">
+      <topicref href="ifrs08/IFRS08_gBC24-BC26.dita">
+        <topicref href="ifrs08/IFRS08_BC24.dita"/>
+        <topicref href="ifrs08/IFRS08_BC25.dita"/>
+        <topicref href="ifrs08/IFRS08_BC26.dita"/>
+      </topicref>
+      <topicref href="ifrs08/IFRS08_gBC27-BC27.dita">
+        <topicref href="ifrs08/IFRS08_BC27.dita"/>
+      </topicref>
+      <topicref href="ifrs08/IFRS08_gBC28-BC29.dita">
+        <topicref href="ifrs08/IFRS08_BC28.dita"/>
+        <topicref href="ifrs08/IFRS08_BC29.dita"/>
+      </topicref>
+      <topicref href="ifrs08/IFRS08_gBC30-BC30.dita">
+        <topicref href="ifrs08/IFRS08_BC30.dita"/>
+      </topicref>
+      <topicref href="ifrs08/IFRS08_gBC30A-BC30B_V1.dita">
+        <topicref href="ifrs08/IFRS08_BC30A.dita"/>
+        <topicref href="ifrs08/IFRS08_BC30B.dita"/>
+      </topicref>
+      <topicref href="ifrs08/IFRS08_gBC31-BC33.dita">
+        <topicref href="ifrs08/IFRS08_BC31.dita"/>
+        <topicref href="ifrs08/IFRS08_BC32.dita"/>
+        <topicref href="ifrs08/IFRS08_BC33.dita"/>
+      </topicref>
+      <topicref href="ifrs08/IFRS08_gBC34-BC35A.dita">
+        <topicref href="ifrs08/IFRS08_BC34.dita"/>
+        <topicref href="ifrs08/IFRS08_BC35.dita"/>
+        <topicref href="ifrs08/IFRS08_BC35A.dita"/>
+      </topicref>
+      <topicref href="ifrs08/IFRS08_gBC35B-BC35B_V1.dita">
+        <topicref href="ifrs08/IFRS08_BC35B.dita"/>
+      </topicref>
+      <topicref href="ifrs08/IFRS08_gBC36-BC38.dita">
+        <topicref href="ifrs08/IFRS08_BC36.dita"/>
+        <topicref href="ifrs08/IFRS08_BC37.dita"/>
+        <topicref href="ifrs08/IFRS08_BC38.dita"/>
+      </topicref>
+      <topicref href="ifrs08/IFRS08_gBC39-BC42.dita">
+        <topicref href="ifrs08/IFRS08_BC39.dita"/>
+        <topicref href="ifrs08/IFRS08_BC40.dita"/>
+        <topicref href="ifrs08/IFRS08_BC41.dita"/>
+        <topicref href="ifrs08/IFRS08_BC42.dita"/>
+      </topicref>
+      <topicref href="ifrs08/IFRS08_gBC43-BC45.dita">
+        <topicref href="ifrs08/IFRS08_BC43.dita"/>
+        <topicref href="ifrs08/IFRS08_BC44.dita"/>
+        <topicref href="ifrs08/IFRS08_BC45.dita"/>
+      </topicref>
+      <topicref href="ifrs08/IFRS08_gBC46-BC47.dita">
+        <topicref href="ifrs08/IFRS08_BC46.dita"/>
+        <topicref href="ifrs08/IFRS08_BC47.dita"/>
+      </topicref>
+    </topicref>
+    <topicref href="ifrs08/IFRS08_gBC48-BC58.dita">
+      <topicref href="ifrs08/IFRS08_gBC48-BC50.dita">
+        <topicref href="ifrs08/IFRS08_BC48.dita"/>
+        <topicref href="ifrs08/IFRS08_BC49.dita"/>
+        <topicref href="ifrs08/IFRS08_BC50.dita"/>
+      </topicref>
+      <topicref href="ifrs08/IFRS08_gBC51-BC53.dita">
+        <topicref href="ifrs08/IFRS08_BC51.dita"/>
+        <topicref href="ifrs08/IFRS08_BC52.dita"/>
+        <topicref href="ifrs08/IFRS08_BC53.dita"/>
+      </topicref>
+      <topicref href="ifrs08/IFRS08_gBC54-BC55.dita">
+        <topicref href="ifrs08/IFRS08_BC54.dita"/>
+        <topicref href="ifrs08/IFRS08_BC55.dita"/>
+      </topicref>
+      <topicref href="ifrs08/IFRS08_gBC56-BC57.dita">
+        <topicref href="ifrs08/IFRS08_BC56.dita"/>
+        <topicref href="ifrs08/IFRS08_BC57.dita"/>
+      </topicref>
+      <topicref href="ifrs08/IFRS08_gBC58-BC58.dita">
+        <topicref href="ifrs08/IFRS08_BC58.dita"/>
+      </topicref>
+    </topicref>
+    <topicref href="ifrs08/IFRS08_gBC59-BC59.dita">
+      <topicref href="ifrs08/IFRS08_BC59.dita"/>
+    </topicref>
+    <topicref href="ifrs08/IFRS08_gBC60-BC60.dita">
+      <topicref href="ifrs08/IFRS08_BC60.dita"/>
+    </topicref>
+    <topicref href="ifrs08/IFRS08_gBC61-BC62.dita">
+      <topicref href="ifrs08/IFRS08_BC61.dita"/>
+      <topicref href="ifrs08/IFRS08_BC62.dita"/>
+    </topicref>
+  </chapter>
+  <appendices>
+    <appendix href="ifrs08/IFRS08_BC_APPA_TOC.dita" outputclass="toc">
+      <topicref href="ifrs08/IFRS08_g41.-120..dita" outputclass="new_page">
+        <topicref href="ifrs08/IFRS08_g41.-41..dita">
+          <topicref href="ifrs08/IFRS08_BC_41..dita"/>
+        </topicref>
+        <topicref href="ifrs08/IFRS08_g42.-56..dita">
+          <topicref href="ifrs08/IFRS08_BC_42..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_43..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_44..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_45..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_46..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_47..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_48..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_49..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_50..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_51..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_52..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_53..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_54..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_55..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_56..dita"/>
+        </topicref>
+        <topicref href="ifrs08/IFRS08_g57.-80..dita">
+          <topicref href="ifrs08/IFRS08_BC_57..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_58..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_59..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_60..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_61..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_62..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_63..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_64..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_65..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_66..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_67..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_68..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_69..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_70..dita"/>
+          <topicref href="ifrs08/IFRS08_g71.-72..dita">
+            <topicref href="ifrs08/IFRS08_BC_71..dita"/>
+            <topicref href="ifrs08/IFRS08_BC_72..dita"/>
+          </topicref>
+          <topicref href="ifrs08/IFRS08_g73.-74..dita">
+            <topicref href="ifrs08/IFRS08_BC_73..dita"/>
+            <topicref href="ifrs08/IFRS08_BC_74..dita"/>
+          </topicref>
+          <topicref href="ifrs08/IFRS08_g75.-78..dita">
+            <topicref href="ifrs08/IFRS08_BC_75..dita"/>
+            <topicref href="ifrs08/IFRS08_BC_76..dita"/>
+            <topicref href="ifrs08/IFRS08_BC_77..dita"/>
+            <topicref href="ifrs08/IFRS08_BC_78..dita"/>
+          </topicref>
+          <topicref href="ifrs08/IFRS08_g79.-80..dita">
+            <topicref href="ifrs08/IFRS08_BC_79..dita"/>
+            <topicref href="ifrs08/IFRS08_BC_80..dita"/>
+          </topicref>
+        </topicref>
+        <topicref href="ifrs08/IFRS08_g81.-91..dita">
+          <topicref href="ifrs08/IFRS08_BC_81..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_82..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_83..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_84..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_85..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_86..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_87..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_88..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_89..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_90..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_91..dita"/>
+        </topicref>
+        <topicref href="ifrs08/IFRS08_g92.-100..dita">
+          <topicref href="ifrs08/IFRS08_BC_92..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_93..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_94..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_95..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_96..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_97..dita"/>
+          <topicref href="ifrs08/IFRS08_g98.-99..dita">
+            <topicref href="ifrs08/IFRS08_BC_98..dita"/>
+            <topicref href="ifrs08/IFRS08_BC_99..dita"/>
+          </topicref>
+          <topicref href="ifrs08/IFRS08_g100.-100..dita">
+            <topicref href="ifrs08/IFRS08_BC_100..dita"/>
+          </topicref>
+        </topicref>
+        <topicref href="ifrs08/IFRS08_g101.-108..dita">
+          <topicref href="ifrs08/IFRS08_BC_101..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_102..dita"/>
+          <topicref href="ifrs08/IFRS08_g103.-103..dita">
+            <topicref href="ifrs08/IFRS08_BC_103..dita"/>
+          </topicref>
+          <topicref href="ifrs08/IFRS08_g104.-107..dita">
+            <topicref href="ifrs08/IFRS08_BC_104..dita"/>
+            <topicref href="ifrs08/IFRS08_BC_105..dita"/>
+            <topicref href="ifrs08/IFRS08_BC_106..dita"/>
+            <topicref href="ifrs08/IFRS08_BC_107..dita"/>
+          </topicref>
+          <topicref href="ifrs08/IFRS08_g108.-108..dita">
+            <topicref href="ifrs08/IFRS08_BC_108..dita"/>
+          </topicref>
+        </topicref>
+        <topicref href="ifrs08/IFRS08_g109.-111..dita">
+          <topicref href="ifrs08/IFRS08_BC_109..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_110..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_111..dita"/>
+        </topicref>
+        <topicref href="ifrs08/IFRS08_g112.-114..dita">
+          <topicref href="ifrs08/IFRS08_BC_112..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_113..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_114..dita"/>
+        </topicref>
+        <topicref href="ifrs08/IFRS08_g115.-118..dita">
+          <topicref href="ifrs08/IFRS08_BC_115..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_116..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_117..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_118..dita"/>
+        </topicref>
+        <topicref href="ifrs08/IFRS08_g119.-120..dita">
+          <topicref href="ifrs08/IFRS08_BC_119..dita"/>
+          <topicref href="ifrs08/IFRS08_BC_120..dita"/>
+        </topicref>
+      </topicref>
+    </appendix>
+    <appendix>
+      <topicref href="ifrs08/IFRS08_BC_APPB.dita"/>
+    </appendix>
+  </appendices>
+  <backmatter>
+    <topicref href="ifrs08/IFRS08_BC_DO0001.dita">
+      <topicref href="ifrs08/IFRS08_sgDO1-DO5.dita">
+        <topicref href="ifrs08/IFRS08_DO1.dita"/>
+        <topicref href="ifrs08/IFRS08_DO2.dita"/>
+        <topicref href="ifrs08/IFRS08_DO3.dita"/>
+        <topicref href="ifrs08/IFRS08_DO4.dita"/>
+        <topicref href="ifrs08/IFRS08_DO5.dita"/>
+      </topicref>
+      <topicref href="ifrs08/IFRS08_sgDO1-DO2.dita" outputclass="new_page">
+        <topicref href="ifrs08/IFRS08_DO1_a.dita"/>
+        <topicref href="ifrs08/IFRS08_DO2_V.dita"/>
+      </topicref>
+    </topicref>
+  </backmatter>
+</bookmap>

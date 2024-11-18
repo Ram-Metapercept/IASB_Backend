@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS19_53" base="F16150201" principles="yes"><paranum>53</paranum><prolog><data name="standard_number" value="IAS 19"/><data name="paranum" value="53"/></prolog><body><p id="IAS19_P0221">An entity shall disclose the amount recognised as an expense for <xref base="F16148509" href="IAS19_0002.dita#IAS19_0002/IAS19_UN0007">defined contribution plans<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0080"/></ph></xref>.</p></body></paragraph>

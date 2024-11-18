@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRIC16_BC16" base="F6130509"><paranum>BC16</paranum><prolog><data name="standard_number" value="IFRIC 16"/><data name="paranum" value="BC16"/></prolog><body><p id="IFRIC16_P0134">The IFRIC concluded that the risk from the exposure to a different functional currency arises for any parent entity whose functional currency is different from that of the identified foreign operation. The immediate parent entity is exposed to changes in the exchange rate of its directly held foreign operation&#x2019;s functional currency. However, indirectly every entity up the chain of entities to the ultimate parent entity is also exposed to changes in the exchange rate of the foreign operation&#x2019;s functional currency.</p></body></paragraph>

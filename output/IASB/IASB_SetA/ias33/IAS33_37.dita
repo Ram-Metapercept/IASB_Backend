@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph base="SL31714" id="IAS33_37" principles="no"><paranum>37</paranum><prolog><data name="standard_number" value="IAS 33"/><data name="paranum" value="37"/></prolog><body><p id="IAS33_P0107">Dilutive <xref base="SL148105" href="IAS33_5.dita#IAS33_5/IAS33_P0024">potential ordinary shares<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0295"/></ph></xref> shall be determined independently for each period presented. The number of dilutive potential ordinary shares included in the year&#x2011;to&#x2011;date period is not a weighted average of the dilutive potential ordinary shares included in each interim computation.</p></body></paragraph>

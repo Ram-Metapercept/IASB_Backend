@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS21_53" base="SL30962" principles="yes"><paranum>53</paranum><prolog><data name="standard_number" value="IAS 21"/><data name="paranum" value="53"/></prolog><body><p id="IAS21_P0138">When the <xref base="SL147533" href="IAS21_8.dita#IAS21_8/IAS21_P0040">presentation currency<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0297"/></ph></xref> is different from the <xref base="SL147529" href="IAS21_8.dita#IAS21_8/IAS21_P0029">functional currency<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0144"/></ph></xref>, that fact shall be stated, together with disclosure of the functional currency and the reason for using a different presentation currency.</p></body></paragraph>

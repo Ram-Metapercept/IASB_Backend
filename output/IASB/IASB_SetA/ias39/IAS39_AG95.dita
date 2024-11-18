@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS39_AG95"><paranum>AG95</paranum><prolog><data name="standard_number" value="IAS 39"/><data name="paranum" value="AG95"/></prolog><body><variant base="SL19045586" id="IAS39_AG95_V2">       <p id="IAS39_P1150">A financial asset measured at <xref base="SL134649" href="../ifrs09/IFRS09_APPA.dita#IFRS09_APPA/IFRS09_DI0002" scope="local">amortised cost<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0013"/></ph></xref> may be designated as a <xref base="SL134657" href="IAS39_9_hedge-accounting.dita#IAS39_9_hedge-accounting/IAS39_P0210" scope="local">hedging instrument<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0167"/></ph></xref> in a hedge of foreign currency risk.</p>          </variant></body></paragraph>

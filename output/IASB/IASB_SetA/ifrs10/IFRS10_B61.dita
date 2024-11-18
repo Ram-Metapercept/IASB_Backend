@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS10_B61" base="F16127300" principles="no"><paranum>B61</paranum><prolog><data name="standard_number" value="IFRS 10"/><data name="paranum" value="B61"/></prolog><body><p id="IFRS10_P0416">Determining whether a <xref base="F16125801" href="IFRS10_APPA.dita#IFRS10_APPA/IFRS10_P0163">decision maker<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0072"/></ph></xref> is an agent requires an evaluation of all the factors listed in <xref id="IFRS10_X0469" base="F16219597" href="IFRS10_B60.dita#IFRS10_B60">paragraph B60</xref> unless a single party holds substantive rights to remove the decision maker (removal rights) and can remove the decision maker without cause (see <xref id="IFRS10_X0470" base="F16219598" href="IFRS10_B65.dita#IFRS10_B65">paragraph B65</xref>).</p></body></paragraph>

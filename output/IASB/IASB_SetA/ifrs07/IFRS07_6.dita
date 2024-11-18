@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS07_6" base="F94932" principles="no"><paranum>6</paranum><prolog><data name="standard_number" value="IFRS 7"/><data name="paranum" value="6"/></prolog><body><p id="IFRS07_P0067">When this IFRS requires disclosures by class of <xref base="SL37522960" href="../ias32/IAS32_11.dita#IAS32_11/IAS32_P0110">financial instrument<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0126"/></ph></xref>, an entity shall group financial instruments into classes that are appropriate to the nature of the information disclosed and that take into account the characteristics of those financial instruments. An entity shall provide sufficient information to permit reconciliation to the line items presented in the statement of financial position.</p></body></paragraph>

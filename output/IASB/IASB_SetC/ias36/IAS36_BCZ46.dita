@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS36_BCZ46" base="SL31918" principles="no"><paranum>BCZ46</paranum><prolog><data name="standard_number" value="IAS 36"/><data name="paranum" value="BCZ46"/></prolog><body><p id="IAS36_P2561">In response to comments from field test participants, <xref id="IAS36_X0691" base="F16145476" href="IAS36_54.dita#IAS36_54">paragraph 54</xref> of IAS 36 includes guidance on calculating the value in use of an asset that generates future cash flows in a foreign currency. IAS 36 indicates that value in use in a foreign currency is translated into the reporting currency<xref keyref="footnotes/IAS36_FN0052" type="fn"/> using the spot exchange rate at the balance sheet date.</p></body></paragraph>

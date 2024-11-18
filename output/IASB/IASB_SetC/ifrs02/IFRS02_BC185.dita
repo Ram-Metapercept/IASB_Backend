@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS02_BC185" base="SL34373"><paranum>BC185</paranum><prolog><data name="standard_number" value="IFRS 2"/><data name="paranum" value="BC185"/></prolog><body><p id="IFRS02_P2231">Employee share options often have a long contractual life, eg ten years. Traded options typically have short lives, often only a few months. Estimating the inputs required by an option pricing model, such as expected volatility, over long periods can be difficult, giving rise to the possibility of significant estimation error. This is not usually a problem with traded share options, given their much shorter lives.</p></body></paragraph>

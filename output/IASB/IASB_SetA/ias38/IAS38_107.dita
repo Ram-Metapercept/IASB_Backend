@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS38_107" base="SL32736" principles="yes"><paranum>107</paranum><prolog><data name="standard_number" value="IAS 38"/><data name="paranum" value="107"/></prolog><body><p id="IAS38_P0296">An <xref base="SL141716" href="IAS38_8.dita#IAS38_8/IAS38_P0070">intangible asset<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0193"/></ph></xref> with an indefinite <xref base="SL141720" href="IAS38_8.dita#IAS38_8/IAS38_P0075">useful life<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0380"/></ph></xref> shall not be <xref base="SL141702" href="IAS38_8.dita#IAS38_8/IAS38_P0057">amortised<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0012"/></ph></xref>.</p></body></paragraph>

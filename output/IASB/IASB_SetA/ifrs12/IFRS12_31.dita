@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS12_31" base="F16130751" principles="no"><paranum>31</paranum><prolog><data name="standard_number" value="IFRS 12"/><data name="paranum" value="31"/></prolog><body><p id="IFRS12_P0197">An entity shall disclose any current intentions to provide financial or other support to an unconsolidated structured entity, including intentions to assist the <xref base="F16130768" href="IFRS12_APPA.dita#IFRS12_APPA/IFRS12_DI0003">structured entity<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0358"/></ph></xref> in obtaining financial support. </p></body></paragraph>

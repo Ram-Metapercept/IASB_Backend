@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS09_6.5.4" base="SL32570285"><paranum>6.5.4</paranum><prolog><data name="standard_number" value="IFRS 9"/><data name="paranum" value="6.5.4"/></prolog><body><p id="IFRS09_P0467">A hedge of the foreign currency risk of a <xref base="F32570687" href="IFRS09_APPA.dita#IFRS09_APPA/IFRS09_P0709">firm commitment<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0131"/></ph></xref> may be accounted for as a fair value hedge or a cash flow hedge. </p></body></paragraph>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS41_22" base="SL33615" principles="no"><paranum>22</paranum><prolog><data name="standard_number" value="IAS 41"/><data name="paranum" value="22"/></prolog><body><bodydiv base="AI2018-2020">     <p>An entity does not include any cash flows for financing the assets or re&#x2011;establishing <xref href="IAS41_5.dita#IAS41_5/IAS41_P0108">biological assets<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0021"/></ph></xref> after <xref href="IAS41_5.dita#IAS41_5/IAS41_P0114">harvest<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0163"/></ph></xref> (for example, the cost of replanting trees in a plantation forest after harvest).</p>     </bodydiv></body></paragraph>

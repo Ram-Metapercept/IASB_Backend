@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS32_AG15" base="SL31634" principles="no"><paranum>AG15</paranum><prolog><data name="standard_number" value="IAS 32"/><data name="paranum" value="AG15"/></prolog><body><p id="IAS32_P0482"><xref base="SL37522960" href="IAS32_11.dita#IAS32_11/IAS32_P0110">Financial instruments<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0126"/></ph></xref> include primary instruments (such as receivables, payables and equity instruments) and derivative financial instruments (such as financial options, futures and forwards, interest rate swaps and currency swaps). Derivative financial instruments meet the definition of a financial instrument and, accordingly, are within the scope of this Standard.</p><variants id="IAS32_E0086">  </variants></body></paragraph>

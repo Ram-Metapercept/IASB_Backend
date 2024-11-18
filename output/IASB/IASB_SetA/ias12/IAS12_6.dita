@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS12_6" base="SL29991"><paranum>6</paranum><prolog><data name="standard_number" value="IAS 12"/><data name="paranum" value="6"/></prolog><body><p id="IAS12_P0035"><xref base="SL143754" href="IAS12_5.dita#IAS12_5/IAS12_P0019">Tax expense (tax income)<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0362"/></ph></xref> comprises <xref base="SL143755" href="IAS12_5.dita#IAS12_5/IAS12_P0020">current tax<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0069"/></ph></xref> expense (current tax income) and deferred tax expense (deferred tax income).</p></body></paragraph>

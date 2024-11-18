@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRIC14_BC16" base="F3902665" principles="no"><paranum>BC16</paranum><prolog><data name="standard_number" value="IFRIC 14"/><data name="paranum" value="BC16"/></prolog><body><p id="IFRIC14_P0246">The IFRIC also noted that the present value of the defined benefit obligation and the fair value of assets are both measured on a present value basis<xref keyref="footnotes/IFRIC14_FN0005" type="fn"/> and therefore take into account the timing of the future cash flows. The IFRIC concluded that no further adjustment for the time value of money needs to be made when measuring the amount of a refund determined as the full amount or a proportion of the surplus that is realisable at a future date.</p></body></paragraph>

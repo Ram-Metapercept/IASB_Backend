@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS12_46" base="SL30033" principles="yes"><paranum>46</paranum><prolog><data name="standard_number" value="IAS 12"/><data name="paranum" value="46"/></prolog><body><p id="IAS12_P0228"><xref base="SL143755" href="IAS12_5.dita#IAS12_5/IAS12_P0020">Current tax<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0069"/></ph></xref> liabilities (assets) for the current and prior periods shall be measured at the amount expected to be paid to (recovered from) the taxation authorities, using the tax rates (and tax laws) that have been enacted or substantively enacted by the end of the reporting period.</p></body></paragraph>

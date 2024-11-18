@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS02_BC240" base="SL34428"><paranum>BC240</paranum><prolog><data name="standard_number" value="IFRS 2"/><data name="paranum" value="BC240"/></prolog><body><p id="IFRS02_P2306">In an equity&#x2011;settled transaction, only one side of the transaction causes a change in assets, ie an asset (services) is received but no assets are disbursed. The other side of the transaction increases equity; it does not cause a change in assets. Accordingly, not only is it not necessary to remeasure the transaction amount upon settlement, it is not appropriate, because equity interests are not remeasured.</p></body></paragraph>

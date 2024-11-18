@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS08_48" base="SL29885" principles="no"><paranum>48</paranum><prolog><data name="standard_number" value="IAS 8"/><data name="paranum" value="48"/></prolog><body><bodydiv base="IAS2021-1">       <p>Corrections of errors are distinguished from changes in <xref href="IAS08_5.dita#IAS08_5/IAS08_5_accountingestimates">accounting estimates<ph outputclass="def_xref"><xref keyref="GLOSSARY_accountingestimates"/></ph></xref>. Accounting         estimates by their nature are approximations that may need changing as additional         information becomes known. For example, the gain or loss recognised on the outcome of a         contingency is not the correction of an error.</p>     </bodydiv></body></paragraph>

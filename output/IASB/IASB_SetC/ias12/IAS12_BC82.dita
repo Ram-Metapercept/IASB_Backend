@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph base="IAS2021-3" id="IAS12_BC82"><paranum>BC82</paranum><prolog><data name="standard_number" value="IAS 12"/><data name="paranum" value="BC82"/></prolog><body><p><xref href="IAS12_24.dita">Paragraph 24</xref> of <xref href="IAS12_TOC0001.dita">IAS 12</xref>       requires an entity to recognise deferred tax assets only &#x2018;to the extent that it is probable       that taxable profit will be available against which the deductible temporary difference can be       utilised&#x2019; (the recoverability requirement). Because of the recoverability requirement,       sometimes equal taxable and deductible temporary differences might result in an entity       recognising unequal amounts of deferred tax assets and liabilities.</p></body></paragraph>

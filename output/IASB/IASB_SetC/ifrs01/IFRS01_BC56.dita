@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph base="F7283607" id="IFRS01_BC56" principles="no"><paranum>BC56</paranum><prolog><data name="standard_number" value="IFRS 1"/><data name="paranum" value="BC56"/></prolog><body><p id="IFRS01_P2762"><xref base="F15825109" href="../ias32/IAS32_TOC.dita#IAS32_TOC0001" id="IFRS01_X1724">IAS 32</xref> requires an entity to split a compound financial instrument at inception into separate liability and equity components. Even if the liability component is no longer outstanding, retrospective application of IAS 32 would involve separating two portions of equity. The first portion is in retained earnings and represents the cumulative interest accreted on the liability component. The other portion represents the original equity component of the instrument.</p></body></paragraph>

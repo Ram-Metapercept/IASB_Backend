@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap
+  PUBLIC "-//IFRS//DTD DITA BookMap//EN" "../../../DocTypes/com.ifrs.doctype/dtd/ifrsBookmap.dtd">
+<bookmap cascade="merge"><booktitle><mainbooktitle>Introduction to this edition</mainbooktitle></booktitle><bookmeta><category>introduction</category></bookmeta><chapter href="introduction/introduction_TI.dita"><topicref href="introduction/introduction_TheIASB.dita"/><topicref href="introduction/introduction_IFRSStandards.dita"/><topicref href="introduction/introduction_Whatdoesthiseditioncontain.dita"/><topicref href="introduction/introduction_Publicationsandtranslations.dita"/><topicref href="introduction/introduction_Moreinformation.dita"/></chapter></bookmap>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS07_45" base="SL29772" principles="yes"><paranum>45</paranum><prolog><data name="standard_number" value="IAS 7"/><data name="paranum" value="45"/></prolog><body><p id="IAS07_P0170">An entity shall disclose the components of <xref base="SL131363" href="IAS07_6.dita#IAS07_6/IAS07_P0014">cash<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0028"/></ph></xref> and <xref base="SL131364" href="IAS07_6.dita#IAS07_6/IAS07_P0015">cash equivalents<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0029"/></ph></xref> and shall present a reconciliation of the amounts in its statement of cash flows with the equivalent items reported in the statement of financial position.</p></body></paragraph>

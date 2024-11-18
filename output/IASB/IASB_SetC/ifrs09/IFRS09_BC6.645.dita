@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph base="IFRS2020-5" id="IFRS09_BC6.645" principles="no"><paranum>BC6.645</paranum><prolog><data name="standard_number" value="IFRS 9"/><data name="paranum" value="BC6.645"/></prolog><body><p>	An entity may designate an item in its entirety or a component of an item as the hedged item in a hedging relationship. <xref href="IFRS09_6.3.7.dita" scope="local">Paragraphs 6.3.7(a)</xref> and <xref href="IFRS09_B6.3.8.dita" scope="local">B6.3.8 of IFRS 9</xref> allow entities to designate only changes in the cash flows or fair value of an item attributable to a specific risk or risks (risk component).</p></body></paragraph>

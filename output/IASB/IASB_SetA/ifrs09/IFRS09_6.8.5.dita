@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS09_6.8.5"><paranum>6.8.5</paranum><prolog><data name="standard_number" value="IFRS 9"/><data name="paranum" value="6.8.5"/></prolog><body><p>For the purpose of applying the requirement in <xref href="IFRS09_6.5.12.dita" scope="local">paragraph 6.5.12</xref> in order to determine whether the hedged future cash flows are expected to occur, an entity shall assume that the interest rate benchmark on which the hedged cash flows (contractually or non-contractually specified) are based is not altered as a result of interest rate benchmark reform.</p></body></paragraph>

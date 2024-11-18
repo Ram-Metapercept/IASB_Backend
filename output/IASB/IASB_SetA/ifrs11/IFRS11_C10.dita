@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS11_C10" base="F16125987" principles="no"><paranum>C10</paranum><prolog><data name="standard_number" value="IFRS 11"/><data name="paranum" value="C10"/></prolog><body><p id="IFRS11_P0255">An entity changing from the <xref base="F16124092" href="../ias28/IAS28_3.dita#IAS28_3/IAS28_P0018">equity method<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0105"/></ph></xref> to accounting for assets and liabilities shall provide a reconciliation between the investment derecognised, and the assets and liabilities recognised, together with any remaining difference adjusted against retained earnings, at the beginning of the immediately preceding period.</p></body></paragraph>

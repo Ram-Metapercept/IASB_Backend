@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//IFRS//DTD DITA Topic//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/ifrsTopic.dtd">
+<topic id="IFRS09_IG_B.7"><title id="IFRS09_IG_B.7_TI" base="F32868165" level="2">B.7 Definition of a derivative: option not expected to be exercised</title><body><p id="IFRS09_P4812" base="F32868166"><b>The definition of a derivative in IFRS 9 requires that the instrument &#x2018;is settled at a future date&#x2019;. Is this criterion met even if an option is expected not to be exercised, for example, because it is out of the money?</b></p><p id="IFRS09_P4813" base="F32868168">Yes. An option is settled upon exercise or at its maturity. Expiry at maturity is a form of settlement even though there is no additional exchange of consideration.</p></body></topic>

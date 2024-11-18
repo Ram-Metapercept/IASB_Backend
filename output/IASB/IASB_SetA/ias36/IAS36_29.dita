@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS36_29" base="SL32251" principles="no"><paranum>29</paranum><prolog><data name="standard_number" value="IAS 36"/><data name="paranum" value="29"/></prolog><body><p id="IAS36_P0173">Sometimes, the disposal of an asset would require the buyer to assume a liability and only a single <xref base="SL148456" href="IAS36_6.dita#IAS36_6/IAS36_P0101">fair value<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0118"/></ph></xref> less costs of disposal is available for both the asset and the liability. <xref id="IAS36_X0226" base="SL195772" href="IAS36_78.dita#IAS36_78">Paragraph 78</xref> explains how to deal with such cases.</p></body></paragraph>

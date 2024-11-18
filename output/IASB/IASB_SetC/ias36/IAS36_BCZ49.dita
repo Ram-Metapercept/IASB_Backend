@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS36_BCZ49" base="SL31921" principles="no"><paranum>BCZ49</paranum><prolog><data name="standard_number" value="IAS 36"/><data name="paranum" value="BCZ49"/></prolog><body><p id="IAS36_P2566">To use a forward rate to translate value in use expressed in a foreign currency would be inappropriate. This is because a forward rate reflects the market&#x2019;s adjustment for the differential in interest rates. Using such a rate would result in double&#x2011;counting the time value of money (first in the discount rate and then in the forward rate).</p></body></paragraph>

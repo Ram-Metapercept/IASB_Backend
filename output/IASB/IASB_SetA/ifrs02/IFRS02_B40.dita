@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS02_B40" base="SL34652" principles="no"><paranum>B40</paranum><prolog><data name="standard_number" value="IFRS 2"/><data name="paranum" value="B40"/></prolog><body><p id="IFRS02_P0355">Whether this has a significant effect on the value of the <xref base="SL141034" href="IFRS02_APPA.dita#IFRS02_APPA/IFRS02_P0290">share options<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0352"/></ph></xref> granted depends on various factors, such as the number of new shares that will be issued on exercise of the options compared with the number of shares already issued. Also, if the market already expects that the option grant will take place, the market may have already factored the potential dilution into the share price at the date of grant.</p></body></paragraph>

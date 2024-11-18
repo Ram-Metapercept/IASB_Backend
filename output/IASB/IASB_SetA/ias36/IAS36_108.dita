@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS36_108" base="SL32330" principles="yes"><paranum>108</paranum><prolog><data name="standard_number" value="IAS 36"/><data name="paranum" value="108"/></prolog><body><p id="IAS36_P0364">After the requirements in <xref id="IAS36_X0311" base="A36-252" href="IAS36_104.dita#IAS36_104">paragraphs 104 and 105</xref> have been applied, a liability shall be recognised for any remaining amount of an <xref base="SL148457" href="IAS36_6.dita#IAS36_6/IAS36_P0105">impairment loss<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0176"/></ph></xref> for a <xref base="SL148451" href="IAS36_6.dita#IAS36_6/IAS36_P0096">cash&#x2011;generating unit<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0031"/></ph></xref> if, and only if, that is required by another IFRS.</p></body></paragraph>

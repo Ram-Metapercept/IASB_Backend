@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS17_B11" base="F55667088"><paranum>B11</paranum><prolog><data name="standard_number" value="IFRS 17"/><data name="paranum" value="B11"/></prolog><body><p id="IFRS17_P0588"><xref base="F55666976" href="IFRS17_APPA.dita#IFRS17_APPA/IFRS17_P0539">Insurance risk<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0190"/></ph></xref> is the risk the entity accepts from the <xref base="F55667014" href="IFRS17_APPA.dita#IFRS17_APPA/IFRS17_P0552">policyholder<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0291"/></ph></xref>. This means the entity must accept, from the policyholder, a risk to which the policyholder was already exposed. Any new risk created by the contract for the entity or the policyholder is not insurance risk.</p></body></paragraph>

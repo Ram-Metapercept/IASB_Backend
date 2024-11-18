@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS36_42" base="SL32264" principles="no"><paranum>42</paranum><prolog><data name="standard_number" value="IAS 36"/><data name="paranum" value="42"/></prolog><body><p id="IAS36_P0203">When the <xref base="SL148450" href="IAS36_6.dita#IAS36_6/IAS36_P0095">carrying amount<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0026"/></ph></xref> of an asset does not yet include all the cash outflows to be incurred before it is ready for use or sale, the estimate of future cash outflows includes an estimate of any further cash outflow that is expected to be incurred before the asset is ready for use or sale. For example, this is the case for a building under construction or for a development project that is not yet completed.</p></body></paragraph>

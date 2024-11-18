@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS08_46" base="SL29883" principles="no"><paranum>46</paranum><prolog><data name="standard_number" value="IAS 8"/><data name="paranum" value="46"/></prolog><body><p id="IAS08_P0144">The correction of a <xref base="SL141408" href="IAS08_5.dita#IAS08_5/IAS08_P0022">prior period error<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0301"/></ph></xref> is excluded from profit or loss for the period in which the error is discovered. Any information presented about prior periods, including any historical summaries of financial data, is restated as far back as is practicable.</p></body></paragraph>

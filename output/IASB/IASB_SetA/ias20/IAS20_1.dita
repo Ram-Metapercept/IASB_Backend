@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph base="SL30821" principles="yes" id="IAS20_1"><paranum>1</paranum><prolog><data name="standard_number" value="IAS 20"/><data name="paranum" value="1"/></prolog><body><p id="IAS20_P0004">This Standard shall be applied in accounting for, and in the disclosure of, <xref base="SL136176" href="IAS20_3.dita#IAS20_3/IAS20_P0015">government grants<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0150"/></ph></xref> and in the disclosure of other forms of <xref base="SL136175" href="IAS20_3.dita#IAS20_3/IAS20_P0014">government assistance<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0149"/></ph></xref>.</p></body></paragraph>

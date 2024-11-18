@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS39_AG103" base="SL32869"><paranum>AG103</paranum><prolog><data name="standard_number" value="IAS 39"/><data name="paranum" value="AG103"/></prolog><body><p id="IAS39_P1185">An example of a cash flow hedge is the use of a swap to change floating rate debt to fixed rate debt (ie a hedge of a future transaction where the future cash flows being hedged are the future interest payments).</p></body></paragraph>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS01_IG17" base="F7283971" principles="no"><paranum>IG17</paranum><prolog><data name="standard_number" value="IFRS 1"/><data name="paranum" value="IG17"/></prolog><body><variant>     <p id="IFRS01_P0829">If an entity has received amounts that do not yet qualify for recognition as revenue in accordance with <xref id="IFRS01_X1118" base="F33218896" href="../IFRS15.ditamap">IFRS 15</xref> (for example, the proceeds of a sale that does not qualify for revenue recognition), the entity recognises a liability in its opening IFRS statement of financial position and measures that liability at the amount received, adjusted (if appropriate) for a significant financing component in accordance with IFRS 15.</p>     </variant></body></paragraph>

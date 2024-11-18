@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS07_25" base="SL29752" principles="yes"><paranum>25</paranum><prolog><data name="standard_number" value="IAS 7"/><data name="paranum" value="25"/></prolog><body><p id="IAS07_P0115"><xref base="SL131365" href="IAS07_6.dita#IAS07_6/IAS07_P0018">Cash flows<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0030"/></ph></xref> arising from transactions in a foreign currency shall be recorded in an entity&#x2019;s functional currency by applying to the foreign currency amount the exchange rate between the functional currency and the foreign currency at the date of the cash flow.</p></body></paragraph>

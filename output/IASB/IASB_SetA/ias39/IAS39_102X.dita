@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph base="IFRS2020-5" id="IAS39_102X" principles="no"><paranum>102X</paranum><prolog><data name="standard_number" value="IAS 39"/><data name="paranum" value="102X"/></prolog><body><p>For a discontinued hedging relationship, when the interest rate benchmark on which the hedged future cash flows had been based is changed as required by interest rate benchmark reform, for the purpose of applying <xref href="IAS39_101.dita">paragraph 101(c)</xref> in order to determine whether the hedged future cash flows are expected to occur, the amount accumulated in other comprehensive income for that hedging relationship shall be deemed to be based on the alternative benchmark rate on which the hedged future cash flows will be based.</p></body></paragraph>

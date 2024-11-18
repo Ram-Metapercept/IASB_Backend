@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS02_BC248" base="SL34436"><paranum>BC248</paranum><prolog><data name="standard_number" value="IFRS 2"/><data name="paranum" value="BC248"/></prolog><body><p id="IFRS02_P2318">However, this is not a fair value approach. Like share options, the fair value of SARs includes both their intrinsic value (the increase in the share price to date) and their time value (the value of the right to participate in future increases in the share price, if any, that may occur between the valuation date and the settlement date). An option pricing model can be used to estimate the fair value of SARs.</p></body></paragraph>

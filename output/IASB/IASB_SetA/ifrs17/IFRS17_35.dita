@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS17_35" base="F55666193"><paranum>35</paranum><prolog><data name="standard_number" value="IFRS 17"/><data name="paranum" value="35"/></prolog><body><p id="IFRS17_P0124">An entity shall not recognise as a liability or as an asset any amounts relating to expected premiums or expected claims outside the boundary of the <xref base="F55666957" href="IFRS17_APPA.dita#IFRS17_APPA/IFRS17_P0532">insurance contract<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0186"/></ph></xref>. Such amounts relate to future insurance contracts. </p></body></paragraph>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS39_IE4" base="SL33145"><paranum>IE4</paranum><prolog><data name="standard_number" value="IAS 39"/><data name="paranum" value="IE4"/></prolog><body><p id="IAS39_P1343">Entity A decides, for risk management purposes, to hedge the net position of CU20 million and accordingly enters into an interest rate swap<xref keyref="footnotes/IAS39_FN0048" type="fn"/> on 1 January 20X1 to pay a fixed rate and receive LIBOR, with a notional principal amount of CU20 million and a fixed life of three months.</p></body></paragraph>

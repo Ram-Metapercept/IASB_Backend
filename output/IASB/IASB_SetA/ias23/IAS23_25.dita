@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS23_25" base="F3101329" principles="no"><paranum>25</paranum><prolog><data name="standard_number" value="IAS 23"/><data name="paranum" value="25"/></prolog><body><p id="IAS23_P0083">A business park comprising several buildings, each of which can be used individually, is an example of a <xref base="F3101211" href="IAS23_5.dita#IAS23_5/IAS23_P0020">qualifying asset<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0311"/></ph></xref> for which each part is capable of being usable while construction continues on other parts. An example of a qualifying asset that needs to be complete before any part can be used is an industrial plant involving several processes which are carried out in sequence at different parts of the plant within the same site, such as a steel mill.</p></body></paragraph>

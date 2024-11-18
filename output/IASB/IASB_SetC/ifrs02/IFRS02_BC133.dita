@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS02_BC133" base="SL34321"><paranum>BC133</paranum><prolog><data name="standard_number" value="IFRS 2"/><data name="paranum" value="BC133"/></prolog><body><p id="IFRS02_P2170">The first two items define the intrinsic value of a share option; the remaining four are relevant to the share option&#x2019;s time value. Expected volatility, dividends and interest rate are all based on expectations over the option term. Therefore, the option term is an important part of calculating time value, because it affects the other inputs.</p></body></paragraph>

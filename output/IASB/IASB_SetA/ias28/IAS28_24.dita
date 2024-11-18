@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS28_24" base="F16124224" principles="yes"><paranum>24</paranum><prolog><data name="standard_number" value="IAS 28"/><data name="paranum" value="24"/></prolog><body><p id="IAS28_P0082">If an investment in an <xref base="F16124075" href="IAS28_3.dita#IAS28_3/IAS28_P0016">associate<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0018"/></ph></xref> becomes an investment in a joint venture or an investment in a joint venture becomes an investment in an associate, the entity continues to apply the <xref base="F16124092" href="IAS28_3.dita#IAS28_3/IAS28_P0018">equity method<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0105"/></ph></xref> and does not remeasure the retained interest.</p></body></paragraph>

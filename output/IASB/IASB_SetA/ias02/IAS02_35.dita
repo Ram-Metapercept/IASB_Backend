@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS02_35" base="SL29720"><paranum>35</paranum><prolog><data name="standard_number" value="IAS 2"/><data name="paranum" value="35"/></prolog><body><p id="IAS02_P0066">Some <xref base="SL140682" href="IAS02_6.dita#IAS02_6/IAS02_P0022">inventories<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0201"/></ph></xref> may be allocated to other asset accounts, for example, inventory used as a component of self&#x2011;constructed property, plant or equipment . Inventories allocated to another asset in this way are recognised as an expense during the useful life of that asset.</p></body></paragraph>

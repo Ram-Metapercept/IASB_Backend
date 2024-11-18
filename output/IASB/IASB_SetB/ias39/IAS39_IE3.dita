@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS39_IE3" base="SL33144"><paranum>IE3</paranum><prolog><data name="standard_number" value="IAS 39"/><data name="paranum" value="IE3"/></prolog><body><p id="IAS39_P1342">This example deals only with the repricing time period expiring in three months&#x2019; time, ie the time period maturing on 31 March 20X1 (a similar procedure would be applied for each of the other 59 time periods). Entity A has scheduled assets of CU100 million<xref keyref="footnotes/IAS39_FN0047" type="fn"/> and liabilities of CU80 million into this time period. All of the liabilities are repayable on demand.</p></body></paragraph>

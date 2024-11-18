@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS12_51" base="SL30038" principles="yes"><paranum>51</paranum><prolog><data name="standard_number" value="IAS 12"/><data name="paranum" value="51"/></prolog><body><p id="IAS12_P0233">The measurement of <xref base="SL143756" href="IAS12_5.dita#IAS12_5/IAS12_P0021">deferred tax liabilities<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0076"/></ph></xref> and <xref base="SL143757" href="IAS12_5.dita#IAS12_5/IAS12_P0022">deferred tax assets<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0075"/></ph></xref> shall reflect the tax consequences that would follow from the manner in which the entity expects, at the end of the reporting period, to recover or settle the carrying amount of its assets and liabilities.</p></body></paragraph>

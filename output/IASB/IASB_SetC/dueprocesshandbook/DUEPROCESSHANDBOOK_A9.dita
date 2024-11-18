@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph base="F22250245" id="DUEPROCESSHANDBOOK_A9"><paranum>A9</paranum><prolog><data name="standard_number" value="IFRS Foundation"/><data name="paranum" value="A9"/></prolog><body><bodydiv base="DPH2020">       <p>These are the files used to express and deliver the IFRS Taxonomy content employing a taxonomy delivery mechanism, such as the eXtensible Business Reporting Language (XBRL) syntax. These files allow computers to process the IFRS Taxonomy and to render its content using various software applications.</p>     </bodydiv></body></paragraph>

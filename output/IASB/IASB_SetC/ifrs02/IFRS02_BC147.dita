@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS02_BC147" base="SL34335"><paranum>BC147</paranum><prolog><data name="standard_number" value="IFRS 2"/><data name="paranum" value="BC147"/></prolog><body><p id="IFRS02_P2189">In the finance literature, employee share options are sometimes called Bermudian options, being partly European and partly American. An American share option can be exercised at any time during the option&#x2019;s life, whereas a European share option can be exercised only at the end of the option&#x2019;s life. An American share option is more valuable than a European share option, although the difference in value is not usually significant.</p></body></paragraph>

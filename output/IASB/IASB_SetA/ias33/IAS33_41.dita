@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph base="SL31718" principles="yes" id="IAS33_41"><paranum>41</paranum><prolog><data name="standard_number" value="IAS 33"/><data name="paranum" value="41"/></prolog><body><p id="IAS33_P0114"><xref base="SL148105" href="IAS33_5.dita#IAS33_5/IAS33_P0024">Potential ordinary shares<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0295"/></ph></xref> shall be treated as dilutive when, and only when, their conversion to <xref base="SL148104" href="IAS33_5.dita#IAS33_5/IAS33_P0023">ordinary shares<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0275"/></ph></xref> would decrease earnings per share or increase loss per share from continuing operations.</p></body></paragraph>

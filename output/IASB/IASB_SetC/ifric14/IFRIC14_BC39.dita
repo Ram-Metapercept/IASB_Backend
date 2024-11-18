@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRIC14_BC39" base="F3902817" principles="no"><paranum>BC39</paranum><prolog><data name="standard_number" value="IFRIC 14"/><data name="paranum" value="BC39"/></prolog><body><p id="IFRIC14_P0272">Respondents to D19 noted that paragraph 58A<xref keyref="footnotes/IFRIC14_FN0007" type="fn"/> of IAS 19 causes the limit on the defined benefit asset to affect the deferred recognition of actuarial gains and losses. Retrospective application of the Interpretation could change the amount of that limit for previous periods, thereby also changing the deferred recognition of actuarial gains and losses. Calculating these revised amounts retrospectively over the life of the plan would be costly and of little benefit to users of financial statements.</p></body></paragraph>

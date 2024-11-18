@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS09_BC6.225" base="F33206964"><paranum>BC6.225</paranum><prolog><data name="standard_number" value="IFRS 9"/><data name="paranum" value="BC6.225"/></prolog><body><p id="IFRS09_P6655">The IASB discussed an example of an entity that has a liability that pays a fixed rate and grants a loan at a floating rate with both instruments being priced at sub-LIBOR interest rates. The entity enters into a LIBOR-based interest rate swap with the aim of locking in the margin that it will earn on the combined position. If the entity wants to designate the hedged item on the basis of the interest rate risk that results from its financial asset, this would be an example of a cash flow hedge of variable-rate interest cash flows from a sub-LIBOR asset.</p></body></paragraph>

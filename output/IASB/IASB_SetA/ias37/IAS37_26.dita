@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS37_26" base="SL32433" principles="no"><paranum>26</paranum><prolog><data name="standard_number" value="IAS 37"/><data name="paranum" value="26"/></prolog><body><p id="IAS37_P0120">In the extremely rare case where no reliable estimate can be made, a <xref base="SL145941" href="IAS37_10.dita#IAS37_10/IAS37_P0057_V1">liability<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0226"/></ph></xref> exists that cannot be recognised. That liability is disclosed as a <xref base="SL145957" href="IAS37_10.dita#IAS37_10/IAS37_P0067">contingent liability<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0045"/></ph></xref> (see <xref id="IAS37_X0157" base="A37-145" href="IAS37_86.dita#IAS37_86">paragraph 86</xref>).</p></body></paragraph>

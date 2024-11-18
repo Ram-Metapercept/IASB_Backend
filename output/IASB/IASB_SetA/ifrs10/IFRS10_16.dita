@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS10_16" base="F16125276" principles="no"><paranum>16</paranum><prolog><data name="standard_number" value="IFRS 10"/><data name="paranum" value="16"/></prolog><body><p id="IFRS10_P0086">Although only one investor can <xref base="F16125786" href="IFRS10_APPA.dita#IFRS10_APPA/IFRS10_P0160">control<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0053"/></ph></xref> an investee, more than one party can share in the returns of an investee. For example, holders of <xref base="F16125813" href="IFRS10_APPA.dita#IFRS10_APPA/IFRS10_P0173">non-controlling interests<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0260"/></ph></xref> can share in the profits or distributions of an investee.</p></body></paragraph>

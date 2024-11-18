@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS36_A15" base="SL32378" principles="no"><paranum>A15</paranum><prolog><data name="standard_number" value="IAS 36"/><data name="paranum" value="A15"/></prolog><body><p id="IAS36_P0591">Whichever approach an entity adopts for measuring the <xref base="SL148465" href="IAS36_6.dita#IAS36_6/IAS36_P0112">value in use<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0382"/></ph></xref> of an asset, interest rates used to discount cash flows should not reflect risks for which the estimated cash flows have been adjusted. Otherwise, the effect of some assumptions will be double&#x2011;counted.</p></body></paragraph>

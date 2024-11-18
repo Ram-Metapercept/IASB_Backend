@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS17_BC202" base="SL55753276"><paranum>BC202</paranum><prolog><data name="standard_number" value="IFRS 17"/><data name="paranum" value="BC202"/></prolog><body><p id="IFRS17_P6176">Some view the cash flows that result from a guarantee embedded in an insurance contract as:</p><ol id="IFRS17_L0494" base="F55753208" type="lower-alpha"><li><li_value>(a)</li_value> <p id="IFRS17_P6177" base="F55753209">variable in scenarios in which the guarantee amount is lower than the proportion of returns on underlying items promised to the policyholder; and</p></li><li><li_value>(b)</li_value> <p id="IFRS17_P6178" base="F55753211">fixed in scenarios in which the guaranteed amount is higher than the proportion of returns on underlying items promised to the policyholder.</p></li></ol></body></paragraph>

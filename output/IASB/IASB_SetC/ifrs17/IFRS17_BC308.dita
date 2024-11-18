@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS17_BC308" base="F55753599"><paranum>BC308</paranum><prolog><data name="standard_number" value="IFRS 17"/><data name="paranum" value="BC308"/></prolog><body><p id="IFRS17_P6365">An entity holding reinsurance contracts faces the risk that the reinsurer may default, or may dispute whether a valid claim exists for an insured event. IFRS 17 requires the estimates of expected credit losses to be based on expected values. Hence, estimates of the amounts and timing of cash flows are probability-weighted outcomes after calculating the effect of credit losses.</p></body></paragraph>

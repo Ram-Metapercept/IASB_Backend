@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS17_B102" base="F55667530"><paranum>B102</paranum><prolog><data name="standard_number" value="IFRS 17"/><data name="paranum" value="B102"/></prolog><body><p id="IFRS17_P0865">An entity shall assess whether the conditions in <xref id="IFRS17_X0697" base="F59236489" href="IFRS17_gB101-B118.dita#IFRS17_gB101-B118/IFRS17_gB101-B118_TI">paragraph B101</xref> are met using its expectations at inception of the <xref base="F55666957" href="IFRS17_APPA.dita#IFRS17_APPA/IFRS17_P0532">contract<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0186"/></ph></xref> and shall not reassess the conditions afterwards, unless the contract is modified, applying <xref id="IFRS17_X0698" base="F59236490" href="IFRS17_g72-77.dita#IFRS17_g72-77/IFRS17_g72-77_TI">paragraph 72</xref>.</p></body></paragraph>

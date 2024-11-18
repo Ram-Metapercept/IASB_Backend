@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS23_15" base="F3101283" principles="no"><paranum>15</paranum><prolog><data name="standard_number" value="IAS 23"/><data name="paranum" value="15"/></prolog><body><p id="IAS23_P0070">In some circumstances, it is appropriate to include all borrowings of the parent and its subsidiaries when computing a weighted average of the <xref base="F3101210" href="IAS23_5.dita#IAS23_5/IAS23_P0019">borrowing costs<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0023"/></ph></xref>; in other circumstances, it is appropriate for each subsidiary to use a weighted average of the borrowing costs applicable to its own borrowings.</p></body></paragraph>

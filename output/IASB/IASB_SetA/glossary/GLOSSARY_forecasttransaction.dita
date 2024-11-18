@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossentry
+  PUBLIC "-//IFRS//DTD DITA Glossary Entry//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/ifrsGlossentry.dtd">
+<glossentry id="GLOSSARY_DI0138_V1"><glossterm base="SL60656" id="GLOSSARY_TE0166">forecast transaction</glossterm><glossdef>     <p base="SL138730" id="GLOSSARY_P0443">An uncommitted but anticipated future transaction.</p>   </glossdef><related-links><linklist id="GLOSSARY_P0446"><link base="F43925814" href="../ifrs09/IFRS09_APPA.dita" id="GLOSSARY_X0281"><linktext>IFRS 9.A</linktext></link><link base="F39220243" href="../ias39/IAS39_9.dita#IAS39_9/IAS39_9_V2" id="GLOSSARY_X0282"><linktext>IAS 39.9</linktext></link></linklist></related-links></glossentry>

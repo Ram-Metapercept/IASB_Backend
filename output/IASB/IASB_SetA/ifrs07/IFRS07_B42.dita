@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS07_B42" base="F17296552"><paranum>B42</paranum><prolog><data name="standard_number" value="IFRS 7"/><data name="paranum" value="B42"/></prolog><body><p id="IFRS07_P1162">Financial instruments disclosed in accordance with <xref id="IFRS07_X1010" base="F17327961" href="IFRS07_13C.dita#IFRS07_13C">paragraph 13C</xref> may be subject to different measurement requirements (for example, a payable related to a repurchase agreement may be measured at amortised cost, while a derivative will be measured at fair value). An entity shall include instruments at their recognised amounts and describe any resulting measurement differences in the related disclosures.</p></body></paragraph>

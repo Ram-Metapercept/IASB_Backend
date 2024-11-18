@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS17_62A" base="IFRS2020-3"><paranum>62A</paranum><prolog><data name="standard_number" value="IFRS 17"/><data name="paranum" value="62A"/></prolog><body><p>Notwithstanding <xref href="IFRS17_62.dita">paragraph 62(a)</xref>, an entity shall delay the recognition of a group of reinsurance contracts held that provide proportionate coverage until the date that any underlying insurance contract is initially recognised, if that date is later than the beginning of the coverage period of the group of reinsurance contracts held.</p></body></paragraph>

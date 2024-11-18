@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossentry
+  PUBLIC "-//IFRS//DTD DITA Glossary Entry//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/ifrsGlossentry.dtd">
+<glossentry id="GLOSSARY_DI0006"><glossterm base="SL60520" id="GLOSSARY_TE0006">acquisition date</glossterm><glossdef> <p base="SL138119" id="GLOSSARY_P0014">The date on which the acquirer obtains control of the acquiree.</p></glossdef><related-links><linklist id="GLOSSARY_P0015"><link base="F31974354" href="../ifrs03/IFRS03_APPA.dita#IFRS03_APPA" id="GLOSSARY_X0006"><linktext>IFRS 3.A</linktext></link></linklist></related-links></glossentry>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /mnt/crx/author/crx-quickstart/profiles/ditamaps/ditamap516591590676960468/temp/temp20230109121828435?><?workdir-uri file:/mnt/crx/author/crx-quickstart/profiles/ditamaps/ditamap516591590676960468/temp/temp20230109121828435/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//IFRS//DTD DITA Map//EN?><?doctype-system ifrsMap.dtd?>
+<!DOCTYPE map
+  PUBLIC "-//IFRS//DTD DITA Map//EN" "../../../DocTypes/com.ifrs.doctype/dtd/ifrsMap.dtd">
+<map id="BB2023_A" cascade="merge">
+  <topicmeta>
+    <category>A</category>
+  </topicmeta>
+  <mapref href="frontmatter_A.ditamap" keyscope="frontmatter" format="ditamap"/>
+  <mapref href="introduction.ditamap" keyscope="introduction" format="ditamap"/>
+  <mapref href="changesinthisedition.ditamap" keyscope="changes" format="ditamap"/>
+  <mapref href="PrefaceToIFRS.ditamap" keyscope="preface" format="ditamap"/>
+  <mapref href="CF2018.ditamap" keyscope="cf2018" format="ditamap" navtitle=""/>
+  <mapref href="IFRS01.ditamap" keyscope="ifrs01" format="ditamap"/>
+  <mapref href="IFRS02.ditamap" keyscope="ifrs02" format="ditamap"/>
+  <mapref href="IFRS03.ditamap" keyscope="ifrs03" format="ditamap"/>
+  <mapref href="IFRS05.ditamap" keyscope="ifrs05" format="ditamap"/>
+  <mapref href="IFRS06.ditamap" keyscope="ifrs06" format="ditamap"/>
+  <mapref href="IFRS07.ditamap" keyscope="ifrs07" format="ditamap"/>
+  <mapref href="IFRS08.ditamap" keyscope="ifrs08" format="ditamap"/>
+  <mapref href="IFRS09.ditamap" keyscope="ifrs09" format="ditamap"/>
+  <mapref href="IFRS10.ditamap" keyscope="ifrs10" format="ditamap"/>
+  <mapref href="IFRS11.ditamap" keyscope="ifrs11" format="ditamap"/>
+  <mapref href="IFRS12.ditamap" keyscope="ifrs12" format="ditamap"/>
+  <mapref href="IFRS13.ditamap" keyscope="ifrs13" format="ditamap"/>
+  <mapref href="IFRS14.ditamap" keyscope="ifrs14" format="ditamap"/>
+  <mapref href="IFRS15.ditamap" keyscope="ifrs15" format="ditamap"/>
+  <mapref href="IFRS16.ditamap" keyscope="ifrs16" format="ditamap" navtitle="Leases"/>
+  <mapref href="IFRS17.ditamap" keyscope="ifrs17" format="ditamap"/>
+  <mapref href="IAS01.ditamap" keyscope="ias01" format="ditamap"/>
+  <mapref href="IAS02.ditamap" keyscope="ias02" format="ditamap"/>
+  <mapref href="IAS07.ditamap" keyscope="ias07" format="ditamap"/>
+  <mapref href="IAS08.ditamap" keyscope="ias08" format="ditamap"/>
+  <mapref href="IAS10.ditamap" keyscope="ias10" format="ditamap"/>
+  <mapref href="IAS12.ditamap" keyscope="ias12" format="ditamap"/>
+  <mapref href="IAS16.ditamap" keyscope="ias16" format="ditamap"/>
+  <mapref href="IAS19.ditamap" keyscope="ias19" format="ditamap"/>
+  <mapref href="IAS20.ditamap" keyscope="ias20" format="ditamap"/>
+  <mapref href="IAS21.ditamap" keyscope="ias21" format="ditamap"/>
+  <mapref href="IAS23.ditamap" keyscope="ias23" format="ditamap"/>
+  <mapref href="IAS24.ditamap" keyscope="ias24" format="ditamap"/>
+  <mapref href="IAS26.ditamap" keyscope="ias26" format="ditamap"/>
+  <mapref href="IAS27.ditamap" keyscope="ias27" format="ditamap"/>
+  <mapref href="IAS28.ditamap" keyscope="ias28" format="ditamap"/>
+  <mapref href="IAS29.ditamap" keyscope="ias29" format="ditamap"/>
+  <mapref href="IAS32.ditamap" keyscope="ias32" format="ditamap"/>
+  <mapref href="IAS33.ditamap" keyscope="ias33" format="ditamap"/>
+  <mapref href="IAS34.ditamap" keyscope="ias34" format="ditamap"/>
+  <mapref href="IAS36.ditamap" keyscope="ias36" format="ditamap"/>
+  <mapref href="IAS37.ditamap" keyscope="ias37" format="ditamap"/>
+  <mapref href="IAS38.ditamap" keyscope="ias38" format="ditamap"/>
+  <mapref href="IAS39.ditamap" keyscope="ias39" format="ditamap"/>
+  <mapref href="IAS40.ditamap" keyscope="ias40" format="ditamap"/>
+  <mapref href="IAS41.ditamap" keyscope="ias41" format="ditamap"/>
+  <mapref href="IFRIC01.ditamap" keyscope="ifric01" format="ditamap"/>
+  <mapref href="IFRIC02.ditamap" keyscope="ifric02" format="ditamap"/>
+  <mapref href="IFRIC05.ditamap" keyscope="ifric05" format="ditamap"/>
+  <mapref href="IFRIC06.ditamap" keyscope="ifric06" format="ditamap"/>
+  <mapref href="IFRIC07.ditamap" keyscope="ifric07" format="ditamap"/>
+  <mapref href="IFRIC10.ditamap" keyscope="ifric10" format="ditamap"/>
+  <mapref href="IFRIC12.ditamap" keyscope="ifric12" format="ditamap"/>
+  <mapref href="IFRIC14.ditamap" keyscope="ifric14" format="ditamap"/>
+  <mapref href="IFRIC16.ditamap" keyscope="ifric16" format="ditamap"/>
+  <mapref href="IFRIC17.ditamap" keyscope="ifric17" format="ditamap"/>
+  <mapref href="IFRIC19.ditamap" keyscope="ifric19" format="ditamap"/>
+  <mapref href="IFRIC20.ditamap" keyscope="ifric20" format="ditamap"/>
+  <mapref href="IFRIC21.ditamap" keyscope="ifric21" format="ditamap"/>
+  <mapref href="IFRIC22.ditamap" keyscope="ifric22" format="ditamap"/>
+  <mapref href="IFRIC23.ditamap" keyscope="ifric23" format="ditamap"/>
+  <mapref href="SIC07.ditamap" keyscope="sic07" format="ditamap"/>
+  <mapref href="SIC10.ditamap" keyscope="sic10" format="ditamap"/>
+  <mapref href="SIC25.ditamap" keyscope="sic25" format="ditamap"/>
+  <mapref href="SIC29.ditamap" keyscope="sic29" format="ditamap"/>
+  <mapref href="SIC32.ditamap" keyscope="sic32" format="ditamap"/>
+  <mapref href="glossary.ditamap" keyscope="glossary" format="ditamap"/>
+</map>

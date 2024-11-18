@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph base="F3903624" principles="no" id="IAS01_100"><paranum>100</paranum><prolog><data name="standard_number" value="IAS 1"/><data name="paranum" value="100"/></prolog><body><p id="IAS01_P0525">Entities are encouraged to present the analysis in <xref base="F4755175" href="IAS01_99.dita#IAS01_99" id="IAS01_X0418">paragraph 99</xref> in the statement(s) presenting <xref base="F3903064" href="IAS01_7_profitorloss.dita" scope="local">profit or loss<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0303"/></ph></xref> and <xref base="F3903039" href="IAS01_7_othercomprehensiveincome.dita">other comprehensive income<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0276"/></ph></xref>.</p></body></paragraph>

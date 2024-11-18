@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS19_113" base="F16151951" principles="no"><paranum>113</paranum><prolog><data name="standard_number" value="IAS 19"/><data name="paranum" value="113"/></prolog><body><p id="IAS19_P0540">The <xref base="F16149749" href="IAS19_0003.dita#IAS19_0003/IAS19_UN0017">fair value<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0118"/></ph></xref> of any <xref base="F16149665" href="IAS19_0003.dita#IAS19_0003/IAS19_UN0014">plan assets<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0290"/></ph></xref> is deducted from the present value of the defined benefit obligation in determining the <xref base="F16149652" href="IAS19_0003.dita#IAS19_0003/IAS19_UN0011">deficit or surplus<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0077"/></ph></xref>.</p></body></paragraph>

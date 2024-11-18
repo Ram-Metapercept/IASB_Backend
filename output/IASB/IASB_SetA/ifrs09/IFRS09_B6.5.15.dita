@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph base="SL32626864" id="IFRS09_B6.5.15"><paranum>B6.5.15</paranum><prolog><data name="standard_number" value="IFRS 9"/><data name="paranum" value="B6.5.15"/></prolog><body><p id="IFRS09_P1606">Rebalancing does not apply if the risk management objective for a hedging relationship has changed. Instead, hedge accounting for that hedging relationship shall be discontinued (despite that an entity might designate a new hedging relationship that involves the hedging instrument or hedged item of the previous hedging relationship as described in <xref href="IFRS09_B6.5.28.dita" scope="local" id="IFRS09_X1594">paragraph B6.5.28</xref>).</p></body></paragraph>

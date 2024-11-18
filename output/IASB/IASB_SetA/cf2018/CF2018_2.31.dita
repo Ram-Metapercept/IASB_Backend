@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="CF2018_2.31" base="F72787153"><paranum>2.31</paranum><prolog><data name="standard_number" value=""/><data name="paranum" value="2.31"/></prolog><body><p id="CF2018_P0071">Verification can be direct or indirect. Direct verification means verifying an amount or other representation through direct observation, for example, by counting cash. Indirect verification means checking the inputs to a model, formula or other technique and recalculating the outputs using the same methodology. An example is verifying the carrying amount of inventory by checking the inputs (quantities and costs) and recalculating the ending inventory using the same cost flow assumption (for example, using the first-in, first-out method).</p></body></paragraph>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS19_123" principles="yes"><paranum>123</paranum><prolog><data name="standard_number" value="IAS 19"/><data name="paranum" value="123"/></prolog><body><variant id="IAS19_123_V2" base="F74052954"> <p id="IAS19_P0564">An entity shall determine <xref base="F16149768" href="IAS19_0004.dita#IAS19_0004/IAS19_UN0019">net interest on the net defined benefit liability (asset)<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0254"/></ph></xref> by multiplying the net defined benefit liability (asset) by the discount rate specified in <xref id="IAS19_X0419" base="F74052956" href="IAS19_83.dita#IAS19_83">paragraph 83</xref>.</p></variant></body></paragraph>

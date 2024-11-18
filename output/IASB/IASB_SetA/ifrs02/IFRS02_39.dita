@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS02_39" base="SL34591" principles="no"><paranum>39</paranum><prolog><data name="standard_number" value="IFRS 2"/><data name="paranum" value="39"/></prolog><body><p id="IFRS02_P0124">At the date of settlement, the entity shall remeasure the liability to its <xref base="SL141007" href="IFRS02_APPA.dita#IFRS02_APPA/IFRS02_P0249">fair value<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0119"/></ph></xref>. If the entity issues <xref base="SL140998" href="IFRS02_APPA.dita#IFRS02_APPA/IFRS02_P0243">equity instruments<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0102"/></ph></xref> on settlement rather than paying cash, the liability shall be transferred direct to equity, as the consideration for the equity instruments issued. </p></body></paragraph>

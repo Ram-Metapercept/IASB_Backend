@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS02_BC81" base="SL34269"><paranum>BC81</paranum><prolog><data name="standard_number" value="IFRS 2"/><data name="paranum" value="BC81"/></prolog><body><p id="IFRS02_P2101">Minimum value can also be calculated using an option pricing model with an expected volatility of effectively zero (not exactly zero, because some option pricing models use volatility as a divisor, and zero cannot be a divisor).</p></body></paragraph>

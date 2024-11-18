@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS20_10" base="SL30830"><paranum>10</paranum><prolog><data name="standard_number" value="IAS 20"/><data name="paranum" value="10"/></prolog><body><p id="IAS20_P0028">A <xref base="SL136179" href="IAS20_3.dita#IAS20_3/IAS20_P0018">forgivable loan<ph outputclass="def_xref"><xref keyref="GLOSSARY_forgivableloans"/></ph></xref> from <xref base="SL136174" href="IAS20_3.dita#IAS20_3/IAS20_P0013">government<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0148"/></ph></xref> is treated as a <xref base="SL136176" href="IAS20_3.dita#IAS20_3/IAS20_P0015">government grant<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0150"/></ph></xref> when there is reasonable assurance that the entity will meet the terms for forgiveness of the loan.</p></body></paragraph>

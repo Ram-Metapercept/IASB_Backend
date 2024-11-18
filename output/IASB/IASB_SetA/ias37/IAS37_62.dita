@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS37_62" base="SL32469" principles="no"><paranum>62</paranum><prolog><data name="standard_number" value="IAS 37"/><data name="paranum" value="62"/></prolog><body><p id="IAS37_P0164">Only expenditures that relate to the original <xref base="SL145940" href="IAS37_10.dita#IAS37_10/IAS37_P0056">provision<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0307"/></ph></xref> are set against it. Setting expenditures against a provision that was originally recognised for another purpose would conceal the impact of two different events.</p></body></paragraph>

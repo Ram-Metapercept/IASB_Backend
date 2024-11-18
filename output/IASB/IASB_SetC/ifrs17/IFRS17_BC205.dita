@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS17_BC205" base="F55753214"><paranum>BC205</paranum><prolog><data name="standard_number" value="IFRS 17"/><data name="paranum" value="BC205"/></prolog><body><p id="IFRS17_P6181">However, the Board also noted that using a replicating portfolio technique might require splitting the cash flows of the insurance contracts into those that match the cash flows from the asset portfolio and those that do not. As discussed in <xref id="IFRS17_X1657" base="F59369619" href="IFRS17_BC261.dita#IFRS17_BC261">paragraph BC261</xref>, many stakeholders argued that it is impossible to split the cash flows in this way. Hence, IFRS 17 permits, but does not require, the use of a replicating portfolio technique and allows other approaches, such as risk-neutral modelling.</p></body></paragraph>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph principles="yes" id="IAS37_66"><paranum>66</paranum><prolog><data name="standard_number" value="IAS 37"/><data name="paranum" value="66"/></prolog><body><variant base="SL64247808" id="IAS37_66_V2">       <p id="IAS37_P0170">If an entity has a contract that is <xref base="SL145969" href="IAS37_10.dita#IAS37_10/IAS37_P0073">onerous<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0266"/></ph></xref>, the present obligation                  under the contract shall be recognised and measured as a <xref base="SL145940" href="IAS37_10.dita#IAS37_10/IAS37_P0056">provision<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0307"/></ph></xref>.</p>            </variant></body></paragraph>

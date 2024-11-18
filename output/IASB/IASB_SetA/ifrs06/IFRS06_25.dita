@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS06_25" base="SL42386" principles="no"><paranum>25</paranum><prolog><data name="standard_number" value="IFRS 6"/><data name="paranum" value="25"/></prolog><body><p id="IFRS06_P0058">An entity shall treat <xref base="SL143650" href="IFRS06_APPA.dita#IFRS06_APPA/IFRS06_P0066">exploration and evaluation assets<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0115"/></ph></xref> as a separate class of assets and make the disclosures required by either <xref id="IFRS06_X0089" base="F396955" href="../IAS16.ditamap">IAS 16</xref> or <xref id="IFRS06_X0090" base="F396956" href="../IAS38.ditamap">IAS 38</xref> consistent with how the assets are classified.</p></body></paragraph>

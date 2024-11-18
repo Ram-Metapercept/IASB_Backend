@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS36_36" base="SL32258" principles="no"><paranum>36</paranum><prolog><data name="standard_number" value="IAS 36"/><data name="paranum" value="36"/></prolog><body><p id="IAS36_P0194">Cash flow projections until the end of an asset&#x2019;s <xref base="SL148459" href="IAS36_6.dita#IAS36_6/IAS36_P0109">useful life<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0380"/></ph></xref> are estimated by extrapolating the cash flow projections based on the financial budgets/forecasts using a growth rate for subsequent years. This rate is steady or declining, unless an increase in the rate matches objective information about patterns over a product or industry lifecycle. If appropriate, the growth rate is zero or negative.</p></body></paragraph>

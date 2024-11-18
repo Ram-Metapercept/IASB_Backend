@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS33_61" base="SL31739" principles="no"><paranum>61</paranum><prolog><data name="standard_number" value="IAS 33"/><data name="paranum" value="61"/></prolog><body><p id="IAS33_P0157">An example of a contract that may be settled in <xref base="SL148104" href="IAS33_5.dita#IAS33_5/IAS33_P0023">ordinary shares<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0275"/></ph></xref> or cash is a debt instrument that, on maturity, gives the entity the unrestricted right to settle the principal amount in cash or in its own ordinary shares. Another example is a written put option that gives the holder a choice of settling in ordinary shares or cash.</p></body></paragraph>

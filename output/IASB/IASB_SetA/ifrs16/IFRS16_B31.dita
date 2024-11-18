@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph base="F45930013" id="IFRS16_B31"><paranum>B31</paranum><prolog><data name="standard_number" value="IFRS 16"/><data name="paranum" value="B31"/></prolog><body><p id="IFRS16_P0507" outputclass="keep_with_next">The following flowchart may assist entities in making the assessment of whether a <xref base="F45929889" href="IFRS16_APPA.dita#IFRS16_APPA/IFRS16_P0398">contract<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0049"/></ph></xref> is, or contains, a <xref base="F45929685" href="IFRS16_APPA.dita#IFRS16_APPA/IFRS16_P0363">lease<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0214"/></ph></xref>.</p><image otherprops="print" id="IFRS11_B31-graphic-pdf" href="graphics/IFRS16_B31-graphic.pdf" placement="inline"/></body></paragraph>

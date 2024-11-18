@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph base="F16124163" id="IAS28_15" principles="no"><paranum>15</paranum><prolog><data name="standard_number" value="IAS 28"/><data name="paranum" value="15"/></prolog><body><p id="IAS28_P0053">Unless an investment, or a portion of an investment, in an <xref base="F16124075" href="IAS28_3.dita#IAS28_3/IAS28_P0016">associate<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0018"/></ph></xref> or a joint venture is classified as held for sale in accordance with <xref base="F16160565" href="../ifrs05/IFRS05_TOC.dita#IFRS05_TOC0001" id="IAS28_X0128">IFRS 5 <i>Non-current Assets Held for Sale and Discontinued Operations</i></xref>,  the investment, or any retained interest in the investment not classified as held for sale, shall be classified as a non-current asset.</p></body></paragraph>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS15_93" base="F31714595"><paranum>93</paranum><prolog><data name="standard_number" value="IFRS 15"/><data name="paranum" value="93"/></prolog><body><p id="IFRS15_P0376">Costs to obtain a <xref base="SL31717224" href="IFRS15_APPA.dita#IFRS15_APPA/IFRS15_P0498">contract<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0049"/></ph></xref> that would have been incurred regardless of whether the contract was obtained shall be recognised as an expense when incurred, unless those costs are explicitly chargeable to the <xref base="F31716740" href="IFRS15_APPA.dita#IFRS15_APPA/IFRS15_P0502">customer<ph outputclass="def_xref"><xref keyref="GLOSSARY_customer"/></ph></xref> regardless of whether the contract is obtained.</p></body></paragraph>

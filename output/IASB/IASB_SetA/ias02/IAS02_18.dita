@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS02_18" base="SL29703"><paranum>18</paranum><prolog><data name="standard_number" value="IAS 2"/><data name="paranum" value="18"/></prolog><body><p id="IAS02_P0046">An entity may purchase <xref base="SL140682" href="IAS02_6.dita#IAS02_6/IAS02_P0022">inventories<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0201"/></ph></xref> on deferred settlement terms. When the arrangement effectively contains a financing element, that element, for example a difference between the purchase price for normal credit terms and the amount paid, is recognised as interest expense over the period of the financing.</p></body></paragraph>

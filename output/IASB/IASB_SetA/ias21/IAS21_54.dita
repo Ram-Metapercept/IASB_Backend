@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS21_54" base="SL30963" principles="yes"><paranum>54</paranum><prolog><data name="standard_number" value="IAS 21"/><data name="paranum" value="54"/></prolog><body><p id="IAS21_P0139">When there is a change in the <xref base="SL147529" href="IAS21_8.dita#IAS21_8/IAS21_P0029">functional currency<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0144"/></ph></xref> of either the reporting entity or a significant <xref base="SL147528" href="IAS21_8.dita#IAS21_8/IAS21_P0028">foreign operation<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0141"/></ph></xref>, that fact and the reason for the change in functional currency shall be disclosed.</p></body></paragraph>

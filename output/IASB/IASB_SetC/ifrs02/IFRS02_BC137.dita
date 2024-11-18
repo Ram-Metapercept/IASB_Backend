@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS02_BC137" base="SL34325"><paranum>BC137</paranum><prolog><data name="standard_number" value="IFRS 2"/><data name="paranum" value="BC137"/></prolog><body><p id="IFRS02_P2174">As explained above, two of the inputs to an option pricing model are the entity&#x2019;s share price and the expected volatility of its share price. For an unlisted entity, there is no published share price information. The entity would therefore need to estimate the fair value of its shares (eg based on the share price of similar entities that are listed, or on a net assets or earnings basis). It would also need to estimate the expected volatility of that value.</p></body></paragraph>

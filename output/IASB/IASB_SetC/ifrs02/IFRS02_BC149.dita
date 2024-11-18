@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS02_BC149" base="SL34337"><paranum>BC149</paranum><prolog><data name="standard_number" value="IFRS 2"/><data name="paranum" value="BC149"/></prolog><body><p id="IFRS02_P2191">If the entity uses the Black&#x2011;Scholes&#x2011;Merton formula, or another option pricing model that values European share options, there is no need to adjust the model for the inability to exercise an option in the vesting period (or any other period), because the model already assumes that the option cannot be exercised during that period.</p></body></paragraph>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph base="F3903197" principles="yes" id="IAS01_29"><paranum>29</paranum><prolog><data name="standard_number" value="IAS 1"/><data name="paranum" value="29"/></prolog><body><p id="IAS01_P0173">An entity shall present separately each <xref base="F3903008" href="IAS01_7_materialomissions.dita" scope="local">material<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0240"/></ph></xref> class of similar items. An entity shall present separately items of a dissimilar nature or function unless they are immaterial.</p></body></paragraph>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS20_24" base="SL30844" principles="yes"><paranum>24</paranum><prolog><data name="standard_number" value="IAS 20"/><data name="paranum" value="24"/></prolog><body><p id="IAS20_P0049">Government <xref base="SL136177" href="IAS20_3.dita#IAS20_3/IAS20_P0016">grants related to assets<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0153"/></ph></xref>, including non&#x2011;monetary grants at <xref base="SL136180" href="IAS20_3.dita#IAS20_3/IAS20_P0019">fair value<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0118"/></ph></xref>, shall be presented in the statement of financial position either by setting up the grant as deferred income or by deducting the grant in arriving at the carrying amount of the asset.</p></body></paragraph>

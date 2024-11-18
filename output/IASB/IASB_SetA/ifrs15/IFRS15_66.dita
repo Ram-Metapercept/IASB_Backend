@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph base="F31714510" id="IFRS15_66"><paranum>66</paranum><prolog><data name="standard_number" value="IFRS 15"/><data name="paranum" value="66"/></prolog><body><p id="IFRS15_P0298">To determine the <xref base="F31716776" href="IFRS15_APPA.dita#IFRS15_APPA/IFRS15_DI0009" scope="local">transaction price<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0370"/></ph></xref> for <xref base="SL31717224" href="IFRS15_APPA.dita#IFRS15_APPA/IFRS15_P0498">contracts<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0049"/></ph></xref> in which a customer promises consideration in a form other than cash, an entity shall measure the non-cash consideration (or promise of non-cash consideration) at fair value.</p></body></paragraph>

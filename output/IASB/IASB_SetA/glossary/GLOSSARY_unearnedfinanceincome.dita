@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossentry
+  PUBLIC "-//IFRS//DTD DITA Glossary Entry//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/ifrsGlossentry.dtd">
+<glossentry id="GLOSSARY_DI0375_V1"><glossterm base="SL60858" id="GLOSSARY_TE0430">unearned finance income</glossterm><glossdef>     <p base="SL139523" id="GLOSSARY_P1122">The difference between:</p>     <ol base="SL139524" type="lower-alpha" id="GLOSSARY_L0093"><li><li_value>(a)</li_value>         <p base="SL139526" id="GLOSSARY_P1123">the gross investment in the lease; and</p>       </li><li><li_value>(b)</li_value>         <p base="SL139528" id="GLOSSARY_P1124">the net investment in the lease.</p>       </li></ol>   </glossdef><related-links><linklist id="GLOSSARY_P1125"><link base="F49286919" href="../ifrs16/IFRS16_APPA.dita#IFRS16_APPA/IFRS16_APPA_TI" id="GLOSSARY_X0562"><linktext>IFRS 16.A</linktext></link></linklist></related-links></glossentry>

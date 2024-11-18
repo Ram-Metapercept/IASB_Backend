@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS02_BC76" base="SL34264"><paranum>BC76</paranum><prolog><data name="standard_number" value="IFRS 2"/><data name="paranum" value="BC76"/></prolog><body><p id="IFRS02_P2093">Often, employee share options have zero intrinsic value at the date of grant&#x2014;commonly the exercise price is at the market value of the shares at grant date. Therefore, in many cases, valuing share options at their intrinsic value at grant date is equivalent to attributing no value to the options.</p></body></paragraph>

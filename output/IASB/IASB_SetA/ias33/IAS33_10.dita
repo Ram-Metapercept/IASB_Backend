@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS33_10" base="SL31687" principles="yes"><paranum>10</paranum><prolog><data name="standard_number" value="IAS 33"/><data name="paranum" value="10"/></prolog><body><p id="IAS33_P0036">Basic earnings per share shall be calculated by dividing profit or loss       attributable to ordinary equity holders of the parent entity (the numerator)  by       the weighted average number of <xref base="SL148104" href="IAS33_5.dita#IAS33_5/IAS33_P0023">ordinary shares<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0275"/></ph></xref>       outstanding (the denominator) during the period.      </p></body></paragraph>

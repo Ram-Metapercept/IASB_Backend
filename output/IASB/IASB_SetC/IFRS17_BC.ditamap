@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap
+  PUBLIC "-//IFRS//DTD DITA BookMap//EN" "../../../DocTypes/com.ifrs.doctype/dtd/ifrsBookmap.dtd">
+<bookmap id="IFRS17_BC_CHK_ALL" chunk="to-content" cascade="merge">
+  <booktitle>
+    <mainbooktitle>Insurance Contracts</mainbooktitle>
+  </booktitle>
+  <bookmeta>
+    <category>Basis For Conclusions</category>
+    <bookid>
+      <booknumber>IFRS 17</booknumber>
+    </bookid>
+    <document_type value="IFRS"/>
+    <effective_date value="2021-01-01"/>
+    <issue_date value="2017-05-25"/>
+    <standard_tag value="ifrs-17-insurance-contracts"/>
+    <standard_type_tag value="basis-for-conclusion"/>
+  </bookmeta>
+  <frontmatter>
+    <keydef href="ifrs17/IFRS17_footnotes.dita" keys="footnotes" processing-role="resource-only"/>
+    <keydef href="ifrs17/IFRS17_edu_footnotes.dita" keys="edu_footnotes"
+      processing-role="resource-only"/>
+    <keydef href="ifrs17/IFRS17_variables.dita" keys="standard_variables"
+      processing-role="resource-only"/>
+    <keydef href="library_topics/bv_variables.dita" keys="bv_variables"
+      processing-role="resource-only"/>
+    <bookabstract href="ifrs17/IFRS17_PartC.dita" otherprops="print"/>
+    <booklists>
+      <toc href="ifrs17/IFRS17_BC_TOC.dita"/>
+    </booklists>
+  </frontmatter>
+  <chapter href="ifrs17/IFRS17_BC_TI.dita">
+    <topicref href="ifrs17/IFRS17_gBC1-BC15.dita">
+      <topicref href="ifrs17/IFRS17_BC1.dita"/>
+      <topicref href="ifrs17/IFRS17_gBC2-BC6.dita">
+        <topicref href="ifrs17/IFRS17_BC2.dita"/>
+        <topicref href="ifrs17/IFRS17_BC3.dita"/>
+        <topicref href="ifrs17/IFRS17_BC4.dita"/>
+        <topicref href="ifrs17/IFRS17_BC5.dita"/>
+        <topicref href="ifrs17/IFRS17_BC6.dita"/>
+        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC6A-BC6C.dita">
+          <topicref href="ifrs17/IFRS17_BC6A.dita"/>
+          <topicref href="ifrs17/IFRS17_BC6B.dita"/>
+          <topicref href="ifrs17/IFRS17_BC6C.dita"/>
+        </topicref>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC7-BC15.dita">
+        <topicref href="ifrs17/IFRS17_BC7.dita"/>
+        <topicref href="ifrs17/IFRS17_BC8.dita"/>
+        <topicref href="ifrs17/IFRS17_gBC9-BC12.dita">
+          <topicref href="ifrs17/IFRS17_BC9.dita"/>
+          <topicref href="ifrs17/IFRS17_BC10.dita"/>
+          <topicref href="ifrs17/IFRS17_BC11.dita"/>
+          <topicref href="ifrs17/IFRS17_BC12.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC13-BC15.dita">
+          <topicref href="ifrs17/IFRS17_BC13.dita"/>
+          <topicref href="ifrs17/IFRS17_BC14.dita"/>
+          <topicref href="ifrs17/IFRS17_BC15.dita"/>
+        </topicref>
+      </topicref>
+    </topicref>
+    <topicref href="ifrs17/IFRS17_gBC16-BC62.dita">
+      <topicref href="ifrs17/IFRS17_BC16.dita"/>
+      <topicref href="ifrs17/IFRS17_BC17.dita"/>
+      <topicref href="ifrs17/IFRS17_gBC18-BC26.dita">
+        <topicref href="ifrs17/IFRS17_BC18.dita"/>
+        <topicref href="ifrs17/IFRS17_gBC19-BC20.dita">
+          <topicref href="ifrs17/IFRS17_BC19.dita"/>
+          <topicref href="ifrs17/IFRS17_BC20.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC21-BC21.dita">
+          <topicref href="ifrs17/IFRS17_BC21.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC22-BC26.dita">
+          <topicref href="ifrs17/IFRS17_BC22.dita"/>
+          <topicref href="ifrs17/IFRS17_BC23.dita"/>
+          <topicref href="ifrs17/IFRS17_BC24.dita"/>
+          <topicref href="ifrs17/IFRS17_BC25.dita"/>
+          <topicref href="ifrs17/IFRS17_BC26.dita"/>
+        </topicref>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC27-BC37.dita">
+        <topicref href="ifrs17/IFRS17_BC27.dita"/>
+        <topicref href="ifrs17/IFRS17_BC28.dita"/>
+        <topicref href="ifrs17/IFRS17_BC29.dita"/>
+        <topicref href="ifrs17/IFRS17_BC30.dita"/>
+        <topicref href="ifrs17/IFRS17_BC31.dita"/>
+        <topicref href="ifrs17/IFRS17_BC32.dita"/>
+        <topicref href="ifrs17/IFRS17_gBC33-BC34.dita">
+          <topicref href="ifrs17/IFRS17_BC33.dita"/>
+          <topicref href="ifrs17/IFRS17_BC34.dita"/>
+          <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC34A-BC34A.dita">
+            <topicref href="ifrs17/IFRS17_BC34A.dita"/>
+          </topicref>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC35-BC37.dita">
+          <topicref href="ifrs17/IFRS17_BC35.dita"/>
+          <topicref href="ifrs17/IFRS17_BC36.dita"/>
+          <topicref href="ifrs17/IFRS17_BC37.dita"/>
+        </topicref>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC38-BC49.dita">
+        <topicref href="ifrs17/IFRS17_BC38.dita"/>
+        <topicref href="ifrs17/IFRS17_BC39.dita"/>
+        <topicref href="ifrs17/IFRS17_BC40.dita"/>
+        <topicref href="ifrs17/IFRS17_BC41.dita"/>
+        <topicref href="ifrs17/IFRS17_BC42.dita"/>
+        <topicref href="ifrs17/IFRS17_BC43.dita"/>
+        <topicref href="ifrs17/IFRS17_BC44.dita"/>
+        <topicref href="ifrs17/IFRS17_BC45.dita"/>
+        <topicref href="ifrs17/IFRS17_gBC46-BC49.dita">
+          <topicref href="ifrs17/IFRS17_BC46.dita"/>
+          <topicref href="ifrs17/IFRS17_BC47.dita"/>
+          <topicref href="ifrs17/IFRS17_BC48.dita"/>
+          <topicref href="ifrs17/IFRS17_BC49.dita"/>
+        </topicref>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC50-BC62.dita">
+        <topicref href="ifrs17/IFRS17_BC50.dita"/>
+        <topicref href="ifrs17/IFRS17_gBC51-BC52.dita">
+          <topicref href="ifrs17/IFRS17_BC51.dita"/>
+          <topicref href="ifrs17/IFRS17_BC52.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC53-BC56.dita">
+          <topicref href="ifrs17/IFRS17_BC53.dita"/>
+          <topicref href="ifrs17/IFRS17_BC54.dita"/>
+          <topicref href="ifrs17/IFRS17_BC55.dita"/>
+          <topicref href="ifrs17/IFRS17_BC56.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC57-BC62.dita">
+          <topicref href="ifrs17/IFRS17_BC57.dita"/>
+          <topicref href="ifrs17/IFRS17_BC58.dita"/>
+          <topicref href="ifrs17/IFRS17_BC59.dita"/>
+          <topicref href="ifrs17/IFRS17_BC60.dita"/>
+          <topicref href="ifrs17/IFRS17_BC61.dita"/>
+          <topicref href="ifrs17/IFRS17_BC62.dita"/>
+        </topicref>
+      </topicref>
+    </topicref>
+    <topicref href="ifrs17/IFRS17_gBC63-BC97.dita">
+      <topicref href="ifrs17/IFRS17_BC63.dita"/>
+      <topicref href="ifrs17/IFRS17_BC64.dita"/>
+      <topicref href="ifrs17/IFRS17_BC65.dita"/>
+      <topicref href="ifrs17/IFRS17_BC66.dita"/>
+      <topicref href="ifrs17/IFRS17_gBC67-BC81.dita">
+        <topicref href="ifrs17/IFRS17_BC67.dita"/>
+        <topicref href="ifrs17/IFRS17_BC68.dita"/>
+        <topicref href="ifrs17/IFRS17_gBC69-BC70.dita">
+          <topicref href="ifrs17/IFRS17_BC69.dita"/>
+          <topicref href="ifrs17/IFRS17_BC70.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC71-BC72.dita">
+          <topicref href="ifrs17/IFRS17_BC71.dita"/>
+          <topicref href="ifrs17/IFRS17_BC72.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC73-BC75.dita">
+          <topicref href="ifrs17/IFRS17_BC73.dita"/>
+          <topicref href="ifrs17/IFRS17_BC74.dita"/>
+          <topicref href="ifrs17/IFRS17_BC75.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC76-BC80.dita">
+          <topicref href="ifrs17/IFRS17_BC76.dita"/>
+          <topicref href="ifrs17/IFRS17_BC77.dita"/>
+          <topicref href="ifrs17/IFRS17_BC78.dita"/>
+          <topicref href="ifrs17/IFRS17_BC79.dita"/>
+          <topicref href="ifrs17/IFRS17_BC80.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC81-BC81.dita">
+          <topicref href="ifrs17/IFRS17_BC81.dita"/>
+        </topicref>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC82-BC86.dita">
+        <topicref href="ifrs17/IFRS17_BC82.dita"/>
+        <topicref href="ifrs17/IFRS17_BC83.dita"/>
+        <topicref href="ifrs17/IFRS17_BC84.dita"/>
+        <topicref href="ifrs17/IFRS17_BC85.dita"/>
+        <topicref href="ifrs17/IFRS17_BC86.dita"/>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC87-BC97.dita">
+        <topicref href="ifrs17/IFRS17_BC87.dita"/>
+        <topicref href="ifrs17/IFRS17_BC88.dita"/>
+        <topicref href="ifrs17/IFRS17_gBC89-BC90.dita">
+          <topicref href="ifrs17/IFRS17_BC89.dita"/>
+          <topicref href="ifrs17/IFRS17_BC90.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC91-BC94.dita">
+          <topicref href="ifrs17/IFRS17_BC91.dita"/>
+          <topicref href="ifrs17/IFRS17_BC92.dita"/>
+          <topicref href="ifrs17/IFRS17_BC93.dita"/>
+          <topicref href="ifrs17/IFRS17_BC94.dita"/>
+        </topicref>
+        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC94A-BC94F.dita">
+          <topicref href="ifrs17/IFRS17_gBC94A-BC94C.dita">
+            <topicref href="ifrs17/IFRS17_BC94A.dita"/>
+            <topicref href="ifrs17/IFRS17_BC94B.dita"/>
+            <topicref href="ifrs17/IFRS17_BC94C.dita"/>
+          </topicref>
+          <topicref href="ifrs17/IFRS17_gBC94D-BC94F.dita">
+            <topicref href="ifrs17/IFRS17_BC94D.dita"/>
+            <topicref href="ifrs17/IFRS17_BC94E.dita"/>
+            <topicref href="ifrs17/IFRS17_BC94F.dita"/>
+          </topicref>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC95-BC97.dita">
+          <topicref href="ifrs17/IFRS17_BC95.dita"/>
+          <topicref href="ifrs17/IFRS17_BC96.dita"/>
+          <topicref href="ifrs17/IFRS17_BC97.dita"/>
+        </topicref>
+      </topicref>
+    </topicref>
+    <topicref href="ifrs17/IFRS17_gBC98-BC114.dita">
+      <topicref href="ifrs17/IFRS17_BC98.dita"/>
+      <topicref href="ifrs17/IFRS17_BC99.dita"/>
+      <topicref href="ifrs17/IFRS17_BC100.dita"/>
+      <topicref href="ifrs17/IFRS17_BC101.dita"/>
+      <topicref href="ifrs17/IFRS17_BC102.dita"/>
+      <topicref href="ifrs17/IFRS17_BC103.dita"/>
+      <topicref href="ifrs17/IFRS17_gBC104-BC107.dita">
+        <topicref href="ifrs17/IFRS17_BC104.dita"/>
+        <topicref href="ifrs17/IFRS17_BC105.dita"/>
+        <topicref href="ifrs17/IFRS17_BC106.dita"/>
+        <topicref href="ifrs17/IFRS17_BC107.dita"/>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC108-BC109.dita">
+        <topicref href="ifrs17/IFRS17_BC108.dita"/>
+        <topicref href="ifrs17/IFRS17_BC109.dita"/>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC110-BC113.dita">
+        <topicref href="ifrs17/IFRS17_BC110.dita"/>
+        <topicref href="ifrs17/IFRS17_BC111.dita"/>
+        <topicref href="ifrs17/IFRS17_BC112.dita"/>
+        <topicref href="ifrs17/IFRS17_BC113.dita"/>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC114-BC114.dita">
+        <topicref href="ifrs17/IFRS17_BC114.dita"/>
+      </topicref>
+    </topicref>
+    <topicref href="ifrs17/IFRS17_gBC115-BC139.dita">
+      <topicref href="ifrs17/IFRS17_gBC115-BC118.dita">
+        <topicref href="ifrs17/IFRS17_BC115.dita"/>
+        <topicref href="ifrs17/IFRS17_BC116.dita"/>
+        <topicref href="ifrs17/IFRS17_BC117.dita"/>
+        <topicref href="ifrs17/IFRS17_BC118.dita"/>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC119-BC125.dita">
+        <topicref href="ifrs17/IFRS17_BC119.dita"/>
+        <topicref href="ifrs17/IFRS17_BC120.dita"/>
+        <topicref href="ifrs17/IFRS17_BC121.dita"/>
+        <topicref href="ifrs17/IFRS17_BC122.dita"/>
+        <topicref href="ifrs17/IFRS17_BC123.dita"/>
+        <topicref href="ifrs17/IFRS17_BC124.dita"/>
+        <topicref href="ifrs17/IFRS17_BC125.dita"/>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC126-BC139.dita">
+        <topicref href="ifrs17/IFRS17_BC126.dita"/>
+        <topicref href="ifrs17/IFRS17_BC127.dita"/>
+        <topicref href="ifrs17/IFRS17_BC128.dita"/>
+        <topicref href="ifrs17/IFRS17_BC129.dita"/>
+        <topicref href="ifrs17/IFRS17_BC130.dita"/>
+        <topicref href="ifrs17/IFRS17_BC131.dita"/>
+        <topicref href="ifrs17/IFRS17_BC132.dita"/>
+        <topicref href="ifrs17/IFRS17_BC133.dita"/>
+        <topicref href="ifrs17/IFRS17_BC134.dita"/>
+        <topicref href="ifrs17/IFRS17_BC135.dita"/>
+        <topicref href="ifrs17/IFRS17_BC136.dita"/>
+        <topicref href="ifrs17/IFRS17_BC137.dita"/>
+        <topicref href="ifrs17/IFRS17_BC138.dita"/>
+        <topicref href="ifrs17/IFRS17_BC139.dita"/>
+        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC139A-BC139T.dita">
+          <topicref href="ifrs17/IFRS17_BC139A.dita"/>
+          <topicref href="ifrs17/IFRS17_BC139B.dita"/>
+          <topicref href="ifrs17/IFRS17_BC139C.dita"/>
+          <topicref href="ifrs17/IFRS17_BC139D.dita"/>
+          <topicref href="ifrs17/IFRS17_BC139E.dita"/>
+          <topicref href="ifrs17/IFRS17_gBC139F-BC139H.dita">
+            <topicref href="ifrs17/IFRS17_BC139F.dita"/>
+            <topicref href="ifrs17/IFRS17_BC139G.dita"/>
+            <topicref href="ifrs17/IFRS17_BC139H.dita"/>
+          </topicref>
+          <topicref href="ifrs17/IFRS17_gBC139I-BC139S.dita">
+            <topicref href="ifrs17/IFRS17_BC139I.dita"/>
+            <topicref href="ifrs17/IFRS17_BC139J.dita"/>
+            <topicref href="ifrs17/IFRS17_BC139K.dita"/>
+            <topicref href="ifrs17/IFRS17_BC139L.dita"/>
+            <topicref href="ifrs17/IFRS17_BC139M.dita"/>
+            <topicref href="ifrs17/IFRS17_BC139N.dita"/>
+            <topicref href="ifrs17/IFRS17_BC139O.dita"/>
+            <topicref href="ifrs17/IFRS17_BC139P.dita"/>
+            <topicref href="ifrs17/IFRS17_BC139Q.dita"/>
+            <topicref href="ifrs17/IFRS17_BC139R.dita"/>
+            <topicref href="ifrs17/IFRS17_BC139S.dita"/>
+          </topicref>
+          <topicref href="ifrs17/IFRS17_gBC139T-BC139T.dita">
+            <topicref href="ifrs17/IFRS17_BC139T.dita"/>
+          </topicref>
+        </topicref>
+      </topicref>
+    </topicref>
+    <topicref href="ifrs17/IFRS17_gBC140-BC145.dita">
+      <topicref href="ifrs17/IFRS17_BC140.dita"/>
+      <topicref href="ifrs17/IFRS17_BC141.dita"/>
+      <topicref href="ifrs17/IFRS17_BC142.dita"/>
+      <topicref href="ifrs17/IFRS17_BC143.dita"/>
+      <topicref href="ifrs17/IFRS17_BC144.dita"/>
+      <topicref href="ifrs17/IFRS17_BC145.dita"/>
+      <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC145A-BC145A.dita">
+        <topicref href="ifrs17/IFRS17_BC145A.dita"/>
+      </topicref>
+    </topicref>
+    <topicref href="ifrs17/IFRS17_gBC146-BC217.dita">
+      <topicref href="ifrs17/IFRS17_BC146.dita"/>
+      <topicref href="ifrs17/IFRS17_gBC147-BC157.dita">
+        <topicref href="ifrs17/IFRS17_BC147.dita"/>
+        <topicref href="ifrs17/IFRS17_gBC148-BC152.dita">
+          <topicref href="ifrs17/IFRS17_BC148.dita"/>
+          <topicref href="ifrs17/IFRS17_BC149.dita"/>
+          <topicref href="ifrs17/IFRS17_BC150.dita"/>
+          <topicref href="ifrs17/IFRS17_BC151.dita"/>
+          <topicref href="ifrs17/IFRS17_BC152.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC153-BC154.dita">
+          <topicref href="ifrs17/IFRS17_BC153.dita"/>
+          <topicref href="ifrs17/IFRS17_BC154.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC155-BC156.dita">
+          <topicref href="ifrs17/IFRS17_BC155.dita"/>
+          <topicref href="ifrs17/IFRS17_BC156.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC157-BC157.dita">
+          <topicref href="ifrs17/IFRS17_BC157.dita"/>
+        </topicref>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC158-BC184.dita">
+        <topicref href="ifrs17/IFRS17_BC158.dita"/>
+        <topicref href="ifrs17/IFRS17_gBC159-BC164.dita">
+          <topicref href="ifrs17/IFRS17_BC159.dita"/>
+          <topicref href="ifrs17/IFRS17_BC160.dita"/>
+          <topicref href="ifrs17/IFRS17_BC161.dita"/>
+          <topicref href="ifrs17/IFRS17_BC162.dita"/>
+          <topicref href="ifrs17/IFRS17_BC163.dita"/>
+          <topicref href="ifrs17/IFRS17_BC164.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC165-BC166.dita">
+          <topicref href="ifrs17/IFRS17_BC165.dita"/>
+          <topicref href="ifrs17/IFRS17_BC166.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC167-BC170.dita">
+          <topicref href="ifrs17/IFRS17_BC167.dita"/>
+          <topicref href="ifrs17/IFRS17_BC168.dita"/>
+          <topicref href="ifrs17/IFRS17_BC169.dita"/>
+          <topicref href="ifrs17/IFRS17_BC170.dita"/>
+        </topicref>
+        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC170A-BC170A.dita">
+          <topicref href="ifrs17/IFRS17_BC170A.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC171-BC174.dita">
+          <topicref href="ifrs17/IFRS17_BC171.dita"/>
+          <topicref href="ifrs17/IFRS17_BC172.dita"/>
+          <topicref href="ifrs17/IFRS17_BC173.dita"/>
+          <topicref href="ifrs17/IFRS17_BC174.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC175-BC184.dita">
+          <topicref href="ifrs17/IFRS17_BC175.dita"/>
+          <topicref href="ifrs17/IFRS17_gBC176-BC180.dita">
+            <topicref href="ifrs17/IFRS17_BC176.dita"/>
+            <topicref href="ifrs17/IFRS17_BC177.dita"/>
+            <topicref href="ifrs17/IFRS17_BC178.dita"/>
+            <topicref href="ifrs17/IFRS17_BC179.dita"/>
+            <topicref href="ifrs17/IFRS17_BC180.dita"/>
+          </topicref>
+          <topicref href="ifrs17/IFRS17_gBC181-BC184.dita">
+            <topicref href="ifrs17/IFRS17_BC181.dita"/>
+            <topicref href="ifrs17/IFRS17_BC182.dita"/>
+            <topicref href="ifrs17/IFRS17_BC183.dita"/>
+            <topicref href="ifrs17/IFRS17_BC184.dita"/>
+          </topicref>
+          <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC184A-BC184K.dita">
+            <topicref href="ifrs17/IFRS17_BC184A.dita"/>
+            <topicref href="ifrs17/IFRS17_BC184B.dita"/>
+            <topicref href="ifrs17/IFRS17_BC184C.dita"/>
+            <topicref href="ifrs17/IFRS17_BC184D.dita"/>
+            <topicref href="ifrs17/IFRS17_BC184E.dita"/>
+            <topicref href="ifrs17/IFRS17_BC184F.dita"/>
+            <topicref href="ifrs17/IFRS17_BC184G.dita"/>
+            <topicref href="ifrs17/IFRS17_BC184H.dita"/>
+            <topicref href="ifrs17/IFRS17_BC184I.dita"/>
+            <topicref href="ifrs17/IFRS17_BC184J.dita"/>
+            <topicref href="ifrs17/IFRS17_BC184K.dita"/>
+          </topicref>
+          <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC184L-BC184N.dita">
+            <topicref href="ifrs17/IFRS17_BC184L.dita"/>
+            <topicref href="ifrs17/IFRS17_BC184M.dita"/>
+            <topicref href="ifrs17/IFRS17_BC184N.dita"/>
+          </topicref>
+        </topicref>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC185-BC205.dita">
+        <topicref href="ifrs17/IFRS17_BC185.dita"/>
+        <topicref href="ifrs17/IFRS17_gBC186-BC191.dita">
+          <topicref href="ifrs17/IFRS17_BC186.dita"/>
+          <topicref href="ifrs17/IFRS17_BC187.dita"/>
+          <topicref href="ifrs17/IFRS17_BC188.dita"/>
+          <topicref href="ifrs17/IFRS17_BC189.dita"/>
+          <topicref href="ifrs17/IFRS17_BC190.dita"/>
+          <topicref href="ifrs17/IFRS17_BC191.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC192-BC192.dita">
+          <topicref href="ifrs17/IFRS17_BC192.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC193-BC197.dita">
+          <topicref href="ifrs17/IFRS17_gBC193-BC196.dita">
+            <topicref href="ifrs17/IFRS17_BC193.dita"/>
+            <topicref href="ifrs17/IFRS17_BC194.dita"/>
+            <topicref href="ifrs17/IFRS17_BC195.dita"/>
+            <topicref href="ifrs17/IFRS17_BC196.dita"/>
+          </topicref>
+          <topicref href="ifrs17/IFRS17_gBC197-BC197.dita">
+            <topicref href="ifrs17/IFRS17_BC197.dita"/>
+          </topicref>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC198-BC198.dita">
+          <topicref href="ifrs17/IFRS17_BC198.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC199-BC205.dita">
+          <topicref href="ifrs17/IFRS17_BC199.dita"/>
+          <topicref href="ifrs17/IFRS17_BC200.dita"/>
+          <topicref href="ifrs17/IFRS17_BC201.dita"/>
+          <topicref href="ifrs17/IFRS17_BC202.dita"/>
+          <topicref href="ifrs17/IFRS17_BC203.dita"/>
+          <topicref href="ifrs17/IFRS17_BC204.dita"/>
+          <topicref href="ifrs17/IFRS17_BC205.dita"/>
+        </topicref>
+        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC205A-BC205B.dita">
+          <topicref href="ifrs17/IFRS17_BC205A.dita"/>
+          <topicref href="ifrs17/IFRS17_BC205B.dita"/>
+        </topicref>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC206-BC217.dita">
+        <topicref href="ifrs17/IFRS17_BC206.dita"/>
+        <topicref href="ifrs17/IFRS17_BC207.dita"/>
+        <topicref href="ifrs17/IFRS17_gBC208-BC212.dita">
+          <topicref href="ifrs17/IFRS17_BC208.dita"/>
+          <topicref href="ifrs17/IFRS17_BC209.dita"/>
+          <topicref href="ifrs17/IFRS17_BC210.dita"/>
+          <topicref href="ifrs17/IFRS17_BC211.dita"/>
+          <topicref href="ifrs17/IFRS17_BC212.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC213-BC214.dita">
+          <topicref href="ifrs17/IFRS17_BC213.dita"/>
+          <topicref href="ifrs17/IFRS17_BC214.dita"/>
+          <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC214A-BC214A.dita">
+            <topicref href="ifrs17/IFRS17_BC214A.dita"/>
+          </topicref>
+          <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC214B-BC214C.dita">
+            <topicref href="ifrs17/IFRS17_BC214B.dita"/>
+            <topicref href="ifrs17/IFRS17_BC214C.dita"/>
+          </topicref>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC215-BC217.dita">
+          <topicref href="ifrs17/IFRS17_BC215.dita"/>
+          <topicref href="ifrs17/IFRS17_BC216.dita"/>
+          <topicref href="ifrs17/IFRS17_BC217.dita"/>
+        </topicref>
+      </topicref>
+    </topicref>
+    <topicref href="ifrs17/IFRS17_gBC218-BC287.dita">
+      <topicref href="ifrs17/IFRS17_BC218.dita"/>
+      <topicref href="ifrs17/IFRS17_BC219.dita"/>
+      <topicref href="ifrs17/IFRS17_BC220.dita"/>
+      <topicref href="ifrs17/IFRS17_BC221.dita"/>
+      <topicref href="ifrs17/IFRS17_gBC222-BC226.dita">
+        <topicref href="ifrs17/IFRS17_BC222.dita"/>
+        <topicref href="ifrs17/IFRS17_BC223.dita"/>
+        <topicref href="ifrs17/IFRS17_BC224.dita"/>
+        <topicref href="ifrs17/IFRS17_gBC225-BC226.dita">
+          <topicref href="ifrs17/IFRS17_sgBC225-BC226.dita">
+            <topicref href="ifrs17/IFRS17_BC225.dita"/>
+            <topicref href="ifrs17/IFRS17_BC226.dita"/>
+          </topicref>
+        </topicref>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC227-BC237.dita">
+        <topicref href="ifrs17/IFRS17_BC227.dita"/>
+        <topicref href="ifrs17/IFRS17_gBC228-BC231.dita">
+          <topicref href="ifrs17/IFRS17_BC228.dita"/>
+          <topicref href="ifrs17/IFRS17_BC229.dita"/>
+          <topicref href="ifrs17/IFRS17_BC230.dita"/>
+          <topicref href="ifrs17/IFRS17_BC231.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC232-BC236.dita">
+          <topicref href="ifrs17/IFRS17_BC232.dita"/>
+          <topicref href="ifrs17/IFRS17_BC233.dita"/>
+          <topicref href="ifrs17/IFRS17_BC234.dita"/>
+          <topicref href="ifrs17/IFRS17_BC235.dita"/>
+          <topicref href="ifrs17/IFRS17_BC236.dita"/>
+        </topicref>
+        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC236A-BC236D.dita">
+          <topicref href="ifrs17/IFRS17_BC236A.dita"/>
+          <topicref href="ifrs17/IFRS17_BC236B.dita"/>
+          <topicref href="ifrs17/IFRS17_BC236C.dita"/>
+          <topicref href="ifrs17/IFRS17_BC236D.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC237-BC237.dita">
+          <topicref href="ifrs17/IFRS17_BC237.dita"/>
+        </topicref>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC238-BC269.dita">
+        <topicref href="ifrs17/IFRS17_BC238.dita"/>
+        <topicref href="ifrs17/IFRS17_BC239.dita"/>
+        <topicref href="ifrs17/IFRS17_BC240.dita"/>
+        <topicref href="ifrs17/IFRS17_BC241.dita"/>
+        <topicref href="ifrs17/IFRS17_BC242.dita"/>
+        <topicref href="ifrs17/IFRS17_BC243.dita"/>
+        <topicref href="ifrs17/IFRS17_BC244.dita"/>
+        <topicref href="ifrs17/IFRS17_BC245.dita"/>
+        <topicref href="ifrs17/IFRS17_BC246.dita"/>
+        <topicref href="ifrs17/IFRS17_BC247.dita"/>
+        <topicref href="ifrs17/IFRS17_BC248.dita"/>
+        <topicref href="ifrs17/IFRS17_BC249.dita"/>
+        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC249A-BC249D.dita">
+          <topicref href="ifrs17/IFRS17_BC249A.dita"/>
+          <topicref href="ifrs17/IFRS17_BC249B.dita"/>
+          <topicref href="ifrs17/IFRS17_BC249C.dita"/>
+          <topicref href="ifrs17/IFRS17_BC249D.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC250-BC256.dita">
+          <topicref href="ifrs17/IFRS17_BC250.dita"/>
+          <topicref href="ifrs17/IFRS17_BC251.dita"/>
+          <topicref href="ifrs17/IFRS17_BC252.dita"/>
+          <topicref href="ifrs17/IFRS17_BC253.dita"/>
+          <topicref href="ifrs17/IFRS17_BC254.dita"/>
+          <topicref href="ifrs17/IFRS17_BC255.dita"/>
+          <topicref href="ifrs17/IFRS17_BC256.dita"/>
+          <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC256A-BC256F.dita">
+            <topicref href="ifrs17/IFRS17_BC256A.dita"/>
+            <topicref href="ifrs17/IFRS17_BC256B.dita"/>
+            <topicref href="ifrs17/IFRS17_BC256C.dita"/>
+            <topicref href="ifrs17/IFRS17_BC256D.dita"/>
+            <topicref href="ifrs17/IFRS17_BC256E.dita"/>
+            <topicref href="ifrs17/IFRS17_BC256F.dita"/>
+          </topicref>
+          <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC256G-BC256H.dita">
+            <topicref href="ifrs17/IFRS17_BC256G.dita"/>
+            <topicref href="ifrs17/IFRS17_BC256H.dita"/>
+          </topicref>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC257-BC257.dita">
+          <topicref href="ifrs17/IFRS17_BC257.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC258-BC269.dita">
+          <topicref href="ifrs17/IFRS17_gBC258-BC258.dita">
+            <topicref href="ifrs17/IFRS17_BC258.dita"/>
+          </topicref>
+          <topicref href="ifrs17/IFRS17_gBC259-BC263.dita">
+            <topicref href="ifrs17/IFRS17_BC259.dita"/>
+            <topicref href="ifrs17/IFRS17_BC260.dita"/>
+            <topicref href="ifrs17/IFRS17_BC261.dita"/>
+            <topicref href="ifrs17/IFRS17_BC262.dita"/>
+            <topicref href="ifrs17/IFRS17_BC263.dita"/>
+          </topicref>
+          <topicref href="ifrs17/IFRS17_gBC264-BC269.dita">
+            <topicref href="ifrs17/IFRS17_BC264.dita"/>
+            <topicref href="ifrs17/IFRS17_BC265.dita"/>
+            <topicref href="ifrs17/IFRS17_BC266.dita"/>
+            <topicref href="ifrs17/IFRS17_BC267.dita"/>
+            <topicref href="ifrs17/IFRS17_BC268.dita"/>
+            <topicref href="ifrs17/IFRS17_BC269.dita"/>
+          </topicref>
+          <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC269A-BC269C.dita">
+            <topicref href="ifrs17/IFRS17_BC269A.dita"/>
+            <topicref href="ifrs17/IFRS17_BC269B.dita"/>
+            <topicref href="ifrs17/IFRS17_BC269C.dita"/>
+          </topicref>
+        </topicref>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC270-BC276.dita">
+        <topicref href="ifrs17/IFRS17_BC270.dita"/>
+        <topicref href="ifrs17/IFRS17_BC271.dita"/>
+        <topicref href="ifrs17/IFRS17_BC272.dita"/>
+        <topicref href="ifrs17/IFRS17_BC273.dita"/>
+        <topicref href="ifrs17/IFRS17_BC274.dita"/>
+        <topicref href="ifrs17/IFRS17_BC275.dita"/>
+        <topicref href="ifrs17/IFRS17_BC276.dita"/>
+        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC276A-BC276E.dita">
+          <topicref href="ifrs17/IFRS17_BC276A.dita"/>
+          <topicref href="ifrs17/IFRS17_BC276B.dita"/>
+          <topicref href="ifrs17/IFRS17_BC276C.dita"/>
+          <topicref href="ifrs17/IFRS17_BC276D.dita"/>
+          <topicref href="ifrs17/IFRS17_BC276E.dita"/>
+        </topicref>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC277-BC278.dita">
+        <topicref href="ifrs17/IFRS17_BC277.dita"/>
+        <topicref href="ifrs17/IFRS17_BC278.dita"/>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC279-BC283.dita">
+        <topicref href="ifrs17/IFRS17_BC279.dita"/>
+        <topicref href="ifrs17/IFRS17_BC280.dita"/>
+        <topicref href="ifrs17/IFRS17_BC281.dita"/>
+        <topicref href="ifrs17/IFRS17_BC282.dita"/>
+        <topicref href="ifrs17/IFRS17_BC283.dita"/>
+        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC283A-BC283J.dita">
+          <topicref href="ifrs17/IFRS17_BC283A.dita"/>
+          <topicref href="ifrs17/IFRS17_BC283B.dita"/>
+          <topicref href="ifrs17/IFRS17_BC283C.dita"/>
+          <topicref href="ifrs17/IFRS17_BC283D.dita"/>
+          <topicref href="ifrs17/IFRS17_BC283E.dita"/>
+          <topicref href="ifrs17/IFRS17_BC283F.dita"/>
+          <topicref href="ifrs17/IFRS17_BC283G.dita"/>
+          <topicref href="ifrs17/IFRS17_BC283H.dita"/>
+          <topicref href="ifrs17/IFRS17_BC283I.dita"/>
+          <topicref href="ifrs17/IFRS17_gBC283J-BC283J.dita">
+            <topicref href="ifrs17/IFRS17_BC283J.dita"/>
+          </topicref>
+        </topicref>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC284-BC287.dita">
+        <topicref href="ifrs17/IFRS17_BC284.dita"/>
+        <topicref href="ifrs17/IFRS17_BC285.dita"/>
+        <topicref href="ifrs17/IFRS17_BC286.dita"/>
+        <topicref href="ifrs17/IFRS17_BC287.dita"/>
+      </topicref>
+    </topicref>
+    <topicref href="ifrs17/IFRS17_gBC288-BC295.dita">
+      <topicref href="ifrs17/IFRS17_BC288.dita"/>
+      <topicref href="ifrs17/IFRS17_BC289.dita"/>
+      <topicref href="ifrs17/IFRS17_BC290.dita"/>
+      <topicref href="ifrs17/IFRS17_BC291.dita"/>
+      <topicref href="ifrs17/IFRS17_BC292.dita"/>
+      <topicref href="ifrs17/IFRS17_BC293.dita"/>
+      <topicref href="ifrs17/IFRS17_BC294.dita"/>
+      <topicref href="ifrs17/IFRS17_BC295.dita"/>
+    </topicref>
+    <topicref href="ifrs17/IFRS17_gBC296-BC315.dita">
+      <topicref href="ifrs17/IFRS17_BC296.dita"/>
+      <topicref href="ifrs17/IFRS17_BC297.dita"/>
+      <topicref href="ifrs17/IFRS17_BC298.dita"/>
+      <topicref href="ifrs17/IFRS17_BC299.dita"/>
+      <topicref href="ifrs17/IFRS17_BC300.dita"/>
+      <topicref href="ifrs17/IFRS17_BC301.dita"/>
+      <topicref href="ifrs17/IFRS17_BC302.dita"/>
+      <topicref href="ifrs17/IFRS17_BC303.dita"/>
+      <topicref href="ifrs17/IFRS17_gBC304-BC305.dita">
+        <topicref href="ifrs17/IFRS17_BC304.dita"/>
+        <topicref href="ifrs17/IFRS17_BC305.dita"/>
+        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_BC305A.dita"/>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC306-BC306.dita">
+        <topicref href="ifrs17/IFRS17_BC306.dita"/>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC307-BC309F.dita">
+        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC307-BC309.dita">
+          <topicref href="ifrs17/IFRS17_BC307.dita"/>
+          <topicref href="ifrs17/IFRS17_BC308.dita"/>
+          <topicref href="ifrs17/IFRS17_BC309.dita"/>
+        </topicref>
+        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC309A-BC309F.dita">
+          <topicref href="ifrs17/IFRS17_BC309A.dita"/>
+          <topicref href="ifrs17/IFRS17_BC309B.dita"/>
+          <topicref href="ifrs17/IFRS17_BC309C.dita"/>
+          <topicref href="ifrs17/IFRS17_BC309D.dita"/>
+          <topicref href="ifrs17/IFRS17_BC309E.dita"/>
+          <topicref href="ifrs17/IFRS17_BC309F.dita"/>
+        </topicref>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC310-BC315.dita">
+        <topicref href="ifrs17/IFRS17_BC310.dita"/>
+        <topicref href="ifrs17/IFRS17_BC311.dita"/>
+        <topicref href="ifrs17/IFRS17_BC312.dita"/>
+        <topicref href="ifrs17/IFRS17_BC313.dita"/>
+        <topicref href="ifrs17/IFRS17_BC314.dita"/>
+        <topicref href="ifrs17/IFRS17_BC315.dita"/>
+        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC315A-BC315I.dita">
+          <topicref href="ifrs17/IFRS17_BC315A.dita"/>
+          <topicref href="ifrs17/IFRS17_BC315B.dita"/>
+          <topicref href="ifrs17/IFRS17_BC315C.dita"/>
+          <topicref href="ifrs17/IFRS17_BC315D.dita"/>
+          <topicref href="ifrs17/IFRS17_BC315E.dita"/>
+          <topicref href="ifrs17/IFRS17_BC315F.dita"/>
+          <topicref href="ifrs17/IFRS17_BC315G.dita"/>
+          <topicref href="ifrs17/IFRS17_BC315H.dita"/>
+          <topicref href="ifrs17/IFRS17_BC315I.dita"/>
+          <topicref href="ifrs17/IFRS17_gBC315J-BC315L.dita">
+            <topicref href="ifrs17/IFRS17_BC315J.dita"/>
+            <topicref href="ifrs17/IFRS17_BC315K.dita"/>
+            <topicref href="ifrs17/IFRS17_BC315L.dita"/>
+          </topicref>
+        </topicref>
+      </topicref>
+    </topicref>
+    <topicref href="ifrs17/IFRS17_gBC316-BC322.dita">
+      <topicref href="ifrs17/IFRS17_BC316.dita"/>
+      <topicref href="ifrs17/IFRS17_gBC317-BC319.dita">
+        <topicref href="ifrs17/IFRS17_BC317.dita"/>
+        <topicref href="ifrs17/IFRS17_BC318.dita"/>
+        <topicref href="ifrs17/IFRS17_BC319.dita"/>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC320-BC320.dita">
+        <topicref href="ifrs17/IFRS17_BC320.dita"/>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC321-BC322.dita">
+        <topicref href="ifrs17/IFRS17_BC321.dita"/>
+        <topicref href="ifrs17/IFRS17_BC322.dita"/>
+      </topicref>
+    </topicref>
+    <topicref href="ifrs17/IFRS17_gBC323-BC327.dita">
+      <topicref href="ifrs17/IFRS17_BC323.dita"/>
+      <topicref href="ifrs17/IFRS17_BC324.dita"/>
+      <topicref href="ifrs17/IFRS17_BC325.dita"/>
+      <topicref href="ifrs17/IFRS17_BC326.dita"/>
+      <topicref href="ifrs17/IFRS17_BC327.dita"/>
+      <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC327A-BC327A.dita">
+        <topicref href="ifrs17/IFRS17_BC327A.dita"/>
+      </topicref>
+      <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC327B-BC327G.dita">
+        <topicref href="ifrs17/IFRS17_gBC327B-BC327D.dita">
+          <topicref href="ifrs17/IFRS17_BC327B.dita"/>
+          <topicref href="ifrs17/IFRS17_BC327C.dita"/>
+          <topicref href="ifrs17/IFRS17_BC327D.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC327E-BC327G.dita">
+          <topicref href="ifrs17/IFRS17_BC327E.dita"/>
+          <topicref href="ifrs17/IFRS17_BC327F.dita"/>
+          <topicref href="ifrs17/IFRS17_BC327G.dita"/>
+        </topicref>
+      </topicref>
+      <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC327H-BC327I.dita">
+        <topicref href="ifrs17/IFRS17_BC327H.dita"/>
+        <topicref href="ifrs17/IFRS17_BC327I.dita"/>
+      </topicref>
+    </topicref>
+    <topicref href="ifrs17/IFRS17_gBC328-BC346.dita">
+      <topicref href="ifrs17/IFRS17_BC328.dita"/>
+      <topicref href="ifrs17/IFRS17_BC329.dita"/>
+      <topicref href="ifrs17/IFRS17_BC330.dita"/>
+      <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC330A-BC330D.dita">
+        <topicref href="ifrs17/IFRS17_BC330A.dita"/>
+        <topicref href="ifrs17/IFRS17_BC330B.dita"/>
+        <topicref href="ifrs17/IFRS17_gBC330C-BC330D.dita">
+          <topicref href="ifrs17/IFRS17_BC330C.dita"/>
+          <topicref href="ifrs17/IFRS17_BC330D.dita"/>
+        </topicref>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC331-BC339.dita">
+        <topicref href="ifrs17/IFRS17_BC331.dita"/>
+        <topicref href="ifrs17/IFRS17_BC332.dita"/>
+        <topicref href="ifrs17/IFRS17_BC333.dita"/>
+        <topicref href="ifrs17/IFRS17_BC334.dita"/>
+        <topicref href="ifrs17/IFRS17_BC335.dita"/>
+        <topicref href="ifrs17/IFRS17_BC336.dita"/>
+        <topicref href="ifrs17/IFRS17_BC337.dita"/>
+        <topicref href="ifrs17/IFRS17_BC338.dita"/>
+        <topicref href="ifrs17/IFRS17_BC339.dita"/>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC340-BC346.dita">
+        <topicref href="ifrs17/IFRS17_BC340.dita"/>
+        <topicref href="ifrs17/IFRS17_BC341.dita"/>
+        <topicref href="ifrs17/IFRS17_BC342.dita"/>
+        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC342A-BC342C.dita">
+          <topicref href="ifrs17/IFRS17_BC342A.dita"/>
+          <topicref href="ifrs17/IFRS17_BC342B.dita"/>
+          <topicref href="ifrs17/IFRS17_BC342C.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC343-BC344.dita">
+          <topicref href="ifrs17/IFRS17_BC343.dita"/>
+          <topicref href="ifrs17/IFRS17_BC344.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC345-BC346.dita">
+          <topicref href="ifrs17/IFRS17_BC345.dita"/>
+          <topicref href="ifrs17/IFRS17_BC346.dita"/>
+        </topicref>
+      </topicref>
+    </topicref>
+    <topicref href="ifrs17/IFRS17_gBC347-BC371.dita">
+      <topicref href="ifrs17/IFRS17_BC347.dita"/>
+      <topicref href="ifrs17/IFRS17_BC348.dita"/>
+      <topicref href="ifrs17/IFRS17_BC349.dita"/>
+      <topicref href="ifrs17/IFRS17_gBC350-BC366.dita">
+        <topicref href="ifrs17/IFRS17_gBC350-BC356.dita">
+          <topicref href="ifrs17/IFRS17_BC350.dita"/>
+          <topicref href="ifrs17/IFRS17_BC351.dita"/>
+          <topicref href="ifrs17/IFRS17_BC352.dita"/>
+          <topicref href="ifrs17/IFRS17_BC353.dita"/>
+          <topicref href="ifrs17/IFRS17_BC354.dita"/>
+          <topicref href="ifrs17/IFRS17_BC355.dita"/>
+          <topicref href="ifrs17/IFRS17_BC356.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC357-BC357.dita">
+          <topicref href="ifrs17/IFRS17_BC357.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC358-BC362.dita">
+          <topicref href="ifrs17/IFRS17_BC358.dita"/>
+          <topicref href="ifrs17/IFRS17_BC359.dita"/>
+          <topicref href="ifrs17/IFRS17_BC360.dita"/>
+          <topicref href="ifrs17/IFRS17_BC361.dita"/>
+          <topicref href="ifrs17/IFRS17_BC362.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC363-BC363.dita">
+          <topicref href="ifrs17/IFRS17_BC363.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC364-BC366.dita">
+          <topicref href="ifrs17/IFRS17_BC364.dita"/>
+          <topicref href="ifrs17/IFRS17_BC365.dita"/>
+          <topicref href="ifrs17/IFRS17_BC366.dita"/>
+        </topicref>
+        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC366A-BC366C.dita">
+          <topicref href="ifrs17/IFRS17_gBC366A-BC366A.dita">
+            <topicref href="ifrs17/IFRS17_BC366A.dita"/>
+          </topicref>
+          <topicref href="ifrs17/IFRS17_gBC366B-BC366B.dita">
+            <topicref href="ifrs17/IFRS17_BC366B.dita"/>
+          </topicref>
+          <topicref href="ifrs17/IFRS17_gBC366C-BC366C.dita">
+            <topicref href="ifrs17/IFRS17_BC366C.dita"/>
+          </topicref>
+        </topicref>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC367-BC371.dita">
+        <topicref href="ifrs17/IFRS17_gBC367-BC367.dita">
+          <topicref href="ifrs17/IFRS17_BC367.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC368-BC368.dita">
+          <topicref href="ifrs17/IFRS17_BC368.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC369-BC371.dita">
+          <topicref href="ifrs17/IFRS17_BC369.dita"/>
+          <topicref href="ifrs17/IFRS17_BC370.dita"/>
+          <topicref href="ifrs17/IFRS17_BC371.dita"/>
+        </topicref>
+      </topicref>
+    </topicref>
+    <topicref href="ifrs17/IFRS17_gBC372-BC407.dita">
+      <topicref href="ifrs17/IFRS17_BC372.dita"/>
+      <topicref href="ifrs17/IFRS17_BC373.dita"/>
+      <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC373A-BC373B.dita">
+        <topicref href="ifrs17/IFRS17_BC373A.dita"/>
+        <topicref href="ifrs17/IFRS17_BC373B.dita"/>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC374-BC378.dita">
+        <topicref href="ifrs17/IFRS17_BC374.dita"/>
+        <topicref href="ifrs17/IFRS17_BC375.dita"/>
+        <topicref href="ifrs17/IFRS17_BC376.dita"/>
+        <topicref href="ifrs17/IFRS17_BC377.dita"/>
+        <topicref href="ifrs17/IFRS17_BC378.dita"/>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC379-BC384.dita">
+        <topicref href="ifrs17/IFRS17_BC379.dita"/>
+        <topicref href="ifrs17/IFRS17_BC380.dita"/>
+        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC380A-BC380D.dita">
+          <topicref href="ifrs17/IFRS17_BC380A.dita"/>
+          <topicref href="ifrs17/IFRS17_BC380B.dita"/>
+          <topicref href="ifrs17/IFRS17_BC380C.dita"/>
+          <topicref href="ifrs17/IFRS17_BC380D.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC381-BC382.dita">
+          <topicref href="ifrs17/IFRS17_BC381.dita"/>
+          <topicref href="ifrs17/IFRS17_BC382.dita"/>
+        </topicref>
+        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC382A-BC382B.dita">
+          <topicref href="ifrs17/IFRS17_BC382A.dita"/>
+          <topicref href="ifrs17/IFRS17_BC382B.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC383-BC383.dita">
+          <topicref href="ifrs17/IFRS17_BC383.dita"/>
+          <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC383A-BC383B.dita">
+            <topicref href="ifrs17/IFRS17_BC383A.dita"/>
+            <topicref href="ifrs17/IFRS17_BC383B.dita"/>
+          </topicref>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC384-BC384.dita">
+          <topicref href="ifrs17/IFRS17_BC384.dita"/>
+          <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC384A-BC384B.dita">
+            <topicref href="ifrs17/IFRS17_BC384A.dita"/>
+            <topicref href="ifrs17/IFRS17_BC384B.dita"/>
+          </topicref>
+        </topicref>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC385-BC386.dita">
+        <topicref href="ifrs17/IFRS17_BC385.dita"/>
+        <topicref href="ifrs17/IFRS17_BC386.dita"/>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC387-BC389.dita">
+        <topicref href="ifrs17/IFRS17_BC387.dita"/>
+        <topicref href="ifrs17/IFRS17_BC388.dita"/>
+        <topicref href="ifrs17/IFRS17_BC389.dita"/>
+        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_BC389A.dita"/>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC390-BC398.dita">
+        <topicref href="ifrs17/IFRS17_gBC390-BC390.dita">
+          <topicref href="ifrs17/IFRS17_BC390.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC391-BC392.dita">
+          <topicref href="ifrs17/IFRS17_BC391.dita"/>
+          <topicref href="ifrs17/IFRS17_BC392.dita"/>
+          <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC392A-BC392A.dita">
+            <topicref href="ifrs17/IFRS17_BC392A.dita"/>
+          </topicref>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC393-BC393.dita">
+          <topicref href="ifrs17/IFRS17_BC393.dita"/>
+          <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC393A-BC393E.dita">
+            <topicref href="ifrs17/IFRS17_BC393A.dita"/>
+            <topicref href="ifrs17/IFRS17_BC393B.dita"/>
+            <topicref href="ifrs17/IFRS17_BC393C.dita"/>
+            <topicref href="ifrs17/IFRS17_BC393D.dita"/>
+            <topicref href="ifrs17/IFRS17_BC393E.dita"/>
+          </topicref>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC394-BC398.dita">
+          <topicref href="ifrs17/IFRS17_BC394.dita"/>
+          <topicref href="ifrs17/IFRS17_BC395.dita"/>
+          <topicref href="ifrs17/IFRS17_BC396.dita"/>
+          <topicref href="ifrs17/IFRS17_BC397.dita"/>
+          <topicref href="ifrs17/IFRS17_BC398.dita"/>
+          <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC398A-BC398B.dita">
+            <topicref href="ifrs17/IFRS17_BC398A.dita"/>
+            <topicref href="ifrs17/IFRS17_BC398B.dita"/>
+          </topicref>
+          <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC398C-BC398F.dita">
+            <topicref href="ifrs17/IFRS17_BC398C.dita"/>
+            <topicref href="ifrs17/IFRS17_BC398D.dita"/>
+            <topicref href="ifrs17/IFRS17_BC398E.dita"/>
+            <topicref href="ifrs17/IFRS17_BC398F.dita"/>
+          </topicref>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC398G-BC398R.dita" base="IFRS2021-2">
+          <topicref href="ifrs17/IFRS17_BC398G.dita"/>
+          <topicref href="ifrs17/IFRS17_BC398H.dita"/>
+          <topicref href="ifrs17/IFRS17_BC398I.dita"/>
+          <topicref href="ifrs17/IFRS17_BC398J.dita"/>
+          <topicref href="ifrs17/IFRS17_BC398K.dita"/>
+          <topicref href="ifrs17/IFRS17_BC398L.dita"/>
+          <topicref href="ifrs17/IFRS17_BC398M.dita"/>
+          <topicref href="ifrs17/IFRS17_BC398N.dita"/>
+          <topicref href="ifrs17/IFRS17_BC398O.dita"/>
+          <topicref href="ifrs17/IFRS17_BC398P.dita"/>
+          <topicref href="ifrs17/IFRS17_BC398Q.dita"/>
+          <topicref href="ifrs17/IFRS17_BC398R.dita"/>
+        </topicref>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC399-BC401.dita">
+        <topicref href="ifrs17/IFRS17_BC399.dita"/>
+        <topicref href="ifrs17/IFRS17_gBC400-BC400.dita">
+          <topicref href="ifrs17/IFRS17_BC400.dita"/>
+        </topicref>
+        <topicref href="ifrs17/IFRS17_gBC401-BC401.dita">
+          <topicref href="ifrs17/IFRS17_BC401.dita"/>
+        </topicref>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC402-BC404.dita">
+        <topicref href="ifrs17/IFRS17_BC402.dita"/>
+        <topicref href="ifrs17/IFRS17_BC403.dita"/>
+        <topicref href="ifrs17/IFRS17_BC404.dita"/>
+        <topicref base="IFRS2020-3" href="ifrs17/IFRS17_gBC404A-BC404F.dita">
+          <topicref href="ifrs17/IFRS17_BC404A.dita"/>
+          <topicref href="ifrs17/IFRS17_BC404B.dita"/>
+          <topicref href="ifrs17/IFRS17_BC404C.dita"/>
+          <topicref href="ifrs17/IFRS17_BC404D.dita"/>
+          <topicref href="ifrs17/IFRS17_BC404E.dita"/>
+          <topicref href="ifrs17/IFRS17_BC404F.dita"/>
+        </topicref>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC405-BC406.dita">
+        <topicref href="ifrs17/IFRS17_BC405.dita"/>
+        <topicref href="ifrs17/IFRS17_BC406.dita"/>
+      </topicref>
+      <topicref href="ifrs17/IFRS17_gBC407-BC407.dita">
+        <topicref href="ifrs17/IFRS17_BC407.dita"/>
+      </topicref>
+    </topicref>
+  </chapter>
+  <appendices>
+    <appendix href="ifrs17/IFRS17_BC_APPA.dita">
+      <topicmeta>
+        <data name="subtype" value="BCA"/>
+      </topicmeta>
+    </appendix>
+    <appendix href="ifrs17/IFRS17_BC_APPB.dita">
+      <topicmeta>
+        <data name="subtype" value="BCB"/>
+      </topicmeta>
+    </appendix>
+    <appendix base="IFRS2020-3" href="ifrs17/IFRS17_BC_APPC.dita">
+      <topicmeta>
+        <data name="subtype" value="BCC"/>
+      </topicmeta>
+    </appendix>
+  </appendices>
+</bookmap>

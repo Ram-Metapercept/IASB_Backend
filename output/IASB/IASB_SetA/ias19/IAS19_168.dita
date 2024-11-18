@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS19_168" base="F16153010" principles="no"><paranum>168</paranum><prolog><data name="standard_number" value="IAS 19"/><data name="paranum" value="168"/></prolog><body><p id="IAS19_P0732">When an entity recognises <xref base="F16148495" href="IAS19_0001.dita#IAS19_0001/IAS19_UN0005">termination benefits<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0366"/></ph></xref>, the entity may also have to account for a plan amendment or a curtailment of other <xref base="F16148487" href="IAS19_0001.dita#IAS19_0001/IAS19_UN0001">employee benefits<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0098"/></ph></xref> (see <xref id="IAS19_X0514" base="F16228058" href="IAS19_103.dita#IAS19_103">paragraph 103</xref>).</p></body></paragraph>

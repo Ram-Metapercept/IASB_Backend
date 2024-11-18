@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS02_BC161" base="SL34349"><paranum>BC161</paranum><prolog><data name="standard_number" value="IFRS 2"/><data name="paranum" value="BC161"/></prolog><body><p id="IFRS02_P2205">Binomial lattice and similar option pricing models also have the advantage of permitting the inputs to the model to vary over the share option&#x2019;s life. For example, instead of using a single expected volatility, a binomial lattice or similar option pricing model can allow for the possibility that volatility might change over the share option&#x2019;s life. This would be particularly appropriate when valuing share options granted by entities experiencing higher than usual volatility, because volatility tends to revert to its mean over time.</p></body></paragraph>

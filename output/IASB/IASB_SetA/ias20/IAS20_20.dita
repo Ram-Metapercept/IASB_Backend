@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS20_20" base="SL30840" principles="yes"><paranum>20</paranum><prolog><data name="standard_number" value="IAS 20"/><data name="paranum" value="20"/></prolog><body><p id="IAS20_P0045">A <xref base="SL136176" href="IAS20_3.dita#IAS20_3/IAS20_P0015">government grant<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0150"/></ph></xref> that becomes receivable as compensation for expenses or losses already incurred or for the purpose of giving immediate financial support to the entity with no future related costs shall be recognised in profit or loss of the period in which it becomes receivable.</p></body></paragraph>

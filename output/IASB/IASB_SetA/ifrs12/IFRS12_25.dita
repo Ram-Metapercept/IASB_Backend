@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS12_25" base="F16130719" principles="no"><paranum>25</paranum><prolog><data name="standard_number" value="IFRS 12"/><data name="paranum" value="25"/></prolog><body><p id="IFRS12_P0175">The information required by <xref id="IFRS12_X0190" base="F16228755" href="IFRS12_24.dita#IFRS12_24">paragraph 24(b)</xref> includes information about an entity&#x2019;s exposure to risk from involvement that it had with unconsolidated <xref base="F16130768" href="IFRS12_APPA.dita#IFRS12_APPA/IFRS12_DI0003">structured entities<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0358"/></ph></xref> in previous periods (eg sponsoring the structured entity), even if the entity no longer has any contractual involvement with the structured entity at the reporting date.</p></body></paragraph>

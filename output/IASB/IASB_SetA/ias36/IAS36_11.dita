@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS36_11" base="SL32233" principles="no"><paranum>11</paranum><prolog><data name="standard_number" value="IAS 36"/><data name="paranum" value="11"/></prolog><body><p id="IAS36_P0127">The ability of an intangible asset to generate sufficient future economic benefits to recover its <xref base="SL148450" href="IAS36_6.dita#IAS36_6/IAS36_P0095">carrying amount<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0026"/></ph></xref> is usually subject to greater uncertainty before the asset is available for use than after it is available for use. Therefore, this Standard requires an entity to test for impairment, at least annually, the carrying amount of an intangible asset that is not yet available for use.</p></body></paragraph>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS09_IE3" base="F32656302"><paranum>IE3</paranum><prolog><data name="standard_number" value="IFRS 9"/><data name="paranum" value="IE3"/></prolog><body><p id="IFRS09_P1754">The entity uses LIBOR as its observable (benchmark) interest rate. At the date of inception of the bond, LIBOR is 5 per cent. At the end of the first year:</p><ol id="IFRS09_L0175" base="F32656303" type="lower-alpha"><li><li_value>(a)</li_value> <p id="IFRS09_P1755" base="F32656305">LIBOR has decreased to 4.75 per cent.</p></li><li><li_value>(b)</li_value> <p id="IFRS09_P1756" base="F32656307">the fair value for the bond is CU153,811, consistent with an interest rate of 7.6 per cent.<xref keyref="footnotes/IFRS09_FN0033" type="fn"/></p></li></ol></body></paragraph>

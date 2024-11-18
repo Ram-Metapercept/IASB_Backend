@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS12_73" base="SL30066"><paranum>73</paranum><prolog><data name="standard_number" value="IAS 12"/><data name="paranum" value="73"/></prolog><body><p id="IAS12_P0415">In consolidated financial statements, a <xref base="SL143755" href="IAS12_5.dita#IAS12_5/IAS12_P0020">current tax<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0069"/></ph></xref> asset of one entity in a group is offset against a current tax liability of another entity in the group if, and only if, the entities concerned have a legally enforceable right to make or receive a single net payment and the entities intend to make or receive such a net payment or to recover the asset and settle the liability simultaneously.</p></body></paragraph>

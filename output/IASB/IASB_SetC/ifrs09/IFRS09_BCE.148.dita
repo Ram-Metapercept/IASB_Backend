@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS09_BCE.148" base="F33205419"><paranum>BCE.148</paranum><prolog><data name="standard_number" value="IFRS 9"/><data name="paranum" value="BCE.148"/></prolog><body><p id="IFRS09_P7531">For the calculation of expected credit losses (and in particular for the calculation of lifetime expected credit losses), systems need to be updated or newly developed. Field participants used different methods to calculate expected credit losses and noted, for example, that current systems do not discount cash flows used to determine expected credit losses or may discount only to the date of expected default. As a result, systems would need to be modified to discount expected cash flows to the reporting date and to capture the expected timing of credit losses better.</p></body></paragraph>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS09_B6.5.35" base="SL32626976"><paranum>B6.5.35</paranum><prolog><data name="standard_number" value="IFRS 9"/><data name="paranum" value="B6.5.35"/></prolog><body><p id="IFRS09_P1667">The characteristics of the hedged item, including how and when the hedged item affects profit or loss, also affect the period over which the forward element of a forward contract that hedges a time-period related hedged item is amortised, which is over the period to which the forward element relates. For example, if a forward contract hedges the exposure to variability in three-month interest rates for a three-month period that starts in six months&#x2019; time, the forward element is amortised during the period that spans months seven to nine.</p></body></paragraph>

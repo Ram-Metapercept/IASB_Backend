@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS36_62" base="SL32284" principles="yes"><paranum>62</paranum><prolog><data name="standard_number" value="IAS 36"/><data name="paranum" value="62"/></prolog><body><p id="IAS36_P0250">When the amount estimated for an <xref base="SL148457" href="IAS36_6.dita#IAS36_6/IAS36_P0105">impairment loss<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0176"/></ph></xref> is greater than the <xref base="SL148450" href="IAS36_6.dita#IAS36_6/IAS36_P0095">carrying amount<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0026"/></ph></xref> of the asset to which it relates, an entity shall recognise a liability if, and only if, that is required by another Standard.</p></body></paragraph>

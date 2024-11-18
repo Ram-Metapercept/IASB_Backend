@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//IFRS//DTD DITA Topic//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/ifrsTopic.dtd">
+<topic id="IFRS09_IG_B.10"><title id="IFRS09_IG_B.10_TI" base="F32868190" level="2">B.10 Definition of a derivative: initial net investment</title><body><p id="IFRS09_P4821" base="F32868191"><b>Many derivative instruments, such as futures contracts and exchange traded written options, require margin accounts. Is the margin account part of the initial net investment?</b></p><p id="IFRS09_P4822" base="F32868193">No. The margin account is not part of the initial net investment in a derivative instrument. Margin accounts are a form of collateral for the counterparty or clearing house and may take the form of cash, securities or other specified assets, typically liquid assets. Margin accounts are separate assets that are accounted for separately.</p></body></topic>

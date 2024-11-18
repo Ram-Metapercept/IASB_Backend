@@ -5,9 +5,10 @@ const route=require("./routes/routes")
 const cors = require("cors");
 app.use(express.json())
 app.use("/",route)
-
 app.use(cors());
-mongoose.connect('mongodb://localhost:27017/testDB')
+
+
+mongoose.connect('mongodb+srv://kailashm:drWNcxBUIDpR1HoK@cluster0.3jpbiti.mongodb.net/abc?retryWrites=true&w=majority&appName=Cluster0')
   .then(function(){
     console.log('Connected to MongoDB');
   })

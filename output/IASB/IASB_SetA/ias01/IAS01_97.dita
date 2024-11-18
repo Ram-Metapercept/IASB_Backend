@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph base="F3903605" principles="yes" id="IAS01_97"><paranum>97</paranum><prolog><data name="standard_number" value="IAS 1"/><data name="paranum" value="97"/></prolog><body><p id="IAS01_P0515">When items of income              or expense are                     <xref base="F3903008" href="IAS01_7_materialomissions.dita" scope="local">material<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0240"/></ph></xref>, an entity shall disclose their nature and amount separately.</p></body></paragraph>

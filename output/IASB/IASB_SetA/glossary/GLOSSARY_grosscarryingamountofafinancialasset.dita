@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossentry
+  PUBLIC "-//IFRS//DTD DITA Glossary Entry//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/ifrsGlossentry.dtd">
+<glossentry id="GLOSSARY_DI0155_V1"><glossterm base="F39221665" id="GLOSSARY_TE0184">gross carrying amount of a financial asset</glossterm><glossdef>     <p base="F39221667" id="GLOSSARY_P0479">The amortised cost of a financial asset, before adjusting for any loss allowance.</p>   </glossdef><related-links><linklist id="GLOSSARY_P0480"><link base="F43925815" href="../ifrs09/IFRS09_APPA.dita" id="GLOSSARY_X0300"><linktext>IFRS 9.A</linktext></link></linklist></related-links></glossentry>

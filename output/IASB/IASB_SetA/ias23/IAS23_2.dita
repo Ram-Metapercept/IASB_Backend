@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS23_2" base="F3101190" principles="yes"><paranum>2</paranum><prolog><data name="standard_number" value="IAS 23"/><data name="paranum" value="2"/></prolog><body><p id="IAS23_P0006">An entity shall apply this Standard in accounting for <xref base="F3101210" href="IAS23_5.dita#IAS23_5/IAS23_P0019">borrowing costs<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0023"/></ph></xref>.</p></body></paragraph>

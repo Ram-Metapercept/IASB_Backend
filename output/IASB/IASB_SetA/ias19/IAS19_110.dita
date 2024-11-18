@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS19_110" base="F16151944" principles="yes"><paranum>110</paranum><prolog><data name="standard_number" value="IAS 19"/><data name="paranum" value="110"/></prolog><body><p id="IAS19_P0536">An entity shall recognise a gain or loss on the <xref base="F16149821" href="IAS19_0004.dita#IAS19_0004/IAS19_UN0023">settlement<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0349"/></ph></xref> of a <xref base="F16149637" href="IAS19_0002.dita#IAS19_0002/IAS19_UN0008">defined benefit plan<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0078"/></ph></xref> when the settlement occurs.</p></body></paragraph>

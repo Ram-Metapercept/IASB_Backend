@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS33_A15" base="SL31769" principles="no"><paranum>A15</paranum><prolog><data name="standard_number" value="IAS 33"/><data name="paranum" value="A15"/></prolog><body><p id="IAS33_P0232">Where <xref base="SL148104" href="IAS33_5.dita#IAS33_5/IAS33_P0023">ordinary shares<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0275"/></ph></xref> are issued but not fully paid, they are treated in the calculation of basic earnings per share as a fraction of an ordinary share to the extent that they were entitled to participate in dividends during the period relative to a fully paid ordinary share.</p></body></paragraph>

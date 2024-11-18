@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph base="F33205319" id="IFRS09_BC4.83"><paranum>BC4.83</paranum><prolog><data name="standard_number" value="IFRS 9"/><data name="paranum" value="BC4.83"/></prolog><body><p id="IFRS09_P5729">An embedded derivative is a derivative component of a hybrid contract that also includes a non-derivative host, with the effect that some of the cash flows of the combined contract vary like the cash flows of a stand-alone derivative contract. <xref base="F71850135" href="../ias39/IAS39_TOC.dita#IAS39_TOC0001/IAS39_TOC0001_V3" id="IFRS09_X2413">IAS 39</xref> required an entity to assess all contracts to determine whether they contain one or more embedded derivatives that are required to be separated from the host and accounted for as stand-alone derivatives.</p></body></paragraph>

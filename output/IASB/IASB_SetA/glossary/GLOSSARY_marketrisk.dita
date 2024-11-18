@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossentry
+  PUBLIC "-//IFRS//DTD DITA Glossary Entry//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/ifrsGlossentry.dtd">
+<glossentry id="GLOSSARY_DI0239"><glossterm base="SL60732" id="GLOSSARY_TE0282">market risk</glossterm><glossdef> <p base="SL139048" id="GLOSSARY_P0753">The risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in market prices. Market risk comprises three types of risk: currency risk, interest rate risk and other price risk.</p></glossdef><related-links><linklist id="GLOSSARY_P0754"><link base="F1475726" href="../ifrs07/IFRS07_APPA.dita#IFRS07_APPA/IFRS07_APPA_TI" id="GLOSSARY_X0409"><linktext>IFRS 7.A</linktext></link></linklist></related-links></glossentry>

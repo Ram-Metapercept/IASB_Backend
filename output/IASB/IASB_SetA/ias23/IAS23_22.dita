@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph base="F3101326" id="IAS23_22" principles="yes"><paranum>22</paranum><prolog><data name="standard_number" value="IAS 23"/><data name="paranum" value="22"/></prolog><body><p id="IAS23_P0080">An entity shall cease capitalising <xref base="SL138203" href="../glossary/GLOSSARY_borrowingcosts.dita#GLOSSARY_DI0023/GLOSSARY_P0066">borrowing costs<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0023"/></ph></xref> when substantially all the activities necessary to prepare the <xref base="F3101211" href="IAS23_5.dita#IAS23_5/IAS23_P0020">qualifying asset<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0311"/></ph></xref> for its intended use or sale are complete.</p></body></paragraph>

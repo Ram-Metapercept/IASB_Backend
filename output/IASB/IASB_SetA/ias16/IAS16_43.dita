@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS16_43" base="SL30324" principles="yes"><paranum>43</paranum><prolog><data name="standard_number" value="IAS 16"/><data name="paranum" value="43"/></prolog><body><p id="IAS16_P0186">Each part of an item of <xref base="SL144217" href="IAS16_6.dita#IAS16_6/IAS16_P0040">property, plant and equipment<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0304"/></ph></xref> with a <xref base="SL144211" href="IAS16_6.dita#IAS16_6/IAS16_P0034">cost<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0055"/></ph></xref> that is significant in relation to the total cost of the item shall be <xref base="SL144213" href="IAS16_6.dita#IAS16_6/IAS16_P0036">depreciated<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0084"/></ph></xref> separately.</p></body></paragraph>

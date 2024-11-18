@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS17_BC203" base="F55753212"><paranum>BC203</paranum><prolog><data name="standard_number" value="IFRS 17"/><data name="paranum" value="BC203"/></prolog><body><p id="IFRS17_P6179">However, the cash flows resulting from the guarantees do not vary directly with returns on underlying items because they are not expected to vary directly with such returns in all scenarios. Accordingly, an asset-based discount rate (from assets with variable returns) would be inappropriate for such cash flows.</p></body></paragraph>

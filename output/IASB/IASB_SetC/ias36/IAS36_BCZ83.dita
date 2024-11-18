@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS36_BCZ83" base="SL31954" principles="no"><paranum>BCZ83</paranum><prolog><data name="standard_number" value="IAS 36"/><data name="paranum" value="BCZ83"/></prolog><body><p id="IAS36_P2632">The tax base of an asset on initial recognition is normally equal to its cost. Therefore, net selling price<xref keyref="footnotes/IAS36_FN0060" type="fn"/> implicitly reflects market participants&#x2019; assessment of the future tax cash flows that would result if the tax base of the asset were equal to its recoverable amount. Therefore, no adjustment is required to net selling price to reflect the second component referred to in <xref id="IAS36_X0716" base="F16145594" href="IAS36_BCZ81.dita#IAS36_BCZ81">paragraph BCZ81</xref>.</p></body></paragraph>

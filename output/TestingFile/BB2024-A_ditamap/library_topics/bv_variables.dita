@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE topic PUBLIC "-//IFRS//DTD DITA Topic//EN" "../../../DocTypes/com.ifrs.doctype/dtd/ifrsTopic.dtd"><topic id="bv_variables">
+  <title>Bound Volume Variables</title>
+  <body>
+    <table colsep="1" frame="all" rowsep="1">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1" colwidth="1*"/>
+        <colspec colnum="2" colname="c2" colwidth="1*"/>
+        <thead>
+          <row>
+            <entry>Description</entry>
+            <entry>Value</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>IFRS Accompany Title</entry>
+            <entry><ph translate="yes" id="ifrs_accompany">IASB documents published to accompany</ph></entry>
+            
+          </row>
+          <row>
+            <entry>IAS Accompany Title</entry>
+            <entry><ph translate="yes" id="ias_accompany">IASB documents published to accompany</ph></entry>
+            
+          </row>
+          <row>
+            <entry>IFRIC Accompany Title</entry>
+            <entry><ph translate="yes" id="ifric_accompany">Documents published to accompany</ph></entry>
+            
+          </row>
+          <row>
+            <entry>SIC Accompany Title</entry>
+            <entry><ph translate="yes" id="sic_accompany">Material published to accompany</ph></entry>
+            
+          </row>
+          <row>
+            <entry>IE Title</entry>
+            <entry><ph translate="yes" id="ie_title">Illustrative Examples</ph></entry>
+            
+          </row>
+          <row>
+            <entry>IE Title (used in HTML)</entry>
+            <entry><ph translate="yes" id="ie_html_title">Illustrative Examples</ph></entry>
+            
+          </row>
+          <row>
+            <entry>IG Title</entry>
+            <entry><ph translate="yes" id="ig_title">Guidance on implementing</ph></entry>
+            
+          </row>
+          <row>
+            <entry>IG Title (used in HTML)</entry>
+            <entry><ph translate="yes" id="ig_html_title">Implementation Guidance</ph></entry>
+            
+          </row>
+          <row>
+            <entry>IG Concordance Title</entry>
+            <entry><ph translate="yes" id="ig_concordance_title">Table of Concordance</ph></entry>
+            
+          </row>
+          <row>
+            <entry>BC Title</entry>
+            <entry><ph translate="yes" id="bc_title">Basis for Conclusions on</ph></entry>
+            
+          </row>
+          <row>
+            <entry>BC Title (used in HTML)</entry>
+            <entry><ph translate="yes" id="bc_html_title">Basis for Conclusions</ph></entry>
+            
+          </row>
+          <row>
+            <entry>Contents (used in HTML)</entry>
+            <entry><ph translate="yes" id="contents_html_title">Contents</ph></entry>
+            
+          </row>
+          <row>
+            <entry>Header for Introduction category</entry>
+            <entry><ph translate="yes" id="introduction_category">Introduction</ph></entry>
+            
+          </row>
+          <row>
+            <entry>Header for Changes category</entry>
+            <entry><ph translate="yes" id="changes_category">Changes in this edition</ph></entry>
+            
+          </row>
+          <row>
+            <entry>Header for Preface category</entry>
+            <entry><ph translate="yes" id="preface_category">Preface to IFRS Standards</ph></entry>
+            
+          </row>
+          <row>
+            <entry>Header for CF category</entry>
+            <entry><ph translate="yes" id="cf_category">Conceptual Framework</ph></entry>
+            
+          </row>
+          <row>
+            <entry>Header for PS1 category</entry>
+            <entry><ph translate="yes" id="ps1_category">Management Commentary</ph></entry>
+            
+          </row>
+          <row>
+            <entry>Header for PS2 category</entry>
+            <entry><ph translate="yes" id="ps2_category">Making Materiality Judgements</ph></entry>
+            
+          </row>
+          <row>
+            <entry>Header for Handbook category</entry>
+            <entry><ph translate="yes" id="handbook_category">Due Process Handbook</ph></entry>
+            
+          </row>
+          <row>
+            <entry>Header for Constitution category</entry>
+            <entry><ph translate="yes" id="constitution_category">Constitution</ph></entry>
+            
+          </row>
+          <row>
+            <entry>Header for Improvements category</entry>
+            <entry><ph translate="yes" id="improvements_category">Approvals by the Board</ph></entry>
+            
+          </row>
+          <row>
+            <entry>Header for Glossary category</entry>
+            <entry><ph translate="yes" id="glossary_category">Glossary</ph></entry>
+            
+          </row>
+          <row>
+            <entry>Header for Index category</entry>
+            <entry><ph translate="yes" id="index_category">Index</ph></entry>
+            
+          </row>
+          <row>
+            <entry>Header suffix for IE category or document_type</entry>
+            <entry><ph translate="yes" id="ie_category">IE</ph></entry>
+            
+          </row>
+          <row>
+            <entry>Header suffix for IG category or document_type</entry>
+            <entry><ph translate="yes" id="ig_category">IG</ph></entry>
+            
+          </row>
+          <row>
+            <entry>Header suffix for BC category or document_type</entry>
+            <entry><ph translate="yes" id="bc_category">BC</ph></entry>
+            
+          </row>
+          <row>
+            <entry>CF (used in HTML)</entry>
+            <entry><ph translate="yes" id="cf_html_st">The Conceptual Framework</ph></entry>
+          </row>
+          <row>
+            <entry>Glossary (used in HTML)</entry>
+            <entry><ph translate="yes" id="glossary_html_st">Glossary</ph></entry>
+          </row>
+          <row>
+            <entry>PS1 (used in HTML)</entry>
+            <entry><ph translate="yes" id="ps1_html_st">Practice Statement</ph></entry>
+          </row>
+          <row>
+            <entry>PS2 (used in HTML)</entry>
+            <entry><ph translate="yes" id="ps2_html_st">Practice Statement</ph></entry>
+          </row>
+          <row>
+            <entry>Constitution (used in HTML)</entry>
+            <entry><ph translate="yes" id="constitution_html_st">IFRS Constitution</ph></entry>
+          </row>
+          <row>
+            <entry>Handbook (used in HTML)</entry>
+            <entry><ph translate="yes" id="handbook_html_st">Due Process Handbook</ph></entry>
+          </row>
+          <row>
+            <entry>Approvals (used in HTML)</entry>
+            <entry><ph translate="yes" id="approvals_html_st">Approvals</ph></entry>
+          </row>
+          <row>
+            <entry>Supporting Material (used in HTML)</entry>
+            <entry><ph translate="yes" id="supporting_material_html_st">Supporting Material</ph></entry>
+          </row>
+          <row>
+            <entry>SME (used in HTML)</entry>
+            <entry><ph translate="yes" id="sme_html_st">SME</ph></entry>
+          </row>
+          <row>
+            <entry>BC Accompany Title note</entry>
+            <entry><ph translate="yes" id="bc_accompany_title_note">This Basis for Conclusions accompanies, but is not part of, </ph></entry> 
+          </row>
+          <row>
+            <entry>Deleted paragraphs</entry>
+            <entry><ph translate="yes" id="paragraph_deleted">[Deleted]</ph></entry>
+            
+          </row>
+          <row>
+            <entry>Marker paragraph (single)</entry>
+            <entry><ph translate="yes" id="marker_paragraph_single"><i>[This paragraph refers to amendments that are not yet effective, and is therefore not included in this edition.]</i></ph></entry>
+            
+          </row>
+          <row>
+            <entry>Marker paragraphs (multiple)</entry>
+            <entry><ph translate="yes" id="marker_paragraph_multiple"><i>[These paragraphs refer to amendments that are not yet effective, and are therefore not included in this edition.]</i></ph></entry>
+            
+          </row>
+          <row>
+            <entry>Marker example (IE)</entry>
+            <entry><ph translate="yes" id="marker_example_single"><i>[This example refers to amendments that are not yet effective, and is therefore not included in this edition.]</i></ph></entry>
+            
+          </row>
+          <row>
+            <entry>Marker example (IE) (multiple)</entry>
+            <entry><ph translate="yes" id="marker_example_multiple"><i>[These examples refer to amendments that are not yet effective, and are therefore not included in this edition.]</i></ph></entry>
+            
+          </row>
+          <row>
+            <entry>Marker paragraphs (for an entity that had not adopted IFRS 9)</entry>
+            <entry><ph translate="yes" id="marker_not_adopted_ifrs09"><i>[This paragraph was added for an entity that had not adopted IFRS 9.]</i></ph></entry>
+            
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </body>
+</topic>

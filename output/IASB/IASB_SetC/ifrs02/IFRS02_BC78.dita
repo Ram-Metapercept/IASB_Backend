@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS02_BC78" base="SL34266"><paranum>BC78</paranum><prolog><data name="standard_number" value="IFRS 2"/><data name="paranum" value="BC78"/></prolog><body><p id="IFRS02_P2095">For many options, time value represents a substantial part of their value. As noted earlier, many employee share options have zero intrinsic value at grant date, and hence the option&#x2019;s value consists entirely of time value. In such cases, ignoring time value by applying the intrinsic value method at grant date understates the value of the option by 100 per cent.</p></body></paragraph>

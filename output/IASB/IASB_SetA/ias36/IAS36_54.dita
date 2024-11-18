@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS36_54" base="SL32276" principles="no"><paranum>54</paranum><prolog><data name="standard_number" value="IAS 36"/><data name="paranum" value="54"/></prolog><body><p id="IAS36_P0234">Future cash flows are estimated in the currency in which they will be generated and then discounted using a discount rate  appropriate for that currency. An entity translates the present value using the spot exchange rate at the date of the <xref base="SL148465" href="IAS36_6.dita#IAS36_6/IAS36_P0112">value in use<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0382"/></ph></xref> calculation.</p></body></paragraph>

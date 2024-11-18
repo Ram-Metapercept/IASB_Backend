@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph base="SL33276" principles="no" id="IAS39_75"><paranum>75</paranum><prolog><data name="standard_number" value="IAS 39"/><data name="paranum" value="75"/></prolog><body><p id="IAS39_P0492">A proportion of the entire <xref base="SL134657" href="IAS39_9_hedge-accounting.dita#IAS39_9_hedge-accounting/IAS39_P0210" scope="local">hedging instrument<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0167"/></ph></xref>, such as 50 per cent of the notional amount, may be designated as the hedging instrument in a hedging relationship. However, a hedging relationship may not be designated for only a portion of the time period during which a hedging instrument remains outstanding.</p></body></paragraph>

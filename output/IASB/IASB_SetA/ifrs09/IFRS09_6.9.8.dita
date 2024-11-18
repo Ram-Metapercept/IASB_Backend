@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph base="IFRS2020-5" id="IFRS09_6.9.8" principles="no"><paranum>6.9.8</paranum><prolog><data name="standard_number" value="IFRS 9"/><data name="paranum" value="6.9.8"/></prolog><body><p>For a discontinued hedging relationship, when the interest rate benchmark on which the hedged future cash flows had been based is changed as required by interest rate benchmark reform, for the purpose of applying <xref href="IFRS09_6.5.12.dita">paragraph 6.5.12</xref> in order to determine whether the hedged future cash flows are expected to occur, the amount accumulated in the cash flow hedge reserve for that hedging relationship shall be deemed to be based on the alternative benchmark rate on which the hedged future cash flows will be based.</p></body></paragraph>

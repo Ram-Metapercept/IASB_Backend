@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS12_13" base="SL29998" principles="yes"><paranum>13</paranum><prolog><data name="standard_number" value="IAS 12"/><data name="paranum" value="13"/></prolog><body><p id="IAS12_P0068">The benefit relating to a tax loss that can be carried back to recover <xref base="SL143755" href="IAS12_5.dita#IAS12_5/IAS12_P0020">current tax<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0069"/></ph></xref> of a previous period shall be recognised as an asset.</p></body></paragraph>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossentry
+  PUBLIC "-//IFRS//DTD DITA Glossary Entry//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/ifrsGlossentry.dtd">
+<glossentry id="GLOSSARY_DI0165_V1"><glossterm base="SL40106038" id="GLOSSARY_TE0196">hedge ratio</glossterm><glossdef>     <p base="SL40106040" id="GLOSSARY_P0512">The relationship between the quantity of the hedging instrument and the quantity of the hedged item in terms of their relative weighting.</p>   </glossdef><related-links><linklist id="GLOSSARY_P0513"><link base="F43925816" href="../ifrs09/IFRS09_APPA.dita" id="GLOSSARY_X0313"><linktext>IFRS 9.A</linktext></link></linklist></related-links></glossentry>

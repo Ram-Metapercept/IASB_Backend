@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph base="SL33289" principles="no" id="IAS39_87"><paranum>87</paranum><prolog><data name="standard_number" value="IAS 39"/><data name="paranum" value="87"/></prolog><body><p id="IAS39_P0541">A hedge of the foreign <xref base="SL144810" href="../ifrs07/IFRS07_APPA.dita#IFRS07_APPA/IFRS07_P0864">currency risk<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0066"/></ph></xref> of a <xref base="SL134655" href="IAS39_9_hedge-accounting.dita#IAS39_9_hedge-accounting/IAS39_P0208" scope="local">firm commitment<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0131"/></ph></xref> may be accounted for as a fair value hedge  or as a cash flow hedge.</p></body></paragraph>

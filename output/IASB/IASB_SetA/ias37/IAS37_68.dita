@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS37_68" base="SL32475" principles="no"><paranum>68</paranum><prolog><data name="standard_number" value="IAS 37"/><data name="paranum" value="68"/></prolog><body><p id="IAS37_P0174">This Standard defines an <xref base="SL145969" href="IAS37_10.dita#IAS37_10/IAS37_P0073">onerous contract<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0266"/></ph></xref> as a contract in which the unavoidable costs of meeting the obligations under the contract exceed the economic benefits expected to be received under it. The unavoidable costs under a contract reflect the least net cost of exiting from the contract, which is the lower of the cost of fulfilling it and any compensation or penalties arising from failure to fulfil it.</p></body></paragraph>

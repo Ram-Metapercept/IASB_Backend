@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS02_B31" base="SL34643" principles="no"><paranum>B31</paranum><prolog><data name="standard_number" value="IFRS 2"/><data name="paranum" value="B31"/></prolog><body><p id="IFRS02_P0346">Whether expected dividends should be taken into account when measuring the <xref base="SL141007" href="IFRS02_APPA.dita#IFRS02_APPA/IFRS02_P0249">fair value<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0119"/></ph></xref> of shares or options granted depends on whether the counterparty is entitled to dividends or dividend equivalents.</p></body></paragraph>

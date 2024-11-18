@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS16_50" base="SL30331" principles="yes"><paranum>50</paranum><prolog><data name="standard_number" value="IAS 16"/><data name="paranum" value="50"/></prolog><body><p id="IAS16_P0195">The <xref base="SL144213" href="IAS16_6.dita#IAS16_6/IAS16_P0036">depreciable<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0084"/></ph></xref> amount of an asset shall be allocated on a systematic basis over its <xref base="SL144225" href="IAS16_6.dita#IAS16_6/IAS16_P0049">useful life<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0380"/></ph></xref>.</p></body></paragraph>

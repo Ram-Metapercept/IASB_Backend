@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRIC14_BC8"><paranum>BC8</paranum><prolog><data name="standard_number" value="IFRIC 14"/><data name="paranum" value="BC8"/></prolog><body><variant id="IFRIC14_BC8_V2" base="F74900575" principles="no"> <p id="IFRIC14_P0235">The IFRIC disagreed with this view. The <ph outputclass="standard_ref"><ph outputclass="standard_title">Framework</ph></ph><xref keyref="footnotes/IFRIC14_FN0004" type="fn"/> defines an asset as a resource &#x2018;from which future economic benefits are expected to flow to the entity&#x2019;. Therefore, it is not necessary for the economic benefit to be realisable immediately. Indeed, a reduction in future contributions cannot be realisable immediately.</p></variant></body></paragraph>

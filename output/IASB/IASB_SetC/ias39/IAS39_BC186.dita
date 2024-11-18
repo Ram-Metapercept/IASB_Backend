@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS39_BC186"><paranum>BC186</paranum><prolog><data name="standard_number" value="IAS 39"/><data name="paranum" value="BC186"/></prolog><body><variant id="IAS39_BC186_V2" base="SL19809532"> <p id="IAS39_P5545">The Board noted that this issue is related to that of how to measure the fair value of a demandable liability. In particular, it interrelates with the requirement in IAS 39 that the fair value of a liability with a demand feature is not less than the amount payable on demand, discounted from the first date that the amount could be required to be paid.<xref keyref="footnotes/IAS39_FN0126" type="fn"/> This requirement applies to all liabilities with a demand feature, not only to those included in a portfolio hedge.</p></variant></body></paragraph>

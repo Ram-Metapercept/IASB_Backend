@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS12_86" base="SL30080"><paranum>86</paranum><prolog><data name="standard_number" value="IAS 12"/><data name="paranum" value="86"/></prolog><body><p id="IAS12_P0521">The average effective tax rate is the <xref base="SL143754" href="IAS12_5.dita#IAS12_5/IAS12_P0019">tax expense (income)<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0362"/></ph></xref> divided by the <xref base="SL143752" href="IAS12_5.dita#IAS12_5/IAS12_P0017">accounting profit<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0003"/></ph></xref>.</p></body></paragraph>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossentry
+  PUBLIC "-//IFRS//DTD DITA Glossary Entry//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/ifrsGlossentry.dtd">
+<glossentry id="GLOSSARY_DI0230_V1"><glossterm base="F39221704" id="GLOSSARY_TE0272">lifetime expected credit losses</glossterm><glossdef>     <p base="F39221706" id="GLOSSARY_P0722">The expected credit losses that result from all possible default events over the expected life of a financial instrument.</p>   </glossdef><related-links><linklist id="GLOSSARY_P0723"><link base="F43925819" href="../ifrs09/IFRS09_APPA.dita" id="GLOSSARY_X0399" scope="local"><linktext>IFRS 9.A</linktext></link></linklist></related-links></glossentry>

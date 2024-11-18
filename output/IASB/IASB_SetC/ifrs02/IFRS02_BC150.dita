@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS02_BC150" base="SL34338"><paranum>BC150</paranum><prolog><data name="standard_number" value="IFRS 2"/><data name="paranum" value="BC150"/></prolog><body><p id="IFRS02_P2192">If the entity uses an option pricing model that values American share options, such as the binomial model, the inability to exercise an option during the vesting period can be taken into account in applying such a model.</p></body></paragraph>

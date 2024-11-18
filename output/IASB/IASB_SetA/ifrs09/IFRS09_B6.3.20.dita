@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS09_B6.3.20" base="SL32626782"><paranum>B6.3.20</paranum><prolog><data name="standard_number" value="IFRS 9"/><data name="paranum" value="B6.3.20"/></prolog><body><p id="IFRS09_P1540">A layer component that includes a prepayment option is not eligible to be designated as a hedged item in a fair value hedge if the prepayment option&#x2019;s fair value is affected by changes in the hedged risk, unless the designated layer includes the effect of the related prepayment option when determining the change in the fair value of the hedged item.</p></body></paragraph>

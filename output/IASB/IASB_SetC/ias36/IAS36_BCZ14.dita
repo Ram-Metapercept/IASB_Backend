@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS36_BCZ14" base="SL31886" principles="no"><paranum>BCZ14</paranum><prolog><data name="standard_number" value="IAS 36"/><data name="paranum" value="BCZ14"/></prolog><body><p id="IAS36_P2475"><ph outputclass="standard_ref"><ph outputclass="standard_number">IAS 32</ph> <ph outputclass="standard_title">Financial Instruments: Disclosure and Presentation</ph></ph><xref keyref="footnotes/IAS36_FN0036" type="fn"/> and a number of other International Accounting Standards define fair value<xref keyref="footnotes/IAS36_FN0037" type="fn"/> as:</p><lq> <p id="IAS36_P2476" base="F7096710">&#x2018;... the amount for which an asset could be exchanged, or a liability settled, between knowledgeable, willing parties in an arm&#x2019;s length transaction ...&#x2019;</p></lq></body></paragraph>

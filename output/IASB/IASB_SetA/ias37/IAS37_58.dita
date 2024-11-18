@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS37_58" base="SL32465" principles="no"><paranum>58</paranum><prolog><data name="standard_number" value="IAS 37"/><data name="paranum" value="58"/></prolog><body><p id="IAS37_P0160">As noted in <xref id="IAS37_X0174" base="A37-151" href="IAS37_29.dita#IAS37_29">paragraph 29</xref>, an obligation for which an entity is jointly and severally liable is a <xref base="SL145957" href="IAS37_10.dita#IAS37_10/IAS37_P0067">contingent liability<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0045"/></ph></xref> to the extent that it is expected that the obligation will be settled by the other parties.</p></body></paragraph>

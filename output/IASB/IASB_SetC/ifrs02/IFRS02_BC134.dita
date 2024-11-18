@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS02_BC134" base="SL34322"><paranum>BC134</paranum><prolog><data name="standard_number" value="IFRS 2"/><data name="paranum" value="BC134"/></prolog><body><p id="IFRS02_P2171">One aspect of time value is the value of the right to participate in future gains, if any. The valuation does not attempt to predict what the future gain will be, only the amount that a buyer would pay at the valuation date to obtain the right to participate in any future gains. In other words, option pricing models estimate the value of the share option at the measurement date, not the value of the underlying share at some future date.</p></body></paragraph>

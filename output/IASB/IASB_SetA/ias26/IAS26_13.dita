@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS26_13" base="SL31066" principles="yes"><paranum>13</paranum><prolog><data name="standard_number" value="IAS 26"/><data name="paranum" value="13"/></prolog><body><p id="IAS26_P0024">The financial statements of a <xref base="SL146959" href="IAS26_8.dita#IAS26_8/IAS26_P0012">defined contribution plan<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0081"/></ph></xref> shall contain a statement of <xref base="SL146964" href="IAS26_8.dita#IAS26_8/IAS26_P0017">net assets available for benefits<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0252"/></ph></xref> and a description of the funding policy.</p></body></paragraph>

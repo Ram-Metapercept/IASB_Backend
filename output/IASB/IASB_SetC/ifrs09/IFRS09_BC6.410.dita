@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS09_BC6.410" base="F33207663"><paranum>BC6.410</paranum><prolog><data name="standard_number" value="IFRS 9"/><data name="paranum" value="BC6.410"/></prolog><body><p id="IFRS09_P6932">The proposed accounting treatment for the time value of options in the 2010 Hedge Accounting Exposure Draft only addressed situations in which the option had a time value (other than nil) at inception. That proposed accounting would not have applied to situations in which there was a combination of a purchased and a written option (one being a put option and one being a call option) that at inception of the hedging relationship had a net time value of nil (often referred to as &#x2018;zero-cost collars&#x2019; or &#x2018;zero premium collars&#x2019;).</p></body></paragraph>

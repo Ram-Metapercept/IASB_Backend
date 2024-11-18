@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossentry
+  PUBLIC "-//IFRS//DTD DITA Glossary Entry//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/ifrsGlossentry.dtd">
+<glossentry id="GLOSSARY_DI0196"><glossterm base="F138057" id="GLOSSARY_TE0233">interest rate risk</glossterm><glossdef> <p base="F138060" id="GLOSSARY_P0608">The risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in market interest rates.</p></glossdef><related-links><linklist id="GLOSSARY_P0609"><link base="F1475552" href="../ifrs07/IFRS07_APPA.dita#IFRS07_APPA/IFRS07_APPA_TI" id="GLOSSARY_X0351"><linktext>IFRS 7.A</linktext></link></linklist></related-links></glossentry>

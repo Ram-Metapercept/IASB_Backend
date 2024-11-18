@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossentry
+  PUBLIC "-//IFRS//DTD DITA Glossary Entry//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/ifrsGlossentry.dtd">
+<glossentry id="GLOSSARY_DI0240"><glossterm base="SL60735" id="GLOSSARY_TE0283">material</glossterm><glossdef>          <p id="GLOSSARY_P0755">Information is material if omitting, misstating or obscuring it could reasonably be expected to influence decisions that the primary users of general purpose financial statements make on the basis of those financial statements, which provide financial information about a specific reporting entity.</p>   </glossdef><related-links><linklist id="GLOSSARY_P0756"><link base="F4989455" href="../ias01/IAS01_7.dita" id="GLOSSARY_X0410" scope="local"><linktext>IAS 1.7</linktext></link><link base="F1475754" href="../ias08/IAS08_5.dita" id="GLOSSARY_X0411" scope="local"><linktext>(IAS 8.5)</linktext></link></linklist></related-links></glossentry>

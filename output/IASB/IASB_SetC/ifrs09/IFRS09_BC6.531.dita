@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS09_BC6.531" base="F33208402"><paranum>BC6.531</paranum><prolog><data name="standard_number" value="IFRS 9"/><data name="paranum" value="BC6.531"/></prolog><body><p id="IFRS09_P7126">The IASB considered that the insurance approach would have a simple interaction with an impairment model as a result of treating the credit default swap like collateral or a guarantee, which means it would affect the estimate of the recoverable cash flows. Hence, this interaction would be at the most basic level of the information that any impairment model uses so that the effect would not differ by type of impairment model (assuming only credit derivatives with a remaining life equal to, or longer than, the remaining exposure period would qualify for the insurance approach).</p></body></paragraph>

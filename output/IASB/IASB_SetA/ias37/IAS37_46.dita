@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS37_46" base="SL32453" principles="no"><paranum>46</paranum><prolog><data name="standard_number" value="IAS 37"/><data name="paranum" value="46"/></prolog><body><p id="IAS37_P0146">Because of the time value of money, <xref base="SL145940" href="IAS37_10.dita#IAS37_10/IAS37_P0056">provisions<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0307"/></ph></xref> relating to cash outflows that arise soon after the reporting period are more onerous than those where cash outflows of the same amount arise later. Provisions are therefore discounted, where the effect is material.</p></body></paragraph>

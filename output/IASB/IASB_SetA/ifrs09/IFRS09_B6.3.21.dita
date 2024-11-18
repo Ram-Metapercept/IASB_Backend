@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS09_B6.3.21" base="SL32626785"><paranum>B6.3.21</paranum><prolog><data name="standard_number" value="IFRS 9"/><data name="paranum" value="B6.3.21"/></prolog><body><p id="IFRS09_P1542">If a component of the cash flows of a financial or a non-financial item is designated as the hedged item, that component must be less than or equal to the total cash flows of the entire item. However, all of the cash flows of the entire item may be designated as the hedged item and hedged for only one particular risk (for example, only for those changes that are attributable to changes in LIBOR or a benchmark commodity price).</p></body></paragraph>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS37_48" base="SL32455" principles="yes"><paranum>48</paranum><prolog><data name="standard_number" value="IAS 37"/><data name="paranum" value="48"/></prolog><body><p id="IAS37_P0148">Future events that may affect the amount required to settle an obligation shall be reflected in the amount of a <xref base="SL145940" href="IAS37_10.dita#IAS37_10/IAS37_P0056">provision<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0307"/></ph></xref> where there is sufficient objective evidence that they will occur.</p></body></paragraph>

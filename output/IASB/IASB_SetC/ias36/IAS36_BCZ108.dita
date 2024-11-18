@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS36_BCZ108" base="SL31979" principles="no"><paranum>BCZ108</paranum><prolog><data name="standard_number" value="IAS 36"/><data name="paranum" value="BCZ108"/></prolog><body><p id="IAS36_P2805">IAS 36 requires that an impairment loss on a revalued asset should be recognised as an expense in the income statement<xref keyref="footnotes/IAS36_FN0064" type="fn"/> immediately, except that it should be recognised directly in equity<xref keyref="footnotes/IAS36_FN0065" type="fn"/> to the extent that it reverses a previous revaluation on the same asset.</p></body></paragraph>

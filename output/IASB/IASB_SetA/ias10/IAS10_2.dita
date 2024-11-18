@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS10_2" base="SL29903" principles="yes"><paranum>2</paranum><prolog><data name="standard_number" value="IAS 10"/><data name="paranum" value="2"/></prolog><body><p id="IAS10_P0011">This Standard shall be applied in the accounting for,  and disclosure of,  <xref base="SL144451" href="IAS10_3.dita#IAS10_3/IAS10_P0013">events after the reporting period<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0107"/></ph></xref>.</p></body></paragraph>

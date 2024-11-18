@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS02_B38" base="SL34650" principles="no"><paranum>B38</paranum><prolog><data name="standard_number" value="IFRS 2"/><data name="paranum" value="B38"/></prolog><body><p id="IFRS02_P0353">Typically, third parties, not the entity, write traded <xref base="SL141034" href="IFRS02_APPA.dita#IFRS02_APPA/IFRS02_P0290">share options<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0352"/></ph></xref>. When these share options are exercised, the writer delivers shares to the option holder. Those shares are acquired from existing shareholders. Hence the exercise of traded share options has no dilutive effect.</p></body></paragraph>

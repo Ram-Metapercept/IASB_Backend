@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS17_B119F" base="IFRS2020-3"><paranum>B119F</paranum><prolog><data name="standard_number" value="IFRS 17"/><data name="paranum" value="B119F"/></prolog><body><p>After an entity has established a loss-recovery component applying <xref href="IFRS17_66B.dita">paragraph 66B</xref>, the entity shall adjust the loss-recovery component to reflect changes in the loss component of an onerous group of underlying insurance contracts (see <xref href="IFRS17_50.dita">paragraphs 50&#x2013;52</xref>). The carrying amount of the loss-recovery component shall not exceed the portion of the carrying amount of the loss component of the onerous group of underlying insurance contracts that the entity expects to recover from the group of reinsurance contracts held.</p></body></paragraph>

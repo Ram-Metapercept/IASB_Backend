@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS23_1" base="F3101186" principles="yes"><paranum>1</paranum><prolog><data name="standard_number" value="IAS 23"/><data name="paranum" value="1"/></prolog><body><p id="IAS23_P0005"><xref base="F3101210" href="IAS23_5.dita#IAS23_5/IAS23_P0019">Borrowing costs<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0023"/></ph></xref> that are directly attributable to the acquisition, construction or production of a <xref base="F3101211" href="IAS23_5.dita#IAS23_5/IAS23_P0020">qualifying asset<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0311"/></ph></xref> form part of the cost of that asset. Other borrowing costs are recognised as an expense. </p></body></paragraph>

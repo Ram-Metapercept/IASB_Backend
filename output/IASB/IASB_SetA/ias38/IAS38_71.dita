@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS38_71" base="SL32700" principles="yes"><paranum>71</paranum><prolog><data name="standard_number" value="IAS 38"/><data name="paranum" value="71"/></prolog><body><p id="IAS38_P0220">Expenditure on an intangible item that was initially recognised as an expense shall not be recognised as part of the <xref base="SL141710" href="IAS38_8.dita#IAS38_8/IAS38_P0064">cost<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0055"/></ph></xref> of an <xref base="SL141716" href="IAS38_8.dita#IAS38_8/IAS38_P0070">intangible asset<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0193"/></ph></xref> at a later date.</p></body></paragraph>

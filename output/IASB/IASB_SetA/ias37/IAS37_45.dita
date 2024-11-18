@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS37_45" base="SL32452" principles="yes"><paranum>45</paranum><prolog><data name="standard_number" value="IAS 37"/><data name="paranum" value="45"/></prolog><body><p id="IAS37_P0145">Where the effect of the time value of money is material, the amount of a <xref base="SL145940" href="IAS37_10.dita#IAS37_10/IAS37_P0056">provision<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0307"/></ph></xref> shall be the present value of the expenditures expected to be required to settle the obligation.</p></body></paragraph>

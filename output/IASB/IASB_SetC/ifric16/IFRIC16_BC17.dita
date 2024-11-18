@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRIC16_BC17" base="F6130510"><paranum>BC17</paranum><prolog><data name="standard_number" value="IFRIC 16"/><data name="paranum" value="BC17"/></prolog><body><p id="IFRIC16_P0135">Permitting only the ultimate parent entity to hedge its net investments would ignore the exposures arising on net investments in other parts of the entity. Conversely, permitting only the immediate parent entity to undertake a net investment hedge would imply that an indirect investment does not create a foreign currency exposure for that indirect parent entity.</p></body></paragraph>

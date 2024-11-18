@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS07_42F" base="F15634995"><paranum>42F</paranum><prolog><data name="standard_number" value="IFRS 7"/><data name="paranum" value="42F"/></prolog><body><p id="IFRS07_P0759">An entity may aggregate the information required by <xref id="IFRS07_X0664" base="F16216370" href="IFRS07_42E.dita#IFRS07_42E">paragraph 42E</xref> in respect of a particular asset if the entity has more than one type of continuing involvement in that derecognised <xref base="SL37522973" href="../ias32/IAS32_11.dita#IAS32_11/IAS32_P0115">financial asset<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0123"/></ph></xref>, and report it under one type of continuing involvement.</p></body></paragraph>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS39_BC167" base="SL33070"><paranum>BC167</paranum><prolog><data name="standard_number" value="IAS 39"/><data name="paranum" value="BC167"/></prolog><body><p id="IAS39_P5464">If the internal swap in the banking book is designated as a hedging instrument in a cash flow hedge of the liabilities, and the internal swap in the trading book is classified as held for trading, internal gains and losses on that internal swap would not be eliminated. This is because the gains and losses on the internal swap in the banking book would be recognised in equity<xref keyref="footnotes/IAS39_FN0113" type="fn"/> to the extent the hedge is effective and the gains and losses on the internal swap in the trading book would be recognised in profit or loss.</p></body></paragraph>

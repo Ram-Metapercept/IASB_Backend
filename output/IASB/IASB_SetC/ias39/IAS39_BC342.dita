@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph base="IFRS2020-5" id="IAS39_BC342" principles="no"><paranum>BC342</paranum><prolog><data name="standard_number" value="IAS 39"/><data name="paranum" value="BC342"/></prolog><body><p>An entity may designate an item in its entirety or a portion of an item as the hedged item in a hedging relationship. <xref href="IAS39_81.dita" scope="local">Paragraphs 81</xref> and <xref href="IAS39_AG99F.dita" scope="local">AG99F of IAS 39</xref> allow entities to designate only changes in the cash flows or fair value of an item attributable to a specific risk or risks (risk portion).</p></body></paragraph>

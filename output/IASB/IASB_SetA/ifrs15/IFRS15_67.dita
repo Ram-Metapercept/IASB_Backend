@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph base="F31714511" id="IFRS15_67"><paranum>67</paranum><prolog><data name="standard_number" value="IFRS 15"/><data name="paranum" value="67"/></prolog><body><p id="IFRS15_P0301">If an entity cannot reasonably estimate the fair value of the non-cash consideration, the entity shall measure the consideration indirectly by reference to the <xref base="F31716762" href="IFRS15_APPA.dita#IFRS15_APPA/IFRS15_DI0008" scope="local">stand-alone selling price<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0341"/></ph></xref> of the goods or services promised to the <xref base="F31716740" href="IFRS15_APPA.dita#IFRS15_APPA/IFRS15_P0502">customer<ph outputclass="def_xref"><xref keyref="GLOSSARY_customer"/></ph></xref> (or class of customer) in exchange for the consideration.            </p></body></paragraph>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph base="SL32741" principles="yes" id="IAS38_112"><paranum>112</paranum><prolog><data name="standard_number" value="IAS 38"/><data name="paranum" value="112"/></prolog><body><p id="IAS38_P0304" outputclass="keep_with_next">An <xref base="SL141716" href="IAS38_8.dita#IAS38_8/IAS38_P0070">intangible asset<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0193"/></ph></xref> shall be derecognised: </p><ol base="SL141960" type="lower-alpha" id="IAS38_L0036"><li><li_value>(a)</li_value>         <p base="SL141962" id="IAS38_P0305">on disposal; or</p>       </li><li><li_value>(b)</li_value>         <p base="SL141964" id="IAS38_P0306">when no future economic benefits                      are expected from its use or disposal.</p>       </li></ol></body></paragraph>

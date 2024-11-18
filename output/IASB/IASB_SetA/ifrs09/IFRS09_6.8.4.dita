@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS09_6.8.4"><paranum>6.8.4</paranum><prolog><data name="standard_number" value="IFRS 9"/><data name="paranum" value="6.8.4"/></prolog><body><p>For the purpose of determining whether a <xref href="IFRS09_APPA.dita#IFRS09_APPA/IFRS09_P0711">forecast transaction<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0138"/></ph></xref> (or a component       thereof) is highly probable as required by <xref href="IFRS09_6.3.3.dita#IFRS09_6.3.3" scope="local">paragraph 6.3.3</xref>, an       entity shall assume that the interest rate benchmark on which the hedged cash flows       (contractually or non-contractually specified) are based is not altered as a result of       interest rate benchmark reform.</p></body></paragraph>

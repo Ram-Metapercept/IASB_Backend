@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS40_20" principles="yes"><paranum>20</paranum><prolog><data name="standard_number" value="IAS 40"/><data name="paranum" value="20"/></prolog><body><variant id="IAS40_20_V2" base="SL46591229"> <p id="IAS40_P0120">An owned <xref base="SL46590595" href="IAS40_5.dita#IAS40_5/IAS40_P0050">investment property<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0206"/></ph></xref> shall be measured initially at its <xref base="SL46590579" href="IAS40_5.dita#IAS40_5/IAS40_P0045">cost<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0055"/></ph></xref>. Transaction costs shall be included in the initial measurement.</p></variant></body></paragraph>

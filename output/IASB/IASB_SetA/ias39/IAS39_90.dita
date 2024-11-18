@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS39_90"><paranum>90</paranum><prolog><data name="standard_number" value="IAS 39"/><data name="paranum" value="90"/></prolog><body><variant base="SL19043583" principles="no" id="IAS39_90_V2">       <p id="IAS39_P0591">If only particular risks attributable to a <xref base="SL134658" href="IAS39_9_hedge-accounting.dita#IAS39_9_hedge-accounting/IAS39_P0211">hedged item<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0166"/></ph></xref> are hedged, recognised changes in the fair value of the hedged item unrelated to the hedged risk are recognised as set out in <xref base="F69114216" href="../ifrs09/IFRS09_5.7.1.dita#IFRS09_5.7.1" id="IAS39_X0538">paragraph 5.7.1 of IFRS 9</xref>.</p>     </variant></body></paragraph>

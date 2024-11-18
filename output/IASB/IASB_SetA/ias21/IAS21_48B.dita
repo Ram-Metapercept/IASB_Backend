@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS21_48B" base="F4983889"><paranum>48B</paranum><prolog><data name="standard_number" value="IAS 21"/><data name="paranum" value="48B"/></prolog><body><p id="IAS21_P0125">On disposal of a subsidiary that includes a <xref base="SL147528" href="IAS21_8.dita#IAS21_8/IAS21_P0028">foreign operation<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0141"/></ph></xref>, the cumulative amount of the <xref base="SL147524" href="IAS21_8.dita#IAS21_8/IAS21_P0024">exchange differences<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0108"/></ph></xref> relating to that foreign operation that have been attributed to the non&#x2011;controlling interests shall be derecognised, but shall not be reclassified to profit or loss.</p></body></paragraph>

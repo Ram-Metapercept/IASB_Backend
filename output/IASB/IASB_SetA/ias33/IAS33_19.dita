@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph base="SL31696" id="IAS33_19" principles="yes"><paranum>19</paranum><prolog><data name="standard_number" value="IAS 33"/><data name="paranum" value="19"/></prolog><body><p id="IAS33_P0054">For the purpose of calculating basic earnings per share, the number of <xref base="SL148104" href="IAS33_5.dita#IAS33_5/IAS33_P0023">ordinary shares<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0275"/></ph></xref> shall be the weighted average number of ordinary shares outstanding during the period.</p></body></paragraph>

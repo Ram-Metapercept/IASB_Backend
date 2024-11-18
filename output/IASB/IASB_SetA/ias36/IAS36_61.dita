@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS36_61" base="SL32283" principles="no"><paranum>61</paranum><prolog><data name="standard_number" value="IAS 36"/><data name="paranum" value="61"/></prolog><body><p id="IAS36_P0249">An <xref base="SL148457" href="IAS36_6.dita#IAS36_6/IAS36_P0105">impairment loss<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0176"/></ph></xref> on a non&#x2011;revalued asset is recognised in profit or loss. However, an impairment loss on a revalued asset is recognised in other comprehensive income to the extent that the impairment loss does not exceed the amount in the revaluation surplus for that same asset. Such an impairment loss on a revalued asset reduces the revaluation surplus for that asset.</p></body></paragraph>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap
+  PUBLIC "-//IFRS//DTD DITA BookMap//EN" "../../../DocTypes/com.ifrs.doctype/dtd/ifrsBookmap.dtd">
+<bookmap cascade="merge"><frontmatter><topicref href="frontmatter/2023/title_B_BB2023.dita" outputclass="title" edu="no"/><notices href="frontmatter/2023/copyright_B_BB2023.dita" edu="no"/><booklists><toc/></booklists></frontmatter></bookmap>

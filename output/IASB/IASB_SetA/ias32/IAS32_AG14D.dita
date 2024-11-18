@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS32_AG14D" base="F5588716"><paranum>AG14D</paranum><prolog><data name="standard_number" value="IAS 32"/><data name="paranum" value="AG14D"/></prolog><body><p id="IAS32_P0471">If an entity has only one class of <xref base="SL37522960" href="IAS32_11.dita#IAS32_11/IAS32_P0110">financial instruments<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0126"/></ph></xref>, that class shall be treated as if it were subordinate to all other classes.</p></body></paragraph>

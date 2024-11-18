@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS39_102K"><paranum>102K</paranum><prolog><data name="standard_number" value="IAS 39"/><data name="paranum" value="102K"/></prolog><body><p>An entity shall prospectively cease applying <xref href="IAS39_102E.dita">paragraph 102E</xref> at the earlier of:</p><ol><li><li_value>(a)</li_value>         <p>when the uncertainty arising from interest rate benchmark reform is no longer present with respect to the timing and the amount of the interest rate benchmark-based future cash flows of the hedged item; and</p>       </li><li><li_value>(b)</li_value>         <p>when the entire cumulative gain or loss recognised in other comprehensive income with respect to that discontinued hedging relationship has been reclassified to profit or loss.</p>       </li></ol></body></paragraph>

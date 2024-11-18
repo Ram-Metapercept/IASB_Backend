@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap
+  PUBLIC "-//IFRS//DTD DITA BookMap//EN" "../../../DocTypes/com.ifrs.doctype/dtd/ifrsBookmap.dtd">
+<bookmap id="IAS01_CHK_ALL" chunk="to-content" cascade="merge">
+  <booktitle>
+    <booklibrary>International Accounting Standard 1</booklibrary>
+    <mainbooktitle>Presentation of Financial Statements</mainbooktitle>
+  </booktitle>
+  <bookmeta>
+    <category>Standard</category>
+    <bookid>
+      <booknumber>IAS 1</booknumber>
+    </bookid>
+    <document_type value="IAS"/>
+    <effective_date value="2009-01-01"/>
+    <issue_date value="2007-09-01"/>
+    <standard_tag value="ias-1-presentation-of-financial-statements"/>
+    <standard_type_tag value="standard"/>
+  </bookmeta>
+  <frontmatter id="IAS01_CHK_FM">
+    <keydef href="ias01/IAS01_footnotes.dita" keys="footnotes" processing-role="resource-only"/>
+    <keydef href="ias01/IAS01_edu_footnotes.dita" keys="edu_footnotes"
+      processing-role="resource-only"/>
+    <keydef href="ias01/IAS01_variables.dita" keys="standard_variables"
+      processing-role="resource-only"/>
+    <keydef href="library_topics/bv_variables.dita" keys="bv_variables"
+      processing-role="resource-only"/>
+    <bookabstract href="ias01/IAS01_PRE.dita" chunk="to-content"/>
+    <booklists>
+      <toc href="ias01/IAS01_TOC.dita"/>
+    </booklists>
+    <preface href="ias01/IAS01_rubric.dita"/>
+  </frontmatter>
+  <chapter href="ias01/IAS01_TI.dita">
+    <topicref href="ias01/IAS01_g1-1.dita">
+      <topicref href="ias01/IAS01_1.dita"/>
+    </topicref>
+    <topicref href="ias01/IAS01_g2-6.dita">
+      <topicref href="ias01/IAS01_2.dita"/>
+      <topicref href="ias01/IAS01_3.dita"/>
+      <topicref href="ias01/IAS01_4.dita"/>
+      <topicref href="ias01/IAS01_5.dita"/>
+      <topicref href="ias01/IAS01_6.dita"/>
+    </topicref>
+    <topicref href="ias01/IAS01_g7-8A.dita">
+      <topicref href="ias01/IAS01_7.dita">
+        <topicref href="ias01/IAS01_7_accountingpolicies.dita" base="IAS2021-2"/>
+        <topicref href="ias01/IAS01_7_generalpurposefinancialstatements.dita">
+          <topicmeta/>
+        </topicref>
+        <topicref href="ias01/IAS01_7_impracticable.dita">
+          <topicmeta/>
+        </topicref>
+        <topicref href="ias01/IAS01_7_internationalfinancialreportingstandards.dita">
+          <topicmeta/>
+        </topicref>
+        <topicref href="ias01/IAS01_7_materialomissions.dita">
+          <topicmeta/>
+        </topicref>
+        <topicref href="ias01/IAS01_7_notes.dita">
+          <topicmeta/>
+        </topicref>
+        <topicref href="ias01/IAS01_7_othercomprehensiveincome.dita">
+          <topicmeta/>
+        </topicref>
+        <topicref href="ias01/IAS01_7_owners.dita">
+          <topicmeta/>
+        </topicref>
+        <topicref href="ias01/IAS01_7_profitorloss.dita">
+          <topicmeta/>
+        </topicref>
+        <topicref href="ias01/IAS01_7_reclassificationadjustments.dita">
+          <topicmeta/>
+        </topicref>
+        <topicref href="ias01/IAS01_7_totalcomprehensiveincome.dita">
+          <topicmeta/>
+        </topicref>
+      </topicref>
+      <topicref href="ias01/IAS01_8.dita"/>
+      <topicref href="ias01/IAS01_8A.dita"/>
+    </topicref>
+    <topicref href="ias01/IAS01_g9-46.dita">
+      <topicref href="ias01/IAS01_g9-9.dita">
+        <topicref href="ias01/IAS01_9.dita"/>
+      </topicref>
+      <topicref href="ias01/IAS01_g10-14.dita">
+        <topicref href="ias01/IAS01_10.dita"/>
+        <topicref href="ias01/IAS01_10A.dita"/>
+        <topicref href="ias01/IAS01_11.dita"/>
+        <topicref href="ias01/IAS01_12_DELETED.dita">
+          <topicmeta/>
+        </topicref>
+        <topicref href="ias01/IAS01_13.dita"/>
+        <topicref href="ias01/IAS01_14.dita"/>
+      </topicref>
+      <topicref href="ias01/IAS01_g15-46.dita">
+        <topicref href="ias01/IAS01_g15-24.dita">
+          <topicref href="ias01/IAS01_15.dita"/>
+          <topicref href="ias01/IAS01_16.dita"/>
+          <topicref href="ias01/IAS01_17.dita"/>
+          <topicref href="ias01/IAS01_18.dita"/>
+          <topicref href="ias01/IAS01_19.dita"/>
+          <topicref href="ias01/IAS01_20.dita"/>
+          <topicref href="ias01/IAS01_21.dita"/>
+          <topicref href="ias01/IAS01_22.dita"/>
+          <topicref href="ias01/IAS01_23.dita"/>
+          <topicref href="ias01/IAS01_24.dita"/>
+        </topicref>
+        <topicref href="ias01/IAS01_g25-26.dita">
+          <topicref href="ias01/IAS01_25.dita"/>
+          <topicref href="ias01/IAS01_26.dita"/>
+        </topicref>
+        <topicref href="ias01/IAS01_g27-28.dita">
+          <topicref href="ias01/IAS01_27.dita"/>
+          <topicref href="ias01/IAS01_28.dita"/>
+        </topicref>
+        <topicref href="ias01/IAS01_g29-31.dita">
+          <topicref href="ias01/IAS01_29.dita"/>
+          <topicref href="ias01/IAS01_30.dita"/>
+          <topicref href="ias01/IAS01_30A.dita">
+            <topicmeta/>
+          </topicref>
+          <topicref href="ias01/IAS01_31.dita"/>
+        </topicref>
+        <topicref href="ias01/IAS01_g32-35.dita">
+          <topicref href="ias01/IAS01_32.dita"/>
+          <topicref href="ias01/IAS01_33.dita"/>
+          <topicref href="ias01/IAS01_34.dita"/>
+          <topicref href="ias01/IAS01_35.dita"/>
+        </topicref>
+        <topicref href="ias01/IAS01_g36-37.dita">
+          <topicref href="ias01/IAS01_36.dita"/>
+          <topicref href="ias01/IAS01_37.dita"/>
+        </topicref>
+        <topicref href="ias01/IAS01_g38-44.dita">
+          <topicref href="ias01/IAS01_g38-38B.dita">
+            <topicref href="ias01/IAS01_38.dita"/>
+            <topicref href="ias01/IAS01_38A.dita"/>
+            <topicref href="ias01/IAS01_38B.dita"/>
+          </topicref>
+          <topicref href="ias01/IAS01_g38C-39-40.dita">
+            <topicref href="ias01/IAS01_38C.dita"/>
+            <topicref href="ias01/IAS01_38D.dita"/>
+            <topicref href="ias01/IAS01_39-40_DELETED.dita"/>
+          </topicref>
+          <topicref href="ias01/IAS01_g40A-44.dita">
+            <topicref href="ias01/IAS01_40A.dita"/>
+            <topicref href="ias01/IAS01_40B.dita"/>
+            <topicref href="ias01/IAS01_40C.dita"/>
+            <topicref href="ias01/IAS01_40D.dita"/>
+            <topicref href="ias01/IAS01_41.dita"/>
+            <topicref href="ias01/IAS01_42.dita"/>
+            <topicref href="ias01/IAS01_43.dita"/>
+            <topicref href="ias01/IAS01_44.dita"/>
+          </topicref>
+        </topicref>
+        <topicref href="ias01/IAS01_g45-46.dita">
+          <topicref href="ias01/IAS01_45.dita"/>
+          <topicref href="ias01/IAS01_46.dita"/>
+        </topicref>
+      </topicref>
+    </topicref>
+    <topicref href="ias01/IAS01_g47-111.dita">
+      <topicref href="ias01/IAS01_g47-48.dita">
+        <topicref href="ias01/IAS01_47.dita"/>
+        <topicref href="ias01/IAS01_48.dita"/>
+      </topicref>
+      <topicref href="ias01/IAS01_g49-53.dita">
+        <topicref href="ias01/IAS01_49.dita"/>
+        <topicref href="ias01/IAS01_50.dita"/>
+        <topicref href="ias01/IAS01_51.dita"/>
+        <topicref href="ias01/IAS01_52.dita"/>
+        <topicref href="ias01/IAS01_53.dita"/>
+      </topicref>
+      <topicref href="ias01/IAS01_g54-80A.dita">
+        <topicref href="ias01/IAS01_g54-59.dita">
+          <topicref href="ias01/IAS01_54.dita"/>
+          <topicref href="ias01/IAS01_55.dita"/>
+          <topicref href="ias01/IAS01_55A.dita">
+            <topicmeta/>
+          </topicref>
+          <topicref href="ias01/IAS01_56.dita"/>
+          <topicref href="ias01/IAS01_57.dita"/>
+          <topicref href="ias01/IAS01_58.dita"/>
+          <topicref href="ias01/IAS01_59.dita"/>
+        </topicref>
+        <topicref href="ias01/IAS01_g60-65.dita">
+          <topicref href="ias01/IAS01_60.dita"/>
+          <topicref href="ias01/IAS01_61.dita"/>
+          <topicref href="ias01/IAS01_62.dita"/>
+          <topicref href="ias01/IAS01_63.dita"/>
+          <topicref href="ias01/IAS01_64.dita"/>
+          <topicref href="ias01/IAS01_65.dita"/>
+        </topicref>
+        <topicref href="ias01/IAS01_g66-68.dita">
+          <topicref href="ias01/IAS01_66.dita"/>
+          <topicref href="ias01/IAS01_67.dita"/>
+          <topicref href="ias01/IAS01_68.dita"/>
+        </topicref>
+        <topicref href="ias01/IAS01_g69-76.dita">
+          <topicref href="ias01/IAS01_69.dita"/>
+          <topicref href="ias01/IAS01_70.dita"/>
+          <topicref href="ias01/IAS01_71.dita"/>
+          <topicref href="ias01/IAS01_72.dita"/>
+          <topicref href="ias01/IAS01_72A-72B_MARKER.dita" base="IAS2020-1 IAS2020-4 IASB-IAS2022-1"/>
+          <topicref href="ias01/IAS01_73.dita"/>
+          <topicref href="ias01/IAS01_74.dita"/>
+          <topicref href="ias01/IAS01_75.dita"/>
+          <topicref href="ias01/IAS01_75A_MARKER.dita" base="IAS2020-1 IAS2020-4"/>
+          <topicref href="ias01/IAS01_76.dita"/>
+          <topicref href="ias01/IAS01_76ZA-76B_MARKER.dita" base="IAS2020-1 IAS2020-4"/>
+          <topicref href="ias01/IAS01_g77-80A.dita">
+            <topicref href="ias01/IAS01_77.dita"/>
+            <topicref href="ias01/IAS01_78.dita"/>
+            <topicref href="ias01/IAS01_79.dita"/>
+            <topicref href="ias01/IAS01_80.dita"/>
+            <topicref href="ias01/IAS01_80A.dita"/>
+          </topicref>
+        </topicref>
+        <topicref href="ias01/IAS01_g81-105.dita">
+          <topicref href="ias01/IAS01_81_DELETED.dita"/>
+          <topicref href="ias01/IAS01_81A.dita"/>
+          <topicref href="ias01/IAS01_81B.dita"/>
+          <topicref href="ias01/IAS01_g82-82.dita">
+            <topicref href="ias01/IAS01_82.dita"/>
+          </topicref>
+          <topicref href="ias01/IAS01_g82A-87.dita">
+            <topicref href="ias01/IAS01_82A.dita"/>
+            <topicref href="ias01/IAS01_83-84_DELETED.dita"/>
+            <topicref href="ias01/IAS01_85.dita"/>
+            <topicref href="ias01/IAS01_85A.dita"/>
+            <topicref href="ias01/IAS01_85B.dita"/>
+            <topicref href="ias01/IAS01_86.dita"/>
+            <topicref href="ias01/IAS01_87.dita"/>
+          </topicref>
+          <topicref href="ias01/IAS01_g88-89.dita">
+            <topicref href="ias01/IAS01_88.dita"/>
+            <topicref href="ias01/IAS01_89.dita"/>
+          </topicref>
+          <topicref href="ias01/IAS01_g90-96.dita">
+            <topicref href="ias01/IAS01_90.dita"/>
+            <topicref href="ias01/IAS01_91.dita"/>
+            <topicref href="ias01/IAS01_92.dita"/>
+            <topicref href="ias01/IAS01_93.dita"/>
+            <topicref href="ias01/IAS01_94.dita"/>
+            <topicref href="ias01/IAS01_95.dita"/>
+            <topicref href="ias01/IAS01_96.dita"/>
+          </topicref>
+          <topicref href="ias01/IAS01_g97-105.dita">
+            <topicref href="ias01/IAS01_97.dita"/>
+            <topicref href="ias01/IAS01_98.dita"/>
+            <topicref href="ias01/IAS01_99.dita"/>
+            <topicref href="ias01/IAS01_100.dita"/>
+            <topicref href="ias01/IAS01_101.dita"/>
+            <topicref href="ias01/IAS01_102.dita"/>
+            <topicref href="ias01/IAS01_103.dita"/>
+            <topicref href="ias01/IAS01_104.dita"/>
+            <topicref href="ias01/IAS01_105.dita"/>
+          </topicref>
+        </topicref>
+        <topicref href="ias01/IAS01_g106-110.dita">
+          <topicref href="ias01/IAS01_g106-106.dita">
+            <topicref href="ias01/IAS01_106.dita"/>
+          </topicref>
+          <topicref href="ias01/IAS01_g106A-110.dita">
+            <topicref href="ias01/IAS01_106A.dita"/>
+            <topicref href="ias01/IAS01_107.dita"/>
+            <topicref href="ias01/IAS01_108.dita"/>
+            <topicref href="ias01/IAS01_109.dita"/>
+            <topicref href="ias01/IAS01_110.dita"/>
+          </topicref>
+        </topicref>
+        <topicref href="ias01/IAS01_g111-111.dita">
+          <topicref href="ias01/IAS01_111.dita"/>
+        </topicref>
+      </topicref>
+    </topicref>
+    <topicref href="ias01/IAS01_sg112-138.dita">
+      <topicref href="ias01/IAS01_g112-116.dita">
+        <topicref href="ias01/IAS01_112.dita"/>
+        <topicref href="ias01/IAS01_113.dita"/>
+        <topicref href="ias01/IAS01_114.dita"/>
+        <topicref href="ias01/IAS01_115_DELETED.dita">
+          <topicmeta/>
+        </topicref>
+        <topicref href="ias01/IAS01_116.dita"/>
+      </topicref>
+      <topicref href="ias01/IAS01_g117-124.dita">
+        <topicref href="ias01/IAS01_117.dita"/>
+        <topicref href="ias01/IAS01_117A.dita" base="IAS2021-2"/>
+        <topicref href="ias01/IAS01_117B.dita" base="IAS2021-2"/>
+        <topicref href="ias01/IAS01_117C.dita" base="IAS2021-2"/>
+        <topicref href="ias01/IAS01_117D.dita" base="IAS2021-2"/>
+        <topicref href="ias01/IAS01_117E.dita" base="IAS2021-2"/>
+        <topicref href="ias01/IAS01_118-121_DELETED.dita" base="IAS2021-2"/>
+        <topicref href="ias01/IAS01_122.dita"/>
+        <topicref href="ias01/IAS01_123.dita"/>
+        <topicref href="ias01/IAS01_124.dita"/>
+      </topicref>
+      <topicref href="ias01/IAS01_g125-133.dita">
+        <topicref href="ias01/IAS01_125.dita"/>
+        <topicref href="ias01/IAS01_126.dita"/>
+        <topicref href="ias01/IAS01_127.dita"/>
+        <topicref href="ias01/IAS01_128.dita"/>
+        <topicref href="ias01/IAS01_129.dita"/>
+        <topicref href="ias01/IAS01_130.dita"/>
+        <topicref href="ias01/IAS01_131.dita"/>
+        <topicref href="ias01/IAS01_132.dita"/>
+        <topicref href="ias01/IAS01_133.dita"/>
+      </topicref>
+      <topicref href="ias01/IAS01_g134-136.dita">
+        <topicref href="ias01/IAS01_134.dita"/>
+        <topicref href="ias01/IAS01_135.dita"/>
+        <topicref href="ias01/IAS01_136.dita"/>
+      </topicref>
+      <topicref href="ias01/IAS01_g136A-136A.dita">
+        <topicref href="ias01/IAS01_136A.dita"/>
+      </topicref>
+      <topicref href="ias01/IAS01_g137-138.dita">
+        <topicref href="ias01/IAS01_137.dita"/>
+        <topicref href="ias01/IAS01_138.dita"/>
+      </topicref>
+    </topicref>
+    <topicref href="ias01/IAS01_g139-139S.dita">
+      <topicref href="ias01/IAS01_139.dita"/>
+      <topicref href="ias01/IAS01_139A.dita"/>
+      <topicref href="ias01/IAS01_139B.dita"/>
+      <topicref href="ias01/IAS01_139C.dita"/>
+      <topicref href="ias01/IAS01_139D.dita"/>
+      <topicref href="ias01/IAS01_139E_DELETED.dita">
+        <topicmeta/>
+      </topicref>
+      <topicref href="ias01/IAS01_139F.dita"/>
+      <topicref href="ias01/IAS01_139G_DELETED.dita">
+        <topicmeta/>
+      </topicref>
+      <topicref href="ias01/IAS01_139H.dita"/>
+      <topicref href="ias01/IAS01_139I.dita"/>
+      <topicref href="ias01/IAS01_139J.dita"/>
+      <topicref href="ias01/IAS01_139K.dita"/>
+      <topicref href="ias01/IAS01_139L.dita"/>
+      <topicref href="ias01/IAS01_139M_DELETED.dita">
+        <topicmeta/>
+      </topicref>
+      <topicref href="ias01/IAS01_139N.dita"/>
+      <topicref href="ias01/IAS01_139O.dita"/>
+      <topicref href="ias01/IAS01_139P.dita">
+        <topicmeta/>
+      </topicref>
+      <topicref href="ias01/IAS01_139Q.dita">
+        <topicmeta/>
+      </topicref>
+      <topicref href="ias01/IAS01_139R.dita">
+        <topicmeta/>
+      </topicref>
+      <topicref href="ias01/IAS01_139S.dita">
+        <topicmeta/>
+      </topicref>
+    </topicref>
+    <topicref href="ias01/IAS01_139T.dita">
+      <topicmeta/>
+    </topicref>
+    <topicref href="ias01/IAS01_139U_MARKER.dita" base="IASB-IAS2022-1">
+      <topicmeta/>
+    </topicref>
+    <topicref href="ias01/IAS01_139V.dita" base="IAS2021-2"/>
+    <topicref href="ias01/IAS01_139W_MARKER.dita" base="IASB-IAS2022-1"/>
+    <topicref href="ias01/IAS01_g140-140.dita">
+      <topicref href="ias01/IAS01_140.dita"/>
+    </topicref>
+  </chapter>
+  <appendices>
+    <appendix href="ias01/IAS01_APP.dita">
+      <topicmeta>
+        <data name="subtype" value="APP"/>
+      </topicmeta>
+    </appendix>
+  </appendices>
+  <backmatter>
+    <topicref href="ias01/IAS01_BASep2007.dita"/>
+    <topicref href="ias01/IAS01_BAFeb2008.dita"/>
+    <topicref href="ias01/IAS01_BAJun2011.dita"/>
+    <topicref href="ias01/IAS01_BADec2014_V1.dita"/>
+    <topicref href="ias01/IAS01_BAOct2018.dita"/>
+    <topicref href="ias01/IAS01_BAFeb2021.dita" base="IAS2021-2"/>
+  </backmatter>
+</bookmap>

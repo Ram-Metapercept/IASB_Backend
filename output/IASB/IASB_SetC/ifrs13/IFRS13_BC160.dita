@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS13_BC160" base="F16133276" principles="no"><paranum>BC160</paranum><prolog><data name="standard_number" value="IFRS 13"/><data name="paranum" value="BC160"/></prolog><body><p id="IFRS13_P2346">In some situations, inputs might be determined on the basis of bid and ask prices, eg an input from a dealer market,  in which the bid price represents the price the dealer is willing to pay and the ask price represents the price at which the dealer is willing to sell. IAS 39 required the use of bid prices for asset positions and ask prices for liability positions. IAS 36 and <ph outputclass="standard_ref"><ph outputclass="standard_number">IAS 38</ph> <ph outputclass="standard_title">Intangible Assets</ph></ph> had similar requirements.</p></body></paragraph>

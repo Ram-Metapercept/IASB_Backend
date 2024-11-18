@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//IFRS//DTD DITA Topic//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/ifrsTopic.dtd">
+<topic id="IFRIC20_variables"><title>IFRIC20 Variables</title><body><table frame="all" rowsep="1" colsep="1"><tgroup cols="2"><colspec colname="c1" colnum="1" colwidth="1*"/><colspec colname="c2" colnum="2" colwidth="1*"/><thead><row><entry>Description</entry><entry>Value</entry></row></thead><tbody><row><entry>Standard Number</entry><entry><ph id="standard_number" translate="yes">IFRIC 20</ph></entry></row><row><entry>Standard Full Identifier</entry><entry><ph id="standard_full_identifier" translate="yes">IFRIC Interpretation 20</ph></entry></row><row><entry>Standard Title</entry><entry><ph id="standard_title" translate="yes">Stripping Costs in the Production Phase of a Surface Mine</ph></entry></row></tbody></tgroup></table></body></topic>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS15_B47" base="F31716982"><paranum>B47</paranum><prolog><data name="standard_number" value="IFRS 15"/><data name="paranum" value="B47"/></prolog><body><p id="IFRS15_P0677">An entity shall recognise a liability (and not <xref base="F31716759" href="IFRS15_APPA.dita#IFRS15_APPA/IFRS15_P0508">revenue<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0341"/></ph></xref>) for any consideration received that is attributable to a <xref base="F31716740" href="IFRS15_APPA.dita#IFRS15_APPA/IFRS15_P0502">customer&#x2019;s<ph outputclass="def_xref"><xref keyref="GLOSSARY_customer"/></ph></xref> unexercised rights for which the entity is required to remit to another party, for example, a government entity in accordance with applicable unclaimed property laws.</p></body></paragraph>

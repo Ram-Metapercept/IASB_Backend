@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossentry
+  PUBLIC "-//IFRS//DTD DITA Glossary Entry//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/ifrsGlossentry.dtd">
+<glossentry id="GLOSSARY_DI0003"><glossterm base="SL60517" id="GLOSSARY_TE0003">accounting profit</glossterm><glossdef> <p base="SL138110" id="GLOSSARY_P0008">Profit or loss for a period before deducting tax expense.</p></glossdef><related-links><linklist id="GLOSSARY_P0009"><link base="F1474298" href="../ias12/IAS12_g5-11.dita#IAS12_g5-11/IAS12_g5-11_TI" id="GLOSSARY_X0003"><linktext>IAS 12.5</linktext></link></linklist></related-links></glossentry>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS10_20" base="F16125284" principles="no"><paranum>20</paranum><prolog><data name="standard_number" value="IFRS 10"/><data name="paranum" value="20"/></prolog><body><p id="IFRS10_P0097">Consolidation of an investee shall begin from the date the investor obtains <xref base="F16125786" href="IFRS10_APPA.dita#IFRS10_APPA/IFRS10_P0160">control<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0053"/></ph></xref> of the investee and cease when the investor loses control of the investee.</p></body></paragraph>

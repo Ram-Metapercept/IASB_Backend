@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS36_23" base="SL32245" principles="no"><paranum>23</paranum><prolog><data name="standard_number" value="IAS 36"/><data name="paranum" value="23"/></prolog><body><p id="IAS36_P0163">In some cases, estimates, averages and computational short cuts may provide reasonable approximations of the detailed computations illustrated in this Standard for determining <xref base="SL148456" href="IAS36_6.dita#IAS36_6/IAS36_P0101">fair value<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0118"/></ph></xref> less costs of disposal or <xref base="SL148465" href="IAS36_6.dita#IAS36_6/IAS36_P0112">value in use<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0382"/></ph></xref>.</p></body></paragraph>

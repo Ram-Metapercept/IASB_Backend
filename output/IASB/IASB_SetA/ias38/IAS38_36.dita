@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS38_36" base="SL32665" principles="no"><paranum>36</paranum><prolog><data name="standard_number" value="IAS 38"/><data name="paranum" value="36"/></prolog><body><p id="IAS38_P0135">An <xref base="SL141716" href="IAS38_8.dita#IAS38_8/IAS38_P0070">intangible asset<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0193"/></ph></xref> acquired in a business combination might be separable, but only together with a related contract, identifiable asset or liability. In such cases, the acquirer recognises the intangible asset separately from goodwill, but together with the related item.</p></body></paragraph>

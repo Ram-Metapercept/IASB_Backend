@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IFRS09_B5.5.19" base="F32626562"><paranum>B5.5.19</paranum><prolog><data name="standard_number" value="IFRS 9"/><data name="paranum" value="B5.5.19"/></prolog><body><p id="IFRS09_P1366">The rebuttable presumption in <xref id="IFRS09_X1394" base="F70527779" href="IFRS09_5.5.11.dita#IFRS09_5.5.11">paragraph 5.5.11</xref> is not an absolute indicator that <xref base="F32570722" href="IFRS09_APPA.dita#IFRS09_APPA/IFRS09_P0724">lifetime expected credit losses<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0230"/></ph></xref> should be recognised, but is presumed to be the latest point at which lifetime expected credit losses should be recognised even when using forward-looking information (including macroeconomic factors on a portfolio level).</p></body></paragraph>

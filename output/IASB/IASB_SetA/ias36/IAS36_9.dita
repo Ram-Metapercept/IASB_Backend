@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS36_9" base="SL32231" principles="yes"><paranum>9</paranum><prolog><data name="standard_number" value="IAS 36"/><data name="paranum" value="9"/></prolog><body><p id="IAS36_P0123">An entity shall assess at the end of each reporting period whether there is any indication that an asset may be impaired. If any such indication exists, the entity shall estimate the <xref base="SL148458" href="IAS36_6.dita#IAS36_6/IAS36_P0106">recoverable amount<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0319"/></ph></xref> of the asset.</p></body></paragraph>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS02_25" base="SL29710" principles="yes"><paranum>25</paranum><prolog><data name="standard_number" value="IAS 2"/><data name="paranum" value="25"/></prolog><body><p id="IAS02_P0054">The cost of <xref base="SL140682" href="IAS02_6.dita#IAS02_6/IAS02_P0022">inventories<ph outputclass="def_xref"><xref keyref="GLOSSARY_DI0201"/></ph></xref>, other than those dealt with in <xref id="IAS02_X0050" base="A2-81" href="IAS02_23.dita#IAS02_23">paragraph 23</xref>, shall be assigned by using the first&#x2011;in, first&#x2011;out (FIFO) or weighted average cost formula.  An entity shall use the same cost formula for all inventories having a similar nature and use to the entity. For inventories with a different nature or use, different cost formulas may be justified.</p></body></paragraph>

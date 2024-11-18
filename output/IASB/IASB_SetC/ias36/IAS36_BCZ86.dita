@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paragraph
+  PUBLIC "-//IFRS//DTD DITA Paragraph//EN" "../../../../DocTypes/com.ifrs.doctype/dtd/paragraph.dtd">
+<paragraph id="IAS36_BCZ86" base="SL31957" principles="no"><paranum>BCZ86</paranum><prolog><data name="standard_number" value="IAS 36"/><data name="paranum" value="BCZ86"/></prolog><body><p id="IAS36_P2758">IAS 36 requires that recoverable amount should be based on present value calculations, whereas under <xref id="IAS36_X0720" base="F16145596" href="../ias12/IAS12_TOC0001.dita#IAS12_TOC0001">IAS 12</xref> an enterprise determines deferred tax assets and liabilities by comparing the carrying amount of an asset (a present value if the carrying amount is based on recoverable amount) with its tax base (an undiscounted amount).</p></body></paragraph>
