@@ -1,6 +1,6 @@
 const express= require('express')
 const router=express.Router()
-const uploadTestingFile = require("../controller/uploadController/uploadTestingFile.js")
+const uploadTestingFile = require("../controller/UploadController/UploadTestingFile.js")
 const {getAllTagsSetA,getAllAttrSetA}=require("../controller/Comparision_Controller/Compare_ControllerA.js")
 const {getAllTagSetB, getAllAttributeSetB}=require("../controller/Comparision_Controller/Compare_ControllerB.js")
 const {getAllTagSetC, getAllAttributeSetC}=require("../controller/Comparision_Controller/Compare_ControllerC.Js")
@@ -10,7 +10,6 @@ const IASB_setB_controller_Tags=require("../controller/IASBController/IASB_setB_
 const IASB_setC_controller_Tags=require("../controller/IASBController/IASB_setC_controller.js")
 const path=require("path")
 const multer = require('multer');
-const { getInputFileName } = require('../stateManagement/state.js')
 const {promisify} = require('util');
 const fs = require('fs');
 const shell=require('shelljs');
@@ -82,34 +81,30 @@ async function cleanupDownloadsFolder(folderDir) {
 }
 
 
-// router.get('/api/logDownload', (req, res) => {
-//     res.download(Log_FILE_PATH, 'log.txt', (err) => {
-//         if (err) {
-//             console.error('Error occurred while sending the file:', err);
-//             return res.status(500).send('Error downloading file');
-//         }
-//         console.log('File downloaded successfully');
-//     });
-// });
+router.get('/api/logDownload/:logdownloadId', (req, res) => {
+    const downloadId = req.params.logdownloadId;
 
-router.get('/api/logDownload', (req, res) => {
-    res.download(Log_FILE_PATH, 'log.txt', (err) => {
-      if (err) {
-        console.error('Error occurred while sending the file:', err);
-        return res.status(500).send('Error downloading file');
-      }
-      console.log('File downloaded successfully');
+    fileName = "log.txt";
+    const FILE_PATH = path.join(__dirname, '../../logOutput', downloadId, fileName);
   
-      // Delete the log file after successful download
-      fs.unlink(Log_FILE_PATH, (deleteErr) => {
-        if (deleteErr) {
-          console.error('Error deleting log file:', deleteErr);
-        } else {
-          console.log('Log file deleted successfully');
-        }
-      });
+    const DOWNLOADS_FOLDER = path.join(__dirname, '../../logOutput');
+  
+    res.download(FILE_PATH, fileName, async (err) => {
+      if (err) {
+        return res.status(500).send('Download error');
+      }
+  
+      res.on('finish', async () => {
+          try {
+            await cleanupDownloadsFolder(DOWNLOADS_FOLDER);
+          } catch (error) {
+            console.error("Error during cleanup:", error);
+          }
+        });
     });
-  });
+
+
+});
 
 
 module.exports = router;

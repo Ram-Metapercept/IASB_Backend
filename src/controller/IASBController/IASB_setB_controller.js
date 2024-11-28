@@ -1,7 +1,3 @@
-
-
-
-
 const { TagSetB, AttrSetB } = require("../../model/IASBModel/IASB_setB_model");
 const getAllFiles = require("../../utils/getAllFiles");
 const path = require('path');
