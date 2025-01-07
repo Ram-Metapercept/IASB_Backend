@@ -54,7 +54,7 @@ const getAllTagSetC = async (req, res) => {
 
     const { outputId } = req.body.data; // Expect the outputId to be passed in the body of the request
     const logFolderPath = path.join(__dirname, `../../../logOutput/${outputId}`);
-
+    console.log({req})
     // Ensure the folder exists, create it if it doesn't
     if (!fs.existsSync(logFolderPath)) {
         fs.mkdirSync(logFolderPath, { recursive: true });
@@ -80,6 +80,7 @@ const getAllTagSetC = async (req, res) => {
 
 // Function to compare and log new attributes for SetC
 const getAllAttributeSetC = async (req, res) => {
+    console.log(req)
     const { outputId } = req.body.data; // Expect the outputId to be passed in the body of the request
     const logFolderPath = path.join(__dirname, `../../../logOutput/${outputId}`);
 
@@ -97,8 +98,7 @@ const getAllAttributeSetC = async (req, res) => {
         const attrNamesFrom_TestFile = allAttrsFrom_TestFile.map(attr => attr.name);
 
         const newAttrs = attrNamesFrom_TestFile.filter(name => !attrNamesFrom_SetC.has(name));
-
-        updateLogFile(newAttrs, 'Attributes');
+        updateLogFile(newAttrs, 'Attributes', logPath);
         res.status(200).json({ message: 'Attribute comparison completed, check log.txt for results.', outputId: outputId });
     } catch (error) {
         console.error('Error comparing attributes:', error);

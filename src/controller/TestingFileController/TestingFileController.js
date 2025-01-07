@@ -25,6 +25,7 @@ const precompileXSLT = async (xslFilePath, outputFilePath) => {
   }
 };
 
+
 // Asynchronously extract tags/attributes using XSLT
 const extractTagsOrAttributes = async (stylesheet, sourceFile) => {
   try {
@@ -92,6 +93,8 @@ const processFilesInChunks = async (files, processFileFunction) => {
   for (let i = 0; i < files.length; i += MAX_FILE_CONCURRENCY) {
     chunks.push(files.slice(i, i + MAX_FILE_CONCURRENCY));
   }
+
+  console.log
 
   for (const chunk of chunks) {
     await Promise.all(chunk.map(file => processFileFunction(file)));

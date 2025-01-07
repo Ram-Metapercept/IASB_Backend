@@ -41,6 +41,30 @@ const UploadTestingFile = async (req, res) => {
     }
 };
 
+
+
+// Helper function to get a list of files in a directory (recursively)
+const getFilesInDirectory = async (dirPath) => {
+    const fs = require('fs');
+    const files = await fs.promises.readdir(dirPath);
+    let fileList = [];
+
+    for (const file of files) {
+        const fullPath = path.join(dirPath, file);
+        const stat = await fs.promises.stat(fullPath);
+        if (stat.isDirectory()) {
+            const nestedFiles = await getFilesInDirectory(fullPath);  // Recursive call for subdirectories
+            fileList = fileList.concat(nestedFiles);
+        } else {
+            fileList.push(fullPath);
+        }
+    }
+
+    return fileList;
+};
+
+
+
 // Function to clear the TestingFile directory except for the specified directory
 const clearTestingFileDirectory = async (dirPath, excludeDir) => {
     const items = await readdir(dirPath);
