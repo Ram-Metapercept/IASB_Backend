@@ -19,7 +19,6 @@ const IASB_setB_controller_Tags = require("../controller/IASBController/IASB_set
 const IASB_setC_controller_Tags = require("../controller/IASBController/IASB_setC_controller.js");
 const path = require("path");
 const multer = require("multer");
-const { promisify } = require("util");
 const fs = require("fs");
 const shell = require("shelljs");
 const storage = multer.diskStorage({
@@ -51,8 +50,7 @@ router.get("/addTagAttrToDatabaseSetA", IASB_setA_controller_Tags);
 router.get("/addTagAttrToDatabaseSetB", IASB_setB_controller_Tags);
 router.get("/addTagAttrToDatabaseSetC", IASB_setC_controller_Tags);
 
-const Log_FILE_PATH = path.join(__dirname, "../../log.txt");
-router.get("/api/download/:downloadId", async (req, res) => {
+router.get("/download/:downloadId", async (req, res) => {
   const downloadId = req.params.downloadId;
 
   let fileName = `${downloadId}.zip`;
@@ -81,6 +79,7 @@ router.get("/api/download/:downloadId", async (req, res) => {
 });
 
 async function cleanupDownloadsFolder(folderDir) {
+
   try {
     if (fs.existsSync(folderDir)) {
       shell.rm("-rf", path.join(folderDir, "*"));
@@ -99,10 +98,9 @@ async function cleanupDownloadsFolder(folderDir) {
   }
 }
 
-router.get("/api/logDownload/:logdownloadId", (req, res) => {
+router.get("/logDownload/:logdownloadId", (req, res) => {
   const downloadId = req.params.logdownloadId;
-
- let fileName = "log.txt";
+  let fileName = "log.txt";
   const FILE_PATH = path.join(
     __dirname,
     "../../logOutput",

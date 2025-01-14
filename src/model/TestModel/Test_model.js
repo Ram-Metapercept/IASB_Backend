@@ -1,23 +1,44 @@
-const mongoose = require('mongoose');
+const { Sequelize, DataTypes } = require("sequelize");
 
-const tagSchema = new mongoose.Schema({
+const sequelize = require("../../../public/config/db");
+
+// Define the Tag model
+const testTagModel = sequelize.define(
+  "Test_Tags",
+  {
     name: {
-        type: String,
-        required: true,
-        unique: true
+      type: DataTypes.STRING,
+      allowNull: false,
+      unique: true,
     },
-    createdAt: { type: Date, default: Date.now }
-});
+    createdAt: {
+      type: DataTypes.DATE,
+      defaultValue: Sequelize.NOW,
+    },
+  },
+  {
+    tableName: "Test_Tags", // Name of the table in MySQL
+    timestamps: false, // Disable automatic createdAt and updatedAt columns
+  }
+);
 
-const attrSchema = new mongoose.Schema({
+// Define the Attr model
+const testAttrModel = sequelize.define(
+  "Test_Attrs",
+  {
     name: {
-        type: String,
-        required: true
+      type: DataTypes.STRING,
+      allowNull: false,
     },
-    createdAt: { type: Date, default: Date.now }
-});
-
-const testTagModel = mongoose.model('Test_Tags', tagSchema);
-const testAttrModel = mongoose.model('Test_Attrs', attrSchema);
+    createdAt: {
+      type: DataTypes.DATE,
+      defaultValue: Sequelize.NOW,
+    },
+  },
+  {
+    tableName: "Test_Attrs", // Name of the table in MySQL
+    timestamps: false, // Disable automatic createdAt and updatedAt columns
+  }
+);
 
 module.exports = { testTagModel, testAttrModel };

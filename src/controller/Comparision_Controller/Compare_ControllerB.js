@@ -28,9 +28,7 @@ const updateLogFile = (newEntries, type, logPath) => {
 
 // Function to compare and log new tags for SetB
 const getAllTagSetB = async (req, res) => {
-
     const { outputId } = req.body.data; // Expect the outputId to be passed in the body of the request
-
     const logFolderPath = path.join(__dirname, `../../../logOutput/${outputId}`);
 
     // Ensure the folder exists, create it if it doesn't
@@ -40,14 +38,19 @@ const getAllTagSetB = async (req, res) => {
 
     const logPath = path.join(logFolderPath, 'log.txt');
     try {
-        const allTagsFrom_SetB = await TagSetB.find({});
-        const allTagsFrom_TestFile = await testTagModel.find({});
+        // Fetch tags from MySQL using Sequelize
+        const allTagsFrom_SetB = await TagSetB.findAll();
+        const allTagsFrom_TestFile = await testTagModel.findAll();
+        
+        // Extract tag names
         const namesFrom_SetB = new Set(allTagsFrom_SetB.map(tag => tag.name));
         const namesFrom_TestFile = allTagsFrom_TestFile.map(tag => tag.name);
+        
+        // Find new names
         const newNames = namesFrom_TestFile.filter(name => !namesFrom_SetB.has(name));
         updateLogFile(newNames, 'Tags', logPath);
 
-        res.status(200).json({ message: `Tag comparison completed, check logOutput/${outputId}/log.txt for results.`,outputId });
+        res.status(200).json({ message: `Tag comparison completed, check logOutput/${outputId}/log.txt for results.`, outputId });
     } catch (error) {
         console.error('Error comparing tags:', error);
         res.status(500).json({ message: 'Error comparing tags' });
@@ -66,14 +69,19 @@ const getAllAttributeSetB = async (req, res) => {
 
     const logPath = path.join(logFolderPath, 'log.txt');
     try {
-        const allAttrsFrom_SetB = await AttrSetB.find({});
-        const allAttrsFrom_TestFile = await testAttrModel.find({});
+        // Fetch attributes from MySQL using Sequelize
+        const allAttrsFrom_SetB = await AttrSetB.findAll();
+        const allAttrsFrom_TestFile = await testAttrModel.findAll();
+        
+        // Extract attribute names
         const attrNamesFrom_SetB = new Set(allAttrsFrom_SetB.map(attr => attr.name));
         const attrNamesFrom_TestFile = allAttrsFrom_TestFile.map(attr => attr.name);
+        
+        // Find new attributes
         const newAttrs = attrNamesFrom_TestFile.filter(name => !attrNamesFrom_SetB.has(name));
         updateLogFile(newAttrs, 'Attributes', logPath);
 
-        res.status(200).json({ message: `Attribute comparison completed, check logOutput/${outputId}/log.txt for results.`,outputId });
+        res.status(200).json({ message: `Attribute comparison completed, check logOutput/${outputId}/log.txt for results.`, outputId });
     } catch (error) {
         console.error('Error comparing attributes:', error);
         res.status(500).json({ message: 'Error comparing attributes' });
