@@ -1,10 +1,14 @@
 const { Sequelize } = require("sequelize");
-
+require("dotenv").config();
 // Set up Sequelize for MySQL
-const sequelize = new Sequelize("iasbdatabase", "root", "ram@12345", {
-    host: "localhost", // Replace with your database host
+const sequelize = new Sequelize(
+  process.env.MYSQL_DATABASE,
+  process.env.MYSQL_USER,
+  process.env.MYSQL_PASSWORD,
+  {
+    host: process.env.MYSQL_HOST, 
     dialect: "mysql",
-  });
-  
+  }
+);
 
-  module.exports=sequelize
+module.exports = sequelize;

@@ -6,7 +6,7 @@ const SaxonJS = require("saxon-js");
 async function runningIASB(ditaFiles) {
   const iasbJsonPath = path.resolve(
     __dirname,
-    "../../../public/XSLT_Files/IASB.sef.json"
+    "../../testJsonFiles/IASB.sef.json"
   );
   const testJsonDir = path.dirname(iasbJsonPath);
 

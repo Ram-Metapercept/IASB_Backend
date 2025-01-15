@@ -11,7 +11,21 @@ const unlink = promisify(fs.unlink);
 const readdir = promisify(fs.readdir);
 const stat = promisify(fs.stat);
 
-const validFileTypes = [".xml", ".dita", ".ditamap"];
+const validFileTypes = [".dita", ".ditamap"];
+
+const scanFilesRecursively = async (dir) => {
+  let files = await readdir(dir, { withFileTypes: true });
+  for (let file of files) {
+    let fullPath = path.join(dir, file.name);
+    if (file.isDirectory()) {
+      const nestedValid = await scanFilesRecursively(fullPath);
+      if (nestedValid) return true;
+    } else if (validFileTypes.includes(path.extname(file.name).toLowerCase())) {
+      return true;
+    }
+  }
+  return false;
+};
 
 const UploadTestingFile = async (req, res) => {
   if (!req.file) {
@@ -23,6 +37,7 @@ const UploadTestingFile = async (req, res) => {
   const { file } = req;
   const filename = path.parse(file.originalname).name;
   const testingFileDir = path.join(__dirname, "../../../output", "TestingFile");
+
   const extractionDir = path.join(testingFileDir, filename);
 
   try {
@@ -36,16 +51,13 @@ const UploadTestingFile = async (req, res) => {
     const zip = new AdmZip(file.path);
     zip.extractAllTo(extractionDir, true);
 
-    // Check for valid file formats inside the extracted directory
-    const files = await fss.readdir(extractionDir);
-    const isValid = files.some((file) =>
-      validFileTypes.includes(path.extname(file).toLowerCase())
-    );
+    // Check for valid file formats recursively in the extracted directory
+    const isValid = await scanFilesRecursively(extractionDir);
 
     if (!isValid) {
       return res.status(400).json({
         status: false,
-        message: "No valid .dita, .ditamap, or .xml file found in the ZIP.",
+        message: "No valid .dita or .ditamap file found in the ZIP.",
       });
     }
 
@@ -56,30 +68,17 @@ const UploadTestingFile = async (req, res) => {
       .json({ status: true, message: "File uploaded successfully" });
   } catch (err) {
     console.error("Error during file processing:", err);
+    if (file && file.path) {
+      try {
+        await unlink(file.path);
+      } catch (cleanupErr) {
+        console.error("Error during cleanup:", cleanupErr);
+      }
+    }
     res.status(500).json({ status: false, message: "Error during extraction" });
   }
 };
-// Helper function to get a list of files in a directory (recursively)
-const getFilesInDirectory = async (dirPath) => {
-  const fs = require("fs");
-  const files = await fs.promises.readdir(dirPath);
-  let fileList = [];
 
-  for (const file of files) {
-    const fullPath = path.join(dirPath, file);
-    const stat = await fs.promises.stat(fullPath);
-    if (stat.isDirectory()) {
-      const nestedFiles = await getFilesInDirectory(fullPath); // Recursive call for subdirectories
-      fileList = fileList.concat(nestedFiles);
-    } else {
-      fileList.push(fullPath);
-    }
-  }
-
-  return fileList;
-};
-
-// Function to clear the TestingFile directory except for the specified directory
 const clearTestingFileDirectory = async (dirPath, excludeDir) => {
   const items = await readdir(dirPath);
   await Promise.all(
