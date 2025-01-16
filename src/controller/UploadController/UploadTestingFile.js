@@ -4,7 +4,7 @@ const path = require("path");
 const AdmZip = require("adm-zip");
 const { promisify } = require("util");
 const shell = require("shelljs");
-
+const cleanupDownloadsFolder = require("../../utils/cleanupDownloadsFolder");
 // Promisify fs methods
 const mkdir = promisify(fs.mkdir);
 const unlink = promisify(fs.unlink);
@@ -26,6 +26,7 @@ const scanFilesRecursively = async (dir) => {
   }
   return false;
 };
+const DOWNLOADS_FOLDER = path.join(__dirname, "../../../logOutput");
 
 const UploadTestingFile = async (req, res) => {
   if (!req.file) {
@@ -42,6 +43,7 @@ const UploadTestingFile = async (req, res) => {
 
   try {
     // Clear contents of TestingFile directory, excluding the new extraction directory
+    await cleanupDownloadsFolder(DOWNLOADS_FOLDER);
     await clearTestingFileDirectory(testingFileDir, extractionDir);
 
     // Create extraction directory
@@ -84,8 +86,6 @@ const clearTestingFileDirectory = async (dirPath, excludeDir) => {
   await Promise.all(
     items.map(async (item) => {
       const itemPath = path.join(dirPath, item);
-      if (itemPath === excludeDir) return;
-
       const itemStat = await stat(itemPath);
       if (itemStat.isDirectory()) {
         shell.rm("-rf", itemPath); // Remove directory

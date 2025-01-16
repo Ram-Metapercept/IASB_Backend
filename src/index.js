@@ -9,6 +9,7 @@ app.use(cors());
 app.use("/", (err, req, res, next) => {
   res.status(500).json({ message: err.message });
 });
+
 sequelize.sync({ force: false }) // Will only create tables if they don't exist
   .then(() => {
     console.log("Connected to MySQL");

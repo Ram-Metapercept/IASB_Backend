@@ -14,7 +14,7 @@ async function getNavTitleFromDITA(hrefPath) {
 
         return $('paragraph > paranum').first().text().trim() || null;
     } catch (error) {
-        console.error(`Error reading DITA file: ${hrefPath}`, error);
+        // console.error(`Error reading DITA file: ${hrefPath}`, error);
         return null;
     }
 }

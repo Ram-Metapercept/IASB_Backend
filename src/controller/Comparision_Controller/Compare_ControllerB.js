@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const { TagSetB, AttrSetB } = require("../../model/IASBModel/IASB_setB_model");
 const { testTagModel, testAttrModel } = require("../../model/TestModel/Test_model");
-
+const outputId = Math.random().toString(36).substring(7);
 // Helper function to write log only if new entries are found
 const updateLogFile = (newEntries, type, logPath) => {
     if (newEntries.length === 0) {

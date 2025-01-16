@@ -128,15 +128,14 @@ const TestingFileController = async (req, res) => {
       attrs.forEach((attr) => uniqueAttributes.add(attr));
     });
 
-    await runningIASB(ditaFiles, inputFilePath);
-
-    const outputId = await processDitaFilesAndZip(ditaFiles);
-
     // Insert the data concurrently
     await Promise.all([
       insertData(uniqueTags, testTagModel),
       insertData(uniqueAttributes, testAttrModel),
     ]);
+
+    await runningIASB(ditaFiles, inputFilePath);
+    const outputId = await processDitaFilesAndZip(ditaFiles);
 
     return res.status(200).json({
       status: "success",
@@ -147,8 +146,7 @@ const TestingFileController = async (req, res) => {
   } catch (error) {
     return res.status(500).json({
       status: "fail",
-      message: "Internal Server Error",
-      error: error.message || error,
+      message: error.message,
     });
   }
 };

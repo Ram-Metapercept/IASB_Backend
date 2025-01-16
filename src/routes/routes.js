@@ -21,6 +21,7 @@ const path = require("path");
 const multer = require("multer");
 const fs = require("fs");
 const shell = require("shelljs");
+const cleanupDownloadsFolder=require("../utils/cleanupDownloadsFolder.js")
 const storage = multer.diskStorage({
   destination: function (req, file, cb) {
     cb(null, "../output/");
@@ -77,26 +78,6 @@ router.get("/download/:downloadId", async (req, res) => {
     });
   });
 });
-
-async function cleanupDownloadsFolder(folderDir) {
-
-  try {
-    if (fs.existsSync(folderDir)) {
-      shell.rm("-rf", path.join(folderDir, "*"));
-      console.log(
-        "Successfully cleaned up contents inside the downloads folder:",
-        folderDir
-      );
-    } else {
-      console.log("Directory does not exist:", folderDir);
-    }
-  } catch (error) {
-    console.error(
-      "Error cleaning up contents inside the downloads folder:",
-      error
-    );
-  }
-}
 
 router.get("/logDownload/:logdownloadId", (req, res) => {
   const downloadId = req.params.logdownloadId;

@@ -39,6 +39,7 @@ async function runningIASB(ditaFiles) {
         sourceFileName: abso,
         destination: "serialized",
       }).principalResult;
+    
       fs.writeFileSync(abso, tagResult, "utf8");
     } catch (error) {
       console.error(`Failed to transform file ${ditaInput}: ${error.message}`);

@@ -1,0 +1,37 @@
+************ New Tags **************
+<map/>
+<topicmeta/>
+<category/>
+<mapref/>
+<bookmap/>
+<frontmatter/>
+<topicref/>
+<notices/>
+<booklists/>
+<toc/>
+<booktitle/>
+<mainbooktitle/>
+<bookmeta/>
+<bookid/>
+<booknumber/>
+<document_type/>
+<effective_date/>
+<issue_date/>
+<standard_tag/>
+<standard_type_tag/>
+<keydef/>
+<bookabstract/>
+<chapter/>
+<appendices/>
+<appendix/>
+<backmatter/>
+<booklibrary/>
+<bookpartno/>
+<preface/>
+************ New Attributes **************
+<cascade xmlns="http://www.w3.org/2001/XMLSchema"/>
+<keyscope xmlns="http://www.w3.org/2001/XMLSchema"/>
+<edu xmlns="http://www.w3.org/2001/XMLSchema"/>
+<chunk xmlns="http://www.w3.org/2001/XMLSchema"/>
+<keys xmlns="http://www.w3.org/2001/XMLSchema"/>
+<processing-role xmlns="http://www.w3.org/2001/XMLSchema"/>
