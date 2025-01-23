@@ -1,18 +1,4 @@
-const express = require("express");
-const router = express.Router();
-const uploadTestingFile = require("../controller/UploadController/UploadTestingFile.js");
-const {
-  getAllTagsSetA,
-  getAllAttrSetA,
-} = require("../controller/Comparision_Controller/Compare_ControllerA.js");
-const {
-  getAllTagSetB,
-  getAllAttributeSetB,
-} = require("../controller/Comparision_Controller/Compare_ControllerB.js");
-const {
-  getAllTagSetC,
-  getAllAttributeSetC,
-} = require("../controller/Comparision_Controller/Compare_ControllerC.Js");
+
 const TestingFilesController = require("../controller/TestingFileController/TestingFileController.js");
 const IASB_setA_controller_Tags = require("../controller/IASBController/IASB_setA_controller.js");
 const IASB_setB_controller_Tags = require("../controller/IASBController/IASB_setB_controller.js");

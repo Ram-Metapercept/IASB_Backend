@@ -1,5 +1,4 @@
 const { readFile} = require('fs/promises');
-const replaceDotsWithUnderscore = require("./replaceDotsWithUnderscore.js");
 const readDitaFile = async (filePath) => {
     try {
         return await readFile(filePath, 'utf8');
